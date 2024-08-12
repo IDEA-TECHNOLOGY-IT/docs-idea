@@ -1,8 +1,8 @@
 # mkdocs.yml
 
-site_name: Idea Marketing
-site_url: https://example.com
-site_description: Documentação para o projeto IdeaMarketing
+site_name: Idea Finance
+site_url: https://idea-technology-it.github.io/docs-idea_finance/
+site_description: Documentação para o projeto IdeaFinance
 site_author: rafaelmedeirosnobre@gmail.com
 # Copyright
 copyright: Copyright &copy; 2024 - 2024 Idea Technology
