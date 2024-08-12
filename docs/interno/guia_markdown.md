@@ -75,16 +75,20 @@ Para adicionar uma imagem é semelhante aos links, adicione porém um exclamaç�
 
 ´´´markdown
 Imagem da web
-![Minha imagem da web](https://avatars.githubusercontent.com/u/151544350?s=48&v=4)
+
+\![Minha imagem da web]\(https://avatars.githubusercontent.com/u/151544350?s=48&v=4)
 
 Imagem local
-![Minha imagem local](../../docs/assets/logo.png)
+
+\![Minha imagem local]\(../../docs/assets/logo.png)
 ´´´
 
 **Saída:**
 
 Imagem da web
+
 ![Minha imagem da web](https://avatars.githubusercontent.com/u/151544350?s=48&v=4)
 
 Imagem local
+
 ![Minha imagem local](../../docs/assets/logo.png)

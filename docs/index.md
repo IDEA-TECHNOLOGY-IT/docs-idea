@@ -1,37 +1,33 @@
 # Idea Finance
 
-## Índice
+**O pacote Finance -> Três relatórios imediatos para suas necessidades financeiras**
 
-- [Idea Finance](#idea-finance)
-  - [Índice](#índice)
-  - [Descrição do Projeto](#descrição-do-projeto)
-  - [Funcionalidades Principais](#funcionalidades-principais)
-  - [Documentação](#documentação)
-  - [Considerações Finais](#considerações-finais)
+Por 15 anos, a Idea Technology vem se especializando em extrair Inteligência de Negócio a partir de dados. Trabalhando em soluções coorporativas que auxiliam no controle e entrega estratégica de informação, permitindo tomadas de decisões ágeis e orientadas a dados confiáveis. Como um parceiro Microsoft, utilizamos o Power BI para tornar esses relatóros possíveis, trazendo muita interatividade e qualidade de informação.
 
-## Descrição do Projeto
+Desenvolvemos então uma suíte de relatórios financeiro que trazem entendimento e fácil acesso aos dados do SAP Business One, nesta suíte estão incluídos:
 
-O `integrador_sm` é um serviço Python desenvolvido com a Arquitetura Limpa (Clean Architecture) para capturar dados de APIs do Facebook e Instagram e armazená-los em um Data Warehouse (DW) para análise e processamento posterior.
+- Relatório de Contabilidade
+  - Receita, despesas, Indicadores Financeiros
+- Fluxo de Caixa
+  - Balancetes, Movimentações, Transações pendentes
+- Contas
+  - Contas Anuais e Mensais, Comparações, áreas empresariais
 
-## Funcionalidades Principais
 
-- Conexão com APIs do Facebook e Instagram.
-- Captura de dados de redes sociais para análise.
-- Integração com múltiplos bancos de dados (MySQL, SQL Server).
-- Estrutura modular utilizando padrões de Arquitetura Limpa.
-- Sistema automatizado de migração de banco de dados com Alembic.
-- Suporte a testes automatizados para garantir a qualidade do código.
-
-## Documentação
-
-Para mais detalhes sobre a configuração, desenvolvimento, migrações e testes, consulte os seguintes documentos:
-
-- [Configuração](configuration.md)
-- [Desenvolvimento](development.md)
-- [Controle de Migração](migrations.md)
-- [Testes Automatizados](testing.md)
-- [Contribuição](contributing.md)
-
-## Considerações Finais
-
-Este serviço foi projetado para ser extensível e fácil de manter, utilizando boas práticas de programação e uma arquitetura limpa para garantir a separação de responsabilidades e facilidade de testes. Contribuições são bem-vindas, e o projeto está aberto para melhorias contínuas.
+<div class="slideshow-container">
+  <div class="mySlides fade" style="display: block;">
+    <img src="./assets/contab.png" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="./assets/fat.png" style="width:100%">
+  </div>
+  <div class="mySlides fade">
+    <img src="https://images.unsplash.com/photo-1468649437954-f86751c119b6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" style="width:100%">
+  </div>
+</div>
+<br>
+<div style="text-align:center">
+  <span class="dot active" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
+  <span class="dot" onclick="currentSlide(3)"></span>
+</div>

@@ -54,11 +54,11 @@ plugins:
 
 # Configurações de extra CSS (opcional)
 extra_css:
-  - 'stylesheets/extra.css'
+  - 'stylesheets/carrousel.css'
 
 # Configurações de extra JavaScript (opcional)
 extra_javascript:
-  - 'javascripts/extra.js'
+  - 'javascripts/carrousel.js'
 
 # Configurações para Markdown
 markdown_extensions:
@@ -122,8 +122,6 @@ extra:
 # Watch custom files for changes
 watch:
   - docs
-  - stylesheets
-  - javascripts
-
+  
 nav:
 - Início: index.md
