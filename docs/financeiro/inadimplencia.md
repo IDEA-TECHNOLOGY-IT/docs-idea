@@ -38,7 +38,7 @@ da empresa.
 - **Personalização de Análises:** Permite personalizar os filtros e visualizações para focar em
 filiais, projetos, ou períodos específicos.
 
-![inadimplencia_detail](../assets/inad_detail.jpeg)
+![inadimplencia_detail](../assets/inad_details.jpeg)
 
 <h6 align = "center"> Imagem 1: Descrição visual de cada indicador.</h6>
 
