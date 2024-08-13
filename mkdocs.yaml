@@ -10,30 +10,28 @@ copyright: Copyright &copy; 2024 - 2024 Idea Technology
 # Configuration
 theme:
   name: material
+  custom_dir: overrides
   logo: assets/logo.png
   features:
     - content.code.copy
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tracking
     - navigation.footer
-
+    - content.tooltips
   palette:
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/link
-        name: Switch to light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: pink
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: pink
-      toggle:
-        icon: material/toggle-switch-off
-        name: Switch to system preference
+  - scheme: default
+    primary: 'black'
+    accent: 'yellow'
+    toggle:
+      icon: material/lightbulb-outline
+      name: Switch to dark mode
+  - scheme: slate
+    primary: 'black'
+    accent: 'yellow'
+    toggle:
+      icon: material/lightbulb
+      name: Switch to light mode
   font:
     text: Roboto
     code: Roboto Mono
@@ -44,7 +42,10 @@ theme:
 
 # Plugins
 plugins:
-  - search  # Plugin de busca
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify:
+      minify_html: true
   - git-revision-date-localized:
       enable_creation_date: true
   - git-committers:
@@ -54,11 +55,14 @@ plugins:
 
 # Configurações de extra CSS (opcional)
 extra_css:
+  - 'stylesheets/root.css'
   - 'stylesheets/carrousel.css'
+  - 'stylesheets/home.css'
 
 # Configurações de extra JavaScript (opcional)
 extra_javascript:
   - 'javascripts/carrousel.js'
+  - 'javascripts/home.js'
 
 # Configurações para Markdown
 markdown_extensions:
@@ -122,6 +126,9 @@ extra:
 # Watch custom files for changes
 watch:
   - docs
+  - overrides
   
 nav:
 - Início: index.md
+- Documentação:
+  - interno/index.md
