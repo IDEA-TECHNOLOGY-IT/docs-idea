@@ -131,4 +131,5 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-  - interno/index.md
+  - Relatório Financeiro:
+    - financeiro/inadimplencia.md

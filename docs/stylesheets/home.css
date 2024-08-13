@@ -1,4 +1,4 @@
-.main-container {
+.header-container {
   display: flex;
   flex-direction: row;
 }
@@ -19,7 +19,11 @@
   font-weight: 600;
   padding: 0;
   margin: 0;
-  color: lightgray;
+  color: var(--color-text-primary);
+}
+
+.title-container > h2 {
+  color: var(--color-text-secondary); 
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
@@ -34,7 +38,7 @@
 }
 
 .title-container > h2 > span:hover {
-  color: var(--theme-bg);
+  color: gray;
   background-size: 100% 100%;
   background-position: 0% 100%;
   transition: background-position 0.7s, background-size 0.5s ease-in-out;
@@ -73,6 +77,7 @@ check-list label {
   border-radius: 0.5rem;
   padding: 0.5rem 0.5rem 0.5rem 4rem;
   cursor: pointer;
+  color: var(--color-text-secondary);
 }
 
 check-list input[type="checkbox"] {
@@ -94,8 +99,8 @@ check-list input[type="checkbox"]::after {
   font-size: 1rem;
   border: 0.0625rem solid var(--theme-shade-subtle);
   border-radius: 0.5rem;
-  color: var(--theme-shade-subtle);
-  box-shadow: -0.1875rem 0.1875rem var(--theme-shade-subtle);
+  color: var(--color-text-secondary);
+  box-shadow: -0.1875rem 0.1875rem var(--color-text-secondary);
   cursor: pointer;
 }
 
@@ -180,4 +185,8 @@ check-list input[type="checkbox"]:checked::after {
   width: 100%;
   justify-content: center;
   margin: 1em;
+}
+
+.about-container{
+  padding: 2em;
 }

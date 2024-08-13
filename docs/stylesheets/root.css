@@ -17,4 +17,12 @@
   --theme-text: hsla(var(--color-gray-90), 1);
   --theme-text-light: hsla(var(--color-gray-80), 1);
   --theme-bg: hsl(256, 27%, 19%);
+
+  --color-text-primary: #212121;
+  --color-text-secondary: #757575;
+}
+
+[data-md-color-scheme="slate"] {
+  --color-text-primary: #E0E0E0;
+  --color-text-secondary: #BDBDBD;
 }

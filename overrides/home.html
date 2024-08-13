@@ -4,63 +4,76 @@
 </style>
 {% endblock %} {% block content %}
 <div class="main-container">
-  <div class="carrousel">
-    <div class="slideshow-container">
-      <div class="mySlides fade" style="display: block">
-        <img src="./assets/contab.png" style="width: 100%" />
+  <div class="header-container">
+    <div class="carrousel">
+      <div class="slideshow-container">
+        <div class="mySlides fade" style="display: block">
+          <img src="./assets/contab.png" style="width: 100%" />
+        </div>
+        <div class="mySlides fade">
+          <img src="./assets/fat.png" style="width: 100%" />
+        </div>
+        <div class="mySlides fade">
+          <img
+            src="./assets/fin.png"
+            style="width: 100%"
+          />
+        </div>
       </div>
-      <div class="mySlides fade">
-        <img src="./assets/fat.png" style="width: 100%" />
-      </div>
-      <div class="mySlides fade">
-        <img
-          src="./assets/fin.png"
-          style="width: 100%"
-        />
+      <br />
+      <div style="text-align: center">
+        <span class="dot active" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
       </div>
     </div>
-    <br />
-    <div style="text-align: center">
-      <span class="dot active" onclick="currentSlide(1)"></span>
-      <span class="dot" onclick="currentSlide(2)"></span>
-      <span class="dot" onclick="currentSlide(3)"></span>
+    <div class="title-container">
+      <h1>IDEA FINANCE</h1>
+      <h2>
+        Três Relatórios <span>Financeiros</span> para suprir todas as suas
+        necessidades.
+      </h2>
+      <div class="checklist">
+        <check-list data-key="default">
+          <div class="checklist">
+            <ul class="contains-task-list">
+              <li class="task-list-item">
+                <label>
+                  <input type="checkbox" checked />
+                  <span>Contabilidade</span>
+                </label>
+              </li>
+              <li class="task-list-item">
+                <label>
+                  <input type="checkbox" checked />
+                  <span>Financeiro</span>
+                </label>
+              </li>
+              <li class="task-list-item">
+                <label>
+                  <input type="checkbox" checked />
+                  <span>Faturamento</span>
+                </label>
+              </li>
+            </ul>
+          </div>
+        </check-list>
+      </div>
+      <div class="center-button">
+        <button href="#" class="btn-saiba-mais">Sabia Mais</button>
+      </div>
     </div>
   </div>
-  <div class="title-container">
-    <h1>IDEA FINANCE</h1>
-    <h2>
-      Três Relatórios <span>Financeiros</span> para suprir todas as suas
-      necessidades.
-    </h2>
-    <div class="checklist">
-      <check-list data-key="default">
-        <div class="checklist">
-          <ul class="contains-task-list">
-            <li class="task-list-item">
-              <label>
-                <input type="checkbox" checked />
-                <span>Contabilidade</span>
-              </label>
-            </li>
-            <li class="task-list-item">
-              <label>
-                <input type="checkbox" checked />
-                <span>Financeiro</span>
-              </label>
-            </li>
-            <li class="task-list-item">
-              <label>
-                <input type="checkbox" checked />
-                <span>Faturamento</span>
-              </label>
-            </li>
-          </ul>
-        </div>
-      </check-list>
-    </div>
-    <div class="center-button">
-      <button href="#" class="btn-saiba-mais">Sabia Mais</button>
-    </div>
+  <div class="about-container">
+    <p>
+      Há 15 anos, a Idea Technology se especializa em extrair inteligência de negócios a partir de dados.
+    </p>
+    <p>
+      Desenvolvemos soluções corporativas que controlam e entregam informações estratégicas, permitindo uma tomada de decisão ágil por meio de relatórios personalizados. Como Parceiros Microsoft, utilizamos a ferramenta Power BI para visualizar esses relatórios de forma dinâmica e eficiente.
+    </p>
+    <p>
+      Recentemente, criamos um conjunto de três relatórios financeiros que oferecem uma nova facilidade de acesso e compreensão para empresas que utilizam o SAP Business One.
+    </p>
   </div>
 </div>
 {% endblock %}
