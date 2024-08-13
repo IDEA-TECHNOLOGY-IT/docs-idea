@@ -118,10 +118,10 @@ markdown_extensions:
 extra:
   generator: false
   social:
+    - icon: fontawesome/regular/envelope
+      link: comercial@ideatechnology.com.br
     - icon: fontawesome/brands/linkedin
-      link: https://github.com/seu_usuario/seu_projeto
-    - icon: fontawesome/brands/instagram
-      link: https://twitter.com/seu_usuario
+      link: https://www.linkedin.com/company/idea-technology/posts/?feedView=all
 
 # Watch custom files for changes
 watch:

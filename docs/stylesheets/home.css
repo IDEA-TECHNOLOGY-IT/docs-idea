@@ -190,3 +190,7 @@ check-list input[type="checkbox"]:checked::after {
 .about-container{
   padding: 2em;
 }
+
+.about-text{
+  max-width: 50%;
+}
