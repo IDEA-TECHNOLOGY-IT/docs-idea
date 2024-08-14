@@ -1,6 +1,6 @@
 # Inadimplência
 
-## O que é Inadimplência
+## O que é Inadimplência?
 
 Inadimplência é a falha no cumprimento de obrigações financeiras por parte de um devedor,
 seja uma pessoa física ou jurídica, que não realiza o pagamento de uma dívida dentro do prazo
