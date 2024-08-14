@@ -132,4 +132,5 @@ nav:
 - Início: index.md
 - Documentação:
   - Relatório Financeiro:
+    - financeiro/contas-a-pagar.md
     - financeiro/inadimplencia.md
