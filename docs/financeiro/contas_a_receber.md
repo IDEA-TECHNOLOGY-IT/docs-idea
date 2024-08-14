@@ -2,10 +2,10 @@
 <div class="carrousel">
       <div class="slideshow-container">
         <div class="mySlides fade" style="display: block">
-          <img src="https://github.com/IDEA-TECHNOLOGY-IT/docs-idea_finance/blob/main/docs/assets/Contas-a-receber.jpeg" style="width: 100%" />
+          <img src="./assets/Contas-a-receber.jpeg" style="width: 100%" />
         </div>
         <div class="mySlides fade">
-          <img src="https://github.com/IDEA-TECHNOLOGY-IT/docs-idea_finance/blob/main/docs/assets/contas-a-receber.png" style="width: 100%" />
+          <img src="./assets/contas-a-receber.png" style="width: 100%" />
         </div>
       <br />
       <div style="text-align: center">
