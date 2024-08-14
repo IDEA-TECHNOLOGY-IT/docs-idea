@@ -9,6 +9,7 @@ copyright: Copyright &copy; 2024 - 2024 Idea Technology
 
 # Configuration
 theme:
+  language: pt-BR 
   name: material
   custom_dir: overrides
   logo: assets/logo.png
