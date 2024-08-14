@@ -192,7 +192,7 @@ check-list input[type="checkbox"]:checked::after {
 }
 
 .about-text{
-  max-width: 50%;
+  max-width: 100%;
 }
 
 @media only screen and (max-width: 600px){
