@@ -1,6 +1,17 @@
 # Contas a Receber
-// TO-DO: Incluir imagem
-
+<div class="carrousel">
+      <div class="slideshow-container">
+        <div class="mySlides fade" style="display: block">
+          <img src="./assets/Contas-a-receber.jpeg" style="width: 100%" />
+        </div>
+        <div class="mySlides fade">
+          <img src="./assets/contas-a-receber.png" style="width: 100%" />
+        </div>
+      <br />
+      <div style="text-align: center">
+        <span class="dot active" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+      </div>
 Contas a Receber representam os direitos financeiros que uma empresa possui em relação aos seus clientes, resultantes de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
 No contexto empresarial, as contas a receber incluem valores devidos por clientes em virtude de vendas a crédito, financiamentos e outras transações comerciais. No balanço patrimonial, as contas a receber são classificadas como ativos circulantes, pois representam recursos que a empresa espera converter em caixa dentro de um curto prazo, geralmente inferior a um ano.
