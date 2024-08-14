@@ -115,7 +115,7 @@ check-list input[type="checkbox"]:checked::after {
 /* CSS */
 .btn-saiba-mais {
   all: unset;
-  width: 100px;
+  width: 300px;
   height: 30px;
   font-size: 16px;
   background: transparent;
