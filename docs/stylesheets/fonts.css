@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'TahomaRegular';
+  src: url('fonts/Tahoma Regular font.ttf') format('truetype'),
+       url('fonts/TAHOMA_0.TTF') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TahomaBold';
+  src: url('fonts/TAHOMABD.TTF') format('truetype'),
+       url('fonts/TAHOMAB0.TTF') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}

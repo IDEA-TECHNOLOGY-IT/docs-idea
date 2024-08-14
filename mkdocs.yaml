@@ -33,9 +33,6 @@ theme:
     toggle:
       icon: material/lightbulb
       name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
   favicon: assets/favicon.png
   icon:
     logo: logo
@@ -57,6 +54,7 @@ plugins:
 
 # Configurações de extra CSS (opcional)
 extra_css:
+  - 'stylesheets/fonts.css'
   - 'stylesheets/root.css'
   - 'stylesheets/carrousel.css'
   - 'stylesheets/home.css'
