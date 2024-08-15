@@ -16,7 +16,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/fluxo_de_contas/</loc>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/fluxo_de_caixa/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -27,6 +27,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/prazo_medio_recebimento/</loc>
+         <lastmod>2024-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/saldo_de_contas/</loc>
          <lastmod>2024-08-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
