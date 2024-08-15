@@ -136,5 +136,6 @@ nav:
     - financeiro/contas-a-pagar.md
     - financeiro/inadimplencia.md
     - financeiro/contas_a_receber.md
-    - financeiro/fluxo_de_contas.md
+    - financeiro/fluxo_de_caixa.md
     - financeiro/prazo_medio_recebimento.md
+    - financeiro/saldo_de_contas.md
