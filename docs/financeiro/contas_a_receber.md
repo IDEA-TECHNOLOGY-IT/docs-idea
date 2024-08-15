@@ -89,8 +89,10 @@
     </ul>
 
   <h3>Como Usar Este Gráfico</h3>
-    <ul>
+    
+    
+  <ul>
         <li><strong>Análise Detalhada</strong>: Use esta tabela para fazer uma análise minuciosa de cada fatura, verificando os detalhes específicos, como datas de vencimento e status.</li>
         <li><strong>Identificação de Prioridades</strong>: Observe as colunas de "Data de Venc." e "Status" para identificar faturas que precisam de atenção imediata, como aquelas que estão próximas de vencer ou já atrasadas.</li>
         <li><strong>Navegação e Pesquisa</strong>: Utilize a coluna "Pesquisa de Documentos" para acessar mais detalhes ou resolver discrepâncias nos registros, garantindo que todas as informações estejam corretas e completas.</li>
-    </ul>
+  </ul>
