@@ -1,11 +1,11 @@
 # Contas a Receber
-<div class="carrousel">
+<div class="carrousel_items" style="width: 100%">
       <div class="slideshow-container">
         <div class="mySlides fade" style="display: block">
-          <img src="./assets/Contas-a-receber.jpeg" style="width: 100%" />
+          <img src="../../assets/contas-a-receber.jpeg" style="width: 100%" />
         </div>
         <div class="mySlides fade">
-          <img src="./assets/contas-a-receber.png" style="width: 100%" />
+          <img src="../../assets/contas-a-receber.png" style="width: 100%" />
         </div>
       <br />
       <div style="text-align: center">
