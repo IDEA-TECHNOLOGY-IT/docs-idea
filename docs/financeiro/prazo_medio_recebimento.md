@@ -1,18 +1,4 @@
 # Prazo Médio de Recebimento
-<div class="carrousel_items" style="width: 100%">
-      <div class="slideshow-container">
-        <div class="mySlides fade" style="display: block">
-          <img src="../../assets/contas-a-receber.jpeg" style="width: 100%" />
-        </div>
-        <div class="mySlides fade">
-          <img src="../../assets/contas-a-receber.png" style="width: 100%" />
-        </div>
-      <br />
-      <div style="text-align: center">
-        <span class="dot active" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-      </div>
-<div>
 
 <p>O Prazo Médio de Recebimento (PMR) é uma métrica financeira que indica o tempo médio que uma empresa leva para receber os pagamentos de suas vendas a prazo. Esse indicador é essencial para a gestão do fluxo de caixa, pois ajuda a empresa a entender quanto tempo, em média, os seus clientes demoram para quitar suas obrigações financeiras.</p>
 

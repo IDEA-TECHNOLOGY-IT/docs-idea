@@ -1,18 +1,5 @@
 # Contas a Receber
-<div class="carrousel_items" style="width: 100%">
-      <div class="slideshow-container">
-        <div class="mySlides fade" style="display: block">
-          <img src="../../assets/contas-a-receber.jpeg" style="width: 100%" />
-        </div>
-        <div class="mySlides fade">
-          <img src="../../assets/contas-a-receber.png" style="width: 100%" />
-        </div>
-      <br />
-      <div style="text-align: center">
-        <span class="dot active" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-      </div>
-<div>
+
 
 <h1>Contas a Receber</h1>
     <p>Contas a Receber representam os direitos financeiros que uma empresa possui em relação aos seus clientes, resultantes de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.</p>
