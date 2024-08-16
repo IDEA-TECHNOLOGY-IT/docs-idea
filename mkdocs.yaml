@@ -133,7 +133,8 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-  - Relatório Financeiro:
+  - Idea Finance: 
+    - financeiro/ficha-tecnica.md
     - financeiro/contas_a_receber.md
     - financeiro/contas-a-pagar.md
     - financeiro/inadimplencia.md
