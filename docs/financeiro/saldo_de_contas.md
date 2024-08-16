@@ -17,8 +17,7 @@ Para proporcionar uma visão clara e detalhada do saldo de contas, a IDEA TECHNO
 - **Monitoramento Contínuo:** Oferece uma visão contínua e atualizada dos saldos das contas, permitindo ações rápidas em caso de desequilíbrios.
 - **Personalização de Análises:** Oferece a flexibilidade de aplicar filtros para identificar e analisar quais contas, filiais ou projetos estão alocando ou consumindo recursos. Além disso, permite a análise detalhada dos saldos ao longo de períodos específicos, adaptando-se perfeitamente às diversas necessidades e níveis de gestão dentro da organização.
 
-![account_balance](..docs\assets\account_balance.jpeg)
-
+![account_balance](../../assets/account_balance.png)
 <h6 align = "center"> Imagem 1: Descrição visual de cada indicador.</h6>
 
 ## Principais Perguntas que o Relatório Responde
