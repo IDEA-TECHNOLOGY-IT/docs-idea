@@ -17,7 +17,7 @@ Para proporcionar uma visão clara e detalhada do fluxo de caixa, a IDEA TECHNOL
 - **Monitoramento Contínuo:** Oferece uma visão contínua e atualizada da situação financeira, permitindo ajustes em tempo real.
 - **Personalização de Análises:** Permite personalizar os filtros e visualizações para focar em filiais, projetos, contas ou períodos específicos, adaptando-se às necessidades da gestão.
 
-![Imagem 1: Relatório Geral Fluxo_de_Caixa](../../assets/account_flow.png)
+![Imagem 1: Relatório Geral Fluxo_de_Caixa](../assets/account_flow.png)
 
 <h6 align = "center"> Imagem 1: Descrição visual de cada indicador.</h6>
 
