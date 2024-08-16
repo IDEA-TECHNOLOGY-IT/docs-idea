@@ -20,6 +20,7 @@
 
   --md-text-font: "MontSerrat"; 
   --text-color: black;
+  --arrows-scale: 3.0;
 }
 
 [data-md-color-scheme="slate"] {
