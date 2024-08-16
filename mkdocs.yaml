@@ -1,8 +1,8 @@
 # mkdocs.yml
 
-site_name: Idea Finance
+site_name: ''
 site_url: https://idea-technology-it.github.io/docs-idea_finance/
-site_description: Documentação para o projeto IdeaFinance
+site_description: Documentação para o projeto Idea Business Analytics
 site_author: rafaelmedeirosnobre@gmail.com
 # Copyright
 copyright: Copyright &copy; 2024 - 2024 Idea Technology

@@ -18,11 +18,32 @@
   --color-text-primary: #212121;
   --color-text-secondary: #757575;
 
-  --md-text-font: "TahomaRegular"; 
-
+  --md-text-font: "MontSerrat"; 
+  --text-color: black;
 }
 
 [data-md-color-scheme="slate"] {
   --color-text-primary: #E0E0E0;
   --color-text-secondary: #BDBDBD;
+  --text-color: var(--color-base-white);
+}
+
+.md-typeset h1{
+  font-size: 1.4em;
+  color: var(--text-color);
+  font-weight: bold;
+}
+.md-typeset h2{
+  font-size: 1.094em;
+  color: var(--text-color)
+}
+.md-typeset h3{
+  font-size: .875em;
+  color: var(--text-color)
+}
+.md-typeset{
+  font-size: 0.65rem;
+}
+.md-nav{
+  font-size: 0.6rem;
 }
