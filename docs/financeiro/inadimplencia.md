@@ -63,22 +63,40 @@ O gráfico apresenta a distribuição dos valores de inadimplência categorizado
 
 ## Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"
 
-![Gráfico "PMR x Cliente ou Origem"](../../assets/WhatsApp%20Image%202024-08-15%20at%2014.12.48.jpeg)
+O gráfico apresenta o valor de inadimplência categorizado por diferentes segmentos, como cliente, origem, filial ou projeto. Cada barra no gráfico representa uma categoria específica, mostrando o valor total inadimplente associado a ela.
 
-Este gráfico oferece uma análise detalhada do Prazo Médio de Recebimento (PMR) por Cliente ou Origem. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Cliente ou Origem, para obter uma visão mais específica ou mais agregada dos prazos de recebimento. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
+![Gráfico "Inadimplência por Cliente"](../../assets/valor_inadimplencia_cliente.png)
 
 ### Nível 1: Cliente
-**Descrição**: No nível de Cliente, o gráfico exibe o PMR de cada cliente específico. Cada barra representa um cliente e mostra o tempo médio (em dias) que aquele cliente leva para pagar suas obrigações à empresa.
+**Descrição**: No nível de cliente, o gráfico exibe o valor total inadimplente associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante que ainda não foi pago à empresa, destacando os valores em atraso que esses clientes devem quitar.
 
-**Interpretação**: Este nível permite identificar quais clientes têm os prazos de pagamento mais longos, o que pode indicar a necessidade de revisar as condições de crédito ou implementar políticas de cobrança mais rígidas para esses clientes.
+**Interpretação**: Este gráfico permite identificar quais clientes ou grupos de clientes possuem os maiores valores de inadimplência, o que pode indicar a necessidade de uma revisão das condições de crédito, um acompanhamento mais rigoroso desses clientes ou a implementação de políticas de cobrança mais eficazes para reduzir o risco financeiro e melhorar o fluxo de caixa da empresa.
+
+![Gráfico "Inadimplência por Origem"](../../assets/valor_inadimplencia_origem.png)
 
 ### Nível 2: Origem
-**Descrição**: No nível de Origem, o gráfico classifica o PMR de acordo com a origem das vendas ou transações, como vendas específicas, contratos, ou outros tipos de receitas.
+**Descrição:** No nível de origem, o gráfico exibe o valor total inadimplente associado a cada fonte específica de receita ou operação. Cada barra representa uma origem e mostra o montante total de inadimplência que deriva dessa fonte.
 
-**Interpretação**: A análise por Origem ajuda a identificar quais tipos de transações ou origens têm os prazos de recebimento mais longos, permitindo à empresa ajustar suas estratégias de venda e cobrança para melhorar o fluxo de caixa.
+**Interpretação:** Este gráfico permite identificar quais origens estão contribuindo mais para a inadimplência geral. Com essa informação, a empresa pode focar em revisar políticas e procedimentos específicos para essas origens, a fim de reduzir os valores inadimplentes e melhorar a eficiência da cobrança.
+
+![Gráfico "Inadimplência por Filial"](../../assets/valor_inadimplencia_filial.png)
+
+### Nível 3: Filial
+**Descrição:** No nível de filial, o gráfico exibe o valor total inadimplente vinculado a cada unidade ou filial da empresa. Cada barra representa uma filial específica e demonstra o montante total de valores em atraso associados a ela.
+
+**Interpretação:** Este gráfico possibilita identificar quais filiais estão acumulando mais inadimplência. Com essa visão, a empresa pode direcionar esforços para essas unidades, ajustando processos locais, reforçando políticas de crédito ou intensificando as estratégias de cobrança para mitigar riscos financeiros.
+
+![Gráfico "Inadimplência por Projeto"](../../assets/valor_inadimplencia_projeto.png)
+
+### Nível 4: Projeto
+**Descrição:** No nível de projeto, o gráfico exibe o valor total inadimplente relacionado a cada projeto específico. Cada barra representa um projeto e destaca o montante total de inadimplência vinculado a ele.
+
+**Interpretação:** Este gráfico ajuda a identificar quais projetos estão gerando mais inadimplência, o que pode sinalizar problemas específicos no gerenciamento ou execução desses projetos. A empresa pode então reavaliar a viabilidade, as condições de pagamento ou até mesmo a gestão de riscos desses projetos para minimizar a inadimplência e otimizar o retorno financeiro.
+
+![Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"](../../assets/valor_inadimplencia_projeto.png)
 
 ### Navegação Entre os Níveis
 A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
 
-- **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
-- **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+- **Para ir para o próximo nível de hierarquia (Indicador 1)**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
+- **Para retornar ao nível anterior (Indicador 2)**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
