@@ -26,7 +26,7 @@ A fórmula para calcular a Inadimplência é:
 **Exemplo:**
 Se uma empresa concedeu R$ 1.000.000,00 em crédito durante um mês e, desse total, R$ 50.000,00 estão em atraso, a taxa de inadimplência seria calculada assim:
 
-**_Taxa de Inadimplência = (100.000 / 1.000.000) x 100 = 5%**
+**_Taxa de Inadimplência = (100.000 / 1.000.000) x 100 = 5%_**
 
 Isso significa que, a taxa de Inadimplência da empresa seria de 5%.
 
