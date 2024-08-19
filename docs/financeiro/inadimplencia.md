@@ -93,7 +93,7 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 
 **Interpretação:** Este gráfico ajuda a identificar quais projetos estão gerando mais inadimplência, o que pode sinalizar problemas específicos no gerenciamento ou execução desses projetos. A empresa pode então reavaliar a viabilidade, as condições de pagamento ou até mesmo a gestão de riscos desses projetos para minimizar a inadimplência e otimizar o retorno financeiro.
 
-![Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"](../../assets/valor_inadimplencia_projeto.png)
+![Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"](../../assets/explica_hierarquia_Inad.png)
 
 ### Navegação Entre os Níveis
 A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
