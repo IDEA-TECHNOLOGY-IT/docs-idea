@@ -100,3 +100,15 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 
 - **Para ir para o próximo nível de hierarquia (Indicador 1)**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
 - **Para retornar ao nível anterior (Indicador 2)**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+
+## Gráfico "Inadimplência por Mês"
+
+O gráfico ilustra a inadimplência por mês, mostrando três principais elementos:
+
+- **A Receber Acumulado (Barras Cinzas):** Este representa o valor total acumulado que a empresa espera receber ao longo dos meses. Esse valor parece diminuir gradualmente ao longo do tempo, o que pode indicar uma redução no volume de vendas a crédito ou um aumento na recuperação de valores devidos.
+
+- **Valor de Inadimplência (Barras Azuis):** Esta barra representa o valor absoluto de inadimplência em cada mês, ou seja, o total de valores que não foram pagos dentro do prazo acordado. Observa-se que, apesar das variações ao longo do tempo, esse valor permanece relativamente estável, mas com uma leve tendência de queda em alguns períodos.
+
+- **(%) Inadimplência (Linha Azul com Marcadores):** A linha azul mostra a taxa de inadimplência percentual em relação ao valor a receber acumulado. Nota-se que essa taxa apresenta flutuações ao longo dos meses, com alguns picos e vales significativos. Em um determinado ponto, há uma queda acentuada, seguida por uma recuperação e aumento da taxa de inadimplência.
+
+
