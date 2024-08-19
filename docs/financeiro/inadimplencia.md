@@ -103,6 +103,8 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 
 ## Gráfico "Inadimplência por Mês"
 
+![Gráfico "Inadimplência por Mês"](../../assets/valor_inad_mes.png)
+
 O gráfico ilustra a inadimplência por mês, mostrando três principais elementos:
 
 - **A Receber Acumulado (Barras Cinzas):** Este representa o valor total acumulado que a empresa espera receber ao longo dos meses. Esse valor parece diminuir gradualmente ao longo do tempo, o que pode indicar uma redução no volume de vendas a crédito ou um aumento na recuperação de valores devidos.
