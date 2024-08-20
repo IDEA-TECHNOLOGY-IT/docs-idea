@@ -1,7 +1,7 @@
 # Introdução ao Relatório Contabilidade
 
 <div align="center">
-  <img src="../assets/contabilidade_home.png" alt="Relatório Geral Contas a Receber">
+  <img src="../assets/contabilidade_home.png" alt="Contabilidade Home">
   <h6>Imagem 1: Relatório Contabilidade - Visão Contábil</h6>
 </div>
 
@@ -73,4 +73,31 @@ Este botão navega para a página intitulada Regra dos 40, que foca em analisar 
 <img src="../assets/contabilidade_button_dre2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 Selecionar este botão leva os usuários à página intitulada DRE (Demonstração do Resultado do Exercício), onde eles podem visualizar a demonstração de resultados, detalhando a receita, despesas e lucratividade da empresa ao longo de um período específico.
 
+## Filtros ou Slicers
 
+<div align="center">
+  <img src="../assets/contabilidade_filtros.png" alt="Contabilidade Filtros">
+  <h6>Imagem 1: Relatório Contabilidade - Visão Contábil</h6>
+</div>
+
+Os filtros (slicers) são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. Ao ajustar qualquer um dos slicers, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
+
+###	Filial
+<p><img src="../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+Este slicer permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
+
+###	Projeto
+<p><img src="../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+O slicer de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
+
+###	Ano
+<p><img src="../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+O slicer de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
+
+###	Mês
+<p><img src="../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+Este slicer possibilita a filtragem dos dados por mês específico. Ao escolher um mês, todos os visuais no relatório são ajustados para refletir apenas as informações desse período, facilitando a análise mensal e a identificação de variações sazonais.
+
+###	Antes da Data
+<p><img src="../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+Este slicer possibilit
