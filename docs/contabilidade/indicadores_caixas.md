@@ -47,11 +47,11 @@ Custos e Despesas (Ano Ant.) são os custos e despesas registrados no mesmo per�
 
 ### Diferencça
 
-Diferença (Dif.): Exibe a diferença percentual entre os Custos e Despesas do período atual e os Custos e Despesas do ano anterior. Essa métrica é calculada para mostrar a variação, positiva ou negativa, na eficiência e controle de gastos da empresa em comparação com o mesmo período do ano passado, oferecendo uma visão clara do aumento ou redução de custos ao longo do tempo.
+Diferença (Dif.) exibe a diferença percentual entre os Custos e Despesas do período atual e os Custos e Despesas do ano anterior. Essa métrica é calculada para mostrar a variação, positiva ou negativa, na eficiência e controle de gastos da empresa em comparação com o mesmo período do ano passado, oferecendo uma visão clara do aumento ou redução de custos ao longo do tempo.
 
 ### Botão Ver mais
 
-Botão "Ver Mais", quando clicado, este botão leva o usuário à página de Custos e Despesas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custos e Despesas), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à página de Custos e Despesas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custos e Despesas), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Caixa de Lucro Líquido
 
@@ -68,7 +68,7 @@ Receita Líquida (Rec. Líq.) é o valor total de vendas ou receitas geradas por
 
 ### Margem de Lucro Líquido
 
-Margem de Lucro Líquido (Mar.): Exibe a margem de lucro líquida, calculada como o Lucro Líquido dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em lucro líquido, oferecendo uma visão clara da eficiência da empresa em converter receita em lucro.
+Margem de Lucro Líquido (Mar.) exibe a margem de lucro líquida, calculada como o Lucro Líquido dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em lucro líquido, oferecendo uma visão clara da eficiência da empresa em converter receita em lucro.
 
 ### Botão Ver mais
 
@@ -88,7 +88,7 @@ Receita Líquida (Rec. Líq.) é o valor total de vendas ou receitas geradas por
 
 ### Margem de EBITDA
 
-Margem EBITDA (Mar.): Exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
+Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
 
 ### Botão Ver mais
 
@@ -104,11 +104,11 @@ O Capital de Giro Próprio refere-se ao montante de recursos próprios que a emp
 
 ### Liquidez Imediata
 
-A Liquidez Imediata mede a capacidade da empresa de atender a suas obrigações de curto prazo com seus recursos mais líquidos, como caixa e equivalentes de caixa. Calculada como a razão entre o caixa e equivalentes de caixa e as obrigações de curto prazo, essa métrica fornece uma visão clara da solvência da empresa em situações de emergência, onde é necessário garantir a liquidez suficiente para cobrir passivos imediatos.
+A Liquidez Imediata (Líq Imed.) mede a capacidade da empresa de atender a suas obrigações de curto prazo com seus recursos mais líquidos, como caixa e equivalentes de caixa. Calculada como a razão entre o caixa e equivalentes de caixa e as obrigações de curto prazo, essa métrica fornece uma visão clara da solvência da empresa em situações de emergência, onde é necessário garantir a liquidez suficiente para cobrir passivos imediatos.
 
 ### Solvência Geral
 
-A Solvência Geral é uma métrica que avalia a capacidade da empresa de cumprir suas obrigações de longo prazo com seus ativos totais. Calculada como a razão entre o patrimônio líquido e o total de passivos, essa métrica fornece uma visão abrangente da estabilidade financeira da empresa e de sua capacidade de resistir a choques financeiros ao longo do tempo, indicando a proporção do capital próprio em relação ao total de dívidas.
+A Solvência Geral (Sol. Ger.) é uma métrica que avalia a capacidade da empresa de cumprir suas obrigações de longo prazo com seus ativos totais. Calculada como a razão entre o patrimônio líquido e o total de passivos, essa métrica fornece uma visão abrangente da estabilidade financeira da empresa e de sua capacidade de resistir a choques financeiros ao longo do tempo, indicando a proporção do capital próprio em relação ao total de dívidas.
 
 ### Botão Mais indicadores
 
@@ -127,3 +127,42 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 - **Saldo em Tesouraria**
 - **Solvência Geral**
 
+## Caixa de Regra dos 40
+![alt text](../assets/contabilidade_caixa_regra.png)
+<h6 align = "center"> Imagem 4: Caixa de Regra dos 40</h6>
+
+### Regra dos 40
+
+Regra dos 40 é um princípio amplamente utilizado para avaliar o equilíbrio entre crescimento e rentabilidade de uma empresa. De acordo com essa regra, a soma da taxa de crescimento anual da receita (em percentual) e a margem de lucro operacional (em percentual) deve ser igual ou superior a 40%. Esse indicador é especialmente relevante para empresas onde o crescimento rápido e a lucratividade sustentável são essenciais para o sucesso a longo prazo.
+
+Por exemplo, se uma empresa tem uma taxa de crescimento anual de 30% e uma margem de lucro operacional de 15%, a soma desses dois números seria 45%, o que supera a marca de 40% e, portanto, indica que a empresa está em um caminho saudável de crescimento e lucratividade. Por outro lado, se uma empresa tem um crescimento muito acelerado, mas sua margem de lucro é baixa ou negativa, ou vice-versa, a soma pode ficar abaixo de 40%, sugerindo que a empresa pode enfrentar desafios em manter um crescimento sustentável a longo prazo.
+
+A Regra dos 40 oferece uma métrica simples e poderosa para investidores e gestores avaliarem se uma empresa está conseguindo equilibrar sua expansão de mercado com eficiência financeira, garantindo assim um caminho equilibrado entre a busca por participação de mercado e a saúde financeira.
+
+### Margem de EBITDA
+
+Margem EBITDA (EBITDA Mar.), exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
+
+### Taxa de Crescimento
+
+Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela mede o quanto a receita da empresa está aumentando.
+
+### Botão Ver mais
+
+Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
+
+## Caixa de Saldo em Tesouraria
+![alt text](../assets/contabilidade_caixa_saldo.png)
+<h6 align = "center"> Imagem 4: Caixa de Saldo em Tesouraria</h6>
+
+### Saldo em Tesouraria
+
+Saldo em Tesouraria representa o valor disponível em caixa após a empresa ter cumprido todas as suas obrigações de curto prazo. É um indicador crucial da saúde financeira e da capacidade de lidar com contingências.
+
+### Capital de Giro (CDG)
+
+Capital de Giro (CDG) representa o montante de recursos que a empresa necessita para cobrir suas obrigações de curto prazo, garantindo que as operações diárias possam continuar sem interrupções. É um indicador chave da liquidez operacional da empresa.
+
+### Necessidade de Capital de Giro (NGC)
+
+Necessidade de Capital de Giro (NGC) refere-se ao capital necessário para financiar o ciclo operacional da empresa, cobrindo o período entre o pagamento de seus fornecedores e o recebimento de suas vendas. Esse indicador mostra a necessidade de recursos para manter as operações contínuas.
