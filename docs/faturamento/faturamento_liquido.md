@@ -72,13 +72,6 @@ Este gráfico apresenta uma visualização do Faturamento Líquido segregado por
 
 - **Faturamento**: O comprimento de cada barra indica o valor total de faturamento para a respectiva Filial. Valores maiores resultam em barras mais longas, destacando as Filiais que contribuíram mais para o faturamento total da empresa.
 
-### Análise dos Dados
-
-- **Filial 5**: Apresenta o maior faturamento entre as unidades mostradas, com um valor de R$ 77.217.264,82, o que a posiciona como a principal contribuinte para o faturamento total da empresa.
-
-- **Filial 8 e Filial 4**: Seguem a Filial 5, com faturamentos de R$ 23.588.736,72 e R$ 21.028.857,15, respectivamente. Essas filiais também têm um papel significativo no faturamento da empresa, embora com valores consideravelmente menores que a Filial 5.
-
-- **Filiais Menores**: As Filiais 10, 6 e 11 mostram faturamentos substancialmente menores, sugerindo que estas unidades podem ter menor participação ou eficiência em vendas, ou operam em mercados menores.
 
 ### Como Usar Este Gráfico
 
@@ -106,13 +99,6 @@ Este gráfico apresenta a comparação entre a meta de faturamento estabelecida 
 
 - **% da Meta (Linha Verde)**: A linha que percorre o gráfico indica o percentual de cumprimento da meta para cada mês. Valores acima de 100% mostram que a meta foi superada, enquanto valores abaixo de 100% indicam que a meta não foi atingida.
 
-### Análise dos Dados
-
-- **Meses de Superação da Meta**: Em alguns meses, como dezembro de 2016 (517,53%) e maio de 2017 (208,23%), o faturamento superou significativamente a meta estabelecida, o que é indicado por valores percentuais muito superiores a 100%.
-
-- **Meses de Desempenho Abaixo da Meta**: Em contrapartida, alguns meses, como agosto de 2017 (76,09%) e janeiro de 2015 (10,09%), mostram que o faturamento ficou abaixo da meta. Isso é sinalizado pela linha de % da Meta ficando abaixo do nível de 100%.
-
-- **Tendências ao Longo do Tempo**: O gráfico permite identificar tendências de desempenho ao longo do tempo, como flutuações sazonais ou eventos específicos que possam ter impactado positivamente ou negativamente o cumprimento das metas de faturamento.
 
 ### Como Usar Este Gráfico
 
