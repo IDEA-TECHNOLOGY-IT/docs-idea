@@ -1,7 +1,9 @@
 # Home - Visão Contábil
 
-![alt text](../assets/contabilidade_home.png)
-<h6 align = "center"> Imagem 1: Home - Visão Contábil</h6>
+<div align="center">
+  <img src="../assets/contabilidade_home.png" alt="Home - Visão Contábil">
+  <h6>Imagem 1: Home - Visão Contábil</h6>
+</div>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Contabilidade é crucial para oferecer uma visão clara e detalhada da saúde financeira de uma empresa. 
 
@@ -13,8 +15,10 @@ Na página de Home, você encontrará:
 
 ## Saldo em Tesouraria ao Longo do Tempo
 
-![alt text](../assets/contabilidade_h_saldo_ao_tempo.png)
-<h6 align = "center"> Imagem 2: Saldo em Tesouraria ao Longo do Tempo</h6>
+<div align="center">
+  <img src="../assets/contabilidade_h_saldo_ao_tempo.png" alt="Saldo em Tesouraria ao Longo do Tempo">
+  <h6>Imagem 2: Saldo em Tesouraria ao Longo do Tempo</h6>
+</div>
 
 Um gráfico de área mostrando o valor do saldo em tesouraria acumulado ao longo do tempo, com valores negativos exibidos em vermelho. 
 
@@ -24,8 +28,10 @@ A representação em vermelho para valores negativos ajuda a destacar as variaç
 
 ## Comparativo Mensal (Receita Bruta x Custos e Despesas)
 
-![alt text](../assets/contabilidade_h_comparitivo_mensal.png)
-<h6 align = "center"> Imagem 3: Comparitivo Mensal (Receita Bruta x Custos e Despesas)</h6>
+<div align="center">
+  <img src="../assets/contabilidade_h_comparitivo_mensal.png" alt="Comparitivo Mensal (Receita Bruta x Custos e Despesas)">
+  <h6>Imagem 3: Comparitivo Mensal (Receita Bruta x Custos e Despesas)</h6>
+</div>
 
 Um gráfico de barras com linha, onde as colunas mostram os valores de Receita Bruta e Custos e Despesas e a linha mostra a diferença entre essas duas barras como '% Dif.' por mês e ano. 
 
