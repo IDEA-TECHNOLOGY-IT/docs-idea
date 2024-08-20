@@ -1,4 +1,4 @@
-# Introdução 
+# Introdução ao Relatório Contabilidade
 ![Imagem 1: Relatório Geral Contas a Receber](../assets/contabilidade_home.png)
 <h6 align="center">Imagem 1: Relatório Contabilidade - Visão Contábil</h6>
 
