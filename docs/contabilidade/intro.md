@@ -22,7 +22,9 @@ Em resumo, um relatório de BI bem estruturado não apenas fornece uma visão de
   <h6>Imagem 2: Barra de Menu</h6>
 </div>
 
-A barra de menu é um recurso de navegação localizado no lado esquerdo de todas as páginas do relatório, fornecendo acesso fácil a várias seções e páginas detalhadas do relatório. Ela ajuda os usuários a navegarem de forma eficiente entre diferentes áreas de análise e insights dos dados. Aqui está uma visão geral dos botões disponíveis na barra de menu:
+A barra de menu é um recurso de navegação localizado no lado esquerdo de todas as páginas do relatório, fornecendo acesso fácil a várias seções e páginas detalhadas do relatório. Ela ajuda os usuários a navegarem de forma eficiente entre diferentes áreas de análise e insights dos dados. O botão da página atual ficará destacado (mostrado abaixo).
+
+Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
 ### Home
 <p><img src="../assets/contabilidade_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
