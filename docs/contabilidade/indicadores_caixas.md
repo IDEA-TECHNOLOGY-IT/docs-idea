@@ -114,16 +114,16 @@ A Solvência Geral é uma métrica que avalia a capacidade da empresa de cumprir
 
 Botão "Mais indicadores", quando clicado, este botão leva o usuário à página de Indicadores. Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
 Na página de "Indicadores", você pode encontrar os seguintes indicadores:
-Capital de Giro Próprio
-CDG (Capital de Giro)
-Composição de Endividamento
-Giro do Ativo
-Imobilização do Investimento Total
-Liquidez Corrente
-Liquidez Geral
-Liquidez Imediata
-Liquidez Seca
-NGC (Necessidade de Capital de Giro)
-Saldo em Tesouraria
-Solvência Geral
+**Capital de Giro Próprio**
+**CDG (Capital de Giro)**
+**Composição de Endividamento**
+**Giro do Ativo**
+**Imobilização do Investimento Total**
+**Liquidez Corrente**
+**Liquidez Geral**
+**Liquidez Imediata**
+**Liquidez Seca**
+**NGC (Necessidade de Capital de Giro)**
+**Saldo em Tesouraria**
+**Solvência Geral**
 
