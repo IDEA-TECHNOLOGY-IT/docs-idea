@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_ebitda_page1.png" alt="EBITDA Page 1">
-  <h6>EBITDA Visão Gráfica</h6>
+  <h6>Imagem 1: EBITDA Visão Gráfica</h6>
   <img src="../assets/contabilidade_ebitda_page2.png" alt="EBITDA Page 2">
-  <h6>EBITDA Visão de Tabela</h6>
+  <h6>Imagem 2: EBITDA Visão de Tabela</h6>
 </div></p>
 
 EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) é uma métrica financeira que mede o lucro operacional de uma empresa antes da dedução de juros, impostos, depreciação e amortização. Essa métrica é amplamente utilizada para avaliar a performance operacional de uma empresa, pois fornece uma visão clara de quanto a empresa está gerando de lucro a partir de suas operações principais, sem os efeitos de decisões financeiras e contabilísticas.
@@ -22,7 +22,7 @@ Na página de Receita Bruta, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_ebitda_tabela_mes.png" alt="Tabela de EBITDA">
-  <h6>Tabela de EBITDA</h6>
+  <h6>Imagem 3: Tabela de EBITDA</h6>
 </div>
 
 Esta tabela fornece uma visão geral abrangente dos principais indicadores financeiros, exibindo a Receita Líquida, EBITDA e a % Margem (calculada como EBITDA dividido pela Receita Líquida) para cada ano e mês. 
@@ -35,7 +35,7 @@ Este recurso visual ajuda a avaliar rapidamente as mudanças no desempenho ao lo
 
 <div align="center">
   <img src="../assets/contabilidade_ebitda_acumulado.png" alt="EBITDA Acumulado por Mês">
-  <h6>EBITDA Acumulado por Mês</h6>
+  <h6>Imagem 4: EBITDA Acumulado por Mês</h6>
 </div>
 
 O gráfico de área visualiza o valor acumulado do EBITDA ao longo do tempo, proporcionando uma representação clara de como o EBITDA cresceu ou mudou. 
@@ -46,7 +46,7 @@ Ao passar o cursor sobre o gráfico, as dicas de ferramenta mostram informaçõe
 
 <div align="center">
   <img src="../assets/contabilidade_ebitda_ebitda_receita.png" alt="EBITDA vs. Receita Líquida por Mês">
-  <h6>EBITDA vs. Receita Líquida por Mês</h6>
+  <h6>Imagem 5: EBITDA vs. Receita Líquida por Mês</h6>
 </div>
 
 Este gráfico combina um gráfico de barras e um gráfico de linhas para fornecer uma análise detalhada do EBITDA e da Receita Líquida. 
@@ -60,7 +60,7 @@ A linha é codificada por cores: vermelha para margens abaixo de 20% e verde par
 
 <div align="center">
   <img src="../assets/contabilidade_ebitda_tabela_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Tabela de Detalhamento</h6>
+  <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
 Esta tabela apresenta dados detalhados de transações com colunas para Identificador (ID da Transação), Data Lançamento (Data da Transação), Filial (Filial), Projeto e EBITDA. 
