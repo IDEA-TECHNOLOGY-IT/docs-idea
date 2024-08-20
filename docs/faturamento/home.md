@@ -8,7 +8,7 @@ Através de visualizações precisas e detalhadas, é possível identificar tend
 
 Na página de Home, você encontrará:
 
-![Faturamento Acumulado ao Longo do Tempo"](../../assets/invoice_acumulated.png)
+![Faturamento Acumulado ao Longo do Tempo"](../../assets/invoice_accumulated.png)
 
 Este gráfico de área exibe a evolução do saldo em tesouraria da empresa ao longo do tempo, mostrando tanto os valores positivos quanto os negativos. A linha de base do gráfico representa um saldo de zero, com áreas acima da linha 
 indicativas de saldos positivos e áreas abaixo indicativas de saldos negativos.
