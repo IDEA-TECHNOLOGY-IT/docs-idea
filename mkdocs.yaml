@@ -156,4 +156,5 @@ nav:
     - contabilidade/dre.md
   - Faturamento:
     - faturamento/home.md
+    - faturamento/vendas.md
     - faturamento/faturamento_liquido.md
