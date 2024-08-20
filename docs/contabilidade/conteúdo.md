@@ -1,6 +1,6 @@
 # Idea Contabilidade
 
-O Relatório **Idea Contabilidade** traz métricas e análises financeiras para sua empresa.
+O Relatório **Idea Contabilidade** traz métricas e análises contabilidades para sua empresa.
 
 ## Recursos
 
