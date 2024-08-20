@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/conte%C3%BAdo/</loc>
-         <lastmod>2024-08-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/custosedespesas/</loc>
          <lastmod>2024-08-20</lastmod>
          <changefreq>daily</changefreq>
@@ -22,6 +17,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/ebitda/</loc>
+         <lastmod>2024-08-20</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/ficha-tecnica/</loc>
          <lastmod>2024-08-20</lastmod>
          <changefreq>daily</changefreq>
     </url>
