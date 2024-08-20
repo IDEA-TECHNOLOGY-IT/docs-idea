@@ -13,8 +13,8 @@ Na página de Home, você encontrará:
 
 ## Saldo em Tesouraria ao Longo do Tempo
 
-![alt text](../assets/contas-a-pagar-aging.png)
-<h6 align = "center"> Imagem 2: Gráfico Aging</h6>
+![alt text](../assets/contabilidade_h_saldo_ao_tempo.png)
+<h6 align = "center"> Imagem 2: Saldo em Tesouraria ao Longo do Tempo</h6>
 
 Um gráfico de área mostrando o valor do saldo em tesouraria acumulado ao longo do tempo, com valores negativos exibidos em vermelho. 
 
@@ -24,8 +24,8 @@ A representação em vermelho para valores negativos ajuda a destacar as variaç
 
 ## Comparativo Mensal (Receita Bruta x Custos e Despesas)
 
-![alt text](../assets/contas-a-pagar-aging.png)
-<h6 align = "center"> Imagem 2: Gráfico Aging</h6>
+![alt text](../assets/contabilidade_h_comparitivo_mensal.png)
+<h6 align = "center"> Imagem 3: Comparitivo Mensal (Receita Bruta x Custos e Despesas)</h6>
 
 Um gráfico de barras com linha, onde as colunas mostram os valores de Receita Bruta e Custos e Despesas e a linha mostra a diferença entre essas duas barras como '% Dif.' por mês e ano. 
 
