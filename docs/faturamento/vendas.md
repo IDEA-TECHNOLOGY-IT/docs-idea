@@ -18,6 +18,13 @@ No nível mensal, o gráfico apresenta o faturamento acumulado ao final de cada 
 ### Nível 2: Período Anual
 No nível anual, o gráfico mostra o faturamento acumulado ao longo de um ano completo. Esta visão é útil para análises de longo prazo, permitindo que você avalie o crescimento anual da empresa, identifique anos de forte desempenho e compare o progresso em relação às metas de longo prazo.
 
+### Visualizar mais Detalhes
+
+![Faturamento "Ir para mais Detalhes"](../../assets/more_details_button.png)
+
+Este gráfico é uma visão detalhada das vendas realizadas após a seleção do botão acima que ativou a navegação para um nível mais específico de análise. Aqui está uma explicação detalhada dos componentes exibidos:
+
+
 ![Faturamento "Navegação Entre níveis"](../../assets/accumulated_sales_dd_dup.png)
 
 ### Navegação Entre Níveis: 
