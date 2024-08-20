@@ -1,7 +1,9 @@
 # Caixas de Indicadores
 
-![alt text](../assets/contabilidade_indicadores_caixas.png)
-<h6 align = "center"> Imagem 1: Caixas de Indicadores</h6>
+<div align="center">
+  <img src="../assets/contabilidade_indicadores_caixas.png" alt="Caixas de Indicadores">
+  <h6>Imagem 1: Caixas de Indicadores</h6>
+</div>
 
 Em cada página do nosso relatório no Power BI, você encontrará caixas de indicadores posicionadas de forma proeminente no topo. Essas caixas não são apenas marcadores; elas são ferramentas vitais projetadas para aprimorar sua experiência de relatório ao exibir de maneira consistente valores-chave que são centrais para a análise de cada página. As informações fornecidas nessas caixas de indicadores servem como uma referência rápida, garantindo que você possa acompanhar os dados críticos sem precisar navegar para frente e para trás entre as diferentes páginas do relatório.
 
@@ -13,8 +15,10 @@ Em resumo, as caixas de indicadores no topo de cada página do relatório no Pow
 
 ## Caixa de Receita Bruta
 
-![alt text](../assets/contabilidade_caixa_receita_bruta.png)
-<h6 align = "center"> Imagem 2: Caixa de Receita Bruta</h6>
+<div align="center">
+  <img src="../assets/contabilidade_caixa_receita_bruta.png" alt="Caixa de Receita Bruta">
+  <h6>Imagem 2: Caixa de Receita Bruta</h6>
+</div>
 
 ### Receita Bruta
 
@@ -34,8 +38,10 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Rec
 
 ## Caixa de Custos e Despesas
 
-![alt text](../assets/contabilidade_caixa_custos.png)
-<h6 align = "center"> Imagem 3: Caixa de Custos e Despesas</h6>
+<div align="center">
+  <img src="../assets/contabilidade_caixa_custos.png" alt="Caixa de Custos e Despesas">
+  <h6>Imagem 3: Caixa de Custos e Despesas</h6>
+</div>
 
 ### Custos e Despesas
 
@@ -55,8 +61,10 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cus
 
 ## Caixa de Lucro Líquido
 
-![alt text](../assets/contabilidade_caixa_lucro.png)
-<h6 align = "center"> Imagem 4: Caixa de Lucro Líquido</h6>
+<div align="center">
+  <img src="../assets/contabilidade_caixa_lucro.png" alt="Caixa de Lucro Líquido">
+  <h6>Imagem 4: Caixa de Lucro Líquido</h6>
+</div>
 
 ### Lucro Líquido
 
@@ -75,8 +83,11 @@ Margem de Lucro Líquido (Mar.) exibe a margem de lucro líquida, calculada como
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Lucro Líquido. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Lucro Líquido), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Caixa de EBITDA
-![alt text](../assets/contabilidade_caixa_ebitda.png)
-<h6 align = "center"> Imagem 4: Caixa de EBITDA</h6>
+
+<div align="center">
+  <img src="../assets/contabilidade_caixa_ebitda.png" alt="Caixa de EBITDA">
+  <h6>Imagem 5: Caixa de EBITDA</h6>
+</div>
 
 ### EBITDA
 
@@ -95,8 +106,11 @@ Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pel
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBITDA. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Caixa de Capital Giro Próprio
-![alt text](../assets/contabilidade_caixa_capital.png)
-<h6 align = "center"> Imagem 4: Caixa de Capital Giro Próprio</h6>
+
+<div align="center">
+  <img src="../assets/contabilidade_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
+  <h6>Imagem 6: Caixa de Capital Giro Próprio</h6>
+</div>
 
 ### Capital de Giro Próprio
 
@@ -128,8 +142,11 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 - **Solvência Geral**
 
 ## Caixa de Regra dos 40
-![alt text](../assets/contabilidade_caixa_regra.png)
-<h6 align = "center"> Imagem 4: Caixa de Regra dos 40</h6>
+
+<div align="center">
+  <img src="../assets/contabilidade_caixa_regra.png" alt="Caixa de Regra dos 40">
+  <h6>Imagem 7: Caixa de Regra dos 40</h6>
+</div>
 
 ### Regra dos 40
 
@@ -152,8 +169,11 @@ Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Caixa de Saldo em Tesouraria
-![alt text](../assets/contabilidade_caixa_saldo.png)
-<h6 align = "center"> Imagem 4: Caixa de Saldo em Tesouraria</h6>
+
+<div align="center">
+  <img src="../assets/contabilidade_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
+  <h6>Imagem 8: Caixa de Saldo em Tesouraria</h6>
+</div>
 
 ### Saldo em Tesouraria
 
