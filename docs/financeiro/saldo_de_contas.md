@@ -1,5 +1,6 @@
 # Saldo de Contas
 ![Relatório "Saldo de Contas"](../../assets/account_balance.png)
+
 Saldo de Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
 
 Manter um saldo de contas adequado é fundamental para a saúde financeira de uma empresa, pois permite que ela pague suas obrigações a tempo, evitando atrasos e multas, e também para aproveitar oportunidades de investimento que possam surgir. Um saldo inadequado pode levar à necessidade de buscar financiamento externo, o que aumenta os custos com juros e pode impactar negativamente a lucratividade da empresa.
