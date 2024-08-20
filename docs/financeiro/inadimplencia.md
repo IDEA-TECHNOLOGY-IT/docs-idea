@@ -1,4 +1,5 @@
 # Inadimplência
+![Relatório "Inadimplência"](../../assets/inad_details.png)
 
 Inadimplência é a falha no cumprimento de obrigações financeiras por parte de um devedor,
 seja uma pessoa física ou jurídica, que não realiza o pagamento de uma dívida dentro do prazo
