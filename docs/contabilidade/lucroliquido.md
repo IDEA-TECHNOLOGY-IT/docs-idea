@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_ll_page1.png" alt="Lucro Líquido Page 1">
-  <h6>Lucro Líquido Visão Gráfica</h6>
+  <h6>Imagem 1: Lucro Líquido Visão Gráfica</h6>
   <img src="../assets/contabilidade_ll_page2.png" alt="Lucro Líquido Page 2">
-  <h6>Lucro Líquido Visão de Tabela</h6>
+  <h6>Imagem 2: Lucro Líquido Visão de Tabela</h6>
 </div></p>
 
 Lucro Líquido refere-se ao lucro total da empresa após a dedução de todos os custos e despesas, incluindo impostos e despesas financeiras. Ele fornece uma visão clara do desempenho financeiro final da empresa, refletindo o lucro efetivo que pode ser reinvestido ou distribuído aos acionistas. 
@@ -20,7 +20,7 @@ Na página de Receita Bruta, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_ll_tabela_mes.png" alt="Tabela de Lucro Líquido">
-  <h6>Tabela de Lucro Líquido</h6>
+  <h6>Imagem 3: Tabela de Lucro Líquido</h6>
 </div>
 
 Esta tabela é exibindo Receita Líquida, Lucro Líquido e a % Margem (calculada como Lucro Líquido dividido pela Receita Líquida) por ano e mês. 
@@ -33,7 +33,7 @@ Esta tabela é importante porque fornece uma visão detalhada do desempenho fina
 
 <div align="center">
   <img src="../assets/contabilidade_ll_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
-  <h6>Lucro Líquido Acumulado por Mês</h6>
+  <h6>Imagem 4: Lucro Líquido Acumulado por Mês</h6>
 </div>
 
 Mostrando o valor acumulado do Lucro Líquido ao longo do tempo, com ‘tooltips’ que aparecem ao passar o cursor sobre a visualização, exibindo a Receita Líquida acumulada e a % Margem entre esses valores. 
@@ -44,7 +44,7 @@ Esse gráfico é essencial para analisar o comportamento acumulado do Lucro Líq
 
 <div align="center">
   <img src="../assets/contabilidade_ll_lucro_receita.png" alt="Lucro Líquido vs. Receita Líquida por Mês">
-  <h6>Lucro Líquido vs. Receita Líquida por Mês</h6>
+  <h6>Imagem 5: Lucro Líquido vs. Receita Líquida por Mês</h6>
 </div>
 
 Apresenta colunas para Lucro Líquido e Receita Líquida, com uma linha mostrando a % Margem. A linha é colorida em vermelho quando a margem está abaixo de 10% e em verde quando está igual ou acima de 10%. 
@@ -56,7 +56,7 @@ Esse gráfico facilita a comparação visual do Lucro Líquido e Receita Líquid
 
 <div align="center">
   <img src="../assets/contabilidade_ll_tabela_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Tabela de Detalhamento</h6>
+  <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
 A tabela de detalhamento contém colunas para Identificador (ID da Transação), Data de Lançamento, Filial, Projeto e Lucro Líquido. Esta tabela fornece uma visão granular das transações individuais relacionadas ao Lucro Líquido. 
