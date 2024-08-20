@@ -1,4 +1,4 @@
-mkdocs# Introdução ao Relatório Contabilidade
+# Introdução ao Relatório Contabilidade
 
 <div align="center">
   <img src="../../assets/contabilidade_home.png" alt="Contabilidade Home">
