@@ -49,7 +49,7 @@ Este gráfico de barras exibe a Regra dos 40 por ano, com rótulos de texto que 
 ## Regra dos 40 por Mês
 
 <div align="center">
-  <img src="../../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Mês">
+  <img src="../../assets/contabilidade_rd40_mes.png" alt="Regra dos 40 por Mês">
   <h6>Imagem 4: Regra dos 40 por Mês</h6>
 </div>
 
