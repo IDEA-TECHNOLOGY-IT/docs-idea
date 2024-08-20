@@ -1,9 +1,9 @@
 # Indicadores
 
 <p><div align="center">
-  <img src="../assets/contabilidade_i_page1.png" alt="Indicadores Page 1">
+  <img src="../../assets/contabilidade_i_page1.png" alt="Indicadores Page 1">
   <h6>Imagem 1: Indicadores Visão de Matrix de Saldo Acumulado por Contas e Subcontas</h6>
-  <img src="../assets/contabilidade_i_page2.png" alt="Indicadores Page 2">
+  <img src="../../assets/contabilidade_i_page2.png" alt="Indicadores Page 2">
   <h6>Imagem 2: Indicadores Visão de Tabela de Indicadores</h6>
 </div></p>
 
@@ -35,7 +35,7 @@ Na página de Indicadores, você encontrará:
 ## Matrix de Saldo Acumulado por Contas e Subcontas
 
 <div align="center">
-  <img src="../assets/contabilidade_i_contas.png" alt="Matrix de Saldo Acumulado por Contas e Subcontas">
+  <img src="../../assets/contabilidade_i_contas.png" alt="Matrix de Saldo Acumulado por Contas e Subcontas">
   <h6>Imagem 3: Matrix de Saldo Acumulado por Contas e Subcontas</h6>
 </div>
 
@@ -50,7 +50,7 @@ Essa matriz é essencial para a compreensão detalhada da posição financeira d
 ## Tabela de Indicadores
 
 <div align="center">
-  <img src="../assets/contabilidade_i_tabela_indicadores.png" alt="Tabela de Indicadores">
+  <img src="../../assets/contabilidade_i_tabela_indicadores.png" alt="Tabela de Indicadores">
   <h6>Imagem 4: Tabela de Indicadores</h6>
 </div>
 
@@ -63,7 +63,7 @@ A transparência nas fórmulas e a visualização direta dos valores ajudam a id
 ## Gráficos de Linhas por Indicadores
 
 <div align="center">
-  <img src="../assets/contabilidade_i_indicadores.png" alt="Gráficos de Linhas por Indicadores">
+  <img src="../../assets/contabilidade_i_indicadores.png" alt="Gráficos de Linhas por Indicadores">
   <h6>Imagem 5: Gráficos de Linhas por Indicadores</h6>
 </div>
 

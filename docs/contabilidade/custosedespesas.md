@@ -1,9 +1,9 @@
 # Custos e Despesas
 
 <p><div align="center">
-  <img src="../assets/contabilidade_ced_page1.png" alt="Custos e Despesas Page 1">
+  <img src="../../assets/contabilidade_ced_page1.png" alt="Custos e Despesas Page 1">
   <h6>Imagem 1: Custos e Despesas Visão Gráfica</h6>
-  <img src="../assets/contabilidade_ced_page2.png" alt="Custos e Despesas Page 2">
+  <img src="../../assets/contabilidade_ced_page2.png" alt="Custos e Despesas Page 2">
   <h6>Imagem 2: Custos e Despesas Visão de Tabela</h6>
 </div></p>
 
@@ -19,7 +19,7 @@ Na página de Receita Bruta, você encontrará:
 ### Tabela de Custos e Despesas
 
 <div align="center">
-  <img src="../assets/contabilidade_ced_tabela_contas.png" alt="Tabela de Custos e Despesas">
+  <img src="../../assets/contabilidade_ced_tabela_contas.png" alt="Tabela de Custos e Despesas">
   <h6>Imagem 3: Tabela de Custos e Despesas</h6>
 </div>
 
@@ -32,7 +32,7 @@ A % Diferença é crucial para compreender o crescimento ou a redução nos cust
 ### Custos e Despesas por Conta
 
 <div align="center">
-  <img src="../assets/contabilidade_ced_custos_e_despesas_por_conta.png" alt="Custos e Despesas por Conta">
+  <img src="../../assets/contabilidade_ced_custos_e_despesas_por_conta.png" alt="Custos e Despesas por Conta">
   <h6>Imagem 4: Custos e Despesas por Conta</h6>
 </div>
 
@@ -45,7 +45,7 @@ A ordenação dos dados ajuda a destacar as principais contas em termos de custo
 ### Variação dos Custos e Despesas em Relação ao Ano Anterior
 
 <div align="center">
-  <img src="../assets/contabilidade_ced_variacao.png" alt="Variação dos Custos e Despesas em Relação ao Ano Anterior">
+  <img src="../../assets/contabilidade_ced_variacao.png" alt="Variação dos Custos e Despesas em Relação ao Ano Anterior">
   <h6>Imagem 5: Variação dos Custos e Despesas em Relação ao Ano Anterior</h6>
 </div>
 
@@ -59,7 +59,7 @@ A codificação por cor da % Diferença ajuda a identificar rapidamente os perí
 ### Tabela de Detalhamento
 
 <div align="center">
-  <img src="../assets/contabilidade_ced_tabela_detalhes.png" alt="Tabela de Detalhamento">
+  <img src="../../assets/contabilidade_ced_tabela_detalhes.png" alt="Tabela de Detalhamento">
   <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 

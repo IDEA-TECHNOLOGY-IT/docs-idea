@@ -1,9 +1,9 @@
 # Receita Bruta
 
 <p><div align="center">
-  <img src="../assets/contabilidade_rb_page1.png" alt="Receita Bruta Page 1">
+  <img src="../../assets/contabilidade_rb_page1.png" alt="Receita Bruta Page 1">
   <h6>Imagem 1: Receita Bruta Visão Gráfica</h6>
-  <img src="../assets/contabilidade_rb_page2.png" alt="Receita Bruta Page 2">
+  <img src="../../assets/contabilidade_rb_page2.png" alt="Receita Bruta Page 2">
   <h6>Imagem 2: Receita Bruta Visão de Tabela</h6>
 </div></p>
 
@@ -21,7 +21,7 @@ Na página de Receita Bruta, você encontrará:
 ### Tabela de Receita Bruta
 
 <div align="center">
-  <img src="../assets/contabilidade_rb_tabela_contas.png" alt="Tabela de Receita Bruta">
+  <img src="../../assets/contabilidade_rb_tabela_contas.png" alt="Tabela de Receita Bruta">
   <h6>Imagem 3: Tabela de Receita Bruta</h6>
 </div>
 
@@ -34,7 +34,7 @@ A % Diferença é crucial para entender o crescimento ou a redução nas receita
 ### Receita Bruta por Conta
 
 <div align="center">
-  <img src="../assets/contabilidade_rb_receita_bruta_por_conta.png" alt="Receita Bruta por Conta">
+  <img src="../../assets/contabilidade_rb_receita_bruta_por_conta.png" alt="Receita Bruta por Conta">
   <h6>Imagem 4: Receita Bruta por Conta</h6>
 </div>
 
@@ -47,7 +47,7 @@ A ordenação dos dados ajuda a destacar as principais contas em termos de recei
 ### Variação da Receita Bruta em Relação ao Ano Anterior
 
 <div align="center">
-  <img src="../assets/contabilidade_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
+  <img src="../../assets/contabilidade_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
   <h6>Imagem 5: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
 </div>
 
@@ -63,7 +63,7 @@ A codificação por cor da % Diferença ajuda a identificar rapidamente os perí
 ### Tabela de Detalhamento
 
 <div align="center">
-  <img src="../assets/contabilidade_rb_tabela_detalhes.png" alt="Tabela de Detalhamento">
+  <img src="../../assets/contabilidade_rb_tabela_detalhes.png" alt="Tabela de Detalhamento">
   <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 

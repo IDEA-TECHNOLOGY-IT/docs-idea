@@ -1,9 +1,9 @@
 # EBITDA
 
 <p><div align="center">
-  <img src="../assets/contabilidade_ebitda_page1.png" alt="EBITDA Page 1">
+  <img src="../../assets/contabilidade_ebitda_page1.png" alt="EBITDA Page 1">
   <h6>Imagem 1: EBITDA Visão Gráfica</h6>
-  <img src="../assets/contabilidade_ebitda_page2.png" alt="EBITDA Page 2">
+  <img src="../../assets/contabilidade_ebitda_page2.png" alt="EBITDA Page 2">
   <h6>Imagem 2: EBITDA Visão de Tabela</h6>
 </div></p>
 
@@ -21,7 +21,7 @@ Na página de Receita Bruta, você encontrará:
 ### Tabela de EBITDA
 
 <div align="center">
-  <img src="../assets/contabilidade_ebitda_tabela_mes.png" alt="Tabela de EBITDA">
+  <img src="../../assets/contabilidade_ebitda_tabela_mes.png" alt="Tabela de EBITDA">
   <h6>Imagem 3: Tabela de EBITDA</h6>
 </div>
 
@@ -34,7 +34,7 @@ Este recurso visual ajuda a avaliar rapidamente as mudanças no desempenho ao lo
 ### EBITDA Acumulado por Mês
 
 <div align="center">
-  <img src="../assets/contabilidade_ebitda_acumulado.png" alt="EBITDA Acumulado por Mês">
+  <img src="../../assets/contabilidade_ebitda_acumulado.png" alt="EBITDA Acumulado por Mês">
   <h6>Imagem 4: EBITDA Acumulado por Mês</h6>
 </div>
 
@@ -45,7 +45,7 @@ Ao passar o cursor sobre o gráfico, as dicas de ferramenta mostram informaçõe
 ### EBITDA vs. Receita Líquida por Mês
 
 <div align="center">
-  <img src="../assets/contabilidade_ebitda_ebitda_receita.png" alt="EBITDA vs. Receita Líquida por Mês">
+  <img src="../../assets/contabilidade_ebitda_ebitda_receita.png" alt="EBITDA vs. Receita Líquida por Mês">
   <h6>Imagem 5: EBITDA vs. Receita Líquida por Mês</h6>
 </div>
 
@@ -59,7 +59,7 @@ A linha é codificada por cores: vermelha para margens abaixo de 20% e verde par
 ### Tabela de Detalhamento
 
 <div align="center">
-  <img src="../assets/contabilidade_ebitda_tabela_detalhes.png" alt="Tabela de Detalhamento">
+  <img src="../../assets/contabilidade_ebitda_tabela_detalhes.png" alt="Tabela de Detalhamento">
   <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 

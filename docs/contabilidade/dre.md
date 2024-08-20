@@ -1,7 +1,7 @@
 # Demonstração do Resultado do Exercício (DRE)
 
 <p><div align="center">
-  <img src="../assets/contabilidade_dre.png" alt="DRE">
+  <img src="../../assets/contabilidade_dre.png" alt="DRE">
   <h6>Imagem 1: Demonstração do Resultado do Exercício</h6>
 </div></p>
 
@@ -12,7 +12,7 @@ Esse relatório é essencial para avaliar a lucratividade, tomar decisões empre
 ## Tabela de DRE
 
 <p><div align="center">
-  <img src="../assets/contabilidade_dre_tabela.png" alt="Tabela de DRE">
+  <img src="../../assets/contabilidade_dre_tabela.png" alt="Tabela de DRE">
   <h6>Imagem 2: Tabela de DRE</h6>
 </div></p>
 

@@ -1,7 +1,7 @@
 # Caixas de Indicadores
 
 <div align="center">
-  <img src="../assets/contabilidade_indicadores_caixas.png" alt="Caixas de Indicadores">
+  <img src="../../assets/contabilidade_indicadores_caixas.png" alt="Caixas de Indicadores">
   <h6>Imagem 1: Caixas de Indicadores</h6>
 </div>
 
@@ -16,7 +16,7 @@ Em resumo, as caixas de indicadores no topo de cada página do relatório no Pow
 ## Caixa de Receita Bruta
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_receita_bruta.png" alt="Caixa de Receita Bruta">
+  <img src="../../assets/contabilidade_caixa_receita_bruta.png" alt="Caixa de Receita Bruta">
   <h6>Imagem 2: Caixa de Receita Bruta</h6>
 </div>
 
@@ -39,7 +39,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Rec
 ## Caixa de Custos e Despesas
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_custos.png" alt="Caixa de Custos e Despesas">
+  <img src="../../assets/contabilidade_caixa_custos.png" alt="Caixa de Custos e Despesas">
   <h6>Imagem 3: Caixa de Custos e Despesas</h6>
 </div>
 
@@ -62,7 +62,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cus
 ## Caixa de Lucro Líquido
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_lucro.png" alt="Caixa de Lucro Líquido">
+  <img src="../../assets/contabilidade_caixa_lucro.png" alt="Caixa de Lucro Líquido">
   <h6>Imagem 4: Caixa de Lucro Líquido</h6>
 </div>
 
@@ -85,7 +85,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Luc
 ## Caixa de EBITDA
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_ebitda.png" alt="Caixa de EBITDA">
+  <img src="../../assets/contabilidade_caixa_ebitda.png" alt="Caixa de EBITDA">
   <h6>Imagem 5: Caixa de EBITDA</h6>
 </div>
 
@@ -108,7 +108,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBI
 ## Caixa de Capital Giro Próprio
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
+  <img src="../../assets/contabilidade_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
   <h6>Imagem 6: Caixa de Capital Giro Próprio</h6>
 </div>
 
@@ -144,7 +144,7 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 ## Caixa de Regra dos 40
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_regra.png" alt="Caixa de Regra dos 40">
+  <img src="../../assets/contabilidade_caixa_regra.png" alt="Caixa de Regra dos 40">
   <h6>Imagem 7: Caixa de Regra dos 40</h6>
 </div>
 
@@ -171,7 +171,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Reg
 ## Caixa de Saldo em Tesouraria
 
 <div align="center">
-  <img src="../assets/contabilidade_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
+  <img src="../../assets/contabilidade_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
   <h6>Imagem 8: Caixa de Saldo em Tesouraria</h6>
 </div>
 

@@ -1,7 +1,7 @@
 # Regra dos 40
 
 <p><div align="center">
-  <img src="../assets/contabilidade_rd40.png" alt="Regra dos 40">
+  <img src="../../assets/contabilidade_rd40.png" alt="Regra dos 40">
   <h6>Imagem 1: Regra dos 40</h6>
 </div></p>
 
@@ -16,7 +16,7 @@ Na página de Regra dos 40, você encontrará:
 ## Matrix de Regra dos 40
 
 <div align="center">
-  <img src="../assets/contabilidade_rd40_matrix.png" alt="Matrix de Regra dos 40">
+  <img src="../../assets/contabilidade_rd40_matrix.png" alt="Matrix de Regra dos 40">
   <h6>Imagem 2: Matrix de Regra dos 40</h6>
 </div>
 
@@ -40,7 +40,7 @@ Cada coluna na matriz contribui para uma compreensão abrangente do desempenho f
 ## Regra dos 40 por Ano
 
 <div align="center">
-  <img src="../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Ano">
+  <img src="../../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Ano">
   <h6>Imagem 3: Regra dos 40 por Ano</h6>
 </div>
 
@@ -49,7 +49,7 @@ Este gráfico de barras exibe a Regra dos 40 por ano, com rótulos de texto que 
 ## Regra dos 40 por Mês
 
 <div align="center">
-  <img src="../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Mês">
+  <img src="../../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Mês">
   <h6>Imagem 4: Regra dos 40 por Mês</h6>
 </div>
 
