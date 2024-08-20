@@ -47,9 +47,9 @@ plugins:
       minify_html: true
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-committers:
-      repository: IDEA-TECHNOLOGY-IT/docs-idea_finance
-      branch: main
+  # - git-committers:
+  #     repository: IDEA-TECHNOLOGY-IT/docs-idea_finance
+  #     branch: main
   - glightbox
     
 
@@ -143,7 +143,7 @@ nav:
     - financeiro/fluxo_de_caixa.md
     - financeiro/saldo_de_contas.md
   - Contabilidade:
-    - contabilidade/conteúdo.md
+    - contabilidade/ficha-tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_caixas.md
     - contabilidade/home.md
