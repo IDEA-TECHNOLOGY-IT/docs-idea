@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_ced_page1.png" alt="Custos e Despesas Page 1">
-  <h6>Custos e Despesas Visão Gráfica</h6>
+  <h6>Imagem 1: Custos e Despesas Visão Gráfica</h6>
   <img src="../assets/contabilidade_ced_page2.png" alt="Custos e Despesas Page 2">
-  <h6>Custos e Despesas Visão de Tabela</h6>
+  <h6>Imagem 2: Custos e Despesas Visão de Tabela</h6>
 </div></p>
 
 Custos e Despesas refere-se aos gastos totais de uma empresa relacionados à sua operação e produção, antes de deduzir receitas ou outros ajustes. 
@@ -20,7 +20,7 @@ Na página de Receita Bruta, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_ced_tabela_contas.png" alt="Tabela de Custos e Despesas">
-  <h6>Tabela de Custos e Despesas</h6>
+  <h6>Imagem 3: Tabela de Custos e Despesas</h6>
 </div>
 
 Esta tabela exibe Custos e Despesas para o Ano Atual, o Ano Anterior e a % Diferença entre eles, organizada por Nome da Conta e Nível, conforme a ordem do Modelo. 
@@ -33,7 +33,7 @@ A % Diferença é crucial para compreender o crescimento ou a redução nos cust
 
 <div align="center">
   <img src="../assets/contabilidade_ced_custos_e_despesas_por_conta.png" alt="Custos e Despesas por Conta">
-  <h6>Custos e Despesas por Conta</h6>
+  <h6>Imagem 4: Custos e Despesas por Conta</h6>
 </div>
 
 Este gráfico de barras verticais que mostra os Custos e Despesas para o Ano Atual e o Ano Anterior, organizados por Nome da Conta e ordenados do maior valor do Ano Atual para o menor. 
@@ -46,7 +46,7 @@ A ordenação dos dados ajuda a destacar as principais contas em termos de custo
 
 <div align="center">
   <img src="../assets/contabilidade_ced_variacao.png" alt="Variação dos Custos e Despesas em Relação ao Ano Anterior">
-  <h6>Variação dos Custos e Despesas em Relação ao Ano Anterior</h6>
+  <h6>Imagem 5: Variação dos Custos e Despesas em Relação ao Ano Anterior</h6>
 </div>
 
 Este gráfico de barras com linha que combina barras e uma linha para mostrar os Custos e Despesas do Ano Atual e do Ano Anterior, com a linha representando a % Diferença entre eles. A linha é colorida em verde quando a diferença é positiva e em vermelho quando é negativa. 
@@ -60,7 +60,7 @@ A codificação por cor da % Diferença ajuda a identificar rapidamente os perí
 
 <div align="center">
   <img src="../assets/contabilidade_ced_tabela_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Tabela de Detalhamento</h6>
+  <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
 Esta tabela contém dados detalhados com colunas para Identificador (ID da Transação), Data de Lançamento, Filial, Projeto, Valor dos Custos e Despesas, Nome da Conta (conforme o Modelo), Nome da Conta Sintética (conforme o Modelo) e Nome da Conta Analítica (conforme o Modelo). 
