@@ -154,3 +154,5 @@ nav:
     - contabilidade/indicadores.md
     - contabilidade/regrados40.md
     - contabilidade/dre.md
+  - Faturamento:
+    -faturamento/home.md
