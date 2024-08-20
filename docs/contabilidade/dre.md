@@ -2,7 +2,7 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_dre.png" alt="DRE">
-  <h6>Demonstração do Resultado do Exercício</h6>
+  <h6>Imagem 1: Demonstração do Resultado do Exercício</h6>
 </div></p>
 
 A Demonstração do Resultado do Exercício (DRE) é um relatório financeiro que fornece um resumo detalhado das receitas, custos e despesas de uma empresa durante um determinado período, geralmente um trimestre ou ano fiscal. A DRE é crucial porque ajuda as partes interessadas, como investidores, gestores e reguladores, a entenderem o desempenho financeiro da empresa, mostrando como a receita se transforma em lucro ou prejuízo líquido. 
@@ -13,7 +13,7 @@ Esse relatório é essencial para avaliar a lucratividade, tomar decisões empre
 
 <p><div align="center">
   <img src="../assets/contabilidade_dre_tabela.png" alt="Tabela de DRE">
-  <h6>Tabela de DRE</h6>
+  <h6>Imagem 2: Tabela de DRE</h6>
 </div></p>
 
 A página DRE (Demonstração do Resultado do Exercício) apresenta uma matriz detalhada que mostra os valores realizados, AV% (Variação Absoluta Percentual) e AH% (Variação Absoluta Percentual Histórica) para cada conta e subconta no modelo. Os ícones coloridos indicam variações positivas (verde) e negativas (vermelho), e as colunas são organizadas por ano e/ou mês, enquanto as linhas incluem contas como Receita Bruta, Deduções, Receita Líquida, Custos e Despesas, EBITDA, Receitas e Despesas Não Operacionais, Custos Indiretos (Rateio Adm.), Lucro Antes do IRPJ e CSLL, IRPJ e CSLL, e Lucro Líquido, além de suas subcontas.
