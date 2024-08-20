@@ -2,7 +2,7 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_rd40.png" alt="Regra dos 40">
-  <h6>Regra dos 40</h6>
+  <h6>Imagem 1: Regra dos 40</h6>
 </div></p>
 
 Regra dos 40 é um princípio amplamente utilizado para avaliar o equilíbrio entre crescimento e rentabilidade de uma empresa. De acordo com essa regra, a soma da taxa de crescimento anual da receita (em percentual) e a margem de lucro operacional (em percentual) deve ser igual ou superior a 40%. Esse indicador é especialmente relevante para empresas de software como serviço (SaaS), onde o crescimento rápido e a lucratividade sustentável são essenciais para o sucesso a longo prazo.
@@ -17,7 +17,7 @@ Na página de Regra dos 40, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_rd40_matrix.png" alt="Matrix de Regra dos 40">
-  <h6>Matrix de Regra dos 40</h6>
+  <h6>Imagem 2: Matrix de Regra dos 40</h6>
 </div>
 
 Esta matriz apresenta colunas para Receita Líquida Ano Atual, Receita Líquida Ano Anterior, EBITDA, Margem EBITDA, Taxa de Crescimento e Regra dos 40, organizadas por ano e mês. Cada coluna desempenha um papel crucial na análise da aplicação da Regra dos 40 e oferece insights detalhados sobre o desempenho financeiro da empresa.
@@ -41,7 +41,7 @@ Cada coluna na matriz contribui para uma compreensão abrangente do desempenho f
 
 <div align="center">
   <img src="../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Ano">
-  <h6>Regra dos 40 por Ano</h6>
+  <h6>Imagem 3: Regra dos 40 por Ano</h6>
 </div>
 
 Este gráfico de barras exibe a Regra dos 40 por ano, com rótulos de texto que mudam de cor conforme o desempenho em relação à meta. Os rótulos se tornam vermelhos quando o valor está abaixo de 40% e verdes quando igual ou superior a 40%. Essa representação ajuda a visualizar rapidamente o cumprimento da Regra dos 40 ao longo dos anos.
@@ -50,7 +50,7 @@ Este gráfico de barras exibe a Regra dos 40 por ano, com rótulos de texto que 
 
 <div align="center">
   <img src="../assets/contabilidade_rd40_ano.png" alt="Regra dos 40 por Mês">
-  <h6>Regra dos 40 por Mês</h6>
+  <h6>Imagem 4: Regra dos 40 por Mês</h6>
 </div>
 
 O gráfico de área mostra a Regra dos 40 por mês e ano, com rótulos de texto que também mudam de cor de acordo com a meta. Os rótulos ficam vermelhos quando o valor está abaixo de 40% e verdes quando está igual ou acima de 40%. Além disso, o gráfico inclui uma linha que marca o objetivo de 40%, facilitando a comparação visual do desempenho com a meta estabelecida.
