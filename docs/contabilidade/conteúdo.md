@@ -4,17 +4,16 @@ O Relatório **Idea Contabilidade** traz métricas e análises contabilidades pa
 
 ## Recursos
 
-1. [Indicadores - Caixas](./indicadores_caixas.md)
-2. [Home](./home.md)
-3. [Receita Bruta](./receitabruta.md)
-4. [Custos e Despesas](./custosedespesas.md)
-5. [Lucro Líquido](./lucroliquido.md)
-6. [EBITDA](./ebitda.md)
-7. [Indicadores](./indicadores.md)
-8. [Regra dos 40](./regrados40.md)
-9. [DRE -Demonstração do Resultado do Exercício](./dre.md)
-10. [Filtros](./filtros.md)
-
+1. [Introdução ao Relatório Contabilidade](./intro.md)
+2. [Caixas de Indicadores](./indicadores_caixas.md)
+3. [Visão Contábil - Home](./home.md)
+4. [Receita Bruta](./receitabruta.md)
+5. [Custos e Despesas](./custosedespesas.md)
+6. [Lucro Líquido](./lucroliquido.md)
+7. [EBITDA](./ebitda.md)
+8. [Indicadores](./indicadores.md)
+9. [Regra dos 40](./regrados40.md)
+10. [DRE -Demonstração do Resultado do Exercício](./dre.md)
 
 ## Introdução
 
