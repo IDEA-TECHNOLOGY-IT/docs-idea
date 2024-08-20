@@ -77,7 +77,7 @@ Selecionar este botão leva os usuários à página intitulada DRE (Demonstraç�
 
 <div align="center">
   <img src="../assets/contabilidade_filtros.png" alt="Contabilidade Filtros">
-  <h6>Imagem 1: Relatório Contabilidade - Visão Contábil</h6>
+  <h6>Imagem 3: Filtros ou Slicers</h6>
 </div>
 
 Os filtros, que você pode ver sendo chamados de Slicers, são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. 
