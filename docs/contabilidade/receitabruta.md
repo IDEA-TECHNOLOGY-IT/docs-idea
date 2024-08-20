@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_rb_page1.png" alt="Receita Bruta Page 1">
-  <h6>Receita Bruta Visão Gráfica</h6>
+  <h6>Imagem 1: Receita Bruta Visão Gráfica</h6>
   <img src="../assets/contabilidade_rb_page2.png" alt="Receita Bruta Page 2">
-  <h6>Receita Bruta Visão de Tabela</h6>
+  <h6>Imagem 2: Receita Bruta Visão de Tabela</h6>
 </div></p>
 
 Receita Bruta refere-se ao total de receita gerada pela empresa a partir de suas vendas e serviços antes de qualquer dedução, como impostos, descontos ou devoluções. 
@@ -22,7 +22,7 @@ Na página de Receita Bruta, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_rb_tabela_contas.png" alt="Tabela de Receita Bruta">
-  <h6>Tabela de Receita Bruta</h6>
+  <h6>Imagem 3: Tabela de Receita Bruta</h6>
 </div>
 
 Esta tabela exibe a Receita Bruta para o Ano Atual, o Ano Anterior e a % Diferença entre eles, organizada por Nome da Conta e Nível, conforme a ordem do Modelo. 
@@ -35,7 +35,7 @@ A % Diferença é crucial para entender o crescimento ou a redução nas receita
 
 <div align="center">
   <img src="../assets/contabilidade_rb_receita_bruta_por_conta.png" alt="Receita Bruta por Conta">
-  <h6>Receita Bruta por Conta</h6>
+  <h6>Imagem 4: Receita Bruta por Conta</h6>
 </div>
 
 Este gráfico de barras verticais apresenta barras que representam a Receita Bruta para o Ano Atual e o Ano Anterior, organizadas por Nome da Conta e ordenadas do maior valor do Ano Atual para o menor. 
@@ -48,7 +48,7 @@ A ordenação dos dados ajuda a destacar as principais contas em termos de recei
 
 <div align="center">
   <img src="../assets/contabilidade_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
-  <h6>Variação da Receita Bruta em Relação ao Ano Anterior</h6>
+  <h6>Imagem 5: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
 </div>
 
 Este gráfico de barras com linha combina barras e uma linha para mostrar a Receita Bruta para o Ano Atual e o Ano Anterior, com a linha representando a % Diferença entre eles. 
@@ -64,7 +64,7 @@ A codificação por cor da % Diferença ajuda a identificar rapidamente os perí
 
 <div align="center">
   <img src="../assets/contabilidade_rb_tabela_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Tabela de Detalhamento</h6>
+  <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
 Esta tabela contém dados detalhados com colunas para Identificador (ID da Transação), Data Lançamento (Data da Transação), Filial (Filial), Projeto (Projeto), Valor da Receita Bruta, Nome da Conta (conforme o Modelo), Nome da Conta Sintética (conforme o Modelo) e Nome da Conta Analítica (conforme o Modelo). 
