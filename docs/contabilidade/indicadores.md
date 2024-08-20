@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../assets/contabilidade_i_page1.png" alt="Indicadores Page 1">
-  <h6>Indicadores Visão de Matrix de Saldo Acumulado por Contas e Subcontas</h6>
+  <h6>Imagem 1: Indicadores Visão de Matrix de Saldo Acumulado por Contas e Subcontas</h6>
   <img src="../assets/contabilidade_i_page2.png" alt="Indicadores Page 2">
-  <h6>Indicadores Visão de Tabela de Indicadores</h6>
+  <h6>Imagem 2: Indicadores Visão de Tabela de Indicadores</h6>
 </div></p>
 
 Os indicadores financeiros são ferramentas essenciais para avaliar a saúde e a sustentabilidade de uma empresa. Eles fornecem uma visão detalhada sobre diferentes aspectos financeiros, como liquidez, endividamento, eficiência operacional e capacidade de financiamento. 
@@ -36,7 +36,7 @@ Na página de Indicadores, você encontrará:
 
 <div align="center">
   <img src="../assets/contabilidade_i_contas.png" alt="Matrix de Saldo Acumulado por Contas e Subcontas">
-  <h6>Matrix de Saldo Acumulado por Contas e Subcontas</h6>
+  <h6>Imagem 3: Matrix de Saldo Acumulado por Contas e Subcontas</h6>
 </div>
 
 A matriz que apresenta o saldo acumulado por contas principais e suas respectivas subcontas oferece uma visão abrangente e detalhada da estrutura financeira da empresa. Esta matriz inclui as principais contas de Ativo e Passivo, e suas subdivisões, como Ativo Circulante, Ativo Não Circulante, Passivo Circulante, Passivo Não Circulante e Passivo Patrimônio Líquido, além das subcontas associadas a cada uma dessas categorias. 
@@ -51,7 +51,7 @@ Essa matriz é essencial para a compreensão detalhada da posição financeira d
 
 <div align="center">
   <img src="../assets/contabilidade_i_tabela_indicadores.png" alt="Tabela de Indicadores">
-  <h6>Tabela de Indicadores</h6>
+  <h6>Imagem 4: Tabela de Indicadores</h6>
 </div>
 
 A Tabela de Indicadores exibe uma lista detalhada dos principais indicadores financeiros, incluindo a fórmula utilizada para cada cálculo e o valor atual correspondente. 
@@ -64,7 +64,7 @@ A transparência nas fórmulas e a visualização direta dos valores ajudam a id
 
 <div align="center">
   <img src="../assets/contabilidade_i_indicadores.png" alt="Gráficos de Linhas por Indicadores">
-  <h6>Gráficos de Linhas por Indicadores</h6>
+  <h6>Imagem 5: Gráficos de Linhas por Indicadores</h6>
 </div>
 
 Existem dois gráficos de linha controlados por dois conjuntos de botões. Cada botão mudará o gráfico de linha diretamente abaixo para o Indicador representado pelo botão.
