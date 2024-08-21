@@ -90,19 +90,19 @@ Os filtros são feitos a partir dos dados da empresa, ou seja, você pode filtra
 
 ###	Filial
 <p><img src="../../assets/contabilidade_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
-Este slicer permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
+Este filtro permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
 
 ###	Projeto
 <p><img src="../../assets/contabilidade_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
-O slicer de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
+O filtro de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
 
 ###	Ano
 <p><img src="../../assets/contabilidade_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
-O slicer de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
+O filtro de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
 
 ###	Mês
 <p><img src="../../assets/contabilidade_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
-Este slicer possibilita a filtragem dos dados por mês específico. Ao escolher um mês, todos os visuais no relatório são ajustados para refletir apenas as informações desse período, facilitando a análise mensal e a identificação de variações sazonais.
+Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher um mês, todos os visuais no relatório são ajustados para refletir apenas as informações desse período, facilitando a análise mensal e a identificação de variações sazonais.
 
 ###	Antes da Data
 <p><img src="../../assets/contabilidade_filtros_antes.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
