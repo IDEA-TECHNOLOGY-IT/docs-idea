@@ -1,6 +1,6 @@
 # mkdocs.yml
 
-site_name: ''
+site_name: 'Analytics'
 site_url: https://idea-technology-it.github.io/docs-idea_finance/
 site_description: Documentação para o projeto Idea Business Analytics
 site_author: rafaelmedeirosnobre@gmail.com
@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2024 - 2024 Idea Technology
 
 # Configuration
 theme:
-  language: pt-BR
+  language: pt-BR 
   name: material
   custom_dir: overrides
   logo: assets/logo.png
@@ -133,8 +133,16 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-
-  - Idea Account:
+  - Idea Finance: 
+    - financeiro/ficha-tecnica.md
+    - financeiro/contas_a_receber.md
+    - financeiro/contas-a-pagar.md
+    - financeiro/inadimplencia.md
+    - financeiro/pagamentos-vencidos.md
+    - financeiro/prazo_medio_recebimento.md
+    - financeiro/fluxo_de_caixa.md
+    - financeiro/saldo_de_contas.md
+  - Contabilidade:
     - contabilidade/ficha-tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_caixas.md
@@ -146,21 +154,8 @@ nav:
     - contabilidade/indicadores.md
     - contabilidade/regrados40.md
     - contabilidade/dre.md
-  - Idea Finance:
-    - financeiro/ficha-tecnica.md
-    - financeiro/contas_a_receber.md
-    - financeiro/contas-a-pagar.md
-    - financeiro/inadimplencia.md
-    - financeiro/pagamentos-vencidos.md
-    - financeiro/prazo_medio_recebimento.md
-    - financeiro/fluxo_de_caixa.md
-    - financeiro/saldo_de_contas.md
-  - Idea Sales:
-    - faturamento/ficha-tecnica.md
+  - Faturamento:
     - faturamento/home.md
     - faturamento/vendas.md
-    - faturamento/devolucoes.md
     - faturamento/faturamento_liquido.md
     - faturamento/lucro_bruto.md
-    - faturamento/positivacao.md
-    
