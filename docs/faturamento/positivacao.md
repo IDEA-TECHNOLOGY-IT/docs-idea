@@ -149,7 +149,7 @@ Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para 
 
 ## Gráfico "Meta Mensal (%)"
 
-![Gráfico "Meta Mensal (%)"](../../assets/image.png)
+![Gráfico "Meta Mensal (%)"](../../assets/meta-mensal.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Meta Mensal (%) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do desempenho da empresa em relação à **Meta Mensal** estabelecida, expressa em percentual (%), ao longo do tempo. A meta mensal geralmente refere-se a um objetivo específico de vendas, faturamento, ou outro indicador-chave de desempenho (KPI) que a empresa almeja atingir em cada mês. O gráfico permite acompanhar o quão perto ou distante a empresa está de atingir suas metas mensais ao longo dos anos.
