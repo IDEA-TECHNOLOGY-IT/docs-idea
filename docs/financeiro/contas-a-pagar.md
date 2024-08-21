@@ -1,7 +1,7 @@
 # Painel Contas a Pagar
 
 ![alt text](../assets/contas-a-pagar.png)
-<h6 align = "center"> Imagem 1: Relatório Geral Contas a Pagar</h6>
+<h6 align = "center"> Imagem 1: Painel Contas a Pagar</h6>
 
 Contas a pagar representam as obrigações financeiras que uma empresa assume com fornecedores e outros credores, com o compromisso de quitação em um período futuro. 
 

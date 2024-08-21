@@ -18,7 +18,6 @@ O Faturamento Líquido é um indicador crucial porque mostra a receita que a emp
 ## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
 
 ![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../../assets/tabela-faturamento-filial-vendedor-cliente-fabricante-item.jpeg)
-
 <p align="center"><em>Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
 Esta tabela fornece uma análise detalhada do Faturamento Líquido segregado por diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item. A tabela apresenta diversas colunas que oferecem informações essenciais para a gestão financeira, incluindo faturamento, metas, margens e prazo médio de recebimento (PMR). A seguir, explicamos cada coluna e como interpretar os dados apresentados.
