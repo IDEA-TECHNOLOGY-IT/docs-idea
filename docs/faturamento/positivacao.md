@@ -25,7 +25,7 @@ A positivação é, portanto, um indicador essencial que, quando monitorado de p
 
 ## Gráfico "CMV - Custo da Mercadoria Vendida (%)"
 
-![Gráfico "CMV - Custo da Mercadoria Vendida (%)"](../../assets/image.png)
+![Gráfico "CMV - Custo da Mercadoria Vendida (%)"](../../assets/cmv.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Custo da Mercadoria Vendida (%) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do **Custo da Mercadoria Vendida (CMV)** ao longo do tempo, expresso em percentual (%). O CMV representa o custo direto associado à produção das mercadorias vendidas pela empresa durante um período específico. Este gráfico permite uma análise detalhada de como o CMV varia ao longo dos meses e anos, ajudando a empresa a monitorar a eficiência operacional e a rentabilidade das suas operações.
