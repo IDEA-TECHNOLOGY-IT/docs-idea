@@ -155,7 +155,9 @@ nav:
     - contabilidade/regrados40.md
     - contabilidade/dre.md
   - Faturamento:
+    - faturamento/ficha-tecnica.md
     - faturamento/home.md
     - faturamento/vendas.md
     - faturamento/faturamento_liquido.md
     - faturamento/lucro_bruto.md
+    - faturamento/positivacao.md
