@@ -4,7 +4,7 @@ O Relatório **Idea Contabilidade** traz métricas e análises contabilidades pa
 
 ## Recursos
 
-1. [Introdução ao Relatório Contabilidade](./intro.md)
+1. [Introdução ao BI Contabilidade](./intro.md)
 2. [Caixas de Indicadores](./indicadores_caixas.md)
 3. [Visão Contábil - Home](./home.md)
 4. [Receita Bruta](./receitabruta.md)
