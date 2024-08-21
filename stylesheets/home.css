@@ -66,7 +66,7 @@ h2 {
   line-height: 1.65;
 }
 
-.ul-text li {
+.ul-checklist li {
   color:#fff;
   list-style:none;
   display: flex;
@@ -75,14 +75,14 @@ h2 {
   align-items: center;
 }
 
-.ul-text li:before {
+.ul-checklist li:before {
   font-family:FontAwesome;
   color:#fff;
-  font-size:18px;
+  font-size:8px;
   content:"\f10c";
 }
 
-.ul-text li:hover:before {
+.ul-checklist li:hover:before {
   color:var(--color-yellow);
 }
 
@@ -94,6 +94,7 @@ h2 {
   padding: 0.1rem 0.5rem;
   cursor: pointer;
   color: var(--color-text-secondary);
+  align-items: center;
 }
 
 svg{
