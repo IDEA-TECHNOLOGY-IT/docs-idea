@@ -3,6 +3,9 @@
 ![alt text](../assets/devolucoes/Imagem1 - Relatório Geral de Devoluções.png)
 <h6 align = "center"> Imagem1 - Relatório Geral de Devoluções</h6>
 
+![alt text](../assets/devolucoes/Imagem2 - Relatório Detalhado de Devoluções.png)
+<h6 align = "center"> Imagem2 - Relatório Detalhado de Devoluções</h6>
+
 ## O que são Devoluções? E Como Funciona?
 
 As devoluções de mercadorias ocorrem quando um cliente retorna um item que já foi recebido e aceito, diferenciando-se do simples retorno de mercadorias que ocorre antes do recebimento oficial. As devoluções podem ser motivadas por diversos fatores, como defeitos no produto, insatisfação do cliente, erro no pedido, ou outros motivos que justifiquem o não aceite do item. Em geral, há um prazo estabelecido para que o cliente possa solicitar a devolução. O objetivo é cancelar a compra, aplicando o mesmo tratamento fiscal utilizado na compra original, seja com benefícios tributários ou tributação regular.
@@ -18,6 +21,9 @@ Em resumo, as devoluções no faturamento representam processos que envolvem a r
 
 ## Gráfico de Devolução Acumulado
 
+![alt text](../assets/devolucoes/Imagem3 - Gráfico de Devolução Acumulado.png)
+<h6 align = "center"> Imagem3 - Gráfico de Devolução Acumulado</h6>
+
 O **Gráfico de Devolução Acumulado** é uma representação visual que ilustra o volume de devoluções ao longo do tempo, acumulando os valores em cada ponto do gráfico. Em vez de mostrar apenas os valores pontuais de cada devolução, o gráfico permite visualizar o comportamento das devoluções de forma progressiva, mostrando o total acumulado até determinado momento.
 
 Esse gráfico geralmente apresenta uma linha ou curva crescente, onde cada ponto reflete o total acumulado até aquele período. Se o número de devoluções aumenta rapidamente, a inclinação da curva será mais acentuada; se as devoluções diminuem, a curva se torna mais suave.
@@ -31,6 +37,9 @@ Esse gráfico geralmente apresenta uma linha ou curva crescente, onde cada ponto
 
 ## Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item
 
+![alt text](../assets/devolucoes/Imagem4 - Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item.png)
+<h6 align = "center"> Imagem4 - Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+
 Esse tipo de gráfico oferece uma representação visual que distribui o valor das devoluções de acordo com categorias específicas, como Filial, Vendedor, Cliente, Fabricante ou Item. Ele permite que a empresa identifique com precisão onde as devoluções estão ocorrendo e quais fatores ou grupos podem estar influenciando esses retornos de produtos.
 
 ### Finalidade do Gráfico:
@@ -41,6 +50,9 @@ Esse tipo de gráfico oferece uma representação visual que distribui o valor d
 - **Monitoramento e Acompanhamento:** Esse gráfico ajuda a acompanhar o desempenho contínuo da empresa, possibilitando a identificação rápida de tendências positivas ou negativas. O monitoramento contínuo permite que a empresa reaja de forma proativa a problemas antes que eles se tornem críticos.
 
 ## Gráfico Detalhado de Lançamento das Devoluções
+
+![alt text](../assets/devolucoes/Imagem5 - Gráfico Detalhado de Lançamento das Devoluções.png)
+<h6 align = "center"> Imagem5 - Gráfico Detalhado de Lançamento das Devoluções</h6>
 
 Esse gráfico é uma representação visual detalhada que mostra cada devolução registrada ao longo do tempo. Ele é especialmente útil para monitorar as devoluções de maneira granular, permitindo que a empresa acompanhe cada evento de devolução com todos os detalhes relevantes, como número do documento, data de lançamento, filial, vendedor, cliente, fabricante, data de devolução e percentual de devoluções.
 
@@ -55,6 +67,9 @@ Em resumo, esse tipo de gráfico é uma ferramenta valiosa para o monitoramento 
 
 ## Gráfico de Devoluções por Fabricante
 
+![alt text](../assets/devolucoes/Imagem6 - Gráfico de Devoluções por Fabricante.png)
+<h6 align = "center"> Imagem6 - Gráfico de Devoluções por Fabricante</h6>
+
 O gráfico de devolução por fabricante é uma ferramenta visual que mostra o valor e o percentual das devoluções de produtos associados a diferentes fabricantes. Utilizando barras para comparar os fabricantes, esse gráfico é útil para analisar o desempenho de cada fornecedor em termos de qualidade de produto, ajudando a identificar quais estão gerando mais devoluções.
 
 ### Finalidade do Gráfico:
@@ -67,6 +82,9 @@ O gráfico de devolução por fabricante é uma ferramenta visual que mostra o v
 Resumindo, o gráfico de devolução por fabricante é um indicador eficaz para analisar a qualidade dos produtos fornecidos por diferentes fabricantes, fornecendo uma visualização clara e comparativa que pode ajudar na tomada de decisões estratégicas relacionadas a fornecedores e qualidade de produtos.
 
 ## Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item
+
+![alt text](../assets/devolucoes/Imagem7 - Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item.png)
+<h6 align = "center"> Imagem7 - Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item</h6>
 
 Esse gráfico exibe o valor e o percentual das devoluções distribuídas por Filial, Vendedor, Cliente ou Produto. O objetivo é permitir a análise comparativa das devoluções com base em diferentes parâmetros operacionais, como as filiais da empresa, o desempenho de vendedores, os comportamentos de clientes ou o resultado de produtos específicos. Esse tipo de gráfico facilita a identificação de padrões, problemas e oportunidades de melhoria em diferentes áreas da empresa.
 
