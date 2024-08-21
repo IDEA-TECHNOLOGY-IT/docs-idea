@@ -125,7 +125,7 @@ Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para 
 
 ## Gráfico "MDR - Máximo Dias a Receber (Dias)"
 
-![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../../assets/image.png)
+![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../../assets/positivacao-maximo-dias-a-receber.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Máximo Dias a Receber (Dias) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do **Máximo Dias a Receber (MDR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O MDR indica o maior número de dias que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa, pois períodos longos de recebimento podem impactar negativamente a liquidez da empresa.
