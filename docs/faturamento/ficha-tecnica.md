@@ -2,6 +2,10 @@
 
 O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas para sua empresa.
 
+## Visão Geral
+
+## Público-alvo
+
 ## Recursos
 
 1. [Home](./home.md)
@@ -11,11 +15,6 @@ O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas
 5. [CMV](./cmv.md)
 6. [Lucro Bruto](./lucro_bruto.md)
 7. [Positivação](./positivacao.md)
-
-
-## Visão Geral
-
-## Público-alvo
 
 ## Requisitos para Setup
 

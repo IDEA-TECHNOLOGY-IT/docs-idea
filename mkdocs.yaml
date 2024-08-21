@@ -156,6 +156,7 @@ nav:
     - financeiro/fluxo_de_caixa.md
     - financeiro/saldo_de_contas.md
   - Idea Sales:
+    - faturamento/ficha-tecnica.md
     - faturamento/home.md
     - faturamento/vendas.md
     - faturamento/faturamento_liquido.md
