@@ -1,5 +1,5 @@
 # Ficha Técnica
-O Relatório **Idea Contabilidade** traz métricas e análises contabilidades para sua empresa.
+O Business Intelligence (BI) **Idea Account** traz métricas e análises contábeis para sua empresa.
 
 ## Introdução
 

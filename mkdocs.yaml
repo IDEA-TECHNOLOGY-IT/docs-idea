@@ -133,16 +133,8 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-  - Idea Finance: 
-    - financeiro/ficha-tecnica.md
-    - financeiro/contas_a_receber.md
-    - financeiro/contas-a-pagar.md
-    - financeiro/inadimplencia.md
-    - financeiro/pagamentos-vencidos.md
-    - financeiro/prazo_medio_recebimento.md
-    - financeiro/fluxo_de_caixa.md
-    - financeiro/saldo_de_contas.md
-  - Contabilidade:
+
+  - Idea Account:
     - contabilidade/ficha-tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_caixas.md
@@ -154,7 +146,16 @@ nav:
     - contabilidade/indicadores.md
     - contabilidade/regrados40.md
     - contabilidade/dre.md
-  - Faturamento:
+  - Idea Finance: 
+    - financeiro/ficha-tecnica.md
+    - financeiro/contas_a_receber.md
+    - financeiro/contas-a-pagar.md
+    - financeiro/inadimplencia.md
+    - financeiro/pagamentos-vencidos.md
+    - financeiro/prazo_medio_recebimento.md
+    - financeiro/fluxo_de_caixa.md
+    - financeiro/saldo_de_contas.md
+  - Idea Sales:
     - faturamento/home.md
     - faturamento/vendas.md
     - faturamento/faturamento_liquido.md

@@ -1,6 +1,6 @@
-# Idea Finance
+# Ficha Técnica
 
-O Relatório **Idea Finance** traz métricas e análises financeiras para sua empresa.
+O Business Intelligence (BI) **Idea Finance** traz métricas e análises financeiras para sua empresa.
 
 ## Recursos
 
