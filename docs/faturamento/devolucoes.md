@@ -1,5 +1,8 @@
 # Devoluções
 
+![alt text](../assets/devolucoes/Imagem1 - Relatório Geral de Devoluções.png)
+<h6 align = "center"> Imagem1 - Relatório Geral de Devoluções</h6>
+
 ## O que são Devoluções? E Como Funciona?
 
 As devoluções de mercadorias ocorrem quando um cliente retorna um item que já foi recebido e aceito, diferenciando-se do simples retorno de mercadorias que ocorre antes do recebimento oficial. As devoluções podem ser motivadas por diversos fatores, como defeitos no produto, insatisfação do cliente, erro no pedido, ou outros motivos que justifiquem o não aceite do item. Em geral, há um prazo estabelecido para que o cliente possa solicitar a devolução. O objetivo é cancelar a compra, aplicando o mesmo tratamento fiscal utilizado na compra original, seja com benefícios tributários ou tributação regular.
