@@ -1,4 +1,4 @@
-# Inadimplência
+# Painel Inadimplência
 ![Relatório "Inadimplência"](../../assets/inad_details.png)
 
 Inadimplência é a falha no cumprimento de obrigações financeiras por parte de um devedor,

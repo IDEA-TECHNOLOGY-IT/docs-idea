@@ -1,4 +1,4 @@
-# Vendas
+# Painel Vendas
 ![Vendas "Visão de Vendas"](../../assets/sales.png)
 
 Vendas é uma métrica fundamental que reflete o total de receitas geradas pela empresa através da comercialização de produtos ou serviços. O desempenho em vendas é um indicador direto da saúde financeira e do sucesso operacional de uma empresa, influenciando todos os aspectos do negócio, desde a gestão do fluxo de caixa até as decisões estratégicas de crescimento.

@@ -1,4 +1,4 @@
-# Lucro Líquido
+# Painel Lucro Líquido
 
 <p><div align="center">
   <img src="../../assets/contabilidade_ll_page1.png" alt="Lucro Líquido Page 1">

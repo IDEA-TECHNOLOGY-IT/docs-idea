@@ -1,4 +1,4 @@
-# Caixas de Indicadores
+# Painel Caixas de Indicadores
 
 <div align="center">
   <img src="../../assets/contabilidade_indicadores_caixas.png" alt="Caixas de Indicadores">

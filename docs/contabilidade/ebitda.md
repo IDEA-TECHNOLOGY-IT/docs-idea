@@ -1,4 +1,4 @@
-# EBITDA
+# Painel EBITDA
 
 <p><div align="center">
   <img src="../../assets/contabilidade_ebitda_page1.png" alt="EBITDA Page 1">

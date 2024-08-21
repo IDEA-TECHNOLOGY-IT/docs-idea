@@ -1,4 +1,4 @@
-# Contas a Receber
+# Painel Contas a Receber
 ![Imagem 1: Relatório Geral Contas a Receber](../assets/contas-a-receber.png)
 <h6 align="center">Imagem 1: Relatório Geral Contas a Receber</h6>
 

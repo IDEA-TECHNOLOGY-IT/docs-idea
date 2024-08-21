@@ -1,4 +1,4 @@
-# Indicadores
+# Painel Indicadores
 
 <p><div align="center">
   <img src="../../assets/contabilidade_i_page1.png" alt="Indicadores Page 1">

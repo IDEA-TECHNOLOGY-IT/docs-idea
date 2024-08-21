@@ -86,12 +86,12 @@ h2 {
   color:var(--color-yellow);
 }
 
-.checklist span {
+.checklist a {
   font-size: 1.5em;
   display: block;
   position: relative;
   border-radius: 0.5rem;
-  padding: 0.5rem 0.5rem;
+  padding: 0.2rem 0.5rem;
   cursor: pointer;
   color: var(--color-text-secondary);
 }
@@ -173,7 +173,7 @@ svg:hover{
   display: flex;
   width: 100%;
   justify-content: center;
-  margin: 1em;
+  margin: 0em;
 }
 
 .about-container{

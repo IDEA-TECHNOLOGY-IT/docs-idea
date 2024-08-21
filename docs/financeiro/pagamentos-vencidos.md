@@ -1,4 +1,4 @@
-# Pagamentos Vencidos
+# Painel Pagamentos Vencidos
 
 ![alt text](../assets/pagamentos-vencidos.png)
 <h6 align = "center"> Imagem 1: Visão geral do relatório</h6>

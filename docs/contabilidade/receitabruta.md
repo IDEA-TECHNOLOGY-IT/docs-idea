@@ -1,4 +1,4 @@
-# Receita Bruta
+# Painel Receita Bruta
 
 <p><div align="center">
   <img src="../../assets/contabilidade_rb_page1.png" alt="Receita Bruta Page 1">

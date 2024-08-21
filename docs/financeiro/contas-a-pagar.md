@@ -1,4 +1,4 @@
-# Contas a Pagar
+# Painel Contas a Pagar
 
 ![alt text](../assets/contas-a-pagar.png)
 <h6 align = "center"> Imagem 1: Relatório Geral Contas a Pagar</h6>

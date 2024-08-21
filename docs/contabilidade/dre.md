@@ -1,4 +1,4 @@
-# Demonstração do Resultado do Exercício (DRE)
+# Painel Demonstração do Resultado do Exercício (DRE)
 
 <p><div align="center">
   <img src="../../assets/contabilidade_dre.png" alt="DRE">

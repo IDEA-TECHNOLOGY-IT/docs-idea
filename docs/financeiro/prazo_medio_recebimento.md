@@ -1,4 +1,4 @@
-# Prazo Médio de Recebimento
+# Painel Prazo Médio de Recebimento
 ![Imagem 1: Relatório Geral Contas a Receber](../assets/pmr_geral.png)
 <h6 align="center">Imagem 1: Relatório Geral Prazo Médio de Recebimento</h6>
 

@@ -1,4 +1,4 @@
-# Saldo de Contas
+# Painel Saldo de Contas
 ![Relatório "Saldo de Contas"](../../assets/account_balance.png)
 
 

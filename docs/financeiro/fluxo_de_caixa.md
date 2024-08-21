@@ -1,4 +1,4 @@
-# *Fluxo de Caixa*
+# Painel Fluxo de Caixa
 
 ![Relatório "Fluxo de Caixa"](../../assets/cash_flow.png)
 

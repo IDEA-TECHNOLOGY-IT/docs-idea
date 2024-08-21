@@ -1,4 +1,4 @@
-# Visão Contábil - Home
+# Painel Visão Contábil - Home
 
 <div align="center">
   <img src="../../assets/contabilidade_home.png" alt="Visão Contábil - Home">

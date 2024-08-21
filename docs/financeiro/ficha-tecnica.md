@@ -4,13 +4,13 @@ O Business Intelligence (BI) **Idea Finance** traz métricas e análises finance
 
 ## Recursos
 
-1. [Contas a Receber](./contas_a_receber.md)
-2. [Contas a Pagar](./contas-a-pagar.md)
-3. [Fluxo de Caixa](./fluxo_de_caixa.md)
-4. [Inadimplência](./inadimplencia.md)
-5. [Pagamentos Vencidos](./pagamentos-vencidos.md)
-6. [Prazo Médio de Recebimento (PMP)](./prazo_medio_recebimento.md)
-7. [Saldo de Contas](./saldo_de_contas.md)
+1. [Painel Contas a Receber](./contas_a_receber.md)
+2. [Painel Contas a Pagar](./contas-a-pagar.md)
+3. [Painel Fluxo de Caixa](./fluxo_de_caixa.md)
+4. [Painel Inadimplência](./inadimplencia.md)
+5. [Painel Pagamentos Vencidos](./pagamentos-vencidos.md)
+6. [Painel Prazo Médio de Recebimento (PMP)](./prazo_medio_recebimento.md)
+7. [Painel Saldo de Contas](./saldo_de_contas.md)
 
 
 ## Visão Geral

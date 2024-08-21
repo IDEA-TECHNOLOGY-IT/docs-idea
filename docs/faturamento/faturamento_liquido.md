@@ -1,4 +1,4 @@
-# Faturamento Líquido
+# Painel Faturamento Líquido
 
 ![Imagem 1: Relatório Geral Faturamento Líquido](../assets/relatorio_geral_faturamento_liquido.jpeg)
 <h6 align="center">Imagem 1: Relatório Geral de Faturamento Líquido</h6>

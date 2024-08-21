@@ -1,4 +1,4 @@
-# Custos e Despesas
+# Painel Custos e Despesas
 
 <p><div align="center">
   <img src="../../assets/contabilidade_ced_page1.png" alt="Custos e Despesas Page 1">

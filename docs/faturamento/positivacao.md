@@ -1,4 +1,4 @@
-# Positivação
+# Painel Positivação
 
 O **Indicador de Positivação** é uma métrica fundamental no contexto de vendas e faturamento, utilizada para medir a eficácia das operações comerciais de uma empresa. Especificamente, positivação refere-se ao percentual de clientes ativos que realizaram pelo menos uma compra dentro de um período determinado. Este indicador é crucial para entender o nível de engajamento e a atividade de compra dos clientes, oferecendo insights valiosos sobre a saúde comercial da empresa.
 

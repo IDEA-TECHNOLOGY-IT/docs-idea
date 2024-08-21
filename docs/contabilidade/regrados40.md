@@ -1,4 +1,4 @@
-# Regra dos 40
+# Painel Regra dos 40
 
 <p><div align="center">
   <img src="../../assets/contabilidade_rd40.png" alt="Regra dos 40">
