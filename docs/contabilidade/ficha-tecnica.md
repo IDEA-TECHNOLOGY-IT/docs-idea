@@ -2,6 +2,10 @@
 
 O Relatório **Idea Contabilidade** traz métricas e análises contabilidades para sua empresa.
 
+## Introdução
+
+## Público-alvo
+
 ## Recursos
 
 1. [Introdução ao BI Contábil](./intro.md)
@@ -14,10 +18,6 @@ O Relatório **Idea Contabilidade** traz métricas e análises contabilidades pa
 8. [Indicadores](./indicadores.md)
 9. [Regra dos 40](./regrados40.md)
 10. [DRE -Demonstração do Resultado do Exercício](./dre.md)
-
-## Introdução
-
-## Público-alvo
 
 ## Requisitos para Setup
 
