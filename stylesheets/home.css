@@ -58,7 +58,7 @@ h2 {
   margin: 0;
 }
 
-.checklist > ul {
+.checklist> ul {
   list-style: none;
   margin-bottom: 0;
   padding-inline-start: 0;
@@ -66,7 +66,7 @@ h2 {
   line-height: 1.65;
 }
 
-.ul-checklist li {
+.ul-text li {
   color:#fff;
   list-style:none;
   display: flex;
@@ -75,14 +75,14 @@ h2 {
   align-items: center;
 }
 
-.ul-checklist li:before {
+.ul-text li:before {
   font-family:FontAwesome;
   color:#fff;
   font-size:18px;
   content:"\f10c";
 }
 
-.ul-checklist li:hover:before {
+.ul-text li:hover:before {
   color:var(--color-yellow);
 }
 
@@ -91,7 +91,7 @@ h2 {
   display: block;
   position: relative;
   border-radius: 0.5rem;
-  padding: 0.5rem 0.5rem 0.5rem 4rem;
+  padding: 0.5rem 0.5rem;
   cursor: pointer;
   color: var(--color-text-secondary);
 }
@@ -149,16 +149,6 @@ svg:hover{
   height: 100%;
   background: #28282d;
   border-radius: 10px;
-}
-
-.btn-saiba-mais::after {
-  transform: translate(10px, 10px);
-  width: 35px;
-  height: 35px;
-  background: var(--color-yellow);
-  backdrop-filter: blur(5px);
-  -webkit-backdrop-filter: blur(5px);
-  border-radius: 50px;
 }
 
 .btn-saiba-mais:hover::before {
