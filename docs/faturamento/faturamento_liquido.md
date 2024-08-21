@@ -17,7 +17,7 @@ O Faturamento Líquido é um indicador crucial porque mostra a receita que a emp
 
 ## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
 
-![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../../assets/faturamento_por_filial.jpeg)
+![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../../assets/tabela-faturamento-filial-vendedor-cliente-fabricante-item.jpeg)
 
 <p align="center"><em>Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
@@ -61,7 +61,7 @@ Com esta documentação, você pode interpretar e utilizar os dados da tabela "F
 
 ## Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"
 
-![Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"](../../assets/image.png)
+![Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"](../../assets/grafico-barras-faturamento-filial-vendendor-cliente-fabricante-item.jpeg)
 <p align="center"><em>Imagem 1: Gráfico de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
 Este gráfico apresenta uma visualização do Faturamento Líquido segregado por Filial, Vendedor, Cliente, Fabricante ou Item. Cada barra do gráfico representa uma unidade específica (neste caso, Filiais), mostrando o valor total faturado por cada uma.
@@ -86,7 +86,7 @@ Este gráfico fornece uma visão clara e comparativa do desempenho de faturament
 
 ## Gráfico "Meta Faturado Mês Atual"
 
-![Gráfico "Meta Faturado Mês Atual"](../../assets/image.png)
+![Gráfico "Meta Faturado Mês Atual"](../../assets/grafico-meta-faturado-mes-atual.jpeg)
 <p align="center"><em>Imagem 1: Gráfico de Meta Faturado Mês Atual</em></p>
 
 Este gráfico apresenta a comparação entre a meta de faturamento estabelecida e o faturamento efetivamente realizado pela empresa ao longo de diferentes meses. Além disso, o gráfico mostra o percentual de cumprimento da meta (% da Meta) para cada período.
