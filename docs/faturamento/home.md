@@ -1,3 +1,5 @@
+# Painel Home
+
 ![Home "Visão de Faturamento"](../../assets/home_invoicing.png)
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Faturamento é essencial para oferecer uma visão clara e detalhada do desempenho comercial de uma empresa.
