@@ -48,3 +48,8 @@
 .md-nav{
   font-size: 0.6rem;
 }
+
+[dir=ltr] .md-header__title {
+  color: var(--color-yellow);
+  margin-left: 0;
+}

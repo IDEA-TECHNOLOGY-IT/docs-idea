@@ -1,6 +1,11 @@
 # Painel Contas a Receber
+<<<<<<< HEAD
 ![Imagem 1: Relatório Geral Contas a Receber](../assets/contas-a-receber.png)
 <h6 align="center">Imagem 1: Painel Contas a Receber</h6>
+=======
+![Imagem 1: Relatório Geral Contas a Receber](../assets/a_receber_rel_geral_2.png)
+<h6 align="center">Imagem 1: Relatório Geral Contas a Receber</h6>
+>>>>>>> c5006fffe80a0173dcf7a5e46e128d1de7deb02e
 
 Contas a Receber representam os direitos financeiros que uma empresa possui em relação aos seus clientes, resultantes de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
