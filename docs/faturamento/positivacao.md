@@ -196,7 +196,7 @@ Este gráfico oferece uma visão clara do valor médio dos pedidos realizados ao
 
 ## Gráfico "PMR - Período Máximo de Recebimento (Dias)"
 
-![Gráfico "PMR - Período Máximo de Recebimento (Dias)"](../../assets/image.png)
+![Gráfico "PMR - Período Máximo de Recebimento (Dias)"](../../assets/periodo-maximo-de-recebimento.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Período Máximo de Recebimento (Dias) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do **Período Máximo de Recebimento (PMR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O PMR é uma métrica que indica o tempo máximo, em dias, que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa e para avaliar a eficiência do processo de recebimento.
