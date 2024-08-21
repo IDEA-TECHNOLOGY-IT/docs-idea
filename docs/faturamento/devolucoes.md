@@ -1,7 +1,9 @@
 # Devoluções
 
-![alt text|1200](../assets/devolucoes/Imagem1 - Relatório Geral de Devoluções.png)
-<h6 align = "center"> Imagem1 - Relatório Geral de Devoluções</h6>
+<p align="center">
+  <img src="../assets/devolucoes/Imagem1 - Relatório Geral de Devoluções.png" alt="Imagem1 - Relatório Geral de Devoluções" style="width: 500px;" />
+</p>
+<h6 align="center">Imagem1 - Relatório Geral de Devoluções</h6>
 
 ## O que são Devoluções? E Como Funciona?
 
