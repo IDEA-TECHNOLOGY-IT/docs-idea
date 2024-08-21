@@ -1,4 +1,4 @@
-# Painel Positivação
+# Positivação
 
 O **Indicador de Positivação** é uma métrica fundamental no contexto de vendas e faturamento, utilizada para medir a eficácia das operações comerciais de uma empresa. Especificamente, positivação refere-se ao percentual de clientes ativos que realizaram pelo menos uma compra dentro de um período determinado. Este indicador é crucial para entender o nível de engajamento e a atividade de compra dos clientes, oferecendo insights valiosos sobre a saúde comercial da empresa.
 
@@ -48,7 +48,7 @@ Este gráfico oferece uma visão detalhada do custo das mercadorias vendidas ao 
 
 ## Gráfico "Devoluções (%)"
 
-![Gráfico "Devoluções (%)"](../../assets/image.png)
+![Gráfico "Devoluções (%)"](../../assets/devolucoes.jpeg)
 <p align="center"><em>Imagem 1: Gráfico de Devoluções (%) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução das **Devoluções** como percentual do total de vendas ao longo do tempo. As devoluções representam os produtos que foram vendidos e, por algum motivo, retornaram ao estoque da empresa, resultando em uma reversão parcial ou total da venda realizada. Monitorar o percentual de devoluções é crucial para avaliar a qualidade dos produtos, a satisfação do cliente e a eficiência do processo de vendas.
@@ -71,7 +71,7 @@ Este gráfico oferece uma visão clara do comportamento das devoluções ao long
 
 ## Gráfico "Margem de Lucro (%)"
 
-![Gráfico "Margem de Lucro (%)"](../../assets/image.png)
+![Gráfico "Margem de Lucro (%)"](../../assets/margem de lucro.jpeg)
 <p align="center"><em>Imagem 1: Gráfico de Margem de Lucro (%) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução da **Margem de Lucro (%)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). A margem de lucro é um dos indicadores mais importantes para qualquer empresa, pois mede a eficiência com que uma empresa está gerando lucro a partir de suas vendas. Especificamente, a margem de lucro percentual mostra a proporção de receita que se transforma em lucro, após a dedução de todos os custos e despesas.
@@ -94,7 +94,7 @@ Este gráfico oferece uma visão abrangente da margem de lucro da empresa ao lon
 
 # Gráfico "MDR - Máximo Dias a Receber (Dias)"
 
-![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../../assets/image.png)
+![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../../assets/mdr.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Máximo Dias a Receber (Dias) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do **Máximo Dias a Receber (MDR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O MDR indica o maior número de dias que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa, pois períodos longos de recebimento podem impactar negativamente a liquidez da empresa.
@@ -173,7 +173,7 @@ Este gráfico oferece uma visão clara do quanto a empresa tem conseguido cumpri
 
 ## Gráfico "Pedido Médio (R$)"
 
-![Gráfico "Pedido Médio (R$)"](../../assets/image.png)
+![Gráfico "Pedido Médio (R$)"](../../assets/pedido medio.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Pedido Médio (R$) ao longo do tempo</em></p>
 
 Este gráfico apresenta a evolução do **Pedido Médio (R$)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O pedido médio representa o valor médio em reais das vendas realizadas em cada pedido ao longo do tempo. Este indicador é importante para entender o comportamento de compra dos clientes e avaliar a eficácia das estratégias de venda e precificação.
@@ -219,7 +219,7 @@ Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para 
 
 ## Gráfico "Positivação"
 
-![Gráfico "Positivação"](../../assets/image.png)
+![Gráfico "Positivação"](../../assets/positivacao.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Positivação ao longo do tempo</em></p>
 
 O gráfico de **Positivação** apresenta a evolução da quantidade de clientes ou pedidos que foram considerados "positivados" ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). Positivação, no contexto de vendas e faturamento, refere-se à proporção de clientes que realizaram ao menos uma compra em um determinado período, ou ao número de pedidos que atingiram um valor mínimo estabelecido pela empresa. Este indicador é importante para avaliar a eficácia das campanhas de vendas e a fidelização dos clientes.
@@ -242,7 +242,7 @@ Este gráfico oferece uma visão clara da eficácia das estratégias de vendas e
 
 ## Gráfico "Quantidade de Vendas"
 
-![Gráfico "Quantidade de Vendas"](../../assets/image.png)
+![Gráfico "Quantidade de Vendas"](../../assets/quantidade-de-vendas.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Quantidade de Vendas ao longo do tempo</em></p>
 
 O gráfico de **Quantidade de Vendas** mostra a evolução da quantidade de itens vendidos ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). Este indicador é fundamental para avaliar o desempenho das vendas da empresa, permitindo identificar padrões de sazonalidade, avaliar o sucesso de campanhas de marketing e ajustar estratégias de vendas.
@@ -266,7 +266,7 @@ Este gráfico oferece uma visão clara da evolução das vendas ao longo do temp
 
 ## Gráfico "Ticket Médio (R$)"
 
-![Gráfico "Ticket Médio (R$)"](../../assets/image.png)
+![Gráfico "Ticket Médio (R$)"](../../assets/ticket-medio.jfif)
 <p align="center"><em>Imagem 1: Gráfico de Ticket Médio ao longo do tempo</em></p>
 
 O gráfico de **Ticket Médio (R$)** mostra a evolução do valor médio das vendas realizadas ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O ticket médio é um indicador importante que reflete o valor médio gasto por cliente em cada transação. Esse gráfico ajuda a entender o comportamento de compra dos clientes e a eficácia das estratégias de venda.
