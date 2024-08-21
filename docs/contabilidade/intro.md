@@ -75,7 +75,7 @@ Este botão navega para a página intitulada Regra dos 40, que foca em analisar 
 <img src="../../assets/contabilidade_button_dre2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 Selecionar este botão leva os usuários à página intitulada DRE (Demonstração do Resultado do Exercício), onde eles podem visualizar a demonstração de resultados, detalhando a receita, despesas e lucratividade da empresa ao longo de um período específico.
 
-## Filtros ou Slicers
+## Filtros
 
 <div align="center">
   <img src="../../assets/contabilidade_filtros.png" alt="Contabilidade Filtros">
