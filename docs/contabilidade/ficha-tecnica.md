@@ -1,5 +1,4 @@
-# Idea Contabilidade
-
+# Ficha Técnica
 O Relatório **Idea Contabilidade** traz métricas e análises contabilidades para sua empresa.
 
 ## Introdução
