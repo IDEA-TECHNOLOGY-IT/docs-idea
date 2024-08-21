@@ -1,4 +1,4 @@
-# Introdução ao Relatório Contabilidade
+# Introdução ao BI Contabilidade
 
 <div align="center">
   <img src="../../assets/contabilidade_home.png" alt="Contabilidade Home">
