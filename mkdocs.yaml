@@ -9,7 +9,7 @@ copyright: Copyright &copy; 2024 - 2024 Idea Technology
 
 # Configuration
 theme:
-  language: pt-BR 
+  language: pt-BR
   name: material
   custom_dir: overrides
   logo: assets/logo.png
@@ -146,7 +146,7 @@ nav:
     - contabilidade/indicadores.md
     - contabilidade/regrados40.md
     - contabilidade/dre.md
-  - Idea Finance: 
+  - Idea Finance:
     - financeiro/ficha-tecnica.md
     - financeiro/contas_a_receber.md
     - financeiro/contas-a-pagar.md
