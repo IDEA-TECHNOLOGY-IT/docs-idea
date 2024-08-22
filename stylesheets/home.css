@@ -60,6 +60,10 @@
   font-weight: bold;
 }
 
+.title-container > p {
+  margin-top: 3px;
+}
+
 .checklist> ul {
   list-style: none;
   margin-bottom: 0;
