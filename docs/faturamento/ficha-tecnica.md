@@ -18,8 +18,8 @@ O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas
 
 ## Requisitos para Setup
 
-•	Acesso a base de dados do SAP B1 Hana;
-•	Usuário do Power BI (versão Professional ou superior).
+- Acesso a base de dados do SAP B1 Hana;
+- Usuário do Power BI (versão Professional ou superior).
 
 ## Fonte de Dados
 
