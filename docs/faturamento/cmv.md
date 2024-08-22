@@ -2,10 +2,10 @@
 
 ## O que é um CMV?
 
-![alt text](../assets/cmv/Imagem1 - Relatório Geral CMV.png)
+![alt text](../assets/cmv/fat_cmv_page1.png)
 <h6 align = "center"> Imagem1 - Relatório Geral CMV</h6>
 
-![alt text](../assets/cmv/Imagem2 - Relatório Detalhado CMV.png)
+![alt text](../assets/cmv/fat_cmv_page2.png)
 <h6 align = "center"> Imagem2 - Relatório Detalhado CMV</h6>
 
 O CMV (Custo de Mercadorias Vendidas) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
@@ -68,7 +68,7 @@ Resumidamente, o gráfico CMV acumulado é uma ferramenta poderosa para monitora
 
 ## Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Item
 
-![alt text](../assets/cmv/Imagem4 - Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Produto.png)
+![alt text](../assets/cmv/fat_cmv_anomes.png)
 <h6 align = "center"> Imagem4 - Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
 
 Esse gráfico é uma matriz dimensional que combina categorias como filiais, vendedores, clientes, fabricantes ou itens, permitindo uma análise detalhada do CMV com base em múltiplos parâmetros. Ele facilita a identificação de padrões, anomalias e oportunidades de melhoria em áreas específicas da operação.
