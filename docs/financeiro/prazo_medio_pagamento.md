@@ -1,5 +1,8 @@
 # Painel Prazo Médio Pagamento
 
+![alt text](../assets/devolucoes/Imagem1 - Painel Visão Geral do PMP.png)
+<h6 align = "center"> Imagem1 - Painel Visão Geral do PMP</h6>
+
 ## Qual é o papel do indicador PMP?
 
 O Prazo Médio de Pagamento (PMP) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para quitar suas obrigações com os fornecedores. Este indicador é crucial para a gestão financeira, pois permite acompanhar o desempenho financeiro da empresa, manter o equilíbrio entre entradas e saídas de recursos e evitar contratempos que podem afetar as negociações e a reputação da empresa no mercado.
@@ -30,6 +33,9 @@ Em resumo, o PMP é uma métrica essencial para o planejamento financeiro, permi
 
 ## Gráfico PMP x Favorecido ou Origem
 
+![alt text](../assets/devolucoes/Imagem2 - Gráfico PMP x Favorecido ou Origem.png)
+<h6 align = "center"> Imagem2 - Gráfico PMP x Favorecido ou Origem</h6>
+
 Esse gráfico visualiza o Prazo Médio de Pagamento entre diferentes fornecedores ou categorias de pagamento, oferecendo insights para melhorar a gestão financeira e as relações comerciais. Cada barra representa o PMP para um favorecido ou origem, mostrando quantos dias, em média, a empresa leva para pagar.
 
 ### Vantagens de Gráfico PMP x Favorecido ou Origem:
@@ -42,6 +48,9 @@ Esse gráfico visualiza o Prazo Médio de Pagamento entre diferentes fornecedore
 Em resumo, o Gráfico PMP x Favorecido ou Origem é uma ferramenta crucial de análise financeira, proporcionando uma visão clara dos prazos médios de pagamento. Esse gráfico ajuda a empresa a tomar decisões mais informadas e estratégicas em sua gestão de pagamentos. Ao identificar áreas que precisam de melhorias, a empresa pode otimizar processos, fortalecer relacionamentos com fornecedores e manter um fluxo de caixa saudável.
 
 ## Gráfico PMP x Filial ou Projeto
+
+![alt text](../assets/devolucoes/Imagem3 - Gráfico PMP x Filial ou Projeto.png)
+<h6 align = "center"> Imagem3 - Gráfico PMP x Filial ou Projeto</h6>
 
 Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de pagamento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMP para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para pagar suas obrigações.
 
