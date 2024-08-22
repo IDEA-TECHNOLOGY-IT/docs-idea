@@ -29,8 +29,34 @@ Diretores, Gestores e Analistas Financeiros.
 
 ## Fonte de Dados
 
-O IDEA FINANCE ANALYTICS SAP B1 Hana é uma solução desenvolvida em Power BI que utiliza como fonte de dados o SAP B1 Hana.
+O IDEA FINANCE ANALYTICS é uma solução desenvolvida em Power BI que utiliza como origem dos dados o SAP B1 Hana.
+Processos contemplados para extração dos dados: 
 
+- Previsões Financeiras
+  - A Pagar
+    - Pedidos de compras em aberto;
+    - Notas fiscais de entrada em aberto .
+
+  - A Receber
+    - Pedidos de vendas em aberto;
+    - Notas fiscais de saída em aberto.
+
+  - Movimentações Financeiras Realizadas
+    - Pagamentos
+      - Notas fiscais de entradas;
+      - Lançamento Contábil Manual (LCM).
+
+    - Recebimentos
+      - Notas fiscais de saídas;
+      - Lançamento Contábil Manual (LCM).
+
+  - Modelos de Relatórios Financeiros
+    - Empresas / Filiais (Multi-filiais);
+    - Parceiros de Negócios;
+    - Plano de Contas;
+    - Dimensões / Centros de Custos;
+    - Projetos.
+    
 ## Licença de Uso
 
 Para utilizar O IDEA FINANCE ANALYTICS SAP B1 Hana é necessária a aquisição de pelo menos uma licença do Power BI Professional.
