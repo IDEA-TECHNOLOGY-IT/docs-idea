@@ -1,6 +1,6 @@
 # Painel Fluxo de Caixa
 
-![Relatório "Fluxo de Caixa"](../../assets/cash_flow.png)
+![Relatório "Fluxo de Caixa"](../../assets/flux_flux_page1.png)
 <h6 align = "center"> Imagem 1: Painel Fluxo de Caixa</h6>
 
 Fluxo de Caixa refere-se ao movimento de entrada e saída de dinheiro em uma empresa ao longo de um período específico. É uma das métricas financeiras mais críticas, pois fornece uma visão clara sobre a liquidez da empresa e sua capacidade de cumprir obrigações financeiras imediatas, como pagamentos a fornecedores, salários, e outros custos operacionais.
@@ -25,7 +25,7 @@ Se uma empresa recebeu R$ 500.000,00 em um mês e pagou R$ 300.000,00 em suas de
 Isso significa que, ao final do mês, a empresa teria um fluxo de caixa positivo de R$ 200.000,00.
 
 ## Tabela Fluxo de Caixa
-![Gráfico "Fluxo de Caixa"](../../assets/cash_flow_table.png)
+![Gráfico "Fluxo de Caixa"](../../assets/flux_flux_tabela.png)
 <h6 align = "center"> Imagem 2: Tabela Fluxo de Caixa</h6>
 
 O gráfico apresenta uma visão detalhada do fluxo financeiro por categoria de conta:
