@@ -1,6 +1,6 @@
 # Painel Home
 
-![Home "Visão de Faturamento"](../../assets/home_invoicing.png)
+![Home "Visão de Faturamento"](../../assets/fat.png)
 <h6 align="center">Imagem 1: Painel Home</h6>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Faturamento é essencial para oferecer uma visão clara e detalhada do desempenho comercial de uma empresa.
@@ -11,7 +11,7 @@ Através de visualizações precisas e detalhadas, é possível identificar tend
 
 Na página de Home, você encontrará:
 
-!["Faturamento Acumulado ao Longo do Tempo"](../../assets/invoice_accumulated.png)
+!["Faturamento Acumulado ao Longo do Tempo"](../../assets/fat_home_acumulado.png)
 <h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
 
 Este gráfico de área exibe a evolução do saldo em tesouraria da empresa ao longo do tempo, mostrando tanto os valores positivos quanto os negativos. A linha de base do gráfico representa um saldo de zero, com áreas acima da linha 
@@ -28,7 +28,7 @@ indicativas de saldos positivos e áreas abaixo indicativas de saldos negativos.
 ### Área do Gráfico:
 - **Valores Positivos:** São representados por uma área preenchida acima da linha de base, geralmente em uma cor neutra ou verde. Isso indica que a empresa está gerando receitas, acumulando um saldo positivo ao longo do tempo, o que é um sinal de desempenho financeiro saudável.
 
-!["Faturamento Atual vs Ano Anterios"](../../assets/fat_vs_lastyear.png)
+!["Faturamento Atual vs Ano Anterios"](../../assets/fat_home_anoant.png)
 <h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
 
 Este gráfico de área mostra a evolução do saldo em tesouraria da empresa ao longo do tempo, comparando os saldos do Ano Atual com os do Ano Anterior. O gráfico utiliza diferentes áreas para representar cada ano, com uma linha de base que indica um saldo de zero. A sobreposição das áreas permite uma fácil visualização das diferenças entre os saldos do Ano Atual e do Ano Anterior, destacando períodos em que o desempenho financeiro melhorou ou piorou em relação ao ano anterior.
