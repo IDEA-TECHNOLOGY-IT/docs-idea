@@ -126,21 +126,24 @@ O Gráfico CMV por Fabricante exibe o CMV distribuído entre diferentes forneced
 
 Resumidamente, o gráfico CMV por Fabricantes é uma ferramenta útil para otimizar a gestão de fornecedores, facilitando a análise do impacto dos diferentes fabricantes nos custos totais da empresa.
 
-## Gráfico Detalhado de CMV Por Produto
+## Gráfico CMV por Filial, Vendedor, Cliente ou Item
 
-Esse gráfico é uma tabela que apresenta o CMV detalhado por produto, evidenciando o custo de mercadorias vendidas para cada item específico e sua representatividade percentual no total. Ele oferece uma visão granular dos custos, ajudando a identificar quais produtos têm maior impacto nos custos gerais.
+![alt text](../assets/cmv/Imagem7 - Gráfico CMV por Filial, Vendedor, Cliente ou Produto.png)
+<h6 align = "center"> Imagem7 - Gráfico CMV por Filial, Vendedor, Cliente ou Produto</h6>
 
-### Finalidade do Gráfico Detalhado por Produto:
+O Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual poderosa que exibe o Custo das Mercadorias Vendidas (CMV) distribuído entre diferentes categorias operacionais. Ele permite que a empresa identifique rapidamente quais áreas, como filiais, vendedores, clientes ou produtos, estão associadas aos maiores custos, facilitando uma análise direcionada e eficaz da operação.
 
-- **Análise Detalhada por Produto**: Permite uma análise minuciosa dos custos por produto, facilitando a identificação de itens com maior CMV e fornecendo insights sobre quais produtos podem precisar de ajustes em preço, margem ou volume de compra.
-- **Tomada de Decisões Estratégicas**: Dados detalhados por produto ajudam a orientar decisões estratégicas, como ajustes de preços ou revisão de portfólio, para maximizar a rentabilidade.
-- **Identificação de Oportunidades de Redução de Custos**: Produtos com CMV elevado podem indicar oportunidades de renegociação com fornecedores ou necessidade de otimização do processo de compra ou produção.
-- **Monitoramento de Desempenho**: Permite acompanhar o desempenho dos produtos ao longo do tempo, identificando tendências de aumento ou redução de custos.
+### Finalidade do Gráfico:
+
+- **Identificação de Áreas com maior Custo**: O gráfico destaca quais filiais, vendedores, clientes ou produtos estão gerando os maiores custos de mercadorias vendidas, permitindo que a gestão se concentre nas áreas mais críticas.
+- **Comparação entre Categorias**: Ao exibir os custos distribuídos entre diferentes categorias, o gráfico facilita a comparação entre filiais, vendedores, clientes e produtos, evidenciando onde o impacto do CMV é maior ou menor.
+- **Análise de Tendências e Padrões**: A visualização dos custos por diferentes dimensões possibilita a identificação de tendências ao longo do tempo, como aumentos ou reduções de custos em áreas específicas.
+- **Tomada de Decisões Estratégicas**: Os dados apresentados no gráfico podem ser usados para otimizar estratégias operacionais e de vendas, aprimorar a eficiência em determinadas filiais, renegociar condições com clientes de maior impacto ou ajustar o portfólio de produtos.
 
 ### Benefícios:
 
-- **Precisão e Granularidade**: A análise detalhada por produto oferece uma visão precisa dos custos, permitindo uma compreensão clara de onde os custos estão concentrados.
-- **Tomada de Decisões Informadas**: Com dados detalhados, é possível tomar decisões mais informadas sobre precificação, promoções, ou mudanças na estratégia de vendas.
-- **Otimização de Portfólio**: Ao identificar produtos com altos custos, a empresa pode ajustar seu portfólio, focando em produtos mais rentáveis ou renegociando com fornecedores.
+- **Visualização Clara**: O gráfico de barras proporciona uma visualização clara e intuitiva dos custos por diferentes categorias, facilitando a tomada de decisões rápidas e baseadas em dados.
+- **Facilidade de Comparação**: A representação visual em barras torna simples a comparação do desempenho entre diferentes categorias, ajudando a identificar áreas com maior ou menor impacto nos custos.
+- **Direcionamento de Ações**: Empresas podem utilizar esses gráficos para focar em filiais, vendedores, clientes ou produtos que requerem atenção especial, seja para controle de custos, ajustes em processos ou melhoria de desempenho.
 
-Em resumo, o gráfico detalhado de CMV por produto é uma ferramenta essencial para a gestão eficaz dos custos por item, auxiliando na otimização do portfólio e na maximização da lucratividade.
+Em resumo, o Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual eficaz que permite à empresa monitorar e comparar os custos das mercadorias vendidas entre diferentes categorias operacionais. Ele auxilia na identificação de áreas de alto impacto, facilita a comparação entre categorias e oferece suporte à tomada de decisões estratégicas, visando à otimização de custos e à melhoria da eficiência operacional.
