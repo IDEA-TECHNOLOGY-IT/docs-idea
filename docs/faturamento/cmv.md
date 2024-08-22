@@ -2,6 +2,12 @@
 
 ## O que é um CMV?
 
+![alt text](../assets/cmv/Imagem1 - Relatório Geral CMV.png)
+<h6 align = "center"> Imagem1 - Relatório Geral CMV</h6>
+
+![alt text](../assets/cmv/Imagem2 - Relatório Detalhado CMV.png)
+<h6 align = "center"> Imagem2 - Relatório Detalhado CMV</h6>
+
 O CMV (Custo de Mercadorias Vendidas) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
 
 ### Componentes do CMV:
@@ -41,6 +47,9 @@ Em resumo, o CMV é uma métrica financeira essencial para o cálculo do lucro b
 
 ## Gráfico CMV Acumulado
 
+![alt text](../assets/cmv/Imagem3 - Gráfico CMV Acumulado.png)
+<h6 align = "center"> Imagem3 - Gráfico CMV Acumulado</h6>
+
 O **Gráfico CMV Acumulado** é uma representação visual do Custo das Mercadorias Vendidas ao longo do tempo, mostrando a acumulação desses custos durante um período. Em vez de exibir os valores individuais em cada intervalo, ele foca na evolução acumulada dos custos, fornecendo uma visão contínua do impacto financeiro.
 
 ### Finalidade do Gráfico CMV Acumulado:
@@ -59,6 +68,9 @@ Resumidamente, o gráfico CMV acumulado é uma ferramenta poderosa para monitora
 
 ## Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Item
 
+![alt text](../assets/cmv/Imagem4 - Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Produto.png)
+<h6 align = "center"> Imagem4 - Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
+
 Esse gráfico é uma matriz dimensional que combina categorias como filiais, vendedores, clientes, fabricantes ou itens, permitindo uma análise detalhada do CMV com base em múltiplos parâmetros. Ele facilita a identificação de padrões, anomalias e oportunidades de melhoria em áreas específicas da operação.
 
 ### Finalidade do Gráfico CMV por Categorias:
@@ -71,6 +83,9 @@ Esse gráfico é uma matriz dimensional que combina categorias como filiais, ven
 Resumindo, esse gráfico é uma ferramenta essencial para análises complexas e detalhadas, ajudando a visualizar como os custos das mercadorias vendidas se distribuem entre diferentes categorias operacionais e fornecendo insights valiosos para otimizar processos e aumentar a rentabilidade.
 
 ## Gráfico Detalhado do CMV
+
+![alt text](../assets/cmv/Imagem5 - Gráfico Detalhado do CMV.png)
+<h6 align = "center"> Imagem5 - Gráfico Detalhado do CMV</h6>
 
 Esse gráfico é uma tabela analítica que exibe o CMV distribuído entre diferentes dimensões operacionais, como filiais, vendedores, clientes, fabricantes e produtos. Ele apresenta tanto o valor do CMV quanto a participação percentual desses custos no total, oferecendo uma análise detalhada e minuciosa dos custos.
 
@@ -90,6 +105,9 @@ Esse gráfico é uma tabela analítica que exibe o CMV distribuído entre difere
 De modo sucinto, o gráfico detalhado do CMV é essencial para análises precisas, fornecendo uma visão clara e organizada dos custos por categoria, o que auxilia na tomada de decisões estratégicas e na otimização dos processos.
 
 ## Gráfico CMV por Fabricante
+
+![alt text](../assets/cmv/Imagem6 - Gráfico CMV por Fabricante.png)
+<h6 align = "center"> Imagem6 - Gráfico CMV por Fabricante</h6>
 
 O Gráfico CMV por Fabricante exibe o CMV distribuído entre diferentes fornecedores, facilitando a análise de desempenho e a gestão de custos com base nos fabricantes. Ele destaca rapidamente quais fabricantes estão associados aos maiores custos, auxiliando na tomada de decisões estratégicas.
 
