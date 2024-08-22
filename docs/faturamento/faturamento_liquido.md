@@ -1,6 +1,6 @@
 # Painel Faturamento Líquido
 
-![Imagem 1: Relatório Geral Faturamento Líquido](../assets/relatorio_geral_faturamento_liquido.jpeg)
+![Imagem 1: Relatório Geral Faturamento Líquido](../assets/fat_fat.png)
 <h6 align="center">Imagem 1: Relatório Geral de Faturamento Líquido</h6>
 
 O **Faturamento Líquido** é o valor total das vendas de uma empresa após a dedução de impostos sobre vendas, devoluções de mercadorias, descontos comerciais e outras deduções aplicáveis. Ele representa a receita efetiva gerada pelas vendas, sendo um indicador importante para avaliar o desempenho financeiro real da empresa.
@@ -17,7 +17,7 @@ O Faturamento Líquido é um indicador crucial porque mostra a receita que a emp
 
 ## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
 
-![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../../assets/tabela-faturamento-filial-vendedor-cliente-fabricante-item.jpeg)
+![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../../assets/fat_fat_tabela.png)
 <p align="center"><em>Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
 Esta tabela fornece uma análise detalhada do Faturamento Líquido segregado por diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item. A tabela apresenta diversas colunas que oferecem informações essenciais para a gestão financeira, incluindo faturamento, metas, margens e prazo médio de recebimento (PMR). A seguir, explicamos cada coluna e como interpretar os dados apresentados.
@@ -85,7 +85,7 @@ Este gráfico fornece uma visão clara e comparativa do desempenho de faturament
 
 ## Gráfico "Meta Faturado Mês Atual"
 
-![Gráfico "Meta Faturado Mês Atual"](../../assets/grafico-meta-faturado-mes-atual.jpeg)
+![Gráfico "Meta Faturado Mês Atual"](../../assets/fat_fat_meta.png)
 <p align="center"><em>Imagem 1: Gráfico de Meta Faturado Mês Atual</em></p>
 
 Este gráfico apresenta a comparação entre a meta de faturamento estabelecida e o faturamento efetivamente realizado pela empresa ao longo de diferentes meses. Além disso, o gráfico mostra o percentual de cumprimento da meta (% da Meta) para cada período.

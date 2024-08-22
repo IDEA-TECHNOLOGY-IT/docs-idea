@@ -1,6 +1,9 @@
 # Painel Vendas
-![Vendas "Visão de Vendas"](../../assets/sales.png)
+![Vendas "Visão de Vendas"](../../assets/fat_vendas_page1.png)
 <h6 align="center">Imagem 1: Painel "Visão de Vendas"</h6>
+
+![Vendas "Visão de Vendas"](../../assets/fat_vendas_page2.png)
+<h6 align="center">Imagem 2: Painel "Visão de Vendas"</h6>
 
 Vendas é uma métrica fundamental que reflete o total de receitas geradas pela empresa através da comercialização de produtos ou serviços. O desempenho em vendas é um indicador direto da saúde financeira e do sucesso operacional de uma empresa, influenciando todos os aspectos do negócio, desde a gestão do fluxo de caixa até as decisões estratégicas de crescimento.
 
@@ -9,8 +12,8 @@ No contexto empresarial, as vendas podem ser analisadas de várias formas, inclu
 Uma gestão eficiente das vendas é crucial para garantir o crescimento sustentável da empresa. Isso envolve não apenas a maximização das receitas, mas também a compreensão dos ciclos de vendas, o monitoramento das taxas de conversão e a otimização dos esforços de venda para atingir metas de desempenho. A análise das vendas também permite identificar oportunidades de expansão, ajustar ofertas de produtos ou serviços, e melhorar a experiência do cliente.
 
 ## Gráfico "Vendas Acumulado"
-![Vendas "Visão de Faturamento Acumulado"](../../assets/accumulated_sales.png)
-<h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
+![Vendas "Visão de Faturamento Acumulado"](../../assets/fat_vendas_acumulado.png)
+<h6 align="center">Imagem 3: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
 
 Este gráfico oferece uma análise detalhada do Faturamento Acumulado por período. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como períodos mensais, trimestrais ou anuais, para obter uma visão mais específica ou mais agregada do desempenho de vendas ao longo do tempo. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
 
@@ -22,13 +25,10 @@ No nível anual, o gráfico mostra o faturamento acumulado ao longo de um ano co
 
 ### Visualizar mais Detalhes
 
-![Vendas "O botão "Ir para mais Detalhes" expande a página"](../../assets/more_details_button.png)
-<h6 align="center">Imagem 3: Botão "Ir para mais Detalhes"</h6>
-
 Este gráfico é uma visão detalhada das vendas realizadas após a seleção do botão acima que ativou a navegação para um nível mais específico de análise. Aqui está uma explicação detalhada dos componentes exibidos:
 
 ## Tabela de Vendas
-![Vendas Visão mais Detalhada](../../assets/more_details_table.png)
+![Vendas Visão mais Detalhada](../../assets/fat_vendas_tabela.png)
 <h6 align="center">Imagem 4: Visão mais Detalhada</h6>
 
 - **Descrição:** A tabela exibe um histórico detalhado de vendas, listando individualmente cada transação, permitindo visualizar informações críticas como a data de venda, a filial que efetuou a venda, o vendedor responsável, o cliente que comprou, o fabricante do produto e o valor da venda.
@@ -75,35 +75,27 @@ Utilize as opções de navegação disponíveis na ferramenta de BI para alterna
 
 Este gráfico oferece uma análise detalhada das Vendas Acumuladas por período e  Filial, Vendedor, Cliente, Fabricante ou Item. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Filial, Vendedor, Cliente, Fabricante ou Item, para obter uma visão mais específica ou mais agregada do desempenho de vendas. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
 
-![Vendas "Vendas por Cliente"](../../assets/sales_per_client.png)
+![Vendas "Vendas por Cliente"](../../assets/fat_vendas_anomes.png)
 
 ### Nível 1: Cliente
 **Descrição:** No nível de cliente, o gráfico exibe o valor total das vendas associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante total de vendas realizado com eles durante o período analisado.
 
 **Interpretação:** Este gráfico permite identificar quais clientes ou grupos de clientes geram os maiores volumes de vendas, o que pode indicar clientes-chave para o negócio. Com essa informação, a empresa pode focar em fortalecer o relacionamento com esses clientes, personalizar ofertas e serviços, ou desenvolver estratégias para aumentar as vendas com outros clientes que apresentam um potencial de crescimento. Essa análise também ajuda a identificar quais clientes podem precisar de atenção especial para evitar quedas no volume de vendas.
 
-![Vendas "Vendas por Filial"](../../assets/sales_per_branch.png)
-
 ### Nível 2: Filial
 **Descrição:** No nível de filial, o gráfico exibe o valor total das vendas associado a cada filial específica. Cada barra representa uma filial e ilustra o montante total de vendas realizadas por essa unidade durante o período analisado.
 
 **Interpretação:** Este gráfico permite identificar quais filiais estão gerando os maiores volumes de vendas, destacando aquelas que desempenham um papel crucial no sucesso da empresa. Com essa informação, a empresa pode analisar as práticas bem-sucedidas dessas filiais, replicá-las em outras unidades, ou ajustar recursos e estratégias para melhorar o desempenho das filiais que estão abaixo das expectativas. Essa análise também pode revelar necessidades de suporte adicional ou oportunidades de expansão em filiais de alto desempenho.
-
-![Vendas "Vendas por Vendedor"](../../assets/saler_per_seller.png)
 
 ### Nível 3: Vendedor
 **Descrição:** No nível de vendedor, o gráfico exibe o valor total das vendas associadas a cada vendedor específico. Cada barra representa um vendedor e ilustra o montante total de vendas que esse profissional realizou durante o período analisado.
 
 **Interpretação:** Este gráfico permite identificar quais vendedores estão gerando os maiores volumes de vendas, ajudando a destacar os melhores desempenhos individuais dentro da equipe. Com essa informação, a empresa pode reconhecer e recompensar o bom desempenho, oferecer treinamentos ou suporte adicional para vendedores que possam estar abaixo da meta, e ajustar as metas de vendas para alinhar com as capacidades de cada membro da equipe. Essa análise também pode ser usada para otimizar a distribuição de leads ou territórios de vendas.
 
-![Vendas "Vendas por Fabricante"](../../assets/saler_per_manufacturer.png)
-
 ### Nível 4: Fabricante
 **Descrição:** No nível de fabricante, o gráfico exibe o valor total das vendas associadas a cada fabricante específico. Cada barra representa um fabricante e ilustra o montante total de vendas dos produtos desse fabricante durante o período analisado.
 
 **Interpretação:**  Este gráfico permite identificar quais fabricantes contribuem mais significativamente para o faturamento da empresa. Com essa informação, a empresa pode estreitar relações com os fabricantes mais lucrativos, renegociar condições de fornecimento, ou ajustar o portfólio de produtos para focar naqueles que geram maior receita. Além disso, a análise pode revelar oportunidades de diversificação, substituição ou eliminação de produtos de fabricantes com desempenho insatisfatório.
-
-![Vendas "Vendas por Item"](../../assets/sales_per_iten.png)
 
 ### Nível 5: Item
 **Descrição:** No nível de item, o gráfico exibe o valor total das vendas associado a cada item específico. Cada barra representa um item de produto ou serviço e ilustra o montante total de vendas gerado por esse item durante o período analisado.
