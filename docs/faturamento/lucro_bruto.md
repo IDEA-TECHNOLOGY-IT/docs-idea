@@ -83,5 +83,8 @@ Este painel apresenta informações sobre os itens mais importantes em três cat
 
 Este painel oferece uma visão consolidada dos itens mais importantes para a empresa em termos de volume de vendas, faturamento e preço médio, facilitando a tomada de decisões estratégicas para otimizar o desempenho comercial.
 
+![Painel de Itens Destacados](../../assets/fat_itens_acumulado)
+<p align="center"><em>Imagem 5: Acumulado</em></p>
+
 ![Painel de Itens Destacados](../../assets/fat_itens_tabela)
-<p align="center"><em>Imagem 5: Tabela Detalhamento</em></p>
+<p align="center"><em>Imagem 6: Tabela Detalhamento</em></p>
