@@ -26,7 +26,16 @@ O Business Intelligence (BI) **Idea Accounting** traz métricas e análises cont
 
 ## Fonte de Dados
 
-O IDEA ACCOUNTING ANALYTICS SAP B1 Hana é uma solução desenvolvida em Power BI que utiliza como fonte de dados o SAP B1 Hana.
+O IDEA ACCOUNTING é uma solução desenvolvida em Power BI que utiliza como origem dos dados o SAP B1 Hana.
+Processos contemplados para extração dos dados: 
+
+- Lançamentos Contábeis;
+- Modelos de Relatórios Financeiros;
+- Empresas / Filiais (Multi-filiais);
+- Parceiros de Negócios;
+- Plano de Contas;
+- Dimensões / Centros de Custos;
+- Projetos.
 
 ## Licença de Uso
 
