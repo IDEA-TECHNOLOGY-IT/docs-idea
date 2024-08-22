@@ -133,7 +133,7 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-  - Idea Sales:
+  - BI Idea Sales:
     - faturamento/ficha-tecnica.md
     - faturamento/home.md
     - faturamento/vendas.md
