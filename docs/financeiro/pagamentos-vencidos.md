@@ -1,6 +1,6 @@
 # Painel Pagamentos Vencidos
 
-![alt text](../assets/pagamentos-vencidos.png)
+![alt text](../assets/flux_venc_page1.png)
 <h6 align = "center"> Imagem 1: Painel Visão geral do relatório</h6>
 
 ## O que são Pagamentos Vencidos?
