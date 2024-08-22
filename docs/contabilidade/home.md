@@ -1,7 +1,7 @@
 # Painel Visão Contábil - Home
 
 <div align="center">
-  <img src="../../assets/contabilidade_home.png" alt="Visão Contábil - Home">
+  <img src="../../assets/contabilidade_home.png" alt="Painel de Contábil - Home">
   <h6>Imagem 1: Visão Contábil - Home</h6>
 </div>
 
