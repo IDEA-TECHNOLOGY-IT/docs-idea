@@ -23,9 +23,9 @@ Diretores, Gestores e Analistas Financeiros.
 
 ## Requisitos para Setup
 
-•	Acesso a base de dados do SAP B1 Hana;
-•	Usuário do Power BI (versão Professional ou superior);
-•	Plano de Contas definido no SAP.
+- Acesso a base de dados do SAP B1 Hana;
+- Usuário do Power BI (versão Professional ou superior);
+- Plano de Contas definido no SAP.
 
 ## Fonte de Dados
 
