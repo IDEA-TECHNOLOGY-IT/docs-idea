@@ -1,6 +1,6 @@
 # Painel Prazo Médio Pagamento
 
-![alt text](../assets/pmp/Imagem1 - Painel Visão Geral do PMP.png)
+![alt text](../assets/flux_pmp_page1.png)
 <h6 align = "center"> Imagem1 - Painel Visão Geral do PMP</h6>
 
 ## Qual é o papel do indicador PMP?
@@ -61,3 +61,6 @@ Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou pr
 - **Melhoria de Relacionamentos**: Filiais ou projetos com PMP mais longo podem prejudicar relações com fornecedores. O gráfico ajuda a identificar esses riscos e a tomar medidas corretivas.
 
 O Gráfico PMP x Filial ou Projeto é crucial para empresas com operações em várias localidades ou envolvidas em diversos projetos. Ele fornece insights valiosos sobre a eficiência dos processos de pagamento em diferentes partes da organização, permitindo uma gestão mais precisa e estratégica das finanças. Identificando os maiores prazos de pagamento, a empresa pode otimizar o fluxo de caixa e fortalecer os relacionamentos com fornecedores.
+
+![alt text](../assets/flux_pmp_tabela.png)
+<h6 align = "center"> Imagem 4 - Tabela</h6>
