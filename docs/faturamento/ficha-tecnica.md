@@ -19,12 +19,21 @@ O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas
 ## Requisitos para Setup
 
 •	Acesso a base de dados do SAP B1 Hana;
-•	Usuário do Power BI (versão Professional ou superior);
-•	Plano de Contas definido no SAP.
+•	Usuário do Power BI (versão Professional ou superior).
 
 ## Fonte de Dados
 
-O IDEA SALES ANALYTICS SAP B1 Hana é uma solução desenvolvida em Power BI que utiliza como fonte de dados o SAP B1 Hana.
+O IDEA SALES é uma solução desenvolvida em Power BI que utiliza como origem dos dados o SAP B1 Hana.
+Processos contemplados para extração dos dados: 
+
+- Notas Fiscais de Saída;
+- Devolução de Notas Fiscais de Saída;
+- Empresas / Filiais (Multi-filiais);
+- Parceiros de Negócios (Clientes);
+- Itens (Produtos / Serviços);
+- Dimensões / Centros de Custos ;
+- Projetos;
+- Utilizações.
 
 ## Licença de Uso
 
