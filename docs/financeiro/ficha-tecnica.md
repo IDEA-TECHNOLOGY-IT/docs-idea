@@ -42,7 +42,7 @@ Processos contemplados para extração dos dados:
     - Notas fiscais de saída em aberto.
 
   - Movimentações Financeiras Realizadas
-    - Pagamentos
+    - Pagamentos;
       - Notas fiscais de entradas;
       - Lançamento Contábil Manual (LCM).
 
