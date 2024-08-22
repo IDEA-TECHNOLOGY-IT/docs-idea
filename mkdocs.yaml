@@ -51,7 +51,7 @@ plugins:
   #     repository: IDEA-TECHNOLOGY-IT/docs-idea_finance
   #     branch: main
   - glightbox
-    
+
 
 # Configurações de extra CSS (opcional)
 extra_css:
