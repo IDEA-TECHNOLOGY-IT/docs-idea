@@ -133,7 +133,16 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-  - Idea Finance: 
+  - Idea Sales:
+    - faturamento/ficha-tecnica.md
+    - faturamento/home.md
+    - faturamento/vendas.md
+    - faturamento/devolucoes.md
+    - faturamento/faturamento_liquido.md
+    - faturamento/cmv.md
+    - faturamento/lucro_bruto.md
+    - faturamento/positivacao.md
+  - BI Idea Finance: 
     - financeiro/ficha-tecnica.md
     - financeiro/contas_a_receber.md
     - financeiro/contas-a-pagar.md
@@ -143,7 +152,7 @@ nav:
     - financeiro/prazo_medio_pagamento.md
     - financeiro/fluxo_de_caixa.md
     - financeiro/saldo_de_contas.md
-  - Contabilidade:
+  - BI Idea Accounting:
     - contabilidade/ficha-tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_caixas.md
@@ -155,12 +164,3 @@ nav:
     - contabilidade/indicadores.md
     - contabilidade/regrados40.md
     - contabilidade/dre.md
-  - Faturamento:
-    - faturamento/ficha-tecnica.md
-    - faturamento/home.md
-    - faturamento/vendas.md
-    - faturamento/devolucoes.md
-    - faturamento/faturamento_liquido.md
-    - faturamento/cmv.md
-    - faturamento/lucro_bruto.md
-    - faturamento/positivacao.md
