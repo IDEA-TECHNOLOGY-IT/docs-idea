@@ -15,7 +15,7 @@ O Business Intelligence (BI) **Idea Finance** traz métricas e análises finance
 5. [Painel Pagamentos Vencidos](./pagamentos-vencidos.md)
 6. [Painel Prazo Médio de Recebimento (PMR)](./prazo_medio_recebimento.md)
 7. [Painel Prazo Médio de Pagamento (PMP)](./prazo_medio_pagamento.md)
-8. [Painel Saldo de Contas](./saldo_de_contas.md)
+8. [Visão Saldo de Contas](./saldo_de_contas.md)
 
 ## Requisitos para Setup
 
