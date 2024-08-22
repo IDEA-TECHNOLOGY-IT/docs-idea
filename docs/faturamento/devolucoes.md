@@ -1,9 +1,9 @@
 # Painel Devoluções
 
-![alt text](../assets/devolucoes/Imagem1 - Relatório Geral de Devoluções.png)
+![alt text](../assets/fat_dev_page1.png)
 <h6 align = "center"> Imagem1 - Relatório Geral de Devoluções</h6>
 
-![alt text](../assets/devolucoes/Imagem2 - Relatório Detalhado de Devoluções.png)
+![alt text](../assets/fat_dev_page2.png)
 <h6 align = "center"> Imagem2 - Relatório Detalhado de Devoluções</h6>
 
 ## O que são Devoluções? E Como Funciona?
@@ -37,7 +37,7 @@ Esse gráfico geralmente apresenta uma linha ou curva crescente, onde cada ponto
 
 ## Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item
 
-![alt text](../assets/devolucoes/Imagem4 - Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item.png)
+![alt text](../assets/fat_dev_anomes.png)
 <h6 align = "center"> Imagem4 - Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 
 Esse tipo de gráfico oferece uma representação visual que distribui o valor das devoluções de acordo com categorias específicas, como Filial, Vendedor, Cliente, Fabricante ou Item. Ele permite que a empresa identifique com precisão onde as devoluções estão ocorrendo e quais fatores ou grupos podem estar influenciando esses retornos de produtos.
