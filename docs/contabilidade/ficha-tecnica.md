@@ -1,9 +1,9 @@
 # Ficha Técnica
 O Business Intelligence (BI) **Idea Accounting** traz métricas e análises contábeis para sua empresa.
 
-## Ficha Técnica
-
 ## Público-alvo
+
+Diretores, gestores e analistas de Contabilidade.
 
 ## Recursos
 
