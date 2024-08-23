@@ -2,9 +2,9 @@
 
 O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas para sua empresa.
 
-## Visão Geral
-
 ## Público-alvo
+
+Diretores, gestores e analistas de vendas.
 
 ## Recursos
 
