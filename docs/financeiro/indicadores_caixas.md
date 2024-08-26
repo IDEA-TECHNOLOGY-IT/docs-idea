@@ -1,4 +1,4 @@
-# Painel Caixas de Indicadores
+# Caixas de Indicadores
 
 <div align="center">
   <img src="../../assets/flux_indicadores_caixas.png" alt="Caixas de Indicadores">
