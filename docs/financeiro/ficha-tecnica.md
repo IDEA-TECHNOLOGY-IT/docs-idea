@@ -12,14 +12,15 @@ Diretores, Gestores e Analistas Financeiros.
 
 ## Recursos
 
-1. [Painel Contas a Receber](./contas_a_receber.md)
-2. [Painel Contas a Pagar](./contas-a-pagar.md)
-3. [Painel Fluxo de Caixa](./fluxo_de_caixa.md)
-4. [Painel Inadimplência](./inadimplencia.md)
-5. [Painel Pagamentos Vencidos](./pagamentos-vencidos.md)
-6. [Painel Prazo Médio de Recebimento (PMR)](./prazo_medio_recebimento.md)
-7. [Painel Prazo Médio de Pagamento (PMP)](./prazo_medio_pagamento.md)
-8. [Visão Saldo de Contas](./saldo_de_contas.md)
+1. [Introdução ao BI Financeiro](./intro.md)
+2. [Painel Contas a Receber](./contas_a_receber.md)
+3. [Painel Contas a Pagar](./contas-a-pagar.md)
+4. [Painel Fluxo de Caixa](./fluxo_de_caixa.md)
+5. [Painel Inadimplência](./inadimplencia.md)
+6. [Painel Pagamentos Vencidos](./pagamentos-vencidos.md)
+7. [Painel Prazo Médio de Recebimento (PMR)](./prazo_medio_recebimento.md)
+8. [Painel Prazo Médio de Pagamento (PMP)](./prazo_medio_pagamento.md)
+9. [Visão Saldo de Contas](./saldo_de_contas.md)
 
 ## Requisitos para Setup
 
