@@ -18,7 +18,7 @@ Em resumo, um relatório de Fluxo de Caixa bem estruturado não apenas fornece u
 ## Barra de Menu
 
 <div align="center">
-  <img src="../../assets/contabilidade_menu.png" alt="Barra de Menu">
+  <img src="../../assets/flux_menu.png" alt="Barra de Menu">
   <h6>Imagem 2: Barra de Menu</h6>
 </div>
 
@@ -27,88 +27,92 @@ A barra de menu é um recurso de navegação localizado no lado esquerdo de toda
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
 ### Botão Home
-<p><img src="../../assets/contabilidade_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada Visão Contábil. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
+Este botão leva os usuários de volta à página principal, intitulada Painel Financeiro. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
 
   
-### Botão Receita Bruta
-<p><img src="../../assets/contabilidade_button_rb1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_rb2.png" alt="rb2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+### Botão A Receber
+<p><img src="../../assets/flux_menu_rec1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_rec2.png" alt="rb2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão direciona os usuários para a página intitulada Receita Bruta. Esta página inclui visualizações e análises relacionadas ao total de receita gerada pela empresa antes de quaisquer deduções.
+Clicar neste botão direciona os usuários para a página intitulada A Receber. Esta página inclui visualizações e análises relacionadas ao que deve ser recebido pela empresa.
   
-### Botão Custos e Despesas
-<p><img src="../../assets/contabilidade_button_ced1.png" alt="ced1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_ced2.png" alt="ced2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+### Botão A Pagar
+<p><img src="../../assets/flux_menu_pag1.png" alt="ced1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pag2.png" alt="ced2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Custos e Despesas. Aqui, os usuários podem visualizar e analisar os custos e despesas incorridos pela empresa, ajudando a avaliar o desempenho financeiro e a gestão de custos.
+Este botão navega para a página intitulada A Pagar. Aqui, os usuários podem visualizar e analisar o que a empresa tem que pagar.
   
-###  Botão Lucro Líquido
-<p><img src="../../assets/contabilidade_button_ll1.png" alt="ll1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_ll2.png" alt="ll2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+###  Botão Inadimplência
+<p><img src="../../assets/flux_menu_inadim1.png" alt="ll1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_inadim2.png" alt="ll2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão leva os usuários à página intitulada Lucro Líquido. Esta seção fornece insights sobre o lucro líquido da empresa após todas as despesas, impostos e deduções serem contabilizados.
+Selecionar este botão leva os usuários para a página intitulada Inadimplência. Esta seção fornece insights sobre pagamentos em atraso ainda não recebidos.
   
-### Botão EBITDA
-<p><img src="../../assets/contabilidade_button_ebitda1.png" alt="ebitda1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_ebitda2.png" alt="ebitda2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+### Botão Pagamentos Vencidos
+<p><img src="../../assets/flux_menu_venc1.png" alt="ebitda1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_venc2.png" alt="ebitda2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona para a página intitulada EBITDA. Os usuários podem explorar o desempenho operacional da empresa, excluindo os efeitos das decisões financeiras e contábeis.
+Selecionar este botão leva os usuários para a página intitulada Pagamentos Vencidos. Esta seção fornece insights sobre pagamentos vencidos ainda não pagos.
   
-### Botão Indicadores
-<p><img src="../../assets/contabilidade_button_i1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_i2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+### Botão Período Médio de Recebimento (PMR)
+<p><img src="../../assets/flux_menu_pmr1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pmr2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada Indicadores, onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.
+Clicar neste botão abre a página intitulada Período Médio de Recebimento (PMR), onde os usuários podem visualizar a quantidade média de dias necessários para receber os pagamentos.
 
   
-### Botão Regra dos 40
-<p><img src="../../assets/contabilidade_button_rd401.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_rd402.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+### Botão Período Médio de Pagamento (PMP)
+<p><img src="../../assets/flux_menu_pmp1.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pmp2.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Regra dos 40, que foca em analisar se a soma da margem EBITDA e do crescimento da receita atende ou excede o marco de 40%.
+Este botão navega para a página intitulada Período Médio de Pagamento (PMP), onde os usuários podem visualizar a quantidade média de dias necessários para efetuar os pagamentos.
   
-### Botão DRE
-<p><img src="../../assets/contabilidade_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/contabilidade_button_dre2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
-Selecionar este botão leva os usuários à página intitulada DRE (Demonstração do Resultado do Exercício), onde eles podem visualizar a demonstração de resultados, detalhando a receita, despesas e lucratividade da empresa ao longo de um período específico.
+### Botão Fluxo de Conta
+<p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_inadim1.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+Selecionar este botão leva o usuário para a página Fluxo de Conta, onde é possível visualizar a movimentação financeira de cada conta por mês e ano.
 
 ## Filtros
 
 <div align="center">
-  <img src="../../assets/contabilidade_filtros.png" alt="Contabilidade Filtros">
-  <h6>Imagem 3: Filtros ou Slicers</h6>
+  <img src="../../assets/flux_filtros1.png" alt="Financeiro Filtros">
+  <h6>Imagem 3: Filtros Visão 1</h6>
+</div>
+<div align="center">
+  <img src="../../assets/flux_filtros2.png" alt="Financeiro Filtros">
+  <h6>Imagem 4: Filtros Visão 2</h6>
 </div>
 
-Os filtros, que você pode ver sendo chamados de Slicers, são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. 
+Os filtros são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. 
 
-Ao ajustar qualquer um dos slicers, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
+Ao ajustar qualquer um dos filtross, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
 
 Os filtros são feitos a partir dos dados da empresa, ou seja, você pode filtrar por áreas específicas como projeto ou filial. Por exemplo, se você quiser ver os números de um projeto chamado “Novo Edifício”, basta selecioná-lo no slicer e o filtro será aplicado. Agora você pode ver todos os dados relacionados a este projeto em cada página do relatório.
 
 ###	Filial
-<p><img src="../../assets/contabilidade_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
 
 ###	Projeto
-<p><img src="../../assets/contabilidade_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
 O filtro de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
 
 ###	Ano
-<p><img src="../../assets/contabilidade_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
 O filtro de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
 
 ###	Mês
-<p><img src="../../assets/contabilidade_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
 Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher um mês, todos os visuais no relatório são ajustados para refletir apenas as informações desse período, facilitando a análise mensal e a identificação de variações sazonais.
 
-###	Antes da Data
-<p><img src="../../assets/contabilidade_filtros_antes.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
-Este filtro está disponível apenas na página Indicadores e permite ao usuário ajustar o visual para mostrar dados entre duas datas. Isto simplifica a comparação e análise dos indicadores durante qualquer período de tempo necessário.
+###	Conta
+<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite que o usuário veja os resultados por conta. Isso permite acesso fácil a contas específicas e pode ser necessário ao planejar movimentações financeiras.
 
 ###	Limpar filtros
-<p><img src="../../assets/contabilidade_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
 
