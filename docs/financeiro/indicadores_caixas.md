@@ -116,7 +116,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cai
 
 <div align="center">
   <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)">
-  <h6>Imagem 6: Caixa de Período Médio de Pagamento (PMP)</h6>
+  <h6>Imagem 7: Caixa de Período Médio de Pagamento (PMP)</h6>
 </div>
 
 ### Período Médio de Pagamento (PMP)
