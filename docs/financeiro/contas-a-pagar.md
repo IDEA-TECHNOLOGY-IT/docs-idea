@@ -1,7 +1,9 @@
 # Painel Contas a Pagar
 
-![alt text](../assets/contas-a-pagar.png)
-<h6 align = "center"> Imagem 1: Painel Contas a Pagar</h6>
+<p><div align="center">
+  <img src="../../assets/contas-a-pagar.png" alt="Contas a Pagar">
+  <h6>Imagem 1: Painel Contas a Pagar</h6>
+</div></p>
 
 Contas a pagar representam as obrigações financeiras que uma empresa assume com fornecedores e outros credores, com o compromisso de quitação em um período futuro. 
 
