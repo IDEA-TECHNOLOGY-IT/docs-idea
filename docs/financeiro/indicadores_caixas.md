@@ -51,24 +51,24 @@ O botão <b>Ver mais</b> direciona o usuário para a página de A Receber quando
 
 O botão <b>Ver mais</b> direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual (ou seja, o usuário já estiver na página de A Pagar), o botão <b>Ver Mais</b> se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
 
-## Caixa de Inadimplência
+## Indicador de Inadimplência
 
 <div align="center">
   <img src="../../assets/flux_caixa_inadim.png" alt="Caixa de Inadimplência">
-  <h6>Imagem 4: Caixa de Inadimplência</h6>
+  <h6>Imagem 4: Inadimplência</h6>
 </div>
 
 ### Inadimplência
 
-Inadimplência refers to the situation where a debtor fails to meet their financial obligations, resulting in overdue payments or unpaid debts. This indicator shows the total value of overdue payments to recieve. Monitoring inadimplência is crucial because it directly impacts a company’s cash flow and financial stability, enabling businesses to identify risks, take corrective actions, and maintain a healthy financial position.
+A <b>inadimplência</b> ocorre quando um devedor não cumpre suas obrigações financeiras, resultando em pagamentos atrasados ou dívidas não quitadas. Este indicador reflete o valor total de pagamentos em atraso que a empresa ainda tem a receber. Monitorar a inadimplência é fundamental, pois ela afeta diretamente o fluxo de caixa e a saúde financeira do negócio. Ao acompanhar esse indicador, a empresa pode identificar riscos, adotar medidas corretivas e garantir uma posição financeira mais sólida e estável.
 
 ### Inadimplência %
 
-Inadimplência % é a porcentagem do total de contas a receber que estão vencidas ou não pagas, refletindo a proporção de dívidas que não foram liquidadas no prazo. Acompanhar a Inadimplência % é importante porque ajuda as empresas a avaliar a eficácia de seus processos de crédito e cobrança, identificar potenciais problemas de fluxo de caixa e tomar decisões informadas para minimizar o risco financeiro.
+A <b>Inadimplência %</b> representa a porcentagem do total de contas a receber que estão vencidas ou não pagas, indicando a proporção de dívidas que não foram quitadas dentro do prazo. Monitorar esse indicador é essencial para avaliar a eficácia dos processos de crédito e cobrança da empresa. Além disso, ele ajuda a identificar potenciais problemas de fluxo de caixa e a tomar decisões estratégicas para mitigar riscos financeiros e melhorar a gestão das contas a receber.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Inadimplência. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Inadimplência), o botão "Ver Mais" não é visível, e o cartão é destacado.
+O botão <b>Ver mais</b>, quando clicado, direciona o usuário para a página de Inadimplência. Se o cartão já estiver associado à página atual (ou seja, o usuário já estiver na página de Inadimplência), o botão <b>Ver mais</b> não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
 
 ## Caixa de Pagamentos Vencidos
 
