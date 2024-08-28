@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="../../assets/flux.png" alt="Financeiro Home">
-  <h6>Imagem 1: Relatório Contabilidade - Painel Financeiro</h6>
+  <h6>Imagem 1: Painel Financeiro</h6>
 </div>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Fluxo de Caixa abrangente e focado é essencial para proporcionar uma visão clara e detalhada da saúde financeira de uma empresa. Esse tipo de relatório oferece uma análise profunda das entradas e saídas de caixa, permitindo uma gestão eficaz do caixa, comparações detalhadas entre receitas e despesas, e a avaliação do desempenho financeiro ao longo do tempo. Visualizações precisas e detalhadas ajudam a identificar tendências, monitorar variações e tomar decisões informadas que podem otimizar a gestão de caixa e melhorar a rentabilidade da empresa.
