@@ -135,6 +135,7 @@ nav:
 - Documentação:
   - BI Idea Sales:
     - faturamento/ficha-tecnica.md
+    - faturamento/intro.md
     - faturamento/home.md
     - faturamento/vendas.md
     - faturamento/devolucoes.md
