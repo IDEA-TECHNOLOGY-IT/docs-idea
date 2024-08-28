@@ -13,10 +13,12 @@ Uma gestão eficiente das contas a pagar é crucial para manter a saúde finance
 de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negócio.
 
 
-## Gráfico Aging
+## Aging - Contas a Pagar
 
-![alt text](../assets/contas-a-pagar-aging.png)
-<h6 align = "center"> Imagem 2: Gráfico Aging</h6>
+<p><div align="center">
+  <img src="../../assets/contas-a-pagar-aging.png" alt="Aging - Contas a Pagar">
+  <h6>Imagem 2: Aging - Contas a Pagar</h6>
+</div></p>
 
 Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para monitorar e gerenciar o status das obrigações financeiras de uma empresa com seus fornecedores. Ele categoriza as contas a pagar com base no tempo decorrido desde a data de vencimento, facilitando a identificação de dívidas próximas do vencimento ou já vencidas.
 
@@ -27,10 +29,12 @@ Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para moni
 - **Negociação com Fornecedores:** Fornece uma base para negociar prazos de pagamento ou condições de desconto por antecipação de pagamento.
 - **Acompanhamento da Saúde Financeira:** Oferece uma visão clara da saúde financeira da empresa, indicando se as dívidas estão sendo geridas de forma adequada.
 
-## Gráfico Contas a Pagar X Favorecido, Origem, Filial ou Projeto
+## A Pagar X Favorecido, Origem, Filial ou Projeto
 
-![alt text](../assets/contas-a-pagar-fav.png)
-<h6 align = "center"> Imagem 3: Gráfico Contas a Pagar X Favorecido, Origem, Filial ou Projeto</h6>
+<p><div align="center">
+  <img src="../../assets/contas-a-pagar-fav.png" alt="A Pagar x Fav">
+  <h6>Imagem 3: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
+</div></p>
 
 Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a pagar de uma empresa, classificando-as em diferentes categorias. Ele oferece uma visão detalhada das obrigações financeiras por fornecedor, origem, filial ou projeto.
 
@@ -41,10 +45,12 @@ Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a paga
 - **Filial**: Para empresas com várias filiais, esse indicador apresenta as contas a pagar por unidade. Isso ajuda a administração central a identificar quais filiais estão gerando mais despesas e onde é necessário um controle financeiro mais rigoroso.
 - **Projeto**: Em empresas que operam com projetos específicos, esse indicador categoriza as contas a pagar por projeto. É particularmente útil para garantir que os projetos estejam dentro do orçamento e para identificar aqueles que podem estar gerando custos inesperados.
 
-## Gráfico A pagar por Data
+## A Pagar por Data
 
-![alt text](../assets/contas-a-pagar-pordata.png)
-<h6 align = "center"> Imagem 4: Tabela contas a pagar por Data</h6>
+<p><div align="center">
+  <img src="../../assets/contas-a-pagar-pordata.png" alt="A Pagar por Data">
+  <h6>Imagem 4: A Pagar por Data</h6>
+</div></p>
 
 Este gráfico tabular representa o detalhamento organizado das obrigações financeiras da empresa de forma estruturada e segmentada. Ele oferece uma visão abrangente das contas a pagar, reunindo todas as informações necessárias em um único lugar e permitindo uma análise detalhada.
 
