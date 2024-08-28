@@ -73,6 +73,7 @@ Este botão navega para a página intitulada Período Médio de Pagamento (PMP),
 ### Botão Fluxo de Conta
 <p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_inadim1.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão leva o usuário para a página Fluxo de Conta, onde é possível visualizar a movimentação financeira de cada conta por mês e ano.
 
 ## Filtros
