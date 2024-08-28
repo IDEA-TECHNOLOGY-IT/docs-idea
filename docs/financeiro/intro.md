@@ -115,5 +115,5 @@ Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permit
 
 ###	Limpar filtros
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
-Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
+Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão <b>Limpar filtros</b> localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
 
