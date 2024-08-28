@@ -67,12 +67,13 @@ Clicar neste botão abre a página intitulada Itens, onde os usuários podem vis
 <p><img src="../../assets/fat_button_ind1.png" alt="ind1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_ind2.png" alt="ind2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Indicadores, esta página inclui 10 indicadores divididos por ano e mês, filial, vendedor e cliente para dar uma forma abrangente e rápida de visualizar o desempenho. Esses indicadores são;
-- CMV - Custo da Mercadoria Vendida % 
-- Devoluções % 
-- Margem de Lucro % 
+Este botão navega para a página intitulada Indicadores, esta página inclui 10 indicadores divididos por ano e mês, filial, vendedor e cliente para dar uma forma abrangente e rápida de visualizar o desempenho. Esses indicadores são:
+
+- CMV - Custo da Mercadoria Vendida (%) 
+- Devoluções (%) 
+- Margem de Lucro (%) 
 - MDR - Máximo Dias a Receber (Dias) 
-- Meta Mensal % 
+- Meta Mensal (%) 
 - Pedido Médio (R$) 
 - PMR - Período Médio de Recebimento (Dias) 
 - Positivação 
