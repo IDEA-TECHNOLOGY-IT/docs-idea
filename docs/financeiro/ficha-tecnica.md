@@ -54,7 +54,7 @@ Processos contemplados para extração dos dados:
     - Parceiros de Negócios;
     - Plano de Contas;
     - Dimensões / Centros de Custos;
-    - Projetos.
+    - Projetos.
     
 ## Licença de Uso
 
