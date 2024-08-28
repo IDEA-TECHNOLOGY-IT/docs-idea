@@ -1,36 +1,36 @@
-# Caixas de Indicadores
+# Indicadores Financeiro
 
 <div align="center">
   <img src="../../assets/flux_indicadores_caixas.png" alt="Caixas de Indicadores">
-  <h6>Imagem 1: Caixas de Indicadores</h6>
+  <h6>Imagem 1: Indicadores Financeiro</h6>
 </div>
 
-Em cada página do nosso relatório no Power BI, você encontrará caixas de indicadores posicionadas de forma proeminente no topo. Essas caixas não são apenas marcadores; elas são ferramentas vitais projetadas para aprimorar sua experiência de relatório ao exibir de maneira consistente valores-chave que são centrais para a análise de cada página. As informações fornecidas nessas caixas de indicadores servem como uma referência rápida, garantindo que você possa acompanhar os dados críticos sem precisar navegar para frente e para trás entre as diferentes páginas do relatório.
+Em cada página do nosso relatório no Power BI, os indicadores financeiros estão estrategicamente posicionados no topo. Esses indicadores não são meros marcadores; são ferramentas essenciais, projetadas para aprimorar sua experiência de análise, ao exibir consistentemente os valores-chave mais relevantes para cada página. Eles oferecem uma referência rápida, garantindo que você possa monitorar os dados críticos de forma contínua, sem a necessidade de navegar entre diferentes páginas do relatório.
 
-Uma das grandes vantagens dessas caixas de indicadores é a sua consistência. Os valores exibidos permanecem uniformes ao longo do relatório, permitindo um fluxo contínuo de informações à medida que você avança por diferentes seções. Essa consistência significa que, independentemente da página em que você esteja, você sempre terá acesso aos mesmos pontos de dados essenciais, facilitando a manutenção de uma visão clara das principais métricas do relatório. Esse recurso é particularmente útil ao realizar análises detalhadas, pois elimina a necessidade de se reorientar constantemente com os dados.
+Uma das principais vantagens desses indicadores é a sua consistência. Os valores exibidos permanecem uniformes ao longo do relatório, proporcionando um fluxo contínuo de informações à medida que você explora diferentes seções. Isso significa que, independentemente da página em que você estiver, sempre terá acesso aos mesmos pontos de dados essenciais, facilitando a manutenção de uma visão clara das principais métricas. Esse recurso é especialmente útil em análises detalhadas, eliminando a necessidade de realinhamento constante com os dados.
 
-Além disso, os valores apresentados nessas caixas de indicadores estão dinamicamente vinculados aos filtros aplicados no relatório. Essa integração garante que, à medida que você aplica diferentes filtros para refinar sua análise, os valores nas caixas de indicadores serão ajustados automaticamente para refletir os dados filtrados. Essa interação dinâmica torna sua análise não apenas mais eficiente, mas também mais precisa, pois as caixas de indicadores fornecem uma visão instantânea dos dados filtrados. Seja analisando dados em diferentes períodos, regiões ou outras dimensões, essas caixas ajudam a simplificar o processo, oferecendo uma visão clara e concisa de como seus filtros impactam os dados gerais.
+Além disso, esses indicadores estão dinamicamente vinculados aos filtros aplicados no relatório. À medida que você ajusta os filtros para refinar sua análise, os valores dos indicadores se atualizam automaticamente, refletindo os dados filtrados. Essa interação dinâmica torna a análise mais eficiente e precisa, pois os indicadores fornecem uma visão instantânea e ajustada dos dados conforme as variáveis aplicadas, seja por períodos, regiões ou outras dimensões. Isso simplifica o processo analítico e oferece uma visão clara de como os filtros impactam os resultados gerais.
 
-Em resumo, as caixas de indicadores no topo de cada página do relatório no Power BI são essenciais para manter a continuidade e clareza ao longo da sua análise. Elas fornecem métricas consistentes e sensíveis aos filtros que simplificam a capacidade de acompanhar e comparar os principais números em todo o relatório, aprimorando sua experiência analítica geral.
+Em resumo, os indicadores posicionados no topo de cada página do relatório no Power BI são fundamentais para garantir continuidade e clareza durante sua análise. Eles oferecem métricas consistentes, ajustadas de acordo com os filtros, o que facilita o acompanhamento e a comparação dos principais números ao longo de todo o relatório, aprimorando sua experiência analítica.
 
-## Caixa de Receita Bruta
+## Indicador A Receber
 
 <div align="center">
   <img src="../../assets/flux_caixa_rec.png" alt="Caixa de A Receber">
-  <h6>Imagem 2: Caixa de A Receber</h6>
+  <h6>Imagem 2: Indicador A Receber</h6>
 </div>
 
 ### A Receber
 
-A Receber refere-se ao valor total de pagamentos a receber que estão pendentes. Esta é uma combinação de inadimplência, que se refere a pagamentos ou dívidas em atraso, e todos os valores que devem ser recebidos, mas ainda não passaram da data de vencimento.
+<b>A Receber</b> refere-se ao valor total de pagamentos pendentes que a empresa ainda não recebeu. Esse valor inclui tanto os montantes em inadimplência, que são aqueles pagamentos ou dívidas que já estão atrasados, quanto os valores que ainda não venceram, mas que a empresa tem o direito de receber. Assim, a conta <b>A Receber</b> engloba todas as entradas financeiras futuras, independentemente de estarem ou não em atraso.
 
 ### Recebimento
 
-Recebimento (Receb.) é o valor total dos pagamentos recebidos. Ao comparar os valores recebidos com os devidos, as empresas podem gerenciar melhor seu fluxo de caixa, garantindo que tenham liquidez suficiente para cobrir despesas e investimentos, e outras estratégias financeiras.
+<b>Recebimento (Receb.)</b> refere-se ao valor total dos pagamentos já recebidos pela empresa. Ao comparar esses valores com o montante a receber, as empresas podem gerenciar de forma mais eficaz seu fluxo de caixa, garantindo liquidez suficiente para cobrir despesas, realizar investimentos e implementar outras estratégias financeiras com maior segurança.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de A Receber. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de A Receber), o botão "Ver Mais" não é visível, e o cartão é destacado.
+O botão <b>Ver mais</b> direciona o usuário para a página de A Receber quando clicado. No entanto, quando o usuário já está na página de A Receber, o botão "Ver mais" não é exibido, e o cartão correspondente é destacado visualmente.
 
 ## Caixa de A Pagar
 
