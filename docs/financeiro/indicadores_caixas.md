@@ -17,7 +17,7 @@ Em resumo, os indicadores posicionados no topo de cada página do relatório no 
 
 <div align="center">
   <img src="../../assets/flux_caixa_rec.png" alt="Caixa de A Receber">
-  <h6>Imagem 2: Indicador A Receber</h6>
+  <h6>Imagem 2: A Receber</h6>
 </div>
 
 ### A Receber
@@ -32,7 +32,7 @@ Em resumo, os indicadores posicionados no topo de cada página do relatório no 
 
 O botão <b>Ver mais</b> direciona o usuário para a página de A Receber quando clicado. No entanto, quando o usuário já está na página de A Receber, o botão "Ver mais" não é exibido, e o cartão correspondente é destacado visualmente.
 
-## Caixa de A Pagar
+## Indicador A Pagar
 
 <div align="center">
   <img src="../../assets/flux_caixa_pag.png" alt="Caixa de A Pagar">
@@ -41,15 +41,15 @@ O botão <b>Ver mais</b> direciona o usuário para a página de A Receber quando
 
 ### A Pagar
 
-A Pagar se refere ao valor total de pagamentos a receber que estão pendentes. Esta é uma combinação de ambos Pagamentos Vencidos, que se refere a pagamentos ou dívidas em atraso, e todos os valores que devem ser recebidos, mas ainda não passaram da data de vencimento.
+<b>A Pagar</b> representa o valor total de pagamentos pendentes. Isso inclui tanto os Pagamentos Vencidos, referentes a dívidas ou obrigações em atraso, quanto os valores que ainda estão dentro do prazo de vencimento, mas ainda não foram pagos.
 
 ### Pagamento
 
-Pagamento (Pago) é o valor total dos pagamentos feitos. Comparar os valores pagos com os valores devidos a pagar ajuda a garantir que haja fundos suficientes disponíveis para cobrir as obrigações futuras, evitando escassez de dinheiro. Com uma visão clara dos pagamentos atuais e futuros, as empresas podem tomar decisões informadas sobre o gerenciamento de despesas, negociação de termos de pagamento e planejamento de investimentos.
+<b>Pagamento (Pago)</b> refere-se ao valor total dos pagamentos já realizados. Comparar os valores pagos com os valores pendentes a pagar é fundamental para assegurar que haja recursos suficientes para cobrir as obrigações futuras, evitando problemas de liquidez. Com uma visão clara dos pagamentos realizados e das obrigações futuras, as empresas podem tomar decisões mais informadas sobre o gerenciamento de despesas, renegociação de prazos de pagamento e planejamento de investimentos estratégicos.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de A Pagar. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de A Pagar), o botão "Ver Mais" não é visível, e o cartão é destacado.
+O botão <b>Ver mais</b> direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual (ou seja, o usuário já estiver na página de A Pagar), o botão <b>Ver Mais</b> se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
 
 ## Caixa de Inadimplência
 
