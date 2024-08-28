@@ -1,7 +1,9 @@
 # Painel Contas a Receber
 
-![Imagem 1: Relatório Geral Contas a Receber](../assets/flux_rec_page1.png)
-<h6 align="center">Imagem 1: Relatório Geral Contas a Receber</h6>
+<p><div align="center">
+  <img src="../../assets/flux_rec_page1.png" alt="Contas a Receber">
+  <h6>Imagem 1: Painel A Receber</h6>
+</div></p>
 
 Contas a Receber representam os direitos financeiros que uma empresa possui em relação aos seus clientes, resultantes de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
@@ -9,9 +11,12 @@ No contexto empresarial, as contas a receber incluem valores devidos por cliente
 
 Uma gestão eficiente das contas a receber é fundamental para assegurar a liquidez da empresa e o fluxo de caixa necessário para suas operações. Isso inclui monitorar os prazos de pagamento, identificar e minimizar os riscos de inadimplência, e garantir que os recebíveis sejam convertidos em caixa o mais rapidamente possível. Uma boa administração das contas a receber também contribui para a manutenção de relacionamentos saudáveis com os clientes, ao mesmo tempo em que suporta a sustentabilidade financeira do negócio.
 
-## Gráfico de Aging
-![Imagem 2: Gráfico de Aging de Contas a Receber](../assets/aging_recebimento.jpeg)
-<h6 align="center">Imagem 2: Gráfico de Aging de Contas a Receber</h6>
+## Aging - Contas a Receber
+
+<p><div align="center">
+  <img src="../../assets/aging_recebimento.jpeg" alt="Aging - Contas a Receber">
+  <h6>Imagem 2: Aging - Contas a Receber</h6>
+</div></p>
 
 Um gráfico de Aging de Contas a Receber é uma ferramenta visual essencial para monitorar e gerenciar os valores que uma empresa tem a receber de seus clientes. Ele organiza as contas a receber em diferentes categorias, baseando-se no tempo decorrido desde a data de emissão da fatura até o momento atual. Isso ajuda a empresa a identificar rapidamente quais valores estão próximos do vencimento, quais já estão vencidos, e a tomar as medidas necessárias para garantir que esses valores sejam recebidos.
 
@@ -35,9 +40,12 @@ A quinta barra exibe os valores que são esperados dentro de 120 dias. Isso perm
 ### Devido em mais de 120 dias
 A última barra categoriza as contas a receber que vencerão após 120 dias. Esta seção do gráfico oferece uma visão de longo prazo sobre os recebíveis, possibilitando o planejamento financeiro para um futuro mais distante.
 
-## Gráfico "A Receber x Cliente, Origem, Filial ou Projeto"
-![Imagem 3: Gráfico de Recebimento por Cliente, Origem e Filial](../assets/recebimento_por_cliente_origem_filial.jpeg)
-<h6 align="center">Imagem 3: Gráfico de Recebimento por Cliente, Origem e Filial</h6>
+## A Receber x Cliente, Origem, Filial ou Projeto
+
+<p><div align="center">
+  <img src="../../assets/recebimento_por_cliente_origem_filial.jpeg" alt="A Receber x Cliente">
+  <h6>Imagem 3: A Receber x Cliente, Origem, Filial ou Projeto</h6>
+</div></p>
 
 Este gráfico fornece uma análise detalhada das contas a receber, organizadas em diferentes níveis hierárquicos: Cliente, Origem, Filial e Projeto. A ferramenta de BI permite que você navegue facilmente entre esses níveis para obter uma visão mais específica ou mais agregada dos valores a receber. Abaixo está uma explicação de cada nível e instruções sobre como navegar entre eles.
 
@@ -67,9 +75,12 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 - **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
 - **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
 
-## Gráfico "A Receber por Data"
-![Imagem 4: Tabela de A Receber por Data](../assets/tabela_a_receber_por_data.jpeg)
-<h6 align="center">Imagem 4: Tabela de A Receber por Data</h6>
+## A Receber por Data
+
+<p><div align="center">
+  <img src="../../assets/tabela_a_receber_por_data.jpeg" alt="A Receber por Data">
+  <h6>Imagem 3: A Receber por Data</h6>
+</div></p>
 
 Este gráfico exibe uma tabela detalhada das contas a receber, organizada por data. A tabela inclui várias colunas que fornecem informações cruciais sobre cada fatura, desde o cliente até o status atual e os documentos relacionados. A seguir, explicamos o conceito e como interpretar cada coluna da tabela.
 
