@@ -1,4 +1,4 @@
-# Painel Lucro Bruto
+# Painel Itens
 ![Relatorio de Lucro Bruto](../../assets/fat_itens_page1.png)
 <p align="center"><em>Imagem 1: Relatorio de Lucro Bruto</em></p>
 O **Lucro Bruto** é uma métrica financeira fundamental que representa a diferença entre a receita líquida de vendas e o custo dos produtos vendidos (CPV). Em outras palavras, o lucro bruto é o valor que sobra das vendas depois que os custos diretos de produção, como materiais e mão de obra, são subtraídos.
