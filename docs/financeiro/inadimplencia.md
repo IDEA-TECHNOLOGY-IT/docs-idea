@@ -2,20 +2,11 @@
 ![Relatório "Inadimplência"](../../assets/inad_details.png)
 <h6 align = "center"> Imagem 1: Painel Inadimplência</h6>
 
-Inadimplência é a falha no cumprimento de obrigações financeiras por parte de um devedor,
-seja uma pessoa física ou jurídica, que não realiza o pagamento de uma dívida dentro do prazo
-estabelecido em um contrato ou acordo. Este comportamento pode trazer sérios impactos para
-a saúde financeira de uma empresa, como a redução de fluxo de caixa, aumento do risco
-financeiro, e até mesmo a deterioração das relações comerciais.
+Inadimplência refere-se à falha de um devedor (seja pessoa física ou jurídica) em cumprir suas obrigações financeiras dentro do prazo acordado, o que pode ter sérias repercussões para a saúde financeira de uma empresa. Essa situação pode levar à redução do fluxo de caixa, aumento do risco financeiro e deterioração das relações comerciais.
 
-A inadimplência impacta diretamente o fluxo de caixa da empresa, uma vez que os valores
-esperados não são recebidos conforme previsto. Isso pode levar à necessidade de buscar
-financiamento externo, o que aumenta os custos de crédito e pode afetar a operação diária da
-empresa. Relações comerciais podem ser deterioradas devido à inadimplência, tanto pela percepção
-negativa que outros parceiros de negócios podem desenvolver, quanto pela dificuldade de
-honrar compromissos financeiros com fornecedores, empregados, e investidores.
+Quando uma empresa enfrenta inadimplência, os valores esperados não são recebidos como previsto, afetando diretamente o fluxo de caixa e possivelmente levando à necessidade de buscar financiamento externo, o que aumenta os custos de crédito e pode prejudicar a operação diária. Além disso, a inadimplência pode deteriorar as relações comerciais, afetando a percepção de parceiros de negócios e dificultando o cumprimento de compromissos com fornecedores, empregados e investidores.
 
-Uma gestão eficiente de inadimplência traz inúmeros benefícios para as empresas, começando pela melhoria no fluxo de caixa, pois ao controlar a inadimplência, a empresa consegue garantir que os pagamentos sejam recebidos em dia, o que proporciona uma maior disponibilidade de recursos financeiros para cumprir obrigações como pagamento de fornecedores, salários e investimentos em crescimento. Além disso, a redução das perdas financeiras é um benefício significativo, uma vez que a empresa consegue minimizar os valores considerados como prejuízo devido a não pagamento, fortalecendo assim a sua posição financeira. Outro benefício importante é a melhoria na rentabilidade da empresa, que ocorre quando há menos valores em atraso ou não pagos, permitindo que os recursos sejam melhor aproveitados e os investimentos e despesas sejam planejados de forma mais precisa. Além disso, a gestão eficiente da inadimplência contribui para o fortalecimento do relacionamento com os clientes, pois inclui um acompanhamento constante e uma comunicação transparente, o que pode resultar em maior satisfação e fidelização dos clientes, além de reduzir a probabilidade de futuros atrasos ou inadimplência.
+Uma gestão eficiente da inadimplência oferece vários benefícios para as empresas. Ela melhora o fluxo de caixa ao garantir que os pagamentos sejam recebidos pontualmente, o que proporciona maior disponibilidade de recursos financeiros para cumprir obrigações como pagamentos a fornecedores e salários, além de possibilitar investimentos em crescimento. A redução das perdas financeiras é outro benefício significativo, pois minimiza os valores não recebidos e fortalece a posição financeira da empresa. A rentabilidade também melhora, pois a redução de valores em atraso permite um melhor aproveitamento dos recursos e um planejamento mais preciso de investimentos e despesas. Além disso, uma boa gestão da inadimplência contribui para fortalecer o relacionamento com os clientes por meio de acompanhamento constante e comunicação transparente, resultando em maior satisfação, fidelização e menor probabilidade de futuros atrasos ou inadimplência.
 
 A fórmula para calcular a Inadimplência é:
 
