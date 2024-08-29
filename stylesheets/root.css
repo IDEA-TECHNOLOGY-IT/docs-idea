@@ -39,8 +39,9 @@
   color: var(--text-color)
 }
 .md-typeset h3{
-  font-size: .920em;
-  color: var(--text-color)
+  font-size: .900em;
+  color: var(--text-color);
+  font-weight: bold;
 }
 .md-typeset{
   font-size: 0.65rem;
