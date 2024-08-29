@@ -61,20 +61,20 @@ Selecionar este botão direciona os usuários para a página "Pagamentos Vencido
 <p><img src="../../assets/flux_menu_pmr1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_pmr2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada Período Médio de Recebimento (PMR), onde os usuários podem visualizar a quantidade média de dias necessários para receber os pagamentos.
+Clicar neste botão leva os usuários à página "Período Médio de Recebimento (PMR)". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
 
   
 ### Botão Período Médio de Pagamento (PMP)
 <p><img src="../../assets/flux_menu_pmp1.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_pmp2.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Período Médio de Pagamento (PMP), onde os usuários podem visualizar a quantidade média de dias necessários para efetuar os pagamentos.
+Este botão direciona os usuários para a página "Período Médio de Pagamento (PMP)", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
   
 ### Botão Fluxo de Conta
 <p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_inadim1.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão leva o usuário para a página Fluxo de Conta, onde é possível visualizar a movimentação financeira de cada conta por mês e ano.
+Selecionar este botão direciona o usuário para a página "Fluxo de Conta", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
 ## Filtros
 
@@ -87,33 +87,33 @@ Selecionar este botão leva o usuário para a página Fluxo de Conta, onde é po
   <h6>Imagem 4: Filtros Visão 2</h6>
 </div>
 
-Os filtros são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. 
+Os filtros são ferramentas essenciais que permitem ajustar a visualização dos dados em todas as páginas do relatório de forma dinâmica e sincronizada.
 
-Ao ajustar qualquer um dos filtross, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
+Ao modificar qualquer filtro, todos os gráficos, tabelas e outros elementos visuais do relatório são atualizados automaticamente para mostrar apenas os dados que correspondem ao critério selecionado.
 
-Os filtros são feitos a partir dos dados da empresa, ou seja, você pode filtrar por áreas específicas como projeto ou filial. Por exemplo, se você quiser ver os números de um projeto chamado “Novo Edifício”, basta selecioná-lo no slicer e o filtro será aplicado. Agora você pode ver todos os dados relacionados a este projeto em cada página do relatório.
+Esses filtros são configurados com base nos dados da empresa, permitindo filtragens por áreas específicas, como projeto ou filial. Por exemplo, se você deseja analisar os dados de um projeto específico, como "Novo Edifício", basta selecioná-lo no filtro. A partir desse momento, todas as visualizações em cada página do relatório serão atualizadas para mostrar apenas os dados relacionados a esse projeto.
 
 ###	Filial
 <p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
-Este filtro permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
+Este filtro permite refinar os dados com base em uma filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada filial.
 
 ###	Projeto
 <p><img src="../../assets/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
-O filtro de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
+O filtro de projeto permite a seleção e filtragem dos dados por projetos específicos. Ao escolher um projeto, o relatório ajusta todos os visuais para exibir somente as informações relacionadas a esse projeto. Isso facilita uma análise detalhada dos custos, receitas e outros indicadores associados, oferecendo uma visão clara e focada do desempenho e dos resultados de cada projeto.
 
 ###	Ano
 <p><img src="../../assets/flux_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
-O filtro de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
+O filtro de ano permite escolher o ano específico para análise. Ao aplicar esse filtro, todos os visuais nas páginas do relatório são ajustados para exibir dados exclusivamente do ano selecionado. Isso facilita a comparação e análise de tendências anuais, proporcionando uma visão clara das variações e padrões ao longo do tempo.
 
 ###	Mês
 <p><img src="../../assets/flux_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
-Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher um mês, todos os visuais no relatório são ajustados para refletir apenas as informações desse período, facilitando a análise mensal e a identificação de variações sazonais.
+Este filtro permite selecionar um mês específico para análise. Ao escolher um mês, todos os visuais no relatório são atualizados para exibir exclusivamente os dados desse período. Isso facilita a análise mensal e a identificação de variações sazonais, proporcionando uma visão detalhada das tendências e mudanças ao longo do ano.
 
 ###	Conta
 <p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
-Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite que o usuário veja os resultados por conta. Isso permite acesso fácil a contas específicas e pode ser necessário ao planejar movimentações financeiras.
+Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
 
 ###	Limpar filtros
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
-Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão <b>Limpar filtros</b> localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
+Para restabelecer a visualização completa dos dados e remover todos os filtros aplicados, use o botão "Limpar filtros", que está localizado no lado direito dos filtros. Este botão remove todos os critérios de filtragem, permitindo uma visão geral completa e não filtrada dos dados.
 
