@@ -41,9 +41,9 @@ Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a paga
 ### Indicadores
 
 - **Favorecidos:** Referem-se aos fornecedores ou credores aos quais os pagamentos são devidos. Essa informação é útil para visualizar a concentração de dívidas com determinados fornecedores, auxiliando na priorização de pagamentos ou na negociação de prazos.
-- **Origem**: Refere-se à natureza das dívidas, como compras de materiais, serviços contratados, impostos, etc. Essa informação é valiosa para identificar áreas onde os custos estão aumentando, permitindo um controle mais rigoroso.
-- **Filial**: Para empresas com várias filiais, esse indicador apresenta as contas a pagar por unidade. Isso ajuda a administração central a identificar quais filiais estão gerando mais despesas e onde é necessário um controle financeiro mais rigoroso.
-- **Projeto**: Em empresas que operam com projetos específicos, esse indicador categoriza as contas a pagar por projeto. É particularmente útil para garantir que os projetos estejam dentro do orçamento e para identificar aqueles que podem estar gerando custos inesperados.
+- **Origem:** Refere-se à natureza das dívidas, como compras de materiais, serviços contratados, impostos, etc. Essa informação é valiosa para identificar áreas onde os custos estão aumentando, permitindo um controle mais rigoroso.
+- **Filial:** Para empresas com várias filiais, esse indicador apresenta as contas a pagar por unidade. Isso ajuda a administração central a identificar quais filiais estão gerando mais despesas e onde é necessário um controle financeiro mais rigoroso.
+- **Projeto:** Em empresas que operam com projetos específicos, esse indicador categoriza as contas a pagar por projeto. É particularmente útil para garantir que os projetos estejam dentro do orçamento e para identificar aqueles que podem estar gerando custos inesperados.
 
 ## A Pagar por Data
 
@@ -60,6 +60,6 @@ Com todas essas informações, os gestores podem tomar decisões informadas sobr
 
 ## Importância deste relatório
 
-- Controle Financeiro: Permite à empresa um controle mais preciso de suas despesas, segmentando as informações conforme a necessidade de análise.
-- Tomada de Decisão: Facilita decisões estratégicas, ajudando os gestores a identificarem áreas que precisam de atenção especial, como fornecedores prioritários ou projetos com maior impacto financeiro.
-- Transparência e Comunicação: Os indicadores oferecem uma representação clara e objetiva das finanças, facilitando a comunicação interna entre departamentos, gestores e a diretoria.
+- **Controle Financeiro:** Permite à empresa um controle mais preciso de suas despesas, segmentando as informações conforme a necessidade de análise.
+- **Tomada de Decisão:** Facilita decisões estratégicas, ajudando os gestores a identificarem áreas que precisam de atenção especial, como fornecedores prioritários ou projetos com maior impacto financeiro.
+- **Transparência e Comunicação:** Os indicadores oferecem uma representação clara e objetiva das finanças, facilitando a comunicação interna entre departamentos, gestores e a diretoria.
