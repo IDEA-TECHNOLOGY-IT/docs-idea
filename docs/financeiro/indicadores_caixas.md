@@ -49,7 +49,7 @@ O botão <b>Ver mais</b> direciona o usuário para a página de A Receber quando
 
 ### Botão Ver mais
 
-O botão <b>Ver mais</b> direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual (ou seja, o usuário já estiver na página de A Pagar), o botão <b>Ver Mais</b> se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
+O botão <b>Ver mais</b> direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de A Pagar, o botão <b>Ver Mais</b> se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
 
 ## Indicador de Inadimplência
 
@@ -68,49 +68,49 @@ A <b>Inadimplência %</b> representa a porcentagem do total de contas a receber 
 
 ### Botão Ver mais
 
-O botão <b>Ver mais</b>, quando clicado, direciona o usuário para a página de Inadimplência. Se o cartão já estiver associado à página atual (ou seja, o usuário já estiver na página de Inadimplência), o botão <b>Ver mais</b> não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
+O botão <b>Ver mais</b>, quando clicado, direciona o usuário para a página de Inadimplência. Se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de Inadimplência, o botão <b>Ver mais</b> não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
 
-## Caixa de Pagamentos Vencidos
+## Indicador de Pagamentos Vencidos
 
 <div align="center">
   <img src="../../assets/flux_caixa_venc.png" alt="Caixa de Pagamentos Vencidos">
-  <h6>Imagem 5: Caixa de Pagamentos Vencidos</h6>
+  <h6>Imagem 5: Pagamentos Vencidos</h6>
 </div>
 
 ### Pagamentos Vencidos
 
-Pagamentos Vencidos referem-se a pagamentos que já passaram da data de vencimento e ainda não foram feitos, indicando obrigações financeiras pendentes. Monitorar Pagamentos Vencidos é essencial porque ajuda uma empresa a gerenciar seus passivos, evitar taxas de atraso ou encargos de juros e manter bons relacionamentos com fornecedores e credores, garantindo pagamentos pontuais.
+<b>Pagamentos Vencidos</b> são valores que ultrapassaram a data de vencimento e ainda não foram quitados, representando obrigações financeiras em atraso. Acompanhar esses pagamentos é crucial para a gestão dos passivos da empresa, evitando multas, encargos por atraso e mantendo relacionamentos positivos com fornecedores e credores, além de assegurar a pontualidade nos compromissos financeiros.
 
 ### Pagamentos Vencidos %
 
-Pagamentos Vencidos % é a porcentagem do total de pagamentos que estão em atraso, representando a proporção de obrigações financeiras que não foram liquidadas nas datas de vencimento. Acompanhar os Pagamentos Vencidos % é crucial para avaliar a capacidade de uma empresa de gerenciar suas dívidas, identificar potenciais problemas de liquidez e implementar estratégias para melhorar a pontualidade dos pagamentos e manter a estabilidade financeira.
+<b>Pagamentos Vencidos %</b> é a proporção dos pagamentos em atraso em relação ao total de obrigações financeiras, indicando o percentual de dívidas que não foram quitadas até a data de vencimento. Monitorar esse indicador é fundamental para avaliar a capacidade da empresa de gerenciar suas dívidas, identificar potenciais problemas de liquidez e implementar estratégias para melhorar a pontualidade nos pagamentos, garantindo maior estabilidade financeira.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Pagamentos Vencidos. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Pagamentos Vencidos), o botão "Ver Mais" não é visível, e o cartão é destacado.
+O botão <b>Ver mais</b>, ao ser clicado, direciona o usuário para a página de Pagamentos Vencidos. Se o usuário já estiver na página correspondente, o botão <b>Ver mais</b> não é exibido, e o cartão é automaticamente destacado para indicar que ele está visualizando as informações corretas.
 
-## Caixa de Período Médio de Recebimento (PMR)
+## Indicador de Período Médio de Recebimento (PMR)
 
 <div align="center">
   <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Recebimento (PMR)">
-  <h6>Imagem 6: Caixa de Período Médio de Recebimento (PMR)</h6>
+  <h6>Imagem 6: Período Médio de Recebimento (PMR)</h6>
 </div>
 
 ### Período Médio de Recebimento (PMR)
 
-O Período Médio de Recebimento (PMR) é o número médio de dias que uma empresa leva para coletar pagamentos de seus clientes após uma venda ou faturamento. É importante porque ajuda as empresas a entender seu ciclo de conversão de caixa, avaliar a eficiência de seus processos de crédito e cobrança e gerenciar o capital de giro de forma eficaz para garantir liquidez adequada.
+O <b>Período Médio de Recebimento (PMR)</b> é a quantidade média de dias que uma empresa leva para receber o pagamento dos seus clientes após a realização de uma venda ou emissão de uma fatura. Esse indicador é fundamental para avaliar a eficiência dos processos de crédito e cobrança da empresa, entender o ciclo de conversão de caixa e gerenciar o capital de giro. Ao monitorar o PMR, a empresa pode garantir que tem liquidez suficiente para manter suas operações e tomar decisões informadas sobre o fluxo de caixa.
 
 ### Período Médio de Recebimento (PMR) Ano Anterior
 
-O Período Médio de Recebimento (PMR) Ano Anterior (Ano Ant.) do ano anterior é o número médio de dias que uma empresa levou para receber pagamentos de clientes no ano passado. Comparar o PMR atual com o PMR do ano anterior é essencial para avaliar mudanças na eficiência da gestão de recebíveis, identificar tendências de melhoria ou deterioração na cobrança de pagamentos e ajustar estratégias de crédito e cobrança para otimizar o fluxo de caixa.
+O <b>Período Médio de Recebimento (PMR)</b> do Ano Anterior reflete o número médio de dias que uma empresa levou para receber pagamentos dos clientes no ano anterior. Comparar o PMR atual com o do ano anterior é crucial para avaliar mudanças na eficiência da gestão de recebíveis ao longo do tempo. Essa análise ajuda a identificar tendências de melhoria ou deterioração nos processos de cobrança e permite ajustes estratégicos, otimizando o fluxo de caixa e fortalecendo a saúde financeira da empresa.
 
 ### Período Médio de Recebimento (PMR) %
 
-O Período Médio de Recebimento (PMR) % é a mudança percentual no número médio de dias que leva para receber pagamentos em comparação ao ano anterior. Acompanhar o PMR % em relação ao ano passado ajuda as empresas a avaliar melhorias ou declínios na eficiência de gerenciamento de recebíveis, identificar tendências e tomar as medidas necessárias para melhorar o fluxo de caixa e otimizar as políticas de crédito.
+O <b>Período Médio de Recebimento (PMR) %</b> representa a variação percentual no tempo médio que a empresa leva para receber pagamentos, comparado ao ano anterior. Acompanhar essa métrica é fundamental para avaliar melhorias ou retrocessos na eficiência de gestão de recebíveis ao longo do tempo. Identificar essas tendências permite que as empresas tomem decisões estratégicas, ajustem suas políticas de crédito e cobrança, e otimizem o fluxo de caixa de forma mais eficaz.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Caixa de Período Médio de Recebimento (PMR). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Caixa de Período Médio de Recebimento (PMR)), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão <b>Ver mais</b> ao ser clicado, este botão direciona o usuário para a página do Período Médio de Recebimento (PMR). Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do PMR, o botão <b>Ver Mais</b> desaparece, destacando o cartão para indicar que essa é a página em questão.
 
 ## Caixa de Período Médio de Pagamento (PMP)
 
