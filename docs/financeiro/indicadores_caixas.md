@@ -112,28 +112,28 @@ O <b>Período Médio de Recebimento (PMR) %</b> representa a variação percentu
 
 Botão <b>Ver mais</b> ao ser clicado, este botão direciona o usuário para a página do Período Médio de Recebimento (PMR). Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do PMR, o botão <b>Ver Mais</b> desaparece, destacando o cartão para indicar que essa é a página em questão.
 
-## Caixa de Período Médio de Pagamento (PMP)
+## Indicador de Período Médio de Pagamento (PMP)
 
 <div align="center">
   <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)">
-  <h6>Imagem 7: Caixa de Período Médio de Pagamento (PMP)</h6>
+  <h6>Imagem 7: Período Médio de Pagamento (PMP)</h6>
 </div>
 
 ### Período Médio de Pagamento (PMP)
 
-O Período Médio de Pagamento (PMP) é o número médio de dias que uma empresa leva para pagar seus fornecedores ou credores após receber uma fatura. Monitorar o PMP é crucial para gerenciar o fluxo de caixa, garantir pagamentos pontuais aos fornecedores e manter bons relacionamentos com os credores, ao mesmo tempo em que otimiza o capital de giro e negocia termos de pagamento favoráveis.
+O <b>Período Médio de Pagamento (PMP)</b> representa o número médio de dias que uma empresa leva para quitar suas obrigações com fornecedores ou credores após o recebimento de uma fatura. Acompanhar o PMP é essencial para uma gestão eficaz do fluxo de caixa, pois ajuda a garantir a pontualidade nos pagamentos, preservar bons relacionamentos com fornecedores, além de otimizar o capital de giro e possibilitar melhores condições de negociação.
 
 ### Período Médio de Recebimento (PMR) Ano Anterior
 
-O Período Médio de Pagamento (PMP) Ano Anterior (Ano Ant.) do ano anterior é o número médio de dias que a empresa levou para pagar seus fornecedores ou credores no ano passado. Comparar o APP atual com o APP do ano anterior permite que você avalie mudanças na eficiência de pagamento, identifique tendências de melhoria ou deterioração na gestão de contas a pagar e ajuste estratégias para otimizar o fluxo de caixa e os relacionamentos com fornecedores.
+O <b>Período Médio de Pagamento (PMP) Ano Anterior (Ano Ant.)</b> refere-se ao número médio de dias que a empresa levou para pagar seus fornecedores ou credores no ano anterior. Comparar o PMP atual com o PMP do ano anterior é fundamental para avaliar mudanças na eficiência de pagamento, identificar tendências de melhoria ou deterioração na gestão de contas a pagar, e ajustar estratégias para otimizar o fluxo de caixa e fortalecer os relacionamentos com fornecedores.
 
 ### Período Médio de Pagamento (PMP) %
 
-O Período Médio de Pagamento (PMP) % é a mudança percentual no número médio de dias que leva para pagar fornecedores em comparação ao ano anterior. Acompanhar o PMP % em relação ao ano passado ajuda as empresas a avaliar melhorias ou atrasos em suas práticas de pagamento, avaliar o impacto no fluxo de caixa e nos relacionamentos com fornecedores e tomar decisões informadas para otimizar seus processos de contas a pagar.
+O <b>Período Médio de Pagamento (PMP) %</b> representa a variação percentual no número médio de dias que a empresa leva para pagar seus fornecedores, em comparação ao ano anterior. Monitorar o PMP % em relação ao ano anterior é essencial para avaliar se as práticas de pagamento estão melhorando ou se há atrasos, além de entender seu impacto no fluxo de caixa e nos relacionamentos com fornecedores. Isso permite à empresa tomar decisões informadas para otimizar seus processos de contas a pagar.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Caixa de Período Médio de Pagamento (PMP). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Caixa de Período Médio de Pagamento (PMP)), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão <b>Ver mais</b> quando clicado, este botão direciona o usuário para a página de Caixa do Período Médio de Pagamento (PMP). Se o usuário já estiver na página de Caixa do Período Médio de Pagamento (PMP), o botão <b>Ver Mais</b> não será exibido e o cartão correspondente será destacado.
 
 ## Caixa de Saldo Total em Contas
 
@@ -144,8 +144,8 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cai
 
 ### Saldo Total em Contas
 
-Saldo Total em Contas refere-se ao saldo total realizado em todas as contas que uma empresa mantém, incluindo contas bancárias, dinheiro e outras contas financeiras. Este indicador é crucial para entender a liquidez geral e a saúde financeira da empresa, garantindo que fundos suficientes estejam disponíveis para operações, investimentos e despesas inesperadas, e facilitando o gerenciamento eficaz de caixa.
+<b>Saldo Total em Contas</b> refere-se ao montante agregado disponível em todas as contas financeiras de uma empresa, abrangendo contas bancárias, dinheiro em caixa e outras contas semelhantes. Esse indicador é fundamental para avaliar a liquidez geral e a saúde financeira da empresa, assegurando que haja fundos adequados para operações diárias, investimentos e imprevistos. Além disso, proporciona uma visão clara para o gerenciamento eficiente de caixa e a tomada de decisões financeiras estratégicas.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão abre a tabela para Saldo Total em Contas que detalha o saldo realizado atual por conta. Esta visualização está disponível em todas as páginas do relatório e uma vez aberta haverá outro botão exibido para fechar a tabela "Veja menos".
+Botão <b>Ver mais"</b> Ao ser clicado, este botão abre uma tabela detalhada do Saldo Total em Contas, mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão <b>Veja menos</b>, permitindo fechar a tabela e retornar à visualização anterior.
