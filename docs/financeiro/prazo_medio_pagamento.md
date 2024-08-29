@@ -1,7 +1,7 @@
-# Painel Prazo Médio Pagamento
+# Painel de Pagamentos Realizados
 
 ![alt text](../assets/flux_pmp_page1.png)
-<h6 align = "center"> Imagem1 - Painel Visão Geral do PMP</h6>
+<h6 align = "center">Imagem1 - Painel de Pagamentos Realizados</h6>
 
 ## Qual é o papel do indicador PMP?
 
@@ -34,7 +34,7 @@ Em resumo, o PMP é uma métrica essencial para o planejamento financeiro, permi
 ## Gráfico PMP x Favorecido ou Origem
 
 ![alt text](../assets/pmp/Imagem2 - Gráfico PMP x Favorecido ou Origem.png)
-<h6 align = "center"> Imagem2 - Gráfico PMP x Favorecido ou Origem</h6>
+<h6 align = "center">Imagem2 - Gráfico PMP x Favorecido ou Origem</h6>
 
 Esse gráfico visualiza o Prazo Médio de Pagamento entre diferentes fornecedores ou categorias de pagamento, oferecendo insights para melhorar a gestão financeira e as relações comerciais. Cada barra representa o PMP para um favorecido ou origem, mostrando quantos dias, em média, a empresa leva para pagar.
 
@@ -50,7 +50,7 @@ Em resumo, o Gráfico PMP x Favorecido ou Origem é uma ferramenta crucial de an
 ## Gráfico PMP x Filial ou Projeto
 
 ![alt text](../assets/pmp/Imagem3 - Gráfico PMP x Filial ou Projeto.png)
-<h6 align = "center"> Imagem3 - Gráfico PMP x Filial ou Projeto</h6>
+<h6 align = "center">Imagem3 - Gráfico PMP x Filial ou Projeto</h6>
 
 Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de pagamento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMP para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para pagar suas obrigações.
 
@@ -63,4 +63,4 @@ Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou pr
 O Gráfico PMP x Filial ou Projeto é crucial para empresas com operações em várias localidades ou envolvidas em diversos projetos. Ele fornece insights valiosos sobre a eficiência dos processos de pagamento em diferentes partes da organização, permitindo uma gestão mais precisa e estratégica das finanças. Identificando os maiores prazos de pagamento, a empresa pode otimizar o fluxo de caixa e fortalecer os relacionamentos com fornecedores.
 
 ![alt text](../assets/flux_pmp_tabela.png)
-<h6 align = "center"> Imagem 4 - Tabela</h6>
+<h6 align = "center">Imagem 4 - Tabela</h6>
