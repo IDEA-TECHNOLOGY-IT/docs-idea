@@ -23,7 +23,7 @@ Um gráfico de Aging de Contas a Receber é uma ferramenta visual essencial para
 ### Como interpretar o gráfico de Aging de Contas a Receber:
 
 ### Em Atraso
-A primeira barra, identificada como "Em Atraso", representa o total de contas a receber que já passaram da data de vencimento. Esta barra indica a quantidade de faturas que não foram pagas dentro do prazo acordado. A altura ou o comprimento desta barra, em comparação com as outras, indica a proporção de valores que estão atrasados.
+A primeira barra, rotulada como "Em Atraso", representa o total de contas a receber que ultrapassaram a data de vencimento. Esta barra mostra a soma das faturas que não foram pagas dentro do prazo acordado. A altura ou comprimento desta barra, em relação às demais, indica a proporção de valores que estão em atraso. Uma barra mais alta ou longa sinaliza uma quantidade significativa de valores vencidos, o que pode indicar a necessidade de atenção imediata para a recuperação desses recebíveis.
 
 ### Devido em até 30 dias
 A segunda barra mostra as faturas que ainda não venceram, mas que estão previstas para serem pagas nos próximos 30 dias. Esta categoria ajuda a visualizar os recebíveis de curto prazo e permite a empresa se preparar para as entradas de caixa esperadas neste período.
