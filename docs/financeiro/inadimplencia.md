@@ -13,8 +13,8 @@ A fórmula para calcular a Inadimplência é:
 **_Taxa de Inadimplência = (Total de Dívidas em Atraso / Total de Crédito Concedido) x 100_**
 
 **Onde:**
-- **Total de Dívidas em Atraso:** Soma de todos os valores que estão em atraso, ou seja, que não foram pagos dentro do prazo acordado.
-- **Total de Crédito Concedido:** Soma de todos os créditos concedidos pela empresa no período considerado (vendas a prazo, financiamentos, etc.).
+**Total de Dívidas em Atraso:** Soma de todos os valores que estão em atraso, ou seja, que não foram pagos dentro do prazo acordado.
+**Total de Crédito Concedido:** Soma de todos os créditos concedidos pela empresa no período considerado (vendas a prazo, financiamentos, etc.).
 
 **Exemplo:**
 Se uma empresa concedeu R$ 1.000.000,00 em crédito durante um mês e, desse total, R$ 50.000,00 estão em atraso, a taxa de inadimplência seria calculada assim:
