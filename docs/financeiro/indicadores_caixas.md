@@ -1,4 +1,4 @@
-# Indicadores Financeiro
+# Indicadores Financeiros
 
 <div align="center">
   <img src="../../assets/flux_indicadores_caixas.png" alt="Caixas de Indicadores">
