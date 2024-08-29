@@ -13,8 +13,9 @@ A fórmula para calcular a Inadimplência é:
 **_Taxa de Inadimplência = (Total de Dívidas em Atraso / Total de Crédito Concedido) x 100_**
 
 **Onde:**
-**Total de Dívidas em Atraso:** Soma de todos os valores que estão em atraso, ou seja, que não foram pagos dentro do prazo acordado.
-**Total de Crédito Concedido:** Soma de todos os créditos concedidos pela empresa no período considerado (vendas a prazo, financiamentos, etc.).
+
+- **Total de Dívidas em Atraso:** Soma de todos os valores que estão em atraso, ou seja, que não foram pagos dentro do prazo acordado.
+- **Total de Crédito Concedido:** Soma de todos os créditos concedidos pela empresa no período considerado (vendas a prazo, financiamentos, etc.).
 
 **Exemplo:**
 Se uma empresa concedeu R$ 1.000.000,00 em crédito durante um mês e, desse total, R$ 50.000,00 estão em atraso, a taxa de inadimplência seria calculada assim:
@@ -31,26 +32,31 @@ Isso significa que, a taxa de Inadimplência da empresa seria de 5%.
 O gráfico apresenta a distribuição dos valores de inadimplência categorizados por faixas de dias de atraso. Aqui estão os detalhes:
 
 01) 120+ dias em Atraso:
+   
 - **Valor de Inadimplência:** R$ 35.621.233,26
 - **Percentual do Total:** 83,52%
 - Esta categoria representa a maior parte do valor total em atraso, com mais de 120 dias de inadimplência.
 
 02) Até 120 dias em Atraso:
+   
 - **Valor de Inadimplência:** R$ 1.978.056,71
 - **Percentual do Total:** 4,64%
 - A inadimplência nesta faixa representa uma parcela menor em comparação com a categoria anterior.
 
 03) Até 90 dias em Atraso:
+   
 - **Valor de Inadimplência:** R$ 1.408.666,82
 - **Percentual do Total:** 3,30%
 - A inadimplência nesta faixa é ainda menor, mas significativa.
 
 04) Até 60 dias em Atraso:
+   
 - **Valor de Inadimplência:** R$ 1.377.355,26
 - **Percentual do Total:** 3,23%
 - Valores nessa faixa de atraso representam uma pequena parte do total.
 
 05) Até 30 dias em Atraso:
+   
 - **Valor de Inadimplência:** R$ 2.266.792,71
 - **Percentual do Total:** 5,31%
 - Embora representando a menor faixa de atraso, ainda é relevante com mais de 5% do total.
@@ -63,9 +69,9 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 <h6 align = "center"> Imagem 3: Gráfico "Inadimplência por Cliente"</h6>
 
 ### Nível 1: Cliente
-**Descrição**: No nível de cliente, o gráfico exibe o valor total inadimplente associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante que ainda não foi pago à empresa, destacando os valores em atraso que esses clientes devem quitar.
+**Descrição:** No nível de cliente, o gráfico exibe o valor total inadimplente associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante que ainda não foi pago à empresa, destacando os valores em atraso que esses clientes devem quitar.
 
-**Interpretação**: Este gráfico permite identificar quais clientes ou grupos de clientes possuem os maiores valores de inadimplência, o que pode indicar a necessidade de uma revisão das condições de crédito, um acompanhamento mais rigoroso desses clientes ou a implementação de políticas de cobrança mais eficazes para reduzir o risco financeiro e melhorar o fluxo de caixa da empresa.
+**Interpretação:** Este gráfico permite identificar quais clientes ou grupos de clientes possuem os maiores valores de inadimplência, o que pode indicar a necessidade de uma revisão das condições de crédito, um acompanhamento mais rigoroso desses clientes ou a implementação de políticas de cobrança mais eficazes para reduzir o risco financeiro e melhorar o fluxo de caixa da empresa.
 
 ![Gráfico "Inadimplência por Origem"](../../assets/valor_inadimplencia_origem.png)
 <h6 align = "center"> Imagem 4: Gráfico "Inadimplência por Origem"</h6>
