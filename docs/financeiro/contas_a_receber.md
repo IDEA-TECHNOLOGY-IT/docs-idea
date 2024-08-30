@@ -14,7 +14,7 @@ Uma gestão eficiente das contas a receber é crucial para garantir a liquidez d
 ## Aging - Contas a Receber
 
 <p><div align="center">
-  <img src="../../assets/aging_recebimento.jpeg" alt="Aging - Contas a Receber">
+  <img src="../../assets/flux_rec_aging.png" alt="Aging - Contas a Receber">
   <h6>Imagem 2: Aging - Contas a Receber</h6>
 </div></p>
 
@@ -43,7 +43,7 @@ A última barra categoriza as contas a receber que vencerão após 120 dias. Est
 ## A Receber x Cliente, Origem, Filial ou Projeto
 
 <p><div align="center">
-  <img src="../../assets/recebimento_por_cliente_origem_filial.jpeg" alt="A Receber x Cliente">
+  <img src="../../assets/flux_rec_cliente.png" alt="A Receber x Cliente">
   <h6>Imagem 3: A Receber x Cliente, Origem, Filial ou Projeto</h6>
 </div></p>
 
@@ -78,7 +78,7 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 ## A Receber por Data
 
 <p><div align="center">
-  <img src="../../assets/tabela_a_receber_por_data.jpeg" alt="A Receber por Data">
+  <img src="../../assets/flux_rec_data.png" alt="A Receber por Data">
   <h6>Imagem 3: A Receber por Data</h6>
 </div></p>
 
