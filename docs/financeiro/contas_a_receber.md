@@ -1,11 +1,11 @@
-# Painel Contas a Receber
+# Painel A Receber
 
 <p><div align="center">
   <img src="../../assets/flux_rec_page1.png" alt="Contas a Receber">
   <h6>Imagem 1: Painel A Receber</h6>
 </div></p>
 
-Contas a Receber representam os valores que uma empresa tem o direito de receber de seus clientes, oriundos de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
+A Receber representam os valores que uma empresa tem o direito de receber de seus clientes, oriundos de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
 No contexto empresarial, as contas a receber englobam valores devidos por clientes em função de vendas a crédito, financiamentos e outras transações comerciais. No balanço patrimonial, essas contas são classificadas como ativos circulantes, pois representam recursos que a empresa espera converter em caixa dentro de um curto prazo, geralmente inferior a um ano.
 
