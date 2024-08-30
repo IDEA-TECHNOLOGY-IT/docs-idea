@@ -14,8 +14,7 @@ Na página de Home, você encontrará:
 !["Faturamento Acumulado ao Longo do Tempo"](../assets/fat_home_acumulado.png)
 <h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
 
-Este gráfico de área exibe a evolução do saldo em tesouraria da empresa ao longo do tempo, mostrando tanto os valores positivos quanto os negativos. A linha de base do gráfico representa um saldo de zero, com áreas acima da linha 
-indicativas de saldos positivos e áreas abaixo indicativas de saldos negativos.
+Este gráfico de área exibe a evolução do saldo em tesouraria da empresa ao longo do tempo, mostrando tanto os valores positivos quanto os negativos. A linha de base do gráfico representa um saldo de zero, com áreas acima da linha indicativas de saldos positivos e áreas abaixo indicativas de saldos negativos.
  
 **Onde:**
 

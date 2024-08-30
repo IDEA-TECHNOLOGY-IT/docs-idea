@@ -7,9 +7,9 @@
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Faturamento é essencial para oferecer uma visão clara e detalhada do desempenho das vendas de uma empresa. Esse tipo de relatório proporciona uma análise aprofundada das receitas, permitindo a monitorização eficiente do volume de vendas, a identificação de tendências de mercado, e a avaliação de desempenho ao longo do tempo. As visualizações precisas e detalhadas ajudam a destacar os produtos ou serviços mais lucrativos, a analisar variações sazonais e a tomar decisões informadas para otimizar as estratégias de vendas e aumentar a receita.
 
-Uma das principais vantagens dos relatórios de BI em Faturamento é a capacidade de atualização contínua. Isso significa que os dados são atualizados em tempo real ou conforme uma frequência estabelecida, garantindo que as informações refletidas no relatório sejam sempre atuais e relevantes para as decisões de vendas. Essa atualização contínua permite que os gestores respondam rapidamente a mudanças no comportamento do cliente ou nas condições de mercado, ajustando táticas e campanhas conforme necessário.
+Uma das principais vantagens dos relatórios de BI em Faturamento é a capacidade de atualização contínua. Isso significa que os dados são atualizados conforme uma frequência estabelecida, garantindo que as informações refletidas no relatório sejam sempre atuais e relevantes para as decisões de vendas. Essa atualização contínua permite que os gestores respondam rapidamente a mudanças no comportamento do cliente ou nas condições de mercado, ajustando táticas e campanhas conforme necessário.
 
-Além disso, os relatórios de BI para Faturamento oferecem a capacidade de integrar dados de várias fontes, como sistemas de CRM, ERP, e plataformas de e-commerce, em um único painel. Isso proporciona uma visão holística e consolidada das vendas da empresa, facilitando a análise comparativa e a identificação de oportunidades de crescimento ou áreas que precisam de atenção.
+Além disso, os relatórios de BI para Faturamento oferecem a capacidade de integrar dados financeiros de vários módulos do _SAP Bussinees One_. Isso proporciona uma visão holística e consolidada das vendas da empresa, facilitando a análise comparativa e a identificação de oportunidades de crescimento ou áreas que precisam de atenção.
 
 Esses relatórios também aumentam a precisão e consistência das informações de faturamento, reduzindo o risco de erros manuais e inconsistências que podem ocorrer com relatórios tradicionais baseados em planilhas. Adicionalmente, eles oferecem ferramentas de análise avançadas, como gráficos interativos e filtros dinâmicos, que ajudam a explorar os dados de maneira mais detalhada e a gerar insights mais profundos sobre o desempenho das vendas.
 
@@ -30,44 +30,44 @@ Aqui está uma visão geral dos botões disponíveis na barra de menu:
 <p><img src="../../assets/fat_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada Painel de Faturamento. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
+Este botão leva os usuários de volta à página principal, intitulada [Painel de Faturamento](./painel_faturamento_home.md). É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
 
   
 ### Botão Faturamento
 <p><img src="../../assets/fat_button_fat1.png" alt="fat1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_fat2.png" alt="fat2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão direciona os usuários para a página intitulada Faturamento. Esta página inclui visualizações e análises relacionadas ao faturamento gerada pela empresa.
+Clicar neste botão direciona os usuários para a página intitulada [Faturamento](./faturamento_liquido.md). Esta página inclui visualizações e análises relacionadas ao faturamento gerada pela empresa.
   
 ### Botão Vendas
 <p><img src="../../assets/fat_button_vendas1.png" alt="vendas1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_vendas2.png" alt="vendas2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Vendas. Aqui, os usuários podem visualizar e analisar as vendas realizadas pela empresa, auxiliando na compreensão dos resultados e no planejamento estratégico.
+Este botão navega para a página intitulada [Vendas](./vendas.md). Aqui, os usuários podem visualizar e analisar as vendas realizadas pela empresa, auxiliando na compreensão dos resultados e no planejamento estratégico.
   
 ###  Botão Devoluções
 <p><img src="../../assets/fat_button_dev1.png" alt="dev1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_dev2.png" alt="dev2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão leva os usuários à página intitulada Devoluções. Aqui, os usuários podem visualizar e analisar as devoluções realizadas pela empresa, ajudando a entender os padrões de retorno e a melhorar a gestão de produtos e o atendimento ao cliente.
+Selecionar este botão leva os usuários à página intitulada [Devoluções](./devolucoes.md). Aqui, os usuários podem visualizar e analisar as devoluções realizadas pela empresa, ajudando a entender os padrões de retorno e a melhorar a gestão de produtos e o atendimento ao cliente.
   
 ### Botão CMV (Custo da Mercadoria Vendida)
 <p><img src="../../assets/fat_button_cmv1.png" alt="cmv1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_cmv2.png" alt="cmv2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona para a página intitulada CMV (Custo da Mercadoria Vendida). Aqui, os usuários podem visualizar e analisar o custo associado às mercadorias vendidas pela empresa, fornecendo insights cruciais para a gestão de margem de lucro e a eficiência operacional.
+Este botão direciona para a página intitulada [CMV (Custo da Mercadoria Vendida)](./cmv.md). Aqui, os usuários podem visualizar e analisar o custo associado às mercadorias vendidas pela empresa, fornecendo insights cruciais para a gestão de margem de lucro e a eficiência operacional.
   
 ### Botão Itens
 <p><img src="../../assets/fat_button_itens1.png" alt="itens1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_itens2.png" alt="itens2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada Itens, onde os usuários podem visualizar informações como: quantidade de itens vendidos, tíquete médio, itens mais vendidos e com maior receita e maior preço médio de venda, tudo por item.
+Clicar neste botão abre a página intitulada [Itens](./itens.md), onde os usuários podem visualizar informações como: quantidade de itens vendidos, tíquete médio, itens mais vendidos e com maior receita e maior preço médio de venda, tudo por item.
   
 ### Botão Indicadores
 <p><img src="../../assets/fat_button_ind1.png" alt="ind1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_ind2.png" alt="ind2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Indicadores, esta página inclui 10 indicadores divididos por ano e mês, filial, vendedor e cliente para dar uma forma abrangente e rápida de visualizar o desempenho. Esses indicadores são:
+Este botão navega para a página intitulada [Indicadores](./indicadores.md), esta página inclui 10 indicadores divididos por ano e mês, filial, vendedor e cliente para dar uma forma abrangente e rápida de visualizar o desempenho. Esses indicadores são:
 
 - CMV - Custo da Mercadoria Vendida (%) 
 - Devoluções (%) 

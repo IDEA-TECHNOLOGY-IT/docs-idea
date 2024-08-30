@@ -4,7 +4,7 @@ O Business Intelligence (BI) **Idea Sales** traz métricas e análises de vendas
 
 ## Público-alvo
 
-Diretores, gestores e analistas de vendas.
+Diretores, gestores e analistas comerciais.
 
 ## Recursos
 
@@ -21,7 +21,7 @@ Diretores, gestores e analistas de vendas.
 ## Requisitos para Setup
 
 - Acesso a base de dados do SAP B1 Hana;
-- Usuário do Power BI (versão Professional ou superior).
+- Usuário do Power BI (versão Professional ou superior);
 
 ## Fonte de Dados
 
@@ -33,9 +33,9 @@ Processos contemplados para extração dos dados:
 - Empresas / Filiais (Multi-filiais);
 - Parceiros de Negócios (Clientes);
 - Itens (Produtos / Serviços);
-- Dimensões / Centros de Custos ;
+- Dimensões / Centros de Custos;
 - Projetos;
-- Utilizações.
+- Utilizações;
 
 ## Licença de Uso
 

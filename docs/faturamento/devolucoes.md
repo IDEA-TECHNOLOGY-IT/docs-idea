@@ -1,10 +1,10 @@
 # Painel Devoluções
 
 ![alt text](../assets/fat_dev_page1.png)
-<h6 align = "center"> Imagem1 - Relatório Geral de Devoluções</h6>
+<h6 align = "center"> Imagem 1 - Relatório Geral de Devoluções</h6>
 
 ![alt text](../assets/fat_dev_page2.png)
-<h6 align = "center"> Imagem2 - Relatório Detalhado de Devoluções</h6>
+<h6 align = "center"> Imagem 2 - Relatório Detalhado de Devoluções</h6>
 
 ## O que são Devoluções? E Como Funciona?
 

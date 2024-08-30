@@ -18,7 +18,7 @@ O Faturamento Líquido é um indicador crucial porque mostra a receita que a emp
 ## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
 
 ![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../assets/fat_fat_tabela.png)
-<p align="center"><em>Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+<p align="center"><em>Imagem 2: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
 Esta tabela fornece uma análise detalhada do Faturamento Líquido segregado por diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item. A tabela apresenta diversas colunas que oferecem informações essenciais para a gestão financeira, incluindo faturamento, metas, margens e prazo médio de recebimento (PMR). A seguir, explicamos cada coluna e como interpretar os dados apresentados.
 
@@ -61,7 +61,7 @@ Com esta documentação, você pode interpretar e utilizar os dados da tabela "F
 ## Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"
 
 ![Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"](../assets/grafico-barras-faturamento-filial-vendendor-cliente-fabricante-item.jpeg)
-<p align="center"><em>Imagem 1: Gráfico de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+<p align="center"><em>Imagem 3: Gráfico de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
 
 Este gráfico apresenta uma visualização do Faturamento Líquido segregado por Filial, Vendedor, Cliente, Fabricante ou Item. Cada barra do gráfico representa uma unidade específica (neste caso, Filiais), mostrando o valor total faturado por cada uma.
 
@@ -86,7 +86,7 @@ Este gráfico fornece uma visão clara e comparativa do desempenho de faturament
 ## Gráfico "Meta Faturado Mês Atual"
 
 ![Gráfico "Meta Faturado Mês Atual"](../assets/fat_fat_meta.png)
-<p align="center"><em>Imagem 1: Gráfico de Meta Faturado Mês Atual</em></p>
+<p align="center"><em>Imagem 4: Gráfico de Meta Faturado Mês Atual</em></p>
 
 Este gráfico apresenta a comparação entre a meta de faturamento estabelecida e o faturamento efetivamente realizado pela empresa ao longo de diferentes meses. Além disso, o gráfico mostra o percentual de cumprimento da meta (% da Meta) para cada período.
 

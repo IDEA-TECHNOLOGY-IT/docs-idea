@@ -66,7 +66,7 @@ O gráfico fornecido mostra as vendas por cliente, comparando os valores de vend
 ![Vendas "Navegação Entre níveis"](../assets/nav_sales.png)
 
 ### Navegação Entre Níveis: 
-Utilize as opções de navegação disponíveis na ferramenta de BI para alternar entre os diferentes níveis de visualização. Por exemplo, você pode começar analisando os dados no nível mensal e, em seguida, subir para o nivel anual para uma visão mais agregada.
+Utilize as opções de navegação disponíveis na ferramenta de BI para alternar entre os diferentes níveis de visualização. Por exemplo, você pode começar analisando os dados no nível mensal e, em seguida, subir para o nível anual para uma visão mais agregada.
 
 - Para ir para o próximo nível de hierarquia (Indicador 1): Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
 - Para retornar ao nível anterior (Indicador 2): Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.

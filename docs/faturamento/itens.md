@@ -1,6 +1,6 @@
 # Painel Itens
 ![Relatorio de Lucro Bruto](../assets/fat_itens_page1.png)
-<p align="center"><em>Imagem 1: Relatorio de Lucro Bruto</em></p>
+<p align="center"><em>Imagem 1: Relatório de Lucro Bruto</em></p>
 O **Lucro Bruto** é uma métrica financeira fundamental que representa a diferença entre a receita líquida de vendas e o custo dos produtos vendidos (CPV). Em outras palavras, o lucro bruto é o valor que sobra das vendas depois que os custos diretos de produção, como materiais e mão de obra, são subtraídos.
 
 No contexto empresarial, o Lucro Bruto é um indicador crucial da eficiência operacional, pois demonstra a capacidade da empresa de gerar lucro a partir de suas operações principais, antes de considerar outras despesas, como administrativas, de vendas e financeiras.
@@ -69,7 +69,7 @@ Este gráfico fornece uma visão clara e comparativa do valor médio por transa�
 ## Painel de Itens Destacados
 
 ![Painel de Itens Destacados](../assets/grafico-item-mais-vendido.jpeg)
-<p align="center"><em>Imagem 4: Painel de Itens Mais Vendido, de Maior Faturamento e de Maior Preço Médio de Venda</em></p>
+<p align="center"><em>Imagem 4: Painel de Itens Mais Vendidos, de Maior Faturamento e de Maior Preço Médio de Venda</em></p>
 
 Este painel apresenta informações sobre os itens mais importantes em três categorias: o Item Mais Vendido, o Item de Maior Faturamento e o Item de Maior Preço Médio de Venda. Essas métricas ajudam a identificar os produtos que têm maior impacto nas operações de venda da empresa.
 
