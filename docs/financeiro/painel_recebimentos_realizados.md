@@ -81,7 +81,7 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 
 <p><div align="center">
   <img src="../../assets/flux_pmr_tabela.png" alt="PMR Tabela">
-  <h6>Imagem 3: A Receber por Data</h6>
+  <h6>Imagem 4: A Receber por Data</h6>
 </div></p>
 
 Este gráfico exibe uma tabela detalhada das contas a receber, organizada por data. A tabela inclui diversas colunas que fornecem informações essenciais sobre cada transação, desde o cliente até o status atual e os documentos relacionados. Abaixo está uma explicação de cada coluna e como interpretar os dados apresentados.
