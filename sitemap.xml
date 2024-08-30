@@ -126,11 +126,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/home/</loc>
-         <lastmod>2024-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/inadimplencia/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
@@ -157,6 +152,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/painel_de_recebimentos_realizados/</loc>
+         <lastmod>2024-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/financeiro/painel_financeiro_home/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
