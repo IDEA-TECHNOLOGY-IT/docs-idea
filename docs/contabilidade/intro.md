@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="../../assets/contabilidade_home.png" alt="Contabilidade Home">
-  <h6>Imagem 1: Relatório Contabilidade - Visão Contábil</h6>
+  <h6>Imagem 1: Painel de Contábil</h6>
 </div>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Contabilidade é fundamental para proporcionar uma visão clara e detalhada da saúde financeira de uma empresa. Esse tipo de relatório oferece uma análise profunda das finanças, permitindo a gestão eficaz de caixa, a comparação detalhada entre receitas e despesas, e a avaliação do desempenho econômico ao longo do tempo. As visualizações precisas e detalhadas ajudam a identificar tendências, monitorar variações e tomar decisões informadas que podem otimizar a gestão financeira e melhorar a rentabilidade da empresa.
