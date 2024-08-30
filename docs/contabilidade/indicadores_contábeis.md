@@ -1,8 +1,8 @@
-# Caixas de Indicadores
+# Indicadores Contábeis
 
 <div align="center">
-  <img src="../../assets/contabilidade_indicadores_caixas.png" alt="Caixas de Indicadores">
-  <h6>Imagem 1: Caixas de Indicadores</h6>
+  <img src="../../assets/contabilidade_indicadores_caixas.png" alt="Indicadores Contábeis">
+  <h6>Imagem 1: Indicadores Contábeis</h6>
 </div>
 
 Em cada página do nosso relatório no Power BI, você encontrará caixas de indicadores posicionadas de forma proeminente no topo. Essas caixas não são apenas marcadores; elas são ferramentas vitais projetadas para aprimorar sua experiência de relatório ao exibir de maneira consistente valores-chave que são centrais para a análise de cada página. As informações fornecidas nessas caixas de indicadores servem como uma referência rápida, garantindo que você possa acompanhar os dados críticos sem precisar navegar para frente e para trás entre as diferentes páginas do relatório.
