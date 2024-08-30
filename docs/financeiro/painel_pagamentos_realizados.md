@@ -72,5 +72,5 @@ O Gráfico PMP x Filial ou Projeto é crucial para empresas com operações em v
 
 <p><div align="center">
   <img src="../../assets/flux_pmp_tabela.png" alt="PMP Tabela">
-  <h6>Imagem 3: Pagamento por Data</h6>
+  <h6>Imagem 4: Pagamento por Data</h6>
 </div></p>
