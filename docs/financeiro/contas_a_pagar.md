@@ -1,8 +1,13 @@
 # Painel Contas a Pagar
 
 <p><div align="center">
-  <img src="../../assets/contas-a-pagar.png" alt="Contas a Pagar">
-  <h6>Imagem 1: Painel Contas a Pagar</h6>
+  <img src="../../assets/flux_pag_page1.png" alt="Contas a Pagar">
+  <h6>Imagem 1: Painel A Pagar</h6>
+</div></p>
+
+<p><div align="center">
+  <img src="../../assets/flux_pag_page2.png" alt="Contas a Pagar">
+  <h6>Imagem 2: Painel A Pagar</h6>
 </div></p>
 
 Contas a pagar representam as obrigações financeiras que uma empresa assume com fornecedores e outros credores, com o compromisso de quitação em um período futuro. 
@@ -17,7 +22,7 @@ de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negó
 
 <p><div align="center">
   <img src="../../assets/contas-a-pagar-aging.png" alt="Aging - Contas a Pagar">
-  <h6>Imagem 2: Aging - Contas a Pagar</h6>
+  <h6>Imagem 3: Aging - Contas a Pagar</h6>
 </div></p>
 
 Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para monitorar e gerenciar o status das obrigações financeiras de uma empresa com seus fornecedores. Ele categoriza as contas a pagar com base no tempo decorrido desde a data de vencimento, facilitando a identificação de dívidas próximas do vencimento ou já vencidas.
@@ -33,7 +38,7 @@ Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para moni
 
 <p><div align="center">
   <img src="../../assets/contas-a-pagar-fav.png" alt="A Pagar x Fav">
-  <h6>Imagem 3: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
+  <h6>Imagem 4: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
 </div></p>
 
 Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a pagar de uma empresa, classificando-as em diferentes categorias. Ele oferece uma visão detalhada das obrigações financeiras por fornecedor, origem, filial ou projeto.
@@ -49,7 +54,7 @@ Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a paga
 
 <p><div align="center">
   <img src="../../assets/contas-a-pagar-pordata.png" alt="A Pagar por Data">
-  <h6>Imagem 4: A Pagar por Data</h6>
+  <h6>Imagem 5: A Pagar por Data</h6>
 </div></p>
 
 Este gráfico tabular representa o detalhamento organizado das obrigações financeiras da empresa de forma estruturada e segmentada. Ele oferece uma visão abrangente das contas a pagar, reunindo todas as informações necessárias em um único lugar e permitindo uma análise detalhada.
