@@ -136,7 +136,8 @@ nav:
   - BI Idea Sales:
     - faturamento/ficha-tecnica.md
     - faturamento/intro.md
-    - faturamento/home.md
+    - faturamento/indicadores_de_faturamento.md
+    - faturamento/painel_de_faturamento_home.md
     - faturamento/vendas.md
     - faturamento/devolucoes.md
     - faturamento/faturamento_liquido.md
