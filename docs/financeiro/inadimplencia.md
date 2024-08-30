@@ -121,4 +121,10 @@ O gráfico ilustra a inadimplência por mês e ano, mostrando três principais e
 
 - **(%) Inadimplência (Linha Azul com Marcadores):** A linha azul mostra a taxa de inadimplência percentual em relação ao valor a receber acumulado. Nota-se que essa taxa apresenta flutuações ao longo dos meses, com alguns picos e vales significativos. Em um determinado ponto, há uma queda acentuada, seguida por uma recuperação e aumento da taxa de inadimplência.
 
+## Tabela de Detalhes de Inadimplência
+
+<p><div align="center">
+  <img src="../../assets/flux_inadim_tabela.png" alt="Inadim Tabela">
+  <h6>Imagem 6: Tabela de Detalhes de Inadimplência</h6>
+</div></p>
 
