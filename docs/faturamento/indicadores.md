@@ -1,4 +1,4 @@
-# Indicadores
+# Painel Indicadores
 ![Gráfico "Relatório Geral Positvação"](../../assets/relatorio-geral-positivacao.jpeg)
 <p align="center"><em>Imagem 1: Gráfico de Custo da Mercadoria Vendida (%) ao longo do tempo</em></p>
 
