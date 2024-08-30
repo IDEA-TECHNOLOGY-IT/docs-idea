@@ -92,7 +92,7 @@ O botão "Ver mais", ao ser clicado, direciona o usuário para a página de Paga
 ## Indicador de Período Médio de Recebimento (PMR)
 
 <div align="center">
-  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Recebimento (PMR)">
+  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de PMR">
   <h6>Imagem 6: Período Médio de Recebimento (PMR)</h6>
 </div>
 
@@ -110,7 +110,7 @@ O Período Médio de Recebimento (PMR) % representa a variação percentual no t
 
 ### Botão Ver mais
 
-Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a página do Período Médio de Recebimento (PMR). Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do PMR, o botão "Ver mais" desaparece, destacando o cartão para indicar que essa é a página em questão.
+Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a página do Painel de Recebimentos Realizados. Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do Painel de Recebimentos Realizados, o botão "Ver mais" desaparece, destacando o cartão para indicar que essa é a página em questão.
 
 ## Indicador de Período Médio de Pagamento (PMP)
 
@@ -133,7 +133,7 @@ O Período Médio de Pagamento (PMP) % representa a variação percentual no nú
 
 ### Botão Ver mais
 
-Botão "Ver mais" quando clicado, este botão direciona o usuário para a página de Caixa do Período Médio de Pagamento (PMP). Se o usuário já estiver na página de Caixa do Período Médio de Pagamento (PMP), o botão "Ver mais" não será exibido e o cartão correspondente será destacado.
+Botão "Ver mais" quando clicado, este botão direciona o usuário para a página de Caixa do Painel de Pagamentos Realizados. Se o usuário já estiver na página de Caixa do Painel de Pagamentos Realizados, o botão "Ver mais" não será exibido e o cartão correspondente será destacado.
 
 ## Caixa de Saldo Total em Contas
 
