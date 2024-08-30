@@ -81,11 +81,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://idea-technology-it.github.io/docs-idea_finance/faturamento/home/</loc>
-         <lastmod>2024-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/faturamento/indicadores/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
@@ -97,6 +92,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/faturamento/itens/</loc>
+         <lastmod>2024-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/faturamento/painel_de_faturamento_home/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
