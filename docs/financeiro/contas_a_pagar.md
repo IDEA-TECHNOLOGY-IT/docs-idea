@@ -16,7 +16,7 @@ de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negó
 ## Aging - Contas a Pagar
 
 <p><div align="center">
-  <img src="../../assets/contas-a-pagar-aging.png" alt="Aging - Contas a Pagar">
+  <img src="../../assets/flux_pag_aging.png" alt="Aging - Contas a Pagar">
   <h6>Imagem 2: Aging - Contas a Pagar</h6>
 </div></p>
 
@@ -32,7 +32,7 @@ Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para moni
 ## A Pagar X Favorecido, Origem, Filial ou Projeto
 
 <p><div align="center">
-  <img src="../../assets/contas-a-pagar-fav.png" alt="A Pagar x Fav">
+  <img src="../../assets/flux_pag_fav.png" alt="A Pagar x Fav">
   <h6>Imagem 3: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
 </div></p>
 
@@ -48,7 +48,7 @@ Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a paga
 ## A Pagar por Data
 
 <p><div align="center">
-  <img src="../../assets/contas-a-pagar-pordata.png" alt="A Pagar por Data">
+  <img src="../../assets/flux_pag_data.png" alt="A Pagar por Data">
   <h6>Imagem 4: A Pagar por Data</h6>
 </div></p>
 
