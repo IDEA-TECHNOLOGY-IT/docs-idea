@@ -26,11 +26,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/home/</loc>
-         <lastmod>2024-08-30</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/indicadores/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
@@ -47,6 +42,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/lucroliquido/</loc>
+         <lastmod>2024-08-30</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea_finance/contabilidade/painel_de_cont%C3%A1bil_home/</loc>
          <lastmod>2024-08-30</lastmod>
          <changefreq>daily</changefreq>
     </url>
