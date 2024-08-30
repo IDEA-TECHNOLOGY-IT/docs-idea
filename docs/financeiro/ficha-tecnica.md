@@ -14,13 +14,13 @@ Diretores, Gestores e Analistas Financeiros.
 
 1. [Introdução ao BI Financeiro](./intro.md)
 2. [Indicadores Financeiros](./indicadores_caixas.md)
-3. [Painel Financeiro](./home.md)
+3. [Painel Financeiro (Home)](./painel_financeiro_home.md)
 4. [Painel Contas a Receber](./contas_a_receber.md)
 5. [Painel Contas a Pagar](./contas-a-pagar.md)
 6. [Painel Inadimplência](./inadimplencia.md)
 7. [Painel Pagamentos Vencidos](./pagamentos-vencidos.md)
-8. [Painel de Recebimentos Realizados](./prazo_medio_recebimento.md)
-9. [Painel de Pagamentos Realizados](./prazo_medio_pagamento.md)
+8. [Painel de Recebimentos Realizados](./painal_de_recebimentos_realizados.md)
+9. [Painel de Pagamentos Realizados](./painel_de_pagamentos_realizados.md)
 10. [Visão Saldo de Contas](./saldo_de_contas.md)
 11. [Painel Fluxo de Caixa](./fluxo_de_caixa.md)
 
