@@ -1,7 +1,9 @@
 # Painel de Recebimentos Realizados
 
-![Imagem 1: Relatório Geral Contas a Receber](../assets/flux_pmr_page1.png)
-<h6 align="center">Imagem 1: Painel de Recebimentos Realizados</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmr_page1.png" alt="PMR1">
+  <h6>Imagem 1: Painel de Recebimentos Realizados</h6>
+</div></p>
 
 O Prazo Médio de Recebimento (PMR) é uma métrica financeira que indica o tempo médio que uma empresa leva para receber os pagamentos de suas vendas a prazo. Esse indicador é essencial para a gestão do fluxo de caixa, pois ajuda a empresa a entender quanto tempo, em média, os seus clientes demoram para quitar suas obrigações financeiras.
 
@@ -25,10 +27,12 @@ Se uma empresa tem _R$ 100.000_ em contas a receber e realizou _R$ 1.000.000_ em
 
 Isso significa que, em média, a empresa leva 36,5 dias para receber o pagamento de suas vendas a prazo.
 
-## Gráfico "PMR x Cliente ou Origem"
+## PMR x Cliente ou Origem
 
-![Gráfico "PMR x Cliente ou Origem"](../assets/pmr_cliente_origem.jpeg)
-<h6 align="center">Imagem 2: Gráfico "PMR x Cliente ou Origem"</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmr_cliente.png" alt="PMR Cliente">
+  <h6>Imagem 2: PMR x Cliente ou Origem</h6>
+</div></p>
 
 Este gráfico oferece uma análise detalhada do Prazo Médio de Recebimento (PMR) por Cliente ou Origem. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Cliente ou Origem, para obter uma visão mais específica ou mais agregada dos prazos de recebimento. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
 
@@ -48,10 +52,12 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 - **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
 - **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
 
-## Gráfico "PMR x Filial ou Projeto"
+## PMR x Filial ou Projeto
 
-![Gráfico "PMR x Filial ou Projeto"](../assets/pmr_filial_projeto.jpeg)
-<h6 align="center">Imagem 3: Gráfico "PMR x Filial ou Projeto"</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmr_filial.png" alt="PMR Filial">
+  <h6>Imagem 3: PMR x Filial ou Projeto</h6>
+</div></p>
 
 Este gráfico oferece uma análise detalhada do Prazo Médio de Recebimento (PMR) por Filial ou Projeto. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Filial ou Projeto, para obter uma visão mais específica ou mais agregada dos prazos de recebimento. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
 
@@ -71,10 +77,12 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 - **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Filial para Projeto).
 - **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
 
-## Gráfico "A Receber por Data"
+## A Receber por Data
 
-![Gráfico "A Receber por Data"](../assets/flux_pmr_tabela.png)
-<h6 align="center">Imagem 4: Gráfico "A Receber por Data"</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmr_tabela.png" alt="PMR Tabela">
+  <h6>Imagem 3: A Receber por Data</h6>
+</div></p>
 
 Este gráfico exibe uma tabela detalhada das contas a receber, organizada por data. A tabela inclui diversas colunas que fornecem informações essenciais sobre cada transação, desde o cliente até o status atual e os documentos relacionados. Abaixo está uma explicação de cada coluna e como interpretar os dados apresentados.
 
