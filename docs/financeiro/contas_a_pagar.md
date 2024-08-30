@@ -1,12 +1,12 @@
 # Painel Contas a Pagar
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_page1.png" alt="Contas a Pagar">
+  <img src="../../assets/flux_pag_page1.png" alt="Contas a Pagar1">
   <h6>Imagem 1: Painel A Pagar</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_page2.png" alt="Contas a Pagar">
+  <img src="../../assets/flux_pag_page2.png" alt="Contas a Pagar2">
   <h6>Imagem 2: Painel A Pagar</h6>
 </div></p>
 
