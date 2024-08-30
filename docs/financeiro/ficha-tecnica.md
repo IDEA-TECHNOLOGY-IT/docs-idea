@@ -13,7 +13,7 @@ Diretores, Gestores e Analistas Financeiros.
 ## Recursos
 
 1. [Introdução ao BI Financeiro](./intro.md)
-2. [Caixas de Indicadores](./indicadores_caixas.md)
+2. [Indicadores Financeiros](./indicadores_caixas.md)
 3. [Painel Financeiro](./home.md)
 4. [Painel Contas a Receber](./contas_a_receber.md)
 5. [Painel Contas a Pagar](./contas-a-pagar.md)
