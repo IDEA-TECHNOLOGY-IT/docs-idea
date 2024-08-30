@@ -108,18 +108,21 @@ Este gráfico oferece uma análise detalhada das Vendas Acumuladas por período 
 
 A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
 
-1 - Seletor de Dimensão (Colunas/Linhas)
+**1 - Seletor de Dimensão (Colunas/Linhas)**
+
 - **Função:** Este seletor permite que o usuário escolha a dimensão na qual deseja realizar o drill-down. Na imagem, as opções disponíveis são "Colunas" e "Linhas".
 - **Colunas:** Se selecionado, o drill-down será feito ao longo das colunas do gráfico ou tabela, explorando os dados de forma mais detalhada ao longo do eixo horizontal.
 - **Linhas:** Se selecionado, o drill-down será realizado nas linhas, explorando os dados ao longo do eixo vertical.
 - **Uso:** O usuário deve selecionar a dimensão que deseja expandir ou detalhar antes de prosseguir com o drill-down.
 
-2 - Botão de Drill-Up
+**2 - Botão de Drill-Up**
+
 - **Função:** Este botão permite que o usuário suba um nível na hierarquia de dados após ter realizado um drill-down.
 - **Exemplo:** Se o usuário tiver detalhado as vendas de um ano específico para ver os dados mensais, ao clicar neste botão ele retornará ao nível de visualização anual.
 - **Uso:** Útil para retornar a uma visão mais agregada dos dados após explorar detalhes específicos.
 
-3 - Botão de Drill-Down
+**3 - Botão de Drill-Down**
+
 - **Função:** Este botão permite que o usuário desça um nível na hierarquia de dados para ver informações mais detalhadas.
 - **Exemplo:** Se o usuário está visualizando dados de vendas por ano, ao clicar neste botão, ele pode detalhar para ver os dados de vendas por trimestre ou mês.
 - **Uso:** Ajuda a explorar informações mais detalhadas dentro de uma visualização, permitindo análises mais aprofundadas.

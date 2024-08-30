@@ -15,6 +15,7 @@ Outro benefício importante é a redução da necessidade de financiamento exter
 **_Fluxo de Caixa = Entradas de Caixa - Saídas de Caixa_**
 
 **Onde:**
+
 - **Entradas de Caixa:** Soma de todos os valores que entram na empresa durante um período, como receitas de vendas, recebimentos de contas a receber, etc.
 - **Saídas de Caixa:** Soma de todos os valores que saem da empresa durante o período, como pagamentos a fornecedores, despesas operacionais, salários, etc.
 
@@ -30,7 +31,7 @@ Isso significa que, ao final do mês, a empresa teria um fluxo de caixa positivo
 
 O gráfico apresenta uma visão detalhada do fluxo financeiro por categoria de conta:
 
- ### Saldo Inicial:
+### Saldo Inicial:
 - Mostra o saldo inicial no início do período considerado.
 
 ### Entradas:

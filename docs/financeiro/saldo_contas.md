@@ -15,6 +15,7 @@ A fórmula para calcular o Saldo de Contas é:
 **_Saldo de Contas = Créditos - Débitos_**
 
 **Onde:**
+
 - **Créditos:** Soma de todos os valores que entraram na conta (recebimentos, depósitos, etc.).
 - **Débitos:** Soma de todos os valores que saíram da conta (pagamentos, retiradas, etc.).
 
