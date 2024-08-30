@@ -1,5 +1,5 @@
 # Painel Inadimplência
-![Relatório "Inadimplência"](../assets/inad_details.png)
+![Relatório "Inadimplência"](../assets/flux_inadim_page1.png)
 <h6 align = "center"> Imagem 1: Painel Inadimplência</h6>
 
 Inadimplência refere-se à falha de um devedor (seja pessoa física ou jurídica) em cumprir suas obrigações financeiras dentro do prazo acordado, o que pode ter sérias repercussões para a saúde financeira de uma empresa. Essa situação pode levar à redução do fluxo de caixa, aumento do risco financeiro e deterioração das relações comerciais.
