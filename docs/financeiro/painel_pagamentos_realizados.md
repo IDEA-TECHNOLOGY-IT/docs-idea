@@ -1,7 +1,9 @@
 # Painel de Pagamentos Realizados
 
-![alt text](../assets/flux_pmp_page1.png)
-<h6 align = "center">Imagem1 - Painel de Pagamentos Realizados</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmp_page1.png" alt="PMP">
+  <h6>Imagem 1: Painel de Pagamentos Realizados</h6>
+</div></p>
 
 ## Qual é o papel do indicador PMP?
 
@@ -31,10 +33,12 @@ O resultado indica o número médio de dias que a empresa leva para pagar seus f
 
 Em resumo, o PMP é uma métrica essencial para o planejamento financeiro, permitindo que a empresa gerencie suas obrigações de pagamento de maneira estratégica. Ele ajuda a manter um equilíbrio saudável entre o caixa disponível e os compromissos financeiros, garantindo uma gestão eficiente dos recursos e a sustentabilidade do negócio.
 
-## Gráfico PMP x Favorecido ou Origem
+## PMP x Favorecido ou Origem
 
-![alt text](../assets/pmp/Imagem2 - Gráfico PMP x Favorecido ou Origem.png)
-<h6 align = "center">Imagem2 - Gráfico PMP x Favorecido ou Origem</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmp_fav.png" alt="PMP Fav">
+  <h6>Imagem 2: PMP x Favorecido ou Origem</h6>
+</div></p>
 
 Esse gráfico visualiza o Prazo Médio de Pagamento entre diferentes fornecedores ou categorias de pagamento, oferecendo insights para melhorar a gestão financeira e as relações comerciais. Cada barra representa o PMP para um favorecido ou origem, mostrando quantos dias, em média, a empresa leva para pagar.
 
@@ -47,10 +51,12 @@ Esse gráfico visualiza o Prazo Médio de Pagamento entre diferentes fornecedore
 
 Em resumo, o Gráfico PMP x Favorecido ou Origem é uma ferramenta crucial de análise financeira, proporcionando uma visão clara dos prazos médios de pagamento. Esse gráfico ajuda a empresa a tomar decisões mais informadas e estratégicas em sua gestão de pagamentos. Ao identificar áreas que precisam de melhorias, a empresa pode otimizar processos, fortalecer relacionamentos com fornecedores e manter um fluxo de caixa saudável.
 
-## Gráfico PMP x Filial ou Projeto
+## PMP x Filial ou Projeto
 
-![alt text](../assets/pmp/Imagem3 - Gráfico PMP x Filial ou Projeto.png)
-<h6 align = "center">Imagem3 - Gráfico PMP x Filial ou Projeto</h6>
+<p><div align="center">
+  <img src="../../assets/flux_pmp_filial.png" alt="PMP Filial">
+  <h6>Imagem 3: PMP x Filial ou Projeto</h6>
+</div></p>
 
 Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de pagamento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMP para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para pagar suas obrigações.
 
@@ -62,5 +68,9 @@ Esse gráfico compara o Prazo Médio de Pagamento entre diferentes filiais ou pr
 
 O Gráfico PMP x Filial ou Projeto é crucial para empresas com operações em várias localidades ou envolvidas em diversos projetos. Ele fornece insights valiosos sobre a eficiência dos processos de pagamento em diferentes partes da organização, permitindo uma gestão mais precisa e estratégica das finanças. Identificando os maiores prazos de pagamento, a empresa pode otimizar o fluxo de caixa e fortalecer os relacionamentos com fornecedores.
 
-![alt text](../assets/flux_pmp_tabela.png)
-<h6 align = "center">Imagem 4 - Tabela</h6>
+## Pagamento por Data
+
+<p><div align="center">
+  <img src="../../assets/flux_pmp_tabela.png" alt="PMP Tabela">
+  <h6>Imagem 3: Pagamento por Data</h6>
+</div></p>
