@@ -1,5 +1,5 @@
 # Painel Inadimplência
-![Relatório "Inadimplência"](../../assets/inad_details.png)
+![Relatório "Inadimplência"](../assets/inad_details.png)
 <h6 align = "center"> Imagem 1: Painel Inadimplência</h6>
 
 Inadimplência refere-se à falha de um devedor (seja pessoa física ou jurídica) em cumprir suas obrigações financeiras dentro do prazo acordado, o que pode ter sérias repercussões para a saúde financeira de uma empresa. Essa situação pode levar à redução do fluxo de caixa, aumento do risco financeiro e deterioração das relações comerciais.
@@ -26,7 +26,7 @@ Isso significa que, a taxa de Inadimplência da empresa seria de 5%.
 
 ## Gráfico "Aging - Valor Inadimplência"
 
-![Gráfico "Aging - Valor Inadimplência"](../../assets/aging_inadimplencia.png)
+![Gráfico "Aging - Valor Inadimplência"](../assets/aging_inadimplencia.png)
 <h6 align = "center"> Imagem 2: Gráfico "Aging - Valor Inadimplência"</h6>
 
 O gráfico apresenta a distribuição dos valores de inadimplência categorizados por faixas de dias de atraso. Aqui estão os detalhes:
@@ -65,7 +65,7 @@ O gráfico apresenta a distribuição dos valores de inadimplência categorizado
 
 O gráfico apresenta o valor de inadimplência categorizado por diferentes segmentos, como cliente, origem, filial ou projeto. Cada barra no gráfico representa uma categoria específica, mostrando o valor total inadimplente associado a ela.
 
-![Gráfico "Inadimplência por Cliente"](../../assets/valor_inadimplencia_cliente.png)
+![Gráfico "Inadimplência por Cliente"](../assets/valor_inadimplencia_cliente.png)
 <h6 align = "center"> Imagem 3: Gráfico "Inadimplência por Cliente"</h6>
 
 ### Nível 1: Cliente
@@ -73,7 +73,7 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 
 **Interpretação:** Este gráfico permite identificar quais clientes ou grupos de clientes possuem os maiores valores de inadimplência, o que pode indicar a necessidade de uma revisão das condições de crédito, um acompanhamento mais rigoroso desses clientes ou a implementação de políticas de cobrança mais eficazes para reduzir o risco financeiro e melhorar o fluxo de caixa da empresa.
 
-![Gráfico "Inadimplência por Origem"](../../assets/valor_inadimplencia_origem.png)
+![Gráfico "Inadimplência por Origem"](../assets/valor_inadimplencia_origem.png)
 <h6 align = "center"> Imagem 4: Gráfico "Inadimplência por Origem"</h6>
 
 ### Nível 2: Origem
@@ -81,7 +81,7 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 
 **Interpretação:** Este gráfico permite identificar quais origens estão contribuindo mais para a inadimplência geral. Com essa informação, a empresa pode focar em revisar políticas e procedimentos específicos para essas origens, a fim de reduzir os valores inadimplentes e melhorar a eficiência da cobrança.
 
-![Gráfico "Inadimplência por Filial"](../../assets/valor_inadimplencia_filial.png)
+![Gráfico "Inadimplência por Filial"](../assets/valor_inadimplencia_filial.png)
 <h6 align = "center"> Imagem 5: Gráfico "Inadimplência por Filial"</h6>
 
 ### Nível 3: Filial
@@ -89,7 +89,7 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 
 **Interpretação:** Este gráfico possibilita identificar quais filiais estão acumulando mais inadimplência. Com essa visão, a empresa pode direcionar esforços para essas unidades, ajustando processos locais, reforçando políticas de crédito ou intensificando as estratégias de cobrança para mitigar riscos financeiros.
 
-![Gráfico "Inadimplência por Projeto"](../../assets/valor_inadimplencia_projeto.png)
+![Gráfico "Inadimplência por Projeto"](../assets/valor_inadimplencia_projeto.png)
 <h6 align = "center"> Imagem 7: Gráfico "Inadimplência por Projeto"</h6>
 
 ### Nível 4: Projeto
@@ -97,7 +97,7 @@ O gráfico apresenta o valor de inadimplência categorizado por diferentes segme
 
 **Interpretação:** Este gráfico ajuda a identificar quais projetos estão gerando mais inadimplência, o que pode sinalizar problemas específicos no gerenciamento ou execução desses projetos. A empresa pode então reavaliar a viabilidade, as condições de pagamento ou até mesmo a gestão de riscos desses projetos para minimizar a inadimplência e otimizar o retorno financeiro.
 
-![Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"](../../assets/explica_hierarquia_Inad.png)
+![Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"](../assets/explica_hierarquia_Inad.png)
 <h6 align = "center"> Imagem 7: Navegação no Gráfico "Inadimplência por Cliente, Origem, Filial ou Projeto"</h6>
 
 ### Navegação Entre os Níveis
@@ -108,7 +108,7 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
 
 ## Gráfico "Inadimplência por Mês"
 
-![Gráfico "Inadimplência por Mês e Ano"](../../assets/valor_inad_mes.png)
+![Gráfico "Inadimplência por Mês e Ano"](../assets/valor_inad_mes.png)
 <h6 align = "center"> Imagem 8: Gráfico "Inadimplência por Mês e Ano"</h6>
 
 O gráfico ilustra a inadimplência por mês e Ano, mostrando três principais elementos:

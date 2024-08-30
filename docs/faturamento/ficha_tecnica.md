@@ -8,9 +8,9 @@ Diretores, gestores e analistas de vendas.
 
 ## Recursos
 
-1. [Introdução ao BI Faturamento](./painel_de_faturamento_home.md)
-2. [Indicadores de Faturamento](./indicadores_de_faturamento.md)
-3. [Painel de Faturamento - Home](./painel_de_faturamento_home.md)
+1. [Introdução ao BI Faturamento](./intro.md)
+2. [Indicadores de Faturamento](./indicadores_faturamento.md)
+3. [Painel de Faturamento - Home](./painel_faturamento_home.md)
 4. [Painel Vendas](./vendas.md)
 5. [Painel Devoluções](./devolucoes.md)
 6. [Painel Faturamento Líquido](./faturamento_liquido.md)

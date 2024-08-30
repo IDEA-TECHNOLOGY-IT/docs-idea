@@ -1,5 +1,5 @@
 # Visão Saldo de Contas
-![Visão "Saldo de Contas"](../../assets/account_balance.png)
+![Visão "Saldo de Contas"](../assets/account_balance.png)
 <h6 align="center">Imagem 1: Visão Saldo de Contas</h6>
 
 Saldo de Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
@@ -25,7 +25,7 @@ Se uma empresa recebeu R$ 200.000,00 em um mês e pagou R$ 150.000,00 em suas ob
 
 Isso significa que, ao final do mês, a empresa teria um saldo positivo de R$ 50.000,00.
 
-![Visão "Saldo de Contas"](../../assets/account_balance.png)
+![Visão "Saldo de Contas"](../assets/account_balance.png)
 <h6 align="center">Imagem 2: Visão Saldo de Contas</h6>
 
 ## **Estrutura da Tabela:**

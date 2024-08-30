@@ -8,14 +8,14 @@ Diretores, gestores e analistas de Contabilidade.
 ## Recursos
 
 1. [Introdução ao BI Contábil](./intro.md)
-2. [Indicadores Contábeis](./indicadores_caixas.md)
-3. [Painel Visão Contábil (Home)](./home.md)
-4. [Painel Receita Bruta](./receitabruta.md)
-5. [Painel Custos e Despesas](./custosedespesas.md)
-6. [Painel Lucro Líquido](./lucroliquido.md)
+2. [Indicadores Contábeis](./indicadores_contabeis.md)
+3. [Painel Visão Contábil (Home)](./painel_contabil_home.md)
+4. [Painel Receita Bruta](./receita_bruta.md)
+5. [Painel Custos e Despesas](./custos_e_despesas.md)
+6. [Painel Lucro Líquido](./lucro_liquido.md)
 7. [Painel EBITDA](./ebitda.md)
 8. [Painel Indicadores](./indicadores.md)
-9. [Painel Regra dos 40](./regrados40.md)
+9. [Painel Regra dos 40](./regra_dos_40.md)
 10. [Painel DRE - Demonstração do Resultado do Exercício](./dre.md)
 
 ## Requisitos para Setup

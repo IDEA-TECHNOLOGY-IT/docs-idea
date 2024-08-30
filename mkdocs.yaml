@@ -45,8 +45,8 @@ plugins:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
       minify_html: true
-  - git-revision-date-localized:
-      enable_creation_date: true
+  # - git-revision-date-localized:
+  #     enable_creation_date: true
   # - git-committers:
   #     repository: IDEA-TECHNOLOGY-IT/docs-idea_finance
   #     branch: main
@@ -62,7 +62,6 @@ extra_css:
 
 # Configurações de extra JavaScript (opcional)
 extra_javascript:
-  - 'javascripts/checklist.js'
   - 'javascripts/carrousel.js'
   - 'javascripts/home.js'
 
@@ -134,10 +133,10 @@ nav:
 - Início: index.md
 - Documentação:
   - BI Idea Sales:
-    - faturamento/ficha-tecnica.md
+    - faturamento/ficha_tecnica.md
     - faturamento/intro.md
-    - faturamento/indicadores_de_faturamento.md
-    - faturamento/painel_de_faturamento_home.md
+    - faturamento/indicadores_faturamento.md
+    - faturamento/painel_faturamento_home.md
     - faturamento/vendas.md
     - faturamento/devolucoes.md
     - faturamento/faturamento_liquido.md
@@ -145,27 +144,27 @@ nav:
     - faturamento/itens.md
     - faturamento/indicadores.md
   - BI Idea Finance: 
-    - financeiro/ficha-tecnica.md
+    - financeiro/ficha_tecnica.md
     - financeiro/intro.md
     - financeiro/indicadores_caixas.md
     - financeiro/painel_financeiro_home.md
     - financeiro/contas_a_receber.md
-    - financeiro/contas-a-pagar.md
+    - financeiro/contas_a_pagar.md
     - financeiro/inadimplencia.md
-    - financeiro/pagamentos-vencidos.md
-    - financeiro/painel_de_recebimentos_realizados.md
-    - financeiro/painel_de_pagamentos_realizados.md
-    - financeiro/fluxo_de_caixa.md
-    - financeiro/saldo_de_contas.md
+    - financeiro/pagamentos_vencidos.md
+    - financeiro/painel_recebimentos_realizados.md
+    - financeiro/painel_pagamentos_realizados.md
+    - financeiro/fluxo_caixa.md
+    - financeiro/saldo_contas.md
   - BI Idea Accounting:
-    - contabilidade/ficha-tecnica.md
+    - contabilidade/ficha_tecnica.md
     - contabilidade/intro.md
-    - contabilidade/indicadores_contábeis.md
-    - contabilidade/home.md
-    - contabilidade/receitabruta.md
-    - contabilidade/custosedespesas.md
-    - contabilidade/lucroliquido.md
+    - contabilidade/indicadores_contabeis.md
+    - contabilidade/painel_contabil_home.md
+    - contabilidade/receita_bruta.md
+    - contabilidade/custos_e_despesas.md
+    - contabilidade/lucro_liquido.md
     - contabilidade/ebitda.md
     - contabilidade/indicadores.md
-    - contabilidade/regrados40.md
+    - contabilidade/regra_dos_40.md
     - contabilidade/dre.md
