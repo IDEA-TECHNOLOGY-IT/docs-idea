@@ -1,7 +1,7 @@
-# Painel Financeiro (Home)
+# Painel Financeiro - Home
 
 <div align="center">
-  <img src="../../assets/flux.png" alt="Painel Financeiro (Home)">
+  <img src="../../assets/flux.png" alt="Painel Financeiro - Home">
   <h6>Imagem 1: Painel de Financeira - Home</h6>
 </div>
 
