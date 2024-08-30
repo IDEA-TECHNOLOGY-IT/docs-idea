@@ -8,13 +8,15 @@ Diretores, gestores e analistas de vendas.
 
 ## Recursos
 
-1. [Painel Home](./home.md)
-2. [Painel Vendas](./vendas.md)
-3. [Painel Devoluções](./devolucoes.md)
-4. [Painel Faturamento Líquido](./faturamento_liquido.md)
-5. [Painel CMV](./cmv.md)
-6. [Painel Lucro Bruto](./lucro_bruto.md)
-7. [Painel Positivação](./positivacao.md)
+1. [Introdução ao BI Faturamento](./painel_de_faturamento_home.md)
+2. [Indicadores de Faturamento](./indicadores_de_faturamento.md)
+3. [Painel de Faturamento - Home](./painel_de_faturamento_home.md)
+4. [Painel Vendas](./vendas.md)
+5. [Painel Devoluções](./devolucoes.md)
+6. [Painel Faturamento Líquido](./faturamento_liquido.md)
+7. [Painel CMV](./cmv.md)
+8. [Painel Itens](./itens.md)
+9. [Painel Indicadores](./indicadores.md)
 
 ## Requisitos para Setup
 
