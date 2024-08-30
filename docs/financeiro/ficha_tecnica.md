@@ -14,7 +14,7 @@ Diretores, Gestores e Analistas Financeiros.
 
 1. [Introdução ao BI Financeiro](./intro.md)
 2. [Indicadores Financeiros](./indicadores_caixas.md)
-3. [Painel Financeiro (Home)](./painel_financeiro_home.md)
+3. [Painel Financeiro](./painel_financeiro_home.md)
 4. [Painel Contas a Receber](./contas_a_receber.md)
 5. [Painel Contas a Pagar](./contas_a_pagar.md)
 6. [Painel Inadimplência](./inadimplencia.md)
