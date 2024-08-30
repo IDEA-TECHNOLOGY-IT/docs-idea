@@ -1,8 +1,11 @@
-# Visão Saldo de Contas
-![Visão "Saldo de Contas"](../assets/account_balance.png)
-<h6 align="center">Imagem 1: Visão Saldo de Contas</h6>
+# Visão Saldo Total em Contas
 
-Saldo de Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
+<p><div align="center">
+  <img src="../../assets/flux_saldo_tabela.png" alt="Saldo em Contas">
+  <h6>Imagem 1: Visão Saldo Total em Contas</h6>
+</div></p>
+
+Saldo Total em Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
 
 Manter um saldo de contas adequado é fundamental para a saúde financeira de uma empresa, pois permite que ela pague suas obrigações a tempo, evitando atrasos e multas, e também para aproveitar oportunidades de investimento que possam surgir. Um saldo inadequado pode levar à necessidade de buscar financiamento externo, o que aumenta os custos com juros e pode impactar negativamente a lucratividade da empresa.
 
@@ -25,9 +28,6 @@ Se uma empresa recebeu R$ 200.000,00 em um mês e pagou R$ 150.000,00 em suas ob
 **_Saldo de Contas = 200.000 - 150.000 = R$ 50.000,00_**
 
 Isso significa que, ao final do mês, a empresa teria um saldo positivo de R$ 50.000,00.
-
-![Visão "Saldo de Contas"](../assets/account_balance.png)
-<h6 align="center">Imagem 2: Visão Saldo de Contas</h6>
 
 ## **Estrutura da Tabela:**
 1 - Contas Principais e Subcontas:
