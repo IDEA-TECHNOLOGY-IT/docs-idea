@@ -26,7 +26,7 @@ A barra de menu é uma ferramenta de navegação situada no lado esquerdo de tod
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Home
+### Botão Painel Financero
 <p><img src="../../assets/flux_menu_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
@@ -57,24 +57,24 @@ Ao selecionar este botão, os usuários são direcionados para a página "Inadim
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona os usuários para a página "Pagamentos Vencidos". Nesta seção, são fornecidos insights detalhados sobre pagamentos que já passaram da data de vencimento e ainda não foram quitados.
   
-### Botão Período Médio de Recebimento (PMR)
+### Botão Painel de Recebimentos Realizados
 <p><img src="../../assets/flux_menu_pmr1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_pmr2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão leva os usuários à página "Período Médio de Recebimento (PMR)". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
+Clicar neste botão leva os usuários à página "Painel de Recebimentos Realizados". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
 
   
-### Botão Período Médio de Pagamento (PMP)
+### Botão Painel de Pagamentos Realizados
 <p><img src="../../assets/flux_menu_pmp1.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_pmp2.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona os usuários para a página "Período Médio de Pagamento (PMP)", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
+Este botão direciona os usuários para a página "Painel de Pagamentos Realizados", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
   
-### Botão Fluxo de Conta
+### Botão Fluxo de Caixa
 <p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux_menu_inadim1.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão direciona o usuário para a página "Fluxo de Conta", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
+Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
 ## Filtros
 
