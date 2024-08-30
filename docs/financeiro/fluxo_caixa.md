@@ -1,7 +1,9 @@
 # Painel Fluxo de Caixa
 
-![Relatório "Fluxo de Caixa"](../assets/flux_flux_page1.png)
-<h6 align = "center"> Imagem 1: Painel Fluxo de Caixa</h6>
+<p><div align="center">
+  <img src="../../assets/flux_flux_page1.png" alt="Flux1">
+  <h6>Imagem 1: Painel Fluxo de Caixa</h6>
+</div></p>
 
 Fluxo de Caixa refere-se ao movimento de entrada e saída de dinheiro em uma empresa ao longo de um período específico. É uma das métricas financeiras mais críticas, pois fornece uma visão clara sobre a liquidez da empresa e sua capacidade de cumprir obrigações financeiras imediatas, como pagamentos a fornecedores, salários, e outros custos operacionais.
 
@@ -25,9 +27,12 @@ Se uma empresa recebeu R$ 500.000,00 em um mês e pagou R$ 300.000,00 em suas de
 
 Isso significa que, ao final do mês, a empresa teria um fluxo de caixa positivo de R$ 200.000,00.
 
-## Tabela Fluxo de Caixa
-![Gráfico "Fluxo de Caixa"](../assets/flux_flux_tabela.png)
-<h6 align = "center"> Imagem 2: Tabela Fluxo de Caixa</h6>
+## Fluxo Financeiro Conta
+
+<p><div align="center">
+  <img src="../../assets/flux_flux_tabela.png" alt="Flux Tabela">
+  <h6>Imagem 2: Fluxo Financeiro Conta</h6>
+</div></p>
 
 O gráfico apresenta uma visão detalhada do fluxo financeiro por categoria de conta:
 
@@ -46,8 +51,10 @@ O gráfico apresenta uma visão detalhada do fluxo financeiro por categoria de c
 ### Totais
 - Esta linha demonstra o valor total do fluxo em determinado mês.
 
-![Filtros Previsto x Realizado "Fluxo de Caixa"](../assets/filter_previst_realized.png)
-<h6 align = "center"> Imagem 3: Filtra Fluxo Previsto e Realizado</h6>
+<p><div align="center">
+  <img src="../../assets/flux_flux_prev.png" alt="Flux Filtro">
+  <h6>Imagem 3: Filtro Previsto e Realizado</h6>
+</div></p>
 
 ### Previsto:
 Mostra o saldo previsto que a empresa espera realizar.
