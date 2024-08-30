@@ -1,8 +1,8 @@
-# Painel Financeiro - Home
+# Painel Financeiro
 
 <div align="center">
-  <img src="../../assets/flux.png" alt="Painel Financeiro - Home">
-  <h6>Imagem 1: Painel de Financeira - Home</h6>
+  <img src="../../assets/flux.png" alt="Painel Financeiro">
+  <h6>Imagem 1: Painel de Financeira</h6>
 </div>
 
 Um relatório de Business Intelligence (BI) abrangente e focado em Fluxo Financeiro é essencial para fornecer uma visão clara e detalhada da liquidez e gestão de caixa de uma empresa.
