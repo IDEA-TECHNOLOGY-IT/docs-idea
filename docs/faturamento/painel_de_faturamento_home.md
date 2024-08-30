@@ -1,7 +1,7 @@
-# Painel Home
+# Painel de Faturamento - Home
 
-![Home "Visão de Faturamento"](../../assets/fat.png)
-<h6 align="center">Imagem 1: Painel Home</h6>
+!["Painel de Faturamento - Home"](../../assets/fat.png)
+<h6 align="center">Imagem 1: Painel de Faturamento - Home</h6>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Faturamento é essencial para oferecer uma visão clara e detalhada do desempenho comercial de uma empresa.
 
