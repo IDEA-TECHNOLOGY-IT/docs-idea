@@ -141,8 +141,8 @@ nav:
     - faturamento/devolucoes.md
     - faturamento/faturamento_liquido.md
     - faturamento/cmv.md
-    - faturamento/lucro_bruto.md
-    - faturamento/positivacao.md
+    - faturamento/itens.md
+    - faturamento/indicadores.md
   - BI Idea Finance: 
     - financeiro/ficha-tecnica.md
     - financeiro/intro.md
