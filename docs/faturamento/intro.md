@@ -165,6 +165,6 @@ Informa quais filtros estão impactando o visual no momento.
 Abre o modo de foco, que é uma nova página com apenas o visual selecionado, dando mais espaço ao visual.
 
 ### Mais opções
-<p><img src="../../assets/fat_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/fat_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 40px;"></p>
 Este botão abre um menu com mais opções como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar.
 Nem todas essas opções estarão disponíveis em todos os visuais.
