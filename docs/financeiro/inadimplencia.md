@@ -39,37 +39,23 @@ Isso significa que, a taxa de Inadimplência da empresa seria de 5%.
   <h6>Imagem 3: Aging - Inadimplência</h6>
 </div></p>
 
-O gráfico apresenta a distribuição dos valores de inadimplência categorizados por faixas de dias de atraso. Aqui estão os detalhes:
+O gráfico de barras divide a inadimplência em 5 categorias, a primeira das quais é o valor que está em atraso por mais de 120 dias, diminuindo em intervalos de 30 dias e terminando com qualquer coisa que esteja em atraso por até 30 dias. Ele também tem um rótulo de detalhes mostrando a porcentagem do total de inadimplência que se enquadra em cada categoria.
 
-01) 120+ dias em Atraso:
-   
-- **Valor de Inadimplência:** R$ 35.621.233,26
-- **Percentual do Total:** 83,52%
-- Esta categoria representa a maior parte do valor total em atraso, com mais de 120 dias de inadimplência.
+Este visual fornece uma ótima visão geral do que está em atraso (que foi mostrado no gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber)). Facilitando a identificação das áreas de preocupação mais críticas. Ao categorizar os valores em atraso nesses intervalos de tempo, o gráfico permite que a gerência avalie rapidamente quais segmentos de seus recebíveis estão em maior risco de se tornarem incobráveis. Os rótulos de detalhes mostrando a porcentagem do total de valores em atraso em cada categoria fornecem mais insights sobre a distribuição de risco.
 
-02) Até 120 dias em Atraso:
-   
-- **Valor de Inadimplência:** R$ 1.978.056,71
-- **Percentual do Total:** 4,64%
-- A inadimplência nesta faixa representa uma parcela menor em comparação com a categoria anterior.
+Por exemplo, uma grande porcentagem da inadimplência total que se enquadra na categoria "mais de 120 dias" indicaria um problema significativo de cobrança que precisa de atenção imediata, enquanto uma concentração maior na categoria "até 30 dias" pode sugerir atrasos recentes mais administráveis. Essa repartição não apenas ajuda a priorizar os esforços de cobrança, mas também oferece suporte à tomada de decisões estratégicas sobre políticas de crédito, gerenciamento de relacionamento com o cliente e possíveis ajustes nos termos de pagamento.
 
-03) Até 90 dias em Atraso:
-   
-- **Valor de Inadimplência:** R$ 1.408.666,82
-- **Percentual do Total:** 3,30%
-- A inadimplência nesta faixa é ainda menor, mas significativa.
+No geral, o visual destaca efetivamente onde mais atenção é necessária e permite ações mais direcionadas para melhorar o fluxo de caixa e reduzir o risco financeiro associado a contas a receber vencidas.
 
-04) Até 60 dias em Atraso:
-   
-- **Valor de Inadimplência:** R$ 1.377.355,26
-- **Percentual do Total:** 3,23%
-- Valores nessa faixa de atraso representam uma pequena parte do total.
+Sem usar nenhum filtro, o gráfico representa o valor total em atraso, mas usando os filtros de agência ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
 
-05) Até 30 dias em Atraso:
-   
-- **Valor de Inadimplência:** R$ 2.266.792,71
-- **Percentual do Total:** 5,31%
-- Embora representando a menor faixa de atraso, ainda é relevante com mais de 5% do total.
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#aging-pagamentos-vencidos), permitindo ações como;
+
+- Identificar contas problemáticas e priorizar intervenções para lidar com os pagamentos em atraso mais significativos, reduzindo o impacto geral da inadimplência no negócio,
+- Aprimorar estratégias de cobrança concentrando esforços nas categorias de maior risco, aumentando assim a probabilidade de recuperar valores em atraso e melhorando o fluxo de caixa,
+- Avaliar a solvência dos clientes com base em seu comportamento de pagamento, permitindo o ajuste dos termos de crédito para mitigar riscos futuros associados a pagamentos atrasados,
+- Aprimorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios de fluxo de caixa e alocar recursos de forma eficaz,
+- Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
 ## Inadimplência por Cliente, Origem, Filial ou Projeto
 
