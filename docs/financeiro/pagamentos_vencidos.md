@@ -58,13 +58,18 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
   <h6>Imagem 4: Valor de Pagamentos Vencidos por Favorecido, Origem, Filial ou Projeto</h6>
 </div></p>
 
-Este gráfico detalha os pagamentos em atraso, categorizando-os conforme variáveis como favorecido, origem, filial ou projeto. Oferece uma visão específica e segmentada dos valores devidos, facilitando a análise e a priorização de ações corretivas.
+Um gráfico de barras que divide os pagamentos vencidos por favorecido, origem, filial ou projeto também oferece vantagens significativas para a gestão e análise da saúde financeira da sua empresa. Esse gráfico fornece uma visão clara e rápida de quais favorecidos, origens, filiais ou projetos têm os maiores montantes em atraso, permitindo que a gestão identifique facilmente onde estão as principais obrigações financeiras pendentes. Essa visualização facilita a priorização dos pagamentos, garantindo que as obrigações mais críticas sejam atendidas primeiro, o que é essencial para evitar agravamento da inadimplência e manter boas relações com os favorecidos.
 
-### Importância e Uso
+Além disso, o gráfico ajuda a identificar concentrações de risco, como grandes montantes devidos a um único favorecido ou em uma conta específica, o que pode indicar uma dependência excessiva de certos fornecedores ou setores e um potencial risco financeiro. Ao entender essa concentração, a empresa pode ajustar seu planejamento financeiro, como negociar prazos de pagamento mais favoráveis ou reestruturar seus compromissos para mitigar riscos. O gráfico também auxilia no monitoramento do desempenho financeiro das diferentes filiais e projetos envolvidos, fornecendo insights sobre onde os maiores atrasos nos pagamentos estão ocorrendo e permitindo uma gestão mais eficaz dos recursos.
 
--	**Análise Detalhada**: Permite uma análise detalhada das dívidas vencidas, identificando áreas críticas e ajudando a priorizar pagamentos.
--	**Tomada de Decisão**: Fornece informações para decisões mais informadas sobre como lidar com pagamentos vencidos, seja por renegociação, priorização de recursos ou ajustes no fluxo de caixa.
--	**Gestão de Relacionamento**: Facilita o gerenciamento de fornecedores ou projetos com grandes valores em atraso, evitando impactos negativos nas operações ou nas relações comerciais.
+Assim como na inadimplência, o gráfico de pagamentos vencidos pode ser uma ferramenta estratégica para negociações com fornecedores. Ao ter uma visão clara dos montantes em atraso, a empresa pode negociar melhores condições de pagamento, como prazos mais longos ou parcelamentos, visando alinhar os pagamentos ao fluxo de caixa disponível. Isso não apenas ajuda a evitar penalidades por atrasos, mas também fortalece as relações comerciais ao demonstrar uma abordagem responsável e transparente. Em última análise, ao destacar onde os passivos vencidos estão concentrados, o gráfico informa decisões estratégicas, como a alocação de recursos para pagamentos e a necessidade de renegociar contratos. Esse gráfico de barras, portanto, é uma ferramenta essencial para otimizar o fluxo de caixa, mitigar riscos financeiros e melhorar a gestão financeira global do negócio.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
 
 ## Pagamentos Vencidos por Mês
 
