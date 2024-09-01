@@ -10,7 +10,7 @@ Contas a pagar representam as obrigações financeiras que uma empresa assume co
 No contexto empresarial, essas contas incluem dívidas com fornecedores, salários de funcionários, impostos, aluguéis e outras despesas operacionais. No balanço patrimonial, as contas a pagar são classificadas como passivos de curto prazo, pois geralmente precisam ser liquidadas dentro de um ano.
 
 Uma gestão eficiente das contas a pagar é crucial para manter a saúde financeira da empresa, assegurando o cumprimento 
-de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negócio.
+de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negócio. Além disso, uma boa administração das contas a pagar contribui para a manutenção de relacionamentos saudáveis com os fornecedores e apoia a sustentabilidade financeira do negócio.
 
 
 ## Aging - Contas a Pagar
@@ -41,14 +41,18 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
   <h6>Imagem 3: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
 </div></p>
 
-Esse gráfico é uma ferramenta analítica que organiza e exibe as contas a pagar de uma empresa, classificando-as em diferentes categorias. Ele oferece uma visão detalhada das obrigações financeiras por fornecedor, origem, filial ou projeto.
+Um gráfico de barras que divide os pagáveis por favorecido, origem, filial ou projeto também oferece vantagens significativas para a gestão e análise da saúde financeira da sua empresa. Esse gráfico fornece uma visão clara e rápida de quais favorecido, origem, filial ou projeto têm os maiores montantes a pagar, permitindo que a gestão identifique facilmente onde estão as principais obrigações financeiras. Essa visualização facilita a priorização dos pagamentos, garantindo que as obrigações mais críticas sejam atendidas primeiro, o que é essencial para evitar inadimplências e manter boas relações com favorecidos.
 
-### Indicadores
+Além disso, o gráfico ajuda a identificar concentrações de risco, como grandes montantes devidos a um favorecido ou conta específica, o que pode indicar uma dependência excessiva e um potencial risco financeiro. Ao entender essa concentração, a empresa pode ajustar seu planejamento financeiro, como negociar prazos de pagamento mais favoráveis ou buscar diversificação de favorecidos para reduzir riscos. O gráfico também auxilia no monitoramento do desempenho financeiro das contas e filials envolvidas, fornecendo insights sobre onde os maiores custos estão sendo gerados e permitindo uma gestão mais eficaz dos recursos.
 
-- **Favorecidos:** Referem-se aos fornecedores ou credores aos quais os pagamentos são devidos. Essa informação é útil para visualizar a concentração de dívidas com determinados fornecedores, auxiliando na priorização de pagamentos ou na negociação de prazos.
-- **Origem:** Refere-se à natureza das dívidas, como compras de materiais, serviços contratados, impostos, etc. Essa informação é valiosa para identificar áreas onde os custos estão aumentando, permitindo um controle mais rigoroso.
-- **Filial:** Para empresas com várias filiais, esse indicador apresenta as contas a pagar por unidade. Isso ajuda a administração central a identificar quais filiais estão gerando mais despesas e onde é necessário um controle financeiro mais rigoroso.
-- **Projeto:** Em empresas que operam com projetos específicos, esse indicador categoriza as contas a pagar por projeto. É particularmente útil para garantir que os projetos estejam dentro do orçamento e para identificar aqueles que podem estar gerando custos inesperados.
+Assim como nos recebíveis, o gráfico de pagáveis pode ser uma ferramenta estratégica nas negociações com favorecidos. Ao ter uma visão clara das suas obrigações, a empresa pode negociar melhores condições de pagamento, como prazos mais longos ou descontos para pagamentos antecipados. Isso não apenas ajuda a melhorar o fluxo de caixa, mas também fortalece as relações comerciais. Em última análise, ao destacar onde os passivos estão concentrados, o gráfico informa decisões estratégicas, como a alocação de recursos e a necessidade de renegociar contratos. Esse gráfico de barras, portanto, é uma ferramenta essencial para otimizar o fluxo de caixa, mitigar riscos financeiros e melhorar a gestão financeira global do negócio.
+
+Para navegar entre os níveis, você pode usar os ícones de cabeçalho que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
 
 ## A Pagar por Data
 
