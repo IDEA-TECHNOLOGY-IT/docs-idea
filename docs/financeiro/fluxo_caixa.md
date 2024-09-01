@@ -24,7 +24,7 @@ A fórmula para calcular o Fluxo de Caixa é a soma de todos os valores que entr
 
 Na matriz Fluxo Financeiro Conta, há uma visão detalhada dos movimentos financeiros ao longo do tempo. As linhas na matriz têm uma hierarquia começando com os nomes das contas e duas subcategorias retiradas de um modelo que é projetado em seu banco de dados. Na imagem acima, você pode ver as principais categorias como Saldo Inicial, Entradas, Saídas, Previsto, Transferências e Sem Classificação.
 
-Ao expandir ainda mais para baixo na hierarquia das linhas da matriz, você também poderá visualizar os valores para áreas como Projeto e Cliente. Nossa intenção é que o usuário possa expandir cada categoria para investigar mais profundamente, isso pode ser feito usando os ícones de cabeçalho ou usando os sinais + ao lado dos cabeçalhos de linha.
+Ao expandir ainda mais para baixo na hierarquia das linhas da matriz, você também poderá visualizar os valores para áreas como Projeto e Cliente. Nossa intenção é que o usuário possa expandir cada categoria para investigar mais profundamente, isso pode ser feito usando os ícones de cabeçalho ou usando os sinais "+" ao lado dos cabeçalhos de linha.
 
 Os valores para cada linha são divididos em colunas por ano e mês. Existem ícones ao lado dos valores que mostram se o número é melhor (verde) ou pior (vermelho) do que o mês anterior. Tornando fácil ver a progressão de qualquer categoria ao longo do tempo e identificar problemas.
 
