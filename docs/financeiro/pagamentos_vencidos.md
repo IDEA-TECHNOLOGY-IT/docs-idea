@@ -28,7 +28,13 @@ Os pagamentos vencidos representam um desafio significativo para a saúde financ
 
 Em resumo, pagamentos vencidos indicam que a empresa não está cumprindo com suas obrigações financeiras de forma adequada, o que pode ter várias consequências negativas. Muitas vezes, isso ocorre porque o gestor não possui uma ferramenta eficaz para monitorar esses pagamentos. O BI Financeiro, auxilia o gestor na identificação de pagamentos vencidos e na tomada de decisões apropriadas.
 
-## Aging - Pagamentos Vencidos
+Esta página do relatório é dividida em duas visualizações, visão gráfica e visão de tabela.
+
+Na Painel Pagamentos Vencidos, você encontrará:
+
+## Visão Gráfica
+
+### Aging - Pagamentos Vencidos
 
 <p><div align="center">
   <img src="../../assets/flux_venc_aging.png" alt="Vencido Aging">
@@ -53,7 +59,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Melhorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios do fluxo de caixa e alocar recursos de forma eficaz,
 - Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
-## Valor de Pagamentos Vencidos por Favorecido, Origem, Filial ou Projeto
+### Valor de Pagamentos Vencidos por Favorecido, Origem, Filial ou Projeto
 
 <p><div align="center">
   <img src="../../assets/flux_venc_fav.png" alt="Vencido Fav">
@@ -73,7 +79,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
 
-## Pagamentos Vencidos por Mês
+### Pagamentos Vencidos por Mês
 
 <p><div align="center">
   <img src="../../assets/flux_venc_mes.png" alt="Vencido Mês">
@@ -90,7 +96,9 @@ O gráfico ilustra os pagamentos vencidos por mês e ano, destacando três eleme
 
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos seus passivos. O gráfico permite que a empresa identifique padrões de atrasos, avalie o impacto dos pagamentos vencidos no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nos pagamentos vencidos em um mês específico, a empresa pode investigar as causas e implementar estratégias para evitar que isso ocorra novamente. Da mesma forma, ao comparar a porcentagem de pagamentos vencidos com os pagamentos acumulados, a gerência pode priorizar quais fornecedores ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para minimizar os impactos financeiros negativos. Em última análise, este gráfico é uma ferramenta essencial para otimizar o planejamento financeiro, melhorar a gestão do fluxo de caixa e manter uma operação financeira estável e saudável.
 
-## Tabela de Detalhes de Pagamentos Vencidos
+## Visão Tabela
+
+### Tabela de Detalhes de Pagamentos Vencidos
 
 <p><div align="center">
   <img src="../../assets/flux_venc_tabela.png" alt="Vencido Tabela">
