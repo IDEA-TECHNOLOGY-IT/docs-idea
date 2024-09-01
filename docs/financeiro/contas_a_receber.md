@@ -18,27 +18,19 @@ Uma gestão eficiente das contas a receber é crucial para garantir a liquidez d
   <h6>Imagem 2: Aging - Contas a Receber</h6>
 </div></p>
 
-Um gráfico de Aging de Contas a Receber é uma ferramenta visual essencial para o monitoramento e gerenciamento das dívidas que uma empresa possui com seus clientes. Ele organiza as contas a receber em diferentes categorias com base no tempo decorrido desde a emissão da fatura até a data atual. Esse gráfico facilita a identificação de valores próximos do vencimento e daqueles já vencidos, permitindo que a empresa tome medidas apropriadas para garantir o recebimento desses valores.
+O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
 
-### Como interpretar o gráfico de Aging de Contas a Receber:
+Este visual oferece uma ótima visão geral de quais contas a receber são esperadas nos próximos meses, juntamente com o que está vencido (mais detalhado no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/)). Essas informações capacitam as empresas a gerenciar seu fluxo de caixa de forma mais eficaz, garantindo estabilidade financeira e eficiência operacional.
 
-### Em Atraso
-A primeira barra, rotulada como "Em Atraso", representa o total de contas a receber que ultrapassaram a data de vencimento. Esta barra mostra a soma das faturas que não foram pagas dentro do prazo acordado. A altura ou comprimento desta barra, em relação às demais, indica a proporção de valores que estão em atraso. Uma barra mais alta ou longa sinaliza uma quantidade significativa de valores vencidos, o que pode indicar a necessidade de atenção imediata para a recuperação desses recebíveis.
+Sem usar nenhum filtro, o gráfico representa o valor total a receber, mas usando os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) filial ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
 
-### Devido em até 30 dias
-A segunda barra mostra as faturas que ainda não venceram, mas que estão previstas para serem pagas nos próximos 30 dias. Esta categoria ajuda a visualizar os recebíveis de curto prazo e permite a empresa se preparar para as entradas de caixa esperadas neste período.
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), permitindo ações como;
 
-### Devido em até 60 dias
-A terceira barra representa as contas a receber que vencem em até 60 dias. Essa categoria ajuda a monitorar os valores que ainda estão dentro de um prazo relativamente curto, mas além do primeiro mês.
-
-### Devido em até 90 dias
-A quarta barra mostra as contas que devem ser pagas em até 90 dias. Este intervalo de tempo estende a análise para um horizonte de médio prazo, permitindo o planejamento de recebimentos futuros.
-
-### Devido em até 120 dias
-A quinta barra exibe os valores que são esperados dentro de 120 dias. Isso permite à empresa visualizar seus recebíveis a médio prazo, antes que atinjam quatro meses.
-
-### Devido em mais de 120 dias
-A última barra categoriza as contas a receber que vencerão após 120 dias. Esta seção do gráfico oferece uma visão de longo prazo sobre os recebíveis, possibilitando o planejamento financeiro para um futuro mais distante.
+- Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso,
+- Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa,
+- Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo,
+- Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
+- Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
 ## A Receber x Cliente, Origem, Filial ou Projeto
 
