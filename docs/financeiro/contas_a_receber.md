@@ -39,33 +39,16 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
   <h6>Imagem 3: A Receber x Cliente, Origem, Filial ou Projeto</h6>
 </div></p>
 
-Este gráfico fornece uma análise detalhada das contas a receber, organizadas em diferentes níveis hierárquicos: Cliente, Origem, Filial e Projeto. A ferramenta de BI permite que você navegue facilmente entre esses níveis para obter uma visão mais específica ou mais agregada dos valores a receber. Abaixo está uma explicação de cada nível e instruções sobre como navegar entre eles.
+Um gráfico de barras que segmenta os recebíveis por cliente, conta, empresa ou projeto oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes, contas, empresas ou projetos têm os maiores valores em aberto, permitindo que a administração identifique facilmente onde os montantes mais significativos de dinheiro estão alocados. Essa análise comparativa permite direcionar esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação dos maiores recebíveis primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de recebíveis fortemente associados a um cliente, conta, empresa ou projeto específico, o que pode representar riscos financeiros caso não sejam recebidos a tempo. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e melhor alinhamento dos recebíveis com as obrigações financeiras futuras.
 
-### Nível 1: Cliente
-**Descrição**: No nível de Cliente, o gráfico exibe as contas a receber classificadas por cliente específico. Cada barra representa um cliente e mostra o total de valores que ele deve à empresa.
+O gráfico também é valioso para monitorar o desempenho de diferentes contas e empresas, oferecendo insights sobre os comportamentos de pagamento ao longo do tempo. Essas informações podem orientar decisões sobre estratégias de vendas, gestão de contas e políticas empresariais. Além disso, o gráfico pode ser usado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ou empresas ao apresentar um panorama claro dos pagamentos em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde os recebíveis estão concentrados, seja por conta ou empresa, o gráfico informa a tomada de decisões estratégicas, como a alocação de recursos ou a necessidade de revisar os termos de engajamento com clientes ou projetos específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir o fluxo de caixa, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
 
-**Interpretação**: Este nível permite identificar rapidamente quais clientes têm os maiores montantes em aberto, facilitando a priorização de esforços de cobrança.
-
-### Nível 2: Origem
-**Descrição**: No nível de Origem, as contas a receber são organizadas de acordo com a origem das faturas, como vendas específicas, contratos ou outros tipos de transações.
-
-**Interpretação**: A análise por origem ajuda a entender de onde vêm os principais valores a receber e pode ser útil para identificar padrões em diferentes tipos de receita.
-
-### Nível 3: Filial
-**Descrição**: Neste nível, o gráfico categoriza os valores a receber por filial. Cada barra representa uma filial específica da empresa e o total de valores que ela deve receber.
-
-**Interpretação**: A visualização por filial permite avaliar o desempenho financeiro de diferentes unidades da empresa, ajudando na alocação de recursos e estratégias de cobrança regionais.
-
-### Nível 4: Projeto
-**Descrição**: No nível de Projeto, as contas a receber são organizadas de acordo com os diferentes projetos em que a empresa está envolvida.
-
-**Interpretação**: Esta análise ajuda a empresa a entender quais projetos estão gerando as maiores receitas a receber e pode auxiliar no planejamento e gestão de projetos futuros.
-
-### Navegação Entre os Níveis
-A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
-
-- **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
-- **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Cliente, Origem, Filial ou Projeto para analisar a área necessária.
 
 ## A Receber por Data
 
