@@ -59,38 +59,23 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 
 ## Inadimplência por Cliente, Origem, Filial ou Projeto
 
-O gráfico apresenta o valor de inadimplência categorizado por diferentes segmentos, como cliente, origem, filial ou projeto. Cada barra no gráfico representa uma categoria específica, mostrando o valor total inadimplente associado a ela.
-
 <p><div align="center">
   <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente">
   <h6>Imagem 4: Inadimplência por Cliente, Origem, Filial ou Projeto</h6>
 </div></p>
 
-### Nível 1: Cliente
-**Descrição:** No nível de cliente, o gráfico exibe o valor total inadimplente associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante que ainda não foi pago à empresa, destacando os valores em atraso que esses clientes devem quitar.
+Um gráfico de barras que divide a inadimplência por cliente, origem, filial ou projeto também oferece vantagens significativas para a gestão e análise da saúde financeira da sua empresa. Esse gráfico fornece uma visão clara e rápida de quais clientes, origens, filiais ou projetos possuem os maiores montantes em atraso, permitindo que a gestão identifique facilmente onde estão as principais áreas de preocupação. Essa visualização facilita a priorização das ações de cobrança, garantindo que os casos mais críticos sejam tratados primeiro, o que é essencial para reduzir o risco de perdas e manter o fluxo de caixa saudável.
 
-**Interpretação:** Este gráfico permite identificar quais clientes ou grupos de clientes possuem os maiores valores de inadimplência, o que pode indicar a necessidade de uma revisão das condições de crédito, um acompanhamento mais rigoroso desses clientes ou a implementação de políticas de cobrança mais eficazes para reduzir o risco financeiro e melhorar o fluxo de caixa da empresa.
+Além disso, o gráfico ajuda a identificar concentrações de risco, como grandes montantes devidos por um cliente ou em uma conta específica, o que pode indicar uma dependência excessiva de certos clientes ou setores e um potencial risco financeiro. Compreendendo essa concentração, a empresa pode ajustar suas estratégias de cobrança e renegociar condições de pagamento para minimizar o risco de inadimplência. O gráfico também auxilia no monitoramento do desempenho financeiro das diferentes filiais e projetos envolvidos, fornecendo insights sobre onde os maiores atrasos estão ocorrendo e permitindo uma gestão mais eficaz dos recursos.
 
-### Nível 2: Origem
-**Descrição:** No nível de origem, o gráfico exibe o valor total inadimplente associado a cada fonte específica de receita ou operação. Cada barra representa uma origem e mostra o montante total de inadimplência que deriva dessa fonte.
+Assim como nos pagáveis, o gráfico de inadimplência pode ser uma ferramenta estratégica nas negociações com clientes. Ao ter uma visão clara dos montantes em atraso, a empresa pode negociar melhores condições de pagamento, como prazos mais curtos ou acordos de parcelamento, visando recuperar valores de forma mais eficiente. Isso não apenas ajuda a melhorar o fluxo de caixa, mas também fortalece as relações comerciais ao demonstrar uma abordagem proativa na resolução de atrasos. Em última análise, ao destacar onde a inadimplência está concentrada, o gráfico informa decisões estratégicas, como a alocação de recursos para cobranças e a necessidade de ajustes nos termos de crédito. Esse gráfico de barras, portanto, é uma ferramenta essencial para otimizar o fluxo de caixa, mitigar riscos financeiros e melhorar a gestão financeira global do negócio.
 
-**Interpretação:** Este gráfico permite identificar quais origens estão contribuindo mais para a inadimplência geral. Com essa informação, a empresa pode focar em revisar políticas e procedimentos específicos para essas origens, a fim de reduzir os valores inadimplentes e melhorar a eficiência da cobrança.
-
-### Nível 3: Filial
-**Descrição:** No nível de filial, o gráfico exibe o valor total inadimplente vinculado a cada unidade ou filial da empresa. Cada barra representa uma filial específica e demonstra o montante total de valores em atraso associados a ela.
-
-**Interpretação:** Este gráfico possibilita identificar quais filiais estão acumulando mais inadimplência. Com essa visão, a empresa pode direcionar esforços para essas unidades, ajustando processos locais, reforçando políticas de crédito ou intensificando as estratégias de cobrança para mitigar riscos financeiros.
-
-### Nível 4: Projeto
-**Descrição:** No nível de projeto, o gráfico exibe o valor total inadimplente relacionado a cada projeto específico. Cada barra representa um projeto e destaca o montante total de inadimplência vinculado a ele.
-
-**Interpretação:** Este gráfico ajuda a identificar quais projetos estão gerando mais inadimplência, o que pode sinalizar problemas específicos no gerenciamento ou execução desses projetos. A empresa pode então reavaliar a viabilidade, as condições de pagamento ou até mesmo a gestão de riscos desses projetos para minimizar a inadimplência e otimizar o retorno financeiro.
-
-### Navegação Entre os Níveis
-A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
-
-- **Para ir para o próximo nível de hierarquia (Indicador 1)**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
-- **Para retornar ao nível anterior (Indicador 2)**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
 
 ## Inadimplência por Mês
 
