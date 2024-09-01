@@ -75,7 +75,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
+Aqui você pode mover para cima ou para baixo entre Cliente, Origem, Filial ou Projeto para analisar a área necessária.
 
 ## Inadimplência por Mês
 
