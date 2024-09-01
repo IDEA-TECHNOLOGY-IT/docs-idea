@@ -47,7 +47,7 @@ Além disso, o gráfico ajuda a identificar concentrações de risco, como grand
 
 Assim como nos recebíveis, o gráfico de pagáveis pode ser uma ferramenta estratégica nas negociações com favorecidos. Ao ter uma visão clara das suas obrigações, a empresa pode negociar melhores condições de pagamento, como prazos mais longos ou descontos para pagamentos antecipados. Isso não apenas ajuda a melhorar o fluxo de caixa, mas também fortalece as relações comerciais. Em última análise, ao destacar onde os passivos estão concentrados, o gráfico informa decisões estratégicas, como a alocação de recursos e a necessidade de renegociar contratos. Esse gráfico de barras, portanto, é uma ferramenta essencial para otimizar o fluxo de caixa, mitigar riscos financeiros e melhorar a gestão financeira global do negócio.
 
-Para navegar entre os níveis, você pode usar os ícones de cabeçalho que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -61,14 +61,31 @@ Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial o
   <h6>Imagem 4: A Pagar por Data</h6>
 </div></p>
 
-Este gráfico tabular representa o detalhamento organizado das obrigações financeiras da empresa de forma estruturada e segmentada. Ele oferece uma visão abrangente das contas a pagar, reunindo todas as informações necessárias em um único lugar e permitindo uma análise detalhada.
+Este gráfico exibe uma tabela detalhada das contas a pagar, organizada por data de vencido, que apresenta uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada fatura, desde o favorecido até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada conta a pagar, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos pagáveis. Através desta estrutura, a empresa pode monitorar detalhadamente o fluxo de caixa e tomar decisões informadas sobre o gerenciamento financeiro. A seguir, explicamos como interpretar cada coluna da tabela.
 
-Com essa ferramenta, é possível monitorar prazos, valores e responsabilidades, ajudando a evitar atrasos e garantindo que os pagamentos sejam realizados de forma organizada. Além disso, a grade serve como um registro estruturado, útil em auditorias internas ou externas, assegurando transparência e conformidade com as práticas contábeis.
+Esta tabela é essencial ao procurar detalhes sobre contas a pagar específicas. Ela pode ser filtrada usando [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) ou clicando nas barras dentro dos outros dois visuais na página. Por exemplo, para ver os detalhes de todas as transações a pagar que vencem em 30 dias, clique na coluna no gráfico Aging - Contas a Pagar que diz "03) Devido em até 30 dias".
 
-Com todas essas informações, os gestores podem tomar decisões informadas sobre a priorização de pagamentos, negociações com fornecedores e a gestão do fluxo de caixa.
-
-## Importância deste relatório
-
-- **Controle Financeiro:** Permite à empresa um controle mais preciso de suas despesas, segmentando as informações conforme a necessidade de análise.
-- **Tomada de Decisão:** Facilita decisões estratégicas, ajudando os gestores a identificarem áreas que precisam de atenção especial, como fornecedores prioritários ou projetos com maior impacto financeiro.
-- **Transparência e Comunicação:** Os indicadores oferecem uma representação clara e objetiva das finanças, facilitando a comunicação interna entre departamentos, gestores e a diretoria.
+### Favorecido
+Esta coluna indica o favorecido específico que tem um valor a pagar, permitindo que você veja claramente quem são os favorecidos.
+### Origem
+A origem da fatura, como "INSS Retido" ou "Serviço Instalações", é indicada nesta coluna. Isso ajuda a entender a natureza da dívida e a sua fonte dentro das operações da empresa.
+### Nº LCM
+Esta coluna mostram o número do lançamento contábil relacionado à fatura. Elas são úteis para rastrear documentos específicos e reconciliar com registros contábeis.
+### Doc.
+O número do documento associado à fatura encontra-se aqui. Este é o número mais comumente usado ao pesquisar a transação no banco de dados.
+### Data de Criação
+Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
+### Data de Venc.
+Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
+### Valor
+Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
+### Filial
+Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos pagáveis.
+### Projeto
+Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
+### Status
+O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/)
+### Processo
+Indica o processo associado ao recebimento, como "Pagamento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
+### Pesquisa de Documentos
+Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado pagável.
