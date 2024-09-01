@@ -33,15 +33,23 @@ Em resumo, pagamentos vencidos indicam que a empresa não está cumprindo com su
   <h6>Imagem 3: Aging - Pagamentos Vencidos</h6>
 </div></p>
 
-O Gráfico Aging é uma ferramenta visual que organiza e exibe as contas a pagar da empresa, com foco específico nas obrigações financeiras em atraso. Esse gráfico é amplamente utilizado para monitorar a idade das dívidas e priorizar os pagamentos com base no tempo de atraso.
+O gráfico de barras divide os Pagamentos Vencidos em 5 categorias, a primeira das quais é o valor vencido em mais de 120 dias, diminuindo em intervalos de 30 dias e terminando com qualquer coisa vencida em até 30 dias. Ele também tem um rótulo de detalhes mostrando a porcentagem do total de Pagamentos Vencidos que se enquadra em cada categoria.
 
-### Importância do Gráfico Aging nos Pagamentos Vencidos
+Este visual fornece uma ótima visão geral do que está vencido (que foi mostrado no gráfico [Aging - Contas a Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar)). Facilitando a identificação das áreas de preocupação mais críticas. Ao categorizar os valores vencidos nesses intervalos de tempo, o gráfico permite que a gerência avalie rapidamente quais segmentos de seus recebíveis estão em maior risco de se tornarem incobráveis. Os rótulos de detalhes mostrando a porcentagem do total de valores vencidos em cada categoria fornecem mais insights sobre a distribuição de risco.
 
-**-	Priorizar Pagamentos**: Facilita a identificação rápida dos pagamentos vencidos mais urgentes, permitindo uma gestão eficiente do fluxo de caixa.
-**-	Análise de Risco**: Avalia o risco associado aos pagamentos vencidos, especialmente se houver grandes montantes em atraso por períodos prolongados.
-**-	Melhoria das Relações com Fornecedores**: Monitorar e regularizar pagamentos vencidos melhora as relações com fornecedores, evitando interrupções no fornecimento ou termos desfavoráveis em negociações futuras.
-**-	Decisões Estratégicas**: Oferece informações críticas para decisões estratégicas, como renegociação de prazos de pagamento, busca de crédito adicional ou ajustes no planejamento financeiro.
+Por exemplo, uma grande porcentagem do total de pagamentos vencidos na categoria "mais de 120 dias" indicaria um problema de pagamento significativo que precisa de atenção imediata, enquanto uma concentração maior na categoria "até 30 dias" pode sugerir atrasos recentes mais administráveis. Essa repartição não apenas ajuda a priorizar os esforços de pagamento, mas também oferece suporte à tomada de decisões estratégicas sobre políticas de crédito, gerenciamento de relacionamento com o cliente e possíveis ajustes nos termos de pagamento.
 
+No geral, o visual destaca efetivamente onde mais atenção é necessária e permite ações mais direcionadas para melhorar o fluxo de caixa e reduzir o risco financeiro associado a contas a pagar vencidas.
+
+Sem usar nenhum filtro, o gráfico representa o valor total em atraso, mas usando os filtros de agência ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
+
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/#aging-inadimplencia), permitindo ações como;
+
+- Identificar contas problemáticas e priorizar intervenções para lidar com os pagamentos em atraso mais significativos, reduzindo o impacto geral da inadimplência no negócio,
+- Melhorar as estratégias de pagamento concentrando esforços nas categorias de maior risco, aumentando assim a probabilidade de pagar valores em atraso e melhorando o fluxo de caixa,
+- Aumentar a credibilidade da empresa com base em seu comportamento de pagamento, permitindo o ajuste dos termos de crédito para mitigar riscos futuros associados a pagamentos atrasados,
+- Melhorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios do fluxo de caixa e alocar recursos de forma eficaz,
+- Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
 ## Valor de Pagamentos Vencidos por Favorecido, Origem, Filial ou Projeto
 
