@@ -30,37 +30,12 @@ Se uma empresa recebeu R$ 200.000,00 em um mês e pagou R$ 150.000,00 em suas ob
 Isso significa que, ao final do mês, a empresa teria um saldo positivo de R$ 50.000,00.
 
 ## **Estrutura da Tabela:**
+
 1 - Contas Principais e Subcontas:
 
 - As contas estão organizadas hierarquicamente, com as contas principais em negrito e suas subcontas listadas abaixo.
-- Por exemplo, "( - ) CAPITAL A INTEGRALIZAR DE DOMICILIADOS E RESIDENTES NO PAÍS" é uma conta principal, e abaixo dela estão listadas várias subcontas, como "CAIXA GERAL", "CG02 ITA CC 3893/49408-2 - RECURSOS", etc.
 
 2 - Saldo Realizado:
 
 - O saldo realizado é o valor efetivamente registrado ou movimentado em cada uma dessas contas.
 - Valores positivos indicam saldo disponível ou crédito, enquanto valores negativos (precedidos por um sinal de menos) indicam débito ou saída de recursos.
-
-## **Análise das Principais Categorias:**
-1 - ( - ) CAPITAL A INTEGRALIZAR DE DOMICILIADOS E RESIDENTES NO PAÍS:
-- Saldo Realizado Total: R$ 16.490,79
-- Subcontas: Incluem "CAIXA GERAL" com R$ 2.649,79, e várias contas do Itaú com saldos menores, totalizando o valor principal.
-
-2 - ( - ) DEVOLUÇÃO MATERIAL USO CONSUMO (OBRAS):
-- Saldo Realizado: R$ 3.577,95
-- Apenas uma subconta listada: "TFZ SAN CC 1921/13000335-8".
-
-3 - ( - ) DISTRIBUIÇÃO DE LUCROS/DIVIDENDOS AOS SÓCIOS:
-- Saldo Realizado Total: -R$ 14.567.141,97
-- Subcontas: Incluem "ALG ITA CC 3893/35528-3" com -R$ 50.100,00, e várias outras contas com saldos negativos, indicando a saída de recursos para a distribuição de lucros.
-
-4 - ( - ) ISS:
-- Saldo Realizado: -R$ 1,50
-- Uma única subconta listada: "GLI ITA CC 3893/41150-8 EMPRESA".
-
-5 - ( - ) REPASSE AOS PROPRIETÁRIOS (ALUGUEIS):
-- **Saldo Realizado:** R$ 0,12
-- Este é um valor muito pequeno e positivo, indicando talvez uma pequena transação de repasse.
-
-## Total Geral:
-- Saldo Total: R$ 102.011.364,06
-- Esse valor representa a soma dos saldos realizados em todas as contas listadas na tabela, indicando o total de recursos ou movimentações registradas.
