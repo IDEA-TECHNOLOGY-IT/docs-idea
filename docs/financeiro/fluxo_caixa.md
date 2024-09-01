@@ -13,19 +13,7 @@ Uma gestão eficiente do fluxo de caixa traz inúmeros benefícios para as empre
 
 Outro benefício importante é a redução da necessidade de financiamento externo, o que diminui os custos de crédito e melhora a rentabilidade da empresa. Um fluxo de caixa positivo também fortalece a posição financeira da empresa, aumentando sua credibilidade no mercado e facilitando a obtenção de condições mais favoráveis em negociações e contratos.
 
-## **Fórmula para calcular o Fluxo de Caixa:**
-**_Fluxo de Caixa = Entradas de Caixa - Saídas de Caixa_**
-
-**Onde:**
-
-- **Entradas de Caixa:** Soma de todos os valores que entram na empresa durante um período, como receitas de vendas, recebimentos de contas a receber, etc.
-- **Saídas de Caixa:** Soma de todos os valores que saem da empresa durante o período, como pagamentos a fornecedores, despesas operacionais, salários, etc.
-
-**Exemplo:**
-Se uma empresa recebeu R$ 500.000,00 em um mês e pagou R$ 300.000,00 em suas despesas, o fluxo de caixa seria calculado assim:
-**_Fluxo de Caixa = 500.000 - 300.000 = R$ 200.000,00_**
-
-Isso significa que, ao final do mês, a empresa teria um fluxo de caixa positivo de R$ 200.000,00.
+A fórmula para calcular o Fluxo de Caixa é a soma de todos os valores que entram na empresa durante um período, como receita de vendas, contas a receber, etc., menos a soma de todos os valores que saem da empresa durante o período, como pagamentos a fornecedores, despesas operacionais, salários, etc.
 
 ## Fluxo Financeiro Conta
 
@@ -34,30 +22,11 @@ Isso significa que, ao final do mês, a empresa teria um fluxo de caixa positivo
   <h6>Imagem 2: Fluxo Financeiro Conta</h6>
 </div></p>
 
-O gráfico apresenta uma visão detalhada do fluxo financeiro por categoria de conta:
+Na matriz Fluxo Financeiro Conta, há uma visão detalhada dos movimentos financeiros ao longo do tempo. As linhas na matriz têm uma hierarquia começando com os nomes das contas e duas subcategorias retiradas de um modelo que é projetado em seu banco de dados. Na imagem acima, você pode ver as principais categorias como Saldo Inicial, Entradas, Saídas, Previsto, Transferências e Sem Classificação.
 
-### Saldo Inicial:
-- Mostra o saldo inicial no início do período considerado.
+Ao expandir ainda mais para baixo na hierarquia das linhas da matriz, você também poderá visualizar os valores para áreas como Projeto e Cliente. Nossa intenção é que o usuário possa expandir cada categoria para investigar mais profundamente, isso pode ser feito usando os ícones de cabeçalho ou usando os sinais + ao lado dos cabeçalhos de linha.
 
-### Entradas:
-- Detalha as receitas operacionais e não operacionais, e o previsto a receber, com valores específicos. Neste exemplo, parece que há um valor específico de R$ 79.315,05 listado para "PREVISTO A RECEBER".
+Os valores para cada linha são divididos em colunas por ano e mês. Existem ícones ao lado dos valores que mostram se o número é melhor (verde) ou pior (vermelho) do que o mês anterior. Tornando fácil ver a progressão de qualquer categoria ao longo do tempo e identificar problemas.
 
-### Saídas:
-- Categoriza todas as saídas de caixa, incluindo despesas operacionais, não operacionais, provisões, custos de construção, participações, entre outras. Essas categorias são detalhadas, mas neste exemplo específico, os valores para cada categoria não estão preenchidos (exceto "ENTRADAS"). 
-
-### Colunas Mensais:
-- A tabela é distribuída ao longo de colunas que representam meses do ano. Aqui, vemos que o valor "PREVISTO A RECEBER" de R$ 79.315,05 é o mesmo ao longo de todos os meses listados (de janeiro a outubro).
-
-### Totais
-- Esta linha demonstra o valor total do fluxo em determinado mês.
-
-<p><div align="center">
-  <img src="../../assets/flux_flux_prev.png" alt="Flux Filtro">
-  <h6>Imagem 3: Filtro Previsto e Realizado</h6>
-</div></p>
-
-### Previsto:
-Mostra o saldo previsto que a empresa espera realizar.
-
-### Realizado:
-Mostra o saldo realizado que a empresa já concluiu.
+Existe um [filtro]() para transações previstas e realizadas nesta página que você não vê em outras páginas, quando este não tem seleção o visual mostrará o valor de todas as transações, se selecionado, o visual mostrará as transações relacionadas.
+<p><img src="../../assets/flux_flux_prev.png" alt="Prev" style="vertical-align: middle; height: 50px;"></p>
