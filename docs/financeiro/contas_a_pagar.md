@@ -1,7 +1,7 @@
-# Painel Contas a Pagar
+# Painel A Pagar
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_page1.png" alt="Contas a Pagar1">
+  <img src="../../assets/flux_pag_page1.png" alt="A Pagar1">
   <h6>Imagem 1: Painel A Pagar</h6>
 </div></p>
 
@@ -20,14 +20,19 @@ de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negó
   <h6>Imagem 2: Aging - Contas a Pagar</h6>
 </div></p>
 
-Um gráfico Aging de contas a pagar é uma ferramenta visual utilizada para monitorar e gerenciar o status das obrigações financeiras de uma empresa com seus fornecedores. Ele categoriza as contas a pagar com base no tempo decorrido desde a data de vencimento, facilitando a identificação de dívidas próximas do vencimento ou já vencidas.
+O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
 
-### Importância do Gráfico Aging
+Este visual oferece uma ótima visão geral de quais contas a pagar são esperadas nos próximos meses, juntamente com o que está vencido (mais detalhado no [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/)). Essas informações capacitam as empresas a gerenciar seu fluxo de caixa de forma mais eficaz, garantindo estabilidade financeira e eficiência operacional.
 
-- **Gestão do Fluxo de Caixa:** Auxilia no planejamento dos pagamentos para evitar problemas de fluxo de caixa.
-- **Identificação de Problemas:** Ajuda a detectar questões com fornecedores ou processos internos, como faturas pagas com atraso.
-- **Negociação com Fornecedores:** Fornece uma base para negociar prazos de pagamento ou condições de desconto por antecipação de pagamento.
-- **Acompanhamento da Saúde Financeira:** Oferece uma visão clara da saúde financeira da empresa, indicando se as dívidas estão sendo geridas de forma adequada.
+Sem usar nenhum filtro, o gráfico representa o valor total a pagar, mas usando os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) filial ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
+
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), permitindo ações como;
+
+- Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso,
+- Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa,
+- Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo,
+- Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
+- Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
 ## A Pagar X Favorecido, Origem, Filial ou Projeto
 
