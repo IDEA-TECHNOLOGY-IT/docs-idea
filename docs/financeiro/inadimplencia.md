@@ -98,7 +98,7 @@ O gráfico ilustra inadimplências por mês e ano, destacando três elementos pr
 
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos recebíveis. O gráfico permite que a empresa identifique padrões de inadimplência, avalie o impacto das inadimplências no fluxo de caixa e tome decisões baseadas em dados para mitigar o risco financeiro. Por exemplo, se o gráfico mostrar um aumento significativo em inadimplências em um mês específico, a empresa pode investigar a causa e implementar intervenções direcionadas para evitar ocorrências futuras. Da mesma forma, ao comparar a porcentagem de inadimplências com os recebíveis acumulados, a gerência pode priorizar quais clientes ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para gerenciar e reduzir a inadimplência. Em última análise, este gráfico é uma ferramenta poderosa para aprimorar o planejamento financeiro da empresa, melhorar a gestão do fluxo de caixa e manter uma operação comercial estável e saudável.
 
-## Visão Tabela
+## Visão de Tabela
 
 ### Tabela de Detalhes de Inadimplência
 
