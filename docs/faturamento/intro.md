@@ -121,3 +121,50 @@ Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher 
 <p><img src="../../assets/fat_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
 
+## Ícones de Cabeçalho
+
+<div align="center">
+  <img src="../../assets/fat_hi_all.png" alt="Header Icons All">
+  <h6>Imagem 4: Ícones de Cabeçalho</h6>
+</div>
+
+Quando um visual é selecionado ou o mouse passa sobre ele, ícones de cabeçalho podem aparecer no canto superior direito da janela visual. Esses ícones dependem do tipo de visual, do conteúdo do visual e das opções selecionadas em relação aos ícones de cabeçalho na criação.
+
+Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "Ir para o próximo nível na hierarquia", que ajudam a facilitar a troca entre níveis como cliente ou projeto.
+
+Abaixo estão as opções que um usuário pode ver, o que elas significam e como usá-las.
+
+### Fazer drill on Linhas ou Colunas
+<p><img src="../../assets/fat_hi_fazer.png" alt="Fazer" style="vertical-align: middle; height: 50px;"></p>
+Isso altera o drill down para as linhas ou colunas em uma tabela, por exemplo, os cabeçalhos das colunas têm anos e meses, você pode selecionar colunas, permitindo que você faça drill up apenas para os anos, down apenas para os meses ou expanda para ver o ano e o mês como cabeçalhos de coluna. Da mesma forma, se você selecionar linhas, poderá navegar pela hierarquia das linhas.
+
+### Fazer drill up
+<p><img src="../../assets/fat_hi_up.png" alt="Up" style="vertical-align: middle; height: 50px;"></p>
+Usar o botão fazer drill up move você para cima um degrau na hierarquia. Se o visual tiver opções como cliente, origem, filial e projeto e você estiver na filial, ao clicar neste botão ele exibirá a origem.
+
+### Clique aqui parahabilitar o Drill down
+<p><img src="../../assets/fat_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 50px;"></p>
+Este botão não é necessário para nossos relatórios, ele habilita os recursos de detalhamento, mas eles são predefinidos na criação.
+
+### Ir para o próximo nível na hierarquia
+<p><img src="../../assets/fat_hi_down.png" alt="Donw" style="vertical-align: middle; height: 50px;"></p>
+Há uma grande diferença entre este botão e o botão de expansão. Para este botão, você irá para o próximo nível da hierarquia. Por exemplo, se tiver uma hierarquia de cliente, origem, filial e projeto e você estiver em cliente, quando clicar neste botão, você exibirá origem no visual e não verá mais cliente. Se você tinha uma hierarquia de ano, mês e estava em ano no visual, clicar neste botão exibirá apenas o mês - sem dividi-lo por ano.
+Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Expandir todo o campo um nível abaixo ne hierarquia" nos próximos níveis.
+
+### Expandir todo o campo um nível abaixo ne hierarquia
+<p><img src="../../assets/fat_hi_expand.png" alt="Expand" style="vertical-align: middle; height: 50px;"></p>
+Este botão habilita a expansão dos dados no visual. Em vez de mover para baixo na hierarquia, usar este botão fará com que o próximo nível apareça como subcategorias do nível acima. Por exemplo, se você tiver uma hierarquia de ano e mês e estiver no ano, ao clicar neste botão, você exibirá o ano e os meses dentro daquele ano no visual. Ou se você tivesse uma hierarquia de cliente, origem, filial e projeto e estivesse no cliente, você veria a origem exibida como subcategorias para cada cliente. 
+Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Ir para o próximo nível na hierarquia" nos próximos níveis.
+
+### Filtros e segmentações afetando este visual
+<p><img src="../../assets/fat_hi_filtros.png" alt="Filtros" style="vertical-align: middle; height: 50px;"></p>
+Informa quais filtros estão impactando o visual no momento.
+
+### Modo de foco
+<p><img src="../../assets/fat_hi_foco.png" alt="Focos" style="vertical-align: middle; height: 50px;"></p>
+Abre o modo de foco, que é uma nova página com apenas o visual selecionado, dando mais espaço ao visual.
+
+### Mais opções
+<p><img src="../../assets/fat_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 50px;"></p>
+Este botão abre um menu com mais opções como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar.
+Nem todas essas opções estarão disponíveis em todos os visuais.
