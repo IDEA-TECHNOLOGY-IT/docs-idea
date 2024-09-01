@@ -29,7 +29,7 @@ Se uma empresa recebeu R$ 200.000,00 em um mês e pagou R$ 150.000,00 em suas ob
 
 Isso significa que, ao final do mês, a empresa teria um saldo positivo de R$ 50.000,00.
 
-## **Estrutura da Tabela:**
+## Estrutura da Tabela
 
 1 - Contas Principais e Subcontas:
 
