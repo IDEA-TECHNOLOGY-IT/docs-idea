@@ -84,29 +84,35 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
   <h6>Imagem 4: A Receber por Data</h6>
 </div></p>
 
-Este gráfico exibe uma tabela detalhada das contas a receber, organizada por data. A tabela inclui diversas colunas que fornecem informações essenciais sobre cada transação, desde o cliente até o status atual e os documentos relacionados. Abaixo está uma explicação de cada coluna e como interpretar os dados apresentados.
+Este gráfico exibe uma tabela detalhada dos recebimentos, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada pagamento recebido, desde o cliente até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada valor recebido, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos recebíveis. Com esta estrutura, a empresa pode monitorar detalhadamente os pagamentos realizados, identificar padrões de recebimento e tomar decisões informadas para otimizar o fluxo de caixa, garantindo que a saúde financeira da empresa seja mantida. A seguir, explicamos como interpretar cada coluna da tabela.
 
-### Colunas Principais
+Esta tabela é essencial quando se busca detalhes sobre recebimentos específicos. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros).
 
-- **Cliente**: Esta coluna identifica o cliente específico que tem um valor a pagar. Cada linha da tabela corresponde a um cliente diferente, permitindo que você veja claramente quem são os devedores.
-- **Origem**: A origem da fatura, como "Aluguel de Imóveis" ou "Estacionamento - Prestação de Serviços", é indicada nesta coluna. Isso ajuda a entender a natureza da dívida e sua fonte dentro das operações da empresa.
-- **Nº LCM** e **Doc. de Origem**: Estas colunas mostram o número do lançamento contábil e o número do documento relacionado à fatura. Elas são úteis para rastrear documentos específicos e reconciliar com registros contábeis.
-- **Data de Criação**: Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
-- **Data de Venc.**: Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
-- **Data do Recebimento**: Indica a data em que o pagamento foi efetivamente recebido pela empresa.
-- **Dias do Recebimento**: Mostra o número de dias que se passaram entre a data de vencimento e a data do recebimento.
-- **Valor**: Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
-- **Filial**: Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
-- **Projeto**: Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
-- **Status**: O status da fatura (por exemplo, "Realizado") é mostrado aqui. O status ajuda a entender em que estágio do processo de pagamento a fatura se encontra.
-
-### Informações Adicionais
-
-- **Processo**: Indica o processo associado ao recebimento, como "Recebimento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
-- **Pesquisa de Documentos**: Esta coluna contém informações ou links relacionados à pesquisa de documentos, como notas fiscais e lançamentos contábeis, que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado recebível.
-
-### Como Usar Este Gráfico
-
-- **Análise Detalhada**: Use esta tabela para fazer uma análise minuciosa de cada fatura, verificando os detalhes específicos, como datas de vencimento, datas de recebimento e status.
-- **Identificação de Prioridades**: Observe as colunas de "Data de Venc." e "Dias do Recebimento" para identificar faturas que precisam de atenção imediata, como aquelas que estão próximas de vencer ou já estão atrasadas.
-- **Navegação e Pesquisa**: Utilize a coluna "Pesquisa de Documentos" para acessar mais detalhes ou resolver discrepâncias nos registros, garantindo que todas as informações estejam corretas e completas.
+### Cliente
+Esta coluna identifica o cliente específico que tem um valor a pagar, permitindo que você veja claramente quem são os devedores.
+### Origem
+A origem da fatura, como "Encargos Comuns" ou "Aluguel de Imóveis", é indicada nesta coluna. Isso ajuda a entender a natureza da dívida e a sua fonte dentro das operações da empresa.
+### Nº LCM
+Esta coluna mostram o número do lançamento contábil relacionado à fatura. Elas são úteis para rastrear documentos específicos e reconciliar com registros contábeis.
+### Doc.
+O número do documento associado à fatura encontra-se aqui. Este é o número mais comumente usado ao pesquisar a transação no banco de dados.
+### Data de Criação
+Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
+### Data de Venc.
+Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
+### Data do Recebimento
+Esta é a data em que o pagamento do documento foi feito.
+### Dias do Recebimento
+Para ver quanto tempo levou para o pagamento ser feito, esta coluna mostra a diferença em dias entre a data de criação e a data do recebimento.
+### Valor
+Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
+### Filial
+Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
+### Projeto
+Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
+### Status
+O status da fatura que é "Realizado" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/)
+### Processo
+Indica o processo associado ao recebimento, como "Recebimento" ou "Carteira de Recebíveis". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
+### Pesquisa de Documentos
+Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado recebível.
