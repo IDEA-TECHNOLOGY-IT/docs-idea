@@ -31,8 +31,8 @@ Isso é crucial para o planejamento financeiro de longo prazo. Ao comparar os da
   <h6>Imagem 3: Comparativo Mensal (Entradas x Saídas) - Realizado</h6>
 </div>
 
-Este gráfico divide seu fluxo de caixa mensal em dois componentes principais: entradas e saídas. Ele também inclui uma linha que representa a variação percentual entre esses dois, fornecendo uma imagem clara se sua entrada de caixa é suficiente para cobrir as saídas.
+Este gráfico segmenta seu fluxo de caixa mensal em dois componentes principais: entradas e saídas, com uma linha adicional que exibe a variação percentual entre os dois, fornecendo uma visão clara sobre a capacidade de suas entradas de caixa cobrirem as saídas.
 
-Os rótulos '% Variância' são verdes quando positivos e vermelhos quando negativos. Este gráfico permite que você compare diretamente as entradas e saídas para cada mês e ano, visualizando a diferença percentual entre eles. A codificação por cores ajuda você a identificar rapidamente se sua empresa está gastando mais do que está ganhando, para que você possa ajustar suas estratégias financeiras de acordo.
+Os rótulos "% Variância" são codificados por cores, aparecendo em verde quando positivos e em vermelho quando negativos. Esse recurso permite comparar diretamente entradas e saídas mês a mês, visualizando a diferença percentual entre elas. A codificação por cores facilita a identificação rápida de períodos em que a empresa está gastando mais do que está ganhando, permitindo ajustes estratégicos nas finanças.
 
-Monitorar a relação entre entradas e saídas é essencial para manter a liquidez. A linha de variação ajuda você a identificar rapidamente os meses em que as saídas podem exceder as entradas, indicando possíveis problemas de fluxo de caixa. Este gráfico é fundamental na gestão de caixa do dia a dia, permitindo que você responda proativamente a possíveis déficits e otimize suas operações financeiras.
+Monitorar a relação entre entradas e saídas é crucial para manter a liquidez. A linha de variação percentual destaca os meses em que as saídas podem superar as entradas, apontando possíveis problemas de fluxo de caixa. Esse gráfico é uma ferramenta essencial para a gestão financeira diária, ajudando a agir preventivamente diante de déficits e a otimizar as operações financeiras.
