@@ -1,8 +1,8 @@
-# Painel de Contábil - Home
+# Painel de Contábil
 
 <div align="center">
-  <img src="../../assets/contabilidade_home.png" alt="Painel de Contábil - Home">
-  <h6>Imagem 1: Painel de Contábil - Home</h6>
+  <img src="../../assets/contabilidade_home.png" alt="Painel de Contábil">
+  <h6>Imagem 1: Painel de Contábil</h6>
 </div>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Contabilidade é crucial para oferecer uma visão clara e detalhada da saúde financeira de uma empresa. 
