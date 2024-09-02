@@ -21,8 +21,8 @@ Diretores, Gestores e Analistas Financeiros.
 7. [Painel Pagamentos Vencidos](./pagamentos_vencidos.md)
 8. [Painel de Recebimentos Realizados](./painel_recebimentos_realizados.md)
 9. [Painel de Pagamentos Realizados](./painel_pagamentos_realizados.md)
-10. [Visão Saldo de Contas](./saldo_contas.md)
-11. [Painel Fluxo de Caixa](./fluxo_caixa.md)
+10. [Painel Fluxo de Caixa](./fluxo_caixa.md)
+11. [Visão Saldo de Contas](./saldo_contas.md)
 
 ## Requisitos para Setup
 
