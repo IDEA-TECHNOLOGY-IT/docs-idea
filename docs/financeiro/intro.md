@@ -118,6 +118,10 @@ Este filtro permite selecionar um mês específico para análise. Ao escolher um
 <p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
 
+### Documento
+<p><img src="../../assets/flux_filtros_doc.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Para tornar os documentos mais fáceis de encontrar, há um filtro para o número do documento incluído nas páginas relevantes. Isso é útil quando há um documento específico que requer atenção e permite fácil rastreamento em diferentes áreas de processo do fluxo de caixa.
+
 ###	Limpar filtros
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para restabelecer a visualização completa dos dados e remover todos os filtros aplicados, use o botão "Limpar filtros", que está localizado no lado direito dos filtros. Este botão remove todos os critérios de filtragem, permitindo uma visão geral completa e não filtrada dos dados.
