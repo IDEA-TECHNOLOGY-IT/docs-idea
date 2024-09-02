@@ -1,7 +1,7 @@
 # Introdução ao BI Contábil
 
 <div align="center">
-  <img src="../../assets/contabilidade_home.png" alt="Contabilidade Home">
+  <img src="../../assets/contabilidade_home.png" alt="Contabilidade">
   <h6>Imagem 1: Painel de Contábil</h6>
 </div>
 
