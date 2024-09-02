@@ -15,6 +15,11 @@ Os relatórios de Fluxo de Caixa também aprimoram a precisão e a consistência
 
 Em resumo, um relatório de Fluxo de Caixa bem estruturado oferece uma visão detalhada e atualizada da saúde financeira da empresa, facilitando a tomada de decisões estratégicas, melhorando a eficiência operacional e fortalecendo a capacidade da empresa de se adaptar e prosperar em um ambiente de negócios em constante mudança.
 
+## Botão para Documentação
+
+<p><img src="../../assets/flux_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+Há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
+
 ## Barra de Menu
 
 <div align="center">
