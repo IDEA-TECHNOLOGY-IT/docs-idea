@@ -10,7 +10,7 @@ Diretores, gestores e analistas comerciais.
 
 1. [Introdução ao BI Faturamento](./intro.md)
 2. [Indicadores de Faturamento](./indicadores_faturamento.md)
-3. [Painel de Faturamento - Home](./painel_faturamento_home.md)
+3. [Painel de Faturamento](./painel_faturamento.md)
 4. [Painel Vendas](./vendas.md)
 5. [Painel Devoluções](./devolucoes.md)
 6. [Painel Faturamento Líquido](./faturamento_liquido.md)
