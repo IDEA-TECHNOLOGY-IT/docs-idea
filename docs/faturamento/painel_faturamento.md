@@ -1,4 +1,4 @@
-# Painel de Faturamento - Home
+# Painel de Faturamento
 
 !["Painel de Faturamento"](../assets/fat.png)
 <h6 align="center">Imagem 1: Painel de Faturamento</h6>
