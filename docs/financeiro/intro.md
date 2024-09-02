@@ -133,19 +133,19 @@ Para restabelecer a visualização completa dos dados e remover todos os filtros
   <h6>Imagem 4: Ícones de Cabeçalho</h6>
 </div>
 
-Quando um visual é selecionado ou o mouse passa sobre ele, ícones de cabeçalho podem aparecer no canto superior direito da janela visual. Esses ícones dependem do tipo de visual, do conteúdo do visual e das opções selecionadas em relação aos ícones de cabeçalho na criação.
+Quando um visual é selecionado ou o mouse passa sobre ele, ícones de cabeçalho aparecem no canto superior direito. Esses ícones variam conforme o tipo e o conteúdo do visual, além das opções configuradas durante a criação.
 
-Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "Ir para o próximo nível na hierarquia", que ajudam a facilitar a troca entre níveis como cliente ou projeto.
+Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "Ir para o próximo nível na hierarquia", que permitem alternar facilmente entre diferentes níveis de dados, como cliente ou projeto.
 
-Abaixo estão as opções que um usuário pode ver, o que elas significam e como usá-las.
+Abaixo estão as opções que um usuário pode visualizar, o significado de cada uma delas e como utilizá-las.
 
 ### Fazer drill on Linhas ou Colunas
 <p><img src="../../assets/flux_hi_fazer.png" alt="Fazer" style="vertical-align: middle; height: 40px;"></p>
-Isso altera o drill down para as linhas ou colunas em uma tabela, por exemplo, os cabeçalhos das colunas têm anos e meses, você pode selecionar colunas, permitindo que você faça drill up apenas para os anos, down apenas para os meses ou expanda para ver o ano e o mês como cabeçalhos de coluna. Da mesma forma, se você selecionar linhas, poderá navegar pela hierarquia das linhas.
+Isso ajusta o drill down para linhas ou colunas em uma tabela. Por exemplo, se os cabeçalhos das colunas incluem anos e meses, você pode selecionar colunas, permitindo que faça drill up para visualizar apenas os anos, drill down para ver apenas os meses, ou expandir para exibir ambos, ano e mês, como cabeçalhos de coluna. Da mesma forma, ao selecionar linhas, você pode navegar pela hierarquia das linhas, subindo ou descendo conforme necessário.
 
 ### Fazer drill up
 <p><img src="../../assets/flux_hi_up.png" alt="Up" style="vertical-align: middle; height: 40px;"></p>
-Usar o botão fazer drill up move você para cima um degrau na hierarquia. Se o visual tiver opções como cliente, origem, filial e projeto e você estiver na filial, ao clicar neste botão ele exibirá a origem.
+O botão "Fazer drill up" permite que você suba um nível na hierarquia de dados. Por exemplo, se o visual estiver detalhando informações por cliente, origem, filial e projeto, e você estiver visualizando os dados por filial, ao clicar no botão, ele exibirá os dados do nível superior, como origem.
 
 ### Clique aqui parahabilitar o Drill down
 <p><img src="../../assets/flux_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 40px;"></p>
@@ -153,13 +153,13 @@ Este botão não é necessário para nossos relatórios, ele habilita os recurso
 
 ### Ir para o próximo nível na hierarquia
 <p><img src="../../assets/flux_hi_down.png" alt="Down" style="vertical-align: middle; height: 40px;"></p>
-Há uma grande diferença entre este botão e o botão de expansão. Para este botão, você irá para o próximo nível da hierarquia. Por exemplo, se tiver uma hierarquia de cliente, origem, filial e projeto e você estiver em cliente, quando clicar neste botão, você exibirá origem no visual e não verá mais cliente. Se você tinha uma hierarquia de ano, mês e estava em ano no visual, clicar neste botão exibirá apenas o mês - sem dividi-lo por ano.
-Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Expandir todo o campo um nível abaixo ne hierarquia" nos próximos níveis.
+Este botão é diferente do botão "Expandir". Ao utilizá-lo, você avança para o próximo nível da hierarquia, substituindo completamente o nível atual. Por exemplo, se sua hierarquia for composta de cliente, origem, filial e projeto, e você estiver visualizando dados por cliente, clicar neste botão exibirá a origem, ocultando os dados por cliente. Se estiver visualizando uma hierarquia de ano e mês, clicar no botão mostrará apenas o mês, sem associá-lo ao ano. Quando no nível mais alto, clicar neste botão desativará a opção de "Expandir todo o campo um nível abaixo na hierarquia" nos níveis subsequentes.
 
 ### Expandir todo o campo um nível abaixo ne hierarquia
 <p><img src="../../assets/flux_hi_expand.png" alt="Expand" style="vertical-align: middle; height: 40px;"></p>
-Este botão habilita a expansão dos dados no visual. Em vez de mover para baixo na hierarquia, usar este botão fará com que o próximo nível apareça como subcategorias do nível acima. Por exemplo, se você tiver uma hierarquia de ano e mês e estiver no ano, ao clicar neste botão, você exibirá o ano e os meses dentro daquele ano no visual. Ou se você tivesse uma hierarquia de cliente, origem, filial e projeto e estivesse no cliente, você veria a origem exibida como subcategorias para cada cliente. 
-Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Ir para o próximo nível na hierarquia" nos próximos níveis.
+Este botão permite expandir os dados no visual sem substituir o nível atual da hierarquia. Em vez de avançar para o próximo nível, ele exibe as subcategorias dentro do nível selecionado. Por exemplo, em uma hierarquia de ano e mês, se você estiver no nível de ano e clicar neste botão, verá o ano e os meses correspondentes dentro daquele ano. Da mesma forma, em uma hierarquia de cliente, origem, filial e projeto, se estiver no nível de cliente, ao clicar, verá a origem exibida como subcategorias de cada cliente.
+
+Ao usar este botão no nível superior, a opção de "Ir para o próximo nível na hierarquia" ficará desativada para os níveis subsequentes.
 
 ### Filtros e segmentações afetando este visual
 <p><img src="../../assets/flux_hi_filtros.png" alt="Filtros" style="vertical-align: middle; height: 40px;"></p>
@@ -171,5 +171,4 @@ Abre o modo de foco, que é uma nova página com apenas o visual selecionado, da
 
 ### Mais opções
 <p><img src="../../assets/flux_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 40px;"></p>
-Este botão abre um menu com mais opções como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar.
-Nem todas essas opções estarão disponíveis em todos os visuais.
+Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar. A disponibilidade dessas opções varia de acordo com o tipo de visual selecionado e as configurações aplicadas.
