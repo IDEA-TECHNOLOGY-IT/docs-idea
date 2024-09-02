@@ -1,7 +1,7 @@
 # Introdução ao BI Faturamento
 
 <div align="center">
-  <img src="../../assets/fat.png" alt="Faturamento Home">
+  <img src="../../assets/fat.png" alt="Faturamento">
   <h6>Imagem 1: Relatório Faturamento - Painel de Faturamento</h6>
 </div>
 
