@@ -5,27 +5,23 @@
   <h6>Imagem 1: Painel de Recebimentos Realizados</h6>
 </div></p>
 
-O Prazo Médio de Recebimento (PMR) é uma métrica financeira que indica o tempo médio que uma empresa leva para receber os pagamentos de suas vendas a prazo. Esse indicador é essencial para a gestão do fluxo de caixa, pois ajuda a empresa a entender quanto tempo, em média, os seus clientes demoram para quitar suas obrigações financeiras.
+O Painel de Recebimentos Realizados oferece uma visão abrangente e detalhada das transações financeiras de entrada realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos recebimentos. Neste painel, você encontrará informações sobre o Prazo Médio de Recebimento (PMR) bem como detalhes das transações concluídas.
 
-No contexto empresarial, o PMR é calculado dividindo-se o valor das contas a receber pelo total de vendas a prazo realizadas em um determinado período, multiplicado por um determinado número de dias (geralmente 360 ou 365 dias). O resultado fornece uma estimativa do tempo médio que a empresa precisa esperar para converter suas vendas a prazo em dinheiro.
+##Prazo Médio de Recebimento (PMR)
 
-Uma gestão eficiente do Prazo Médio de Recebimento é crucial para manter a liquidez da empresa e garantir que ela tenha recursos suficientes para cumprir suas próprias obrigações financeiras. Monitorar o PMR permite à empresa identificar possíveis problemas de inadimplência e ajustar suas políticas de crédito e cobrança para melhorar o fluxo de caixa. Manter o PMR em níveis saudáveis também contribui para a estabilidade financeira do negócio, permitindo que a empresa opere de maneira sustentável e mantenha um bom relacionamento com seus clientes.
+O prazo médio de recebimento (PMR) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para receber os pagamentos de seus clientes. Calculamos o tempo, em dias, desde a emissão do documento até o recebimento de cada transação, somamos esses dias e depois dividimos pela quantidade de transações que foram concluídas. Esse cálculo é aplicado a diferentes áreas do negócio, como clientes ou projetos. Esse indicador é crucial para a gestão financeira, pois permite monitorar a eficiência na cobrança, manter o equilíbrio entre entradas e saídas de recursos, e evitar contratempos que podem impactar o fluxo de caixa e a saúde financeira da empresa.
 
-A fórmula para calcular o Prazo Médio de Recebimento (PMR) é:
+Alguns dos benefícios de analisar o PMR são:
 
-**PMR = _(Contas a Receber / Vendas a Prazo) × Número de Dias_**
+**Gestão do Fluxo de Caixa:** O PMR permite que a empresa compreenda quanto tempo, em média, demora para converter suas vendas em dinheiro disponível. Um PMR mais curto pode indicar uma entrada de caixa mais rápida, o que é benéfico para manter a liquidez da empresa.
 
-**Onde:**
-- **Contas a Receber**: O valor total das vendas a prazo que ainda não foram recebidas pela empresa.
-- **Vendas a Prazo**: O total de vendas realizadas a prazo em um determinado período.
-- **Número de Dias**: O período de tempo considerado para o cálculo, geralmente 360 ou 365 dias.
+**Negociação com Clientes:** Ao monitorar o PMR, a empresa pode negociar melhores condições de pagamento com seus clientes, buscando equilibrar a entrada de caixa com a competitividade das condições de venda oferecidas.
 
-**Exemplo:**
-Se uma empresa tem _R$ 100.000_ em contas a receber e realizou _R$ 1.000.000_ em vendas a prazo no período de um ano (365 dias), o cálculo do PMR seria:
+**Avaliação da Saúde Financeira:** O PMR reflete a saúde financeira da empresa. Um prazo muito longo pode indicar dificuldades em receber, o que pode comprometer o fluxo de caixa, enquanto um prazo muito curto pode indicar eficiência na cobrança, mas também possíveis pressões sobre os clientes.
 
-**PMR = _(100.000 / 1.000.000) × 365 = 36,5 dias_**
+**Análise Comparativa:** Empresas utilizam o PMR para comparar sua eficiência de recebimento com outras empresas do mesmo setor, ajudando a identificar se estão dentro das práticas comuns de mercado ou se são necessários ajustes.
 
-Isso significa que, em média, a empresa leva 36,5 dias para receber o pagamento de suas vendas a prazo.
+**Tomada de Decisões Financeiras:** Com base no PMR, o gestor financeiro pode tomar decisões estratégicas sobre a melhor alocação de recursos, planejando recebimentos de forma a otimizar o uso do caixa e assegurar que a empresa mantenha uma posição financeira saudável.
 
 ## PMR x Cliente ou Origem
 
