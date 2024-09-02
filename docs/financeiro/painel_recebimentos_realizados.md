@@ -7,7 +7,7 @@
 
 O Painel de Recebimentos Realizados oferece uma visão abrangente e detalhada das transações financeiras de entrada realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos recebimentos. Neste painel, você encontrará informações sobre o Prazo Médio de Recebimento (PMR) bem como detalhes das transações concluídas.
 
-##Prazo Médio de Recebimento (PMR)
+## Prazo Médio de Recebimento (PMR)
 
 O prazo médio de recebimento (PMR) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para receber os pagamentos de seus clientes. Calculamos o tempo, em dias, desde a emissão do documento até o recebimento de cada transação, somamos esses dias e depois dividimos pela quantidade de transações que foram concluídas. Esse cálculo é aplicado a diferentes áreas do negócio, como clientes ou projetos. Esse indicador é crucial para a gestão financeira, pois permite monitorar a eficiência na cobrança, manter o equilíbrio entre entradas e saídas de recursos, e evitar contratempos que podem impactar o fluxo de caixa e a saúde financeira da empresa.
 
