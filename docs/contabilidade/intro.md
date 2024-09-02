@@ -143,7 +143,7 @@ Usar o botão fazer drill up move você para cima um degrau na hierarquia. Se o 
 Este botão não é necessário para nossos relatórios, ele habilita os recursos de detalhamento, mas eles são predefinidos na criação.
 
 ### Ir para o próximo nível na hierarquia
-<p><img src="../../assets/con_hi_down.png" alt="Donw" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/con_hi_down.png" alt="Down" style="vertical-align: middle; height: 40px;"></p>
 Há uma grande diferença entre este botão e o botão de expansão. Para este botão, você irá para o próximo nível da hierarquia. Por exemplo, se tiver uma hierarquia de cliente, origem, filial e projeto e você estiver em cliente, quando clicar neste botão, você exibirá origem no visual e não verá mais cliente. Se você tinha uma hierarquia de ano, mês e estava em ano no visual, clicar neste botão exibirá apenas o mês - sem dividi-lo por ano.
 Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Expandir todo o campo um nível abaixo ne hierarquia" nos próximos níveis.
 
