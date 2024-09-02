@@ -30,23 +30,18 @@ Alguns dos benefícios de analisar o PMR são:
   <h6>Imagem 2: PMR x Cliente ou Origem</h6>
 </div></p>
 
-Este gráfico oferece uma análise detalhada do Prazo Médio de Recebimento (PMR) por Cliente ou Origem. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Cliente ou Origem, para obter uma visão mais específica ou mais agregada dos prazos de recebimento. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
+Esse gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes clientes ou origens das transações de entrada da empresa. Ele oferece uma visão clara de como os tempos de recebimento variam conforme o cliente ou a origem específica dos recebimentos, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMR para cada cliente ou origem, mostrando o número médio de dias que a empresa leva para receber seus pagamentos de cada cliente ou em cada categoria de origem.
 
-### Nível 1: Cliente
-**Descrição**: No nível de Cliente, o gráfico exibe o PMR de cada cliente específico. Cada barra representa um cliente e mostra o tempo médio (em dias) que aquele cliente leva para pagar suas obrigações à empresa.
+Analisar o PMR por cliente é crucial para entender as diferenças nas práticas de pagamento entre os diversos clientes com os quais a empresa trabalha. Diferentes clientes podem ter condições de pagamento distintas, e a forma como a empresa gere esses prazos pode influenciar diretamente seu fluxo de caixa e a relação comercial. Ao identificar essas variações, a empresa pode negociar melhores prazos, priorizar cobranças estratégicas e melhorar o gerenciamento do capital de giro.
 
-**Interpretação**: Este nível permite identificar quais clientes têm os prazos de pagamento mais longos, o que pode indicar a necessidade de revisar as condições de crédito ou implementar políticas de cobrança mais rígidas para esses clientes.
+Além disso, visualizar o PMR por origem permite avaliar como diferentes categorias de receitas ou origens de recebimento afetam a liquidez e o cumprimento das obrigações financeiras. Certas origens, como vendas de produtos, prestação de serviços ou investimentos, podem ter cronogramas de recebimento únicos que impactam o fluxo de caixa de maneiras distintas. Compreender essas diferenças ajuda a empresa a alinhar suas práticas de recebimento com suas metas financeiras, garantindo uma gestão mais eficiente dos recursos e evitando pressões desnecessárias no caixa.
 
-### Nível 2: Origem
-**Descrição**: No nível de Origem, o gráfico classifica o PMR de acordo com a origem das vendas ou transações, como vendas específicas, contratos, ou outros tipos de receitas.
-
-**Interpretação**: A análise por Origem ajuda a identificar quais tipos de transações ou origens têm os prazos de recebimento mais longos, permitindo à empresa ajustar suas estratégias de venda e cobrança para melhorar o fluxo de caixa.
-
-### Navegação Entre os Níveis
-A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
-
-- **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
-- **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
 
 ## PMR x Filial ou Projeto
 
@@ -55,23 +50,18 @@ A ferramenta de BI permite que você navegue facilmente entre os diferentes nív
   <h6>Imagem 3: PMR x Filial ou Projeto</h6>
 </div></p>
 
-Este gráfico oferece uma análise detalhada do Prazo Médio de Recebimento (PMR) por Filial ou Projeto. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Filial ou Projeto, para obter uma visão mais específica ou mais agregada dos prazos de recebimento. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
+Esse gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de recebimento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMR para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para receber seus pagamentos.
 
-### Nível 1: Filial
-**Descrição**: No nível de Filial, o gráfico exibe o PMR de cada filial específica da empresa. Cada barra representa uma filial e mostra o tempo médio (em dias) que aquela unidade leva para receber os pagamentos das vendas realizadas.
+Analisar o PMR por filial é fundamental para entender as diferenças nas práticas de recebimento em várias regiões ou unidades operacionais. Diferentes filiais podem enfrentar condições de mercado distintas, negociar prazos de pagamento diferentes com clientes ou ter processos internos variados que influenciam o tempo de recebimento. Ao identificar essas variações, a empresa pode padronizar práticas eficazes em todas as filiais, acelerar o ciclo de recebimento e melhorar o fluxo de caixa, assegurando uma entrada de recursos mais previsível.
 
-**Interpretação**: Este nível permite identificar quais filiais têm os prazos de recebimento mais longos, ajudando a gestão a focar em melhorar as políticas de cobrança e crédito nessas unidades para otimizar o fluxo de caixa.
+Além disso, visualizar o PMR por projeto permite avaliar como as condições específicas de cada iniciativa impactam a liquidez e o fluxo de recebimentos. Projetos de diferentes naturezas, como construção, tecnologia ou pesquisa, podem ter cronogramas de recebimento variados, influenciados pelo ciclo de vida do projeto ou pela natureza dos contratos envolvidos. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de cobrança, garantir que os projetos sejam financiados de forma adequada e evitar impactos negativos no fluxo de caixa geral da empresa.
 
-### Nível 2: Projeto
-**Descrição**: No nível de Projeto, o gráfico classifica o PMR de acordo com os diferentes projetos em que a empresa está envolvida. Cada barra representa um projeto específico e mostra o tempo médio que se leva para receber os pagamentos relacionados a esse projeto.
-
-**Interpretação**: A análise por Projeto ajuda a identificar quais projetos apresentam desafios em termos de prazos de recebimento, permitindo ajustes nas estratégias de gerenciamento de projetos e fluxo de caixa.
-
-### Navegação Entre os Níveis
-A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
-
-- **Para ir para o próximo nível de hierarquia**: Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Filial para Projeto).
-- **Para retornar ao nível anterior**: Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui você pode mover para cima ou para baixo entre Filial ou Projeto para analisar a área necessária.
 
 ## A Receber por Data
 
