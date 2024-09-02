@@ -173,6 +173,7 @@ Prazo Médio de Recebimento (PMR) indica o tempo médio que a empresa leva para 
 
 Botão "Mais indicadores", quando clicado, este botão leva o usuário à página de Indicadores. Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
 Na página de "Indicadores", você pode encontrar os seguintes indicadores:
+
 - **CMV - Custo da Mercadoria Vendida (%)**
 - **Devoluções (%)**
 - **Margem de Lucro (%)**
