@@ -15,6 +15,11 @@ Os relatórios de BI também melhoram a precisão e a consistência das informa�
 
 Em resumo, um relatório de BI bem estruturado não apenas fornece uma visão detalhada e atualizada da saúde financeira da empresa, mas também facilita a tomada de decisões estratégicas, melhora a eficiência operacional e fortalece a capacidade da empresa de se adaptar e prosperar em um ambiente de negócios em constante mudança.
 
+## Botão para Documentação
+
+<p><img src="../../assets/con_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+Há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
+
 ## Barra de Menu
 
 <div align="center">
