@@ -135,7 +135,7 @@ nav:
     - faturamento/ficha_tecnica.md
     - faturamento/intro.md
     - faturamento/indicadores_faturamento.md
-    - faturamento/painel_faturamento_home.md
+    - faturamento/painel_faturamento.md
     - faturamento/vendas.md
     - faturamento/devolucoes.md
     - faturamento/faturamento_liquido.md
@@ -146,7 +146,7 @@ nav:
     - financeiro/ficha_tecnica.md
     - financeiro/intro.md
     - financeiro/indicadores_caixas.md
-    - financeiro/painel_financeiro_home.md
+    - financeiro/painel_financeiro.md
     - financeiro/contas_a_receber.md
     - financeiro/contas_a_pagar.md
     - financeiro/inadimplencia.md
@@ -159,7 +159,7 @@ nav:
     - contabilidade/ficha_tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_contabeis.md
-    - contabilidade/painel_contabil_home.md
+    - contabilidade/painel_contabil.md
     - contabilidade/receita_bruta.md
     - contabilidade/custos_e_despesas.md
     - contabilidade/lucro_liquido.md
