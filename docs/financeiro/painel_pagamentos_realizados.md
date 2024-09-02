@@ -74,3 +74,36 @@ O Gráfico PMP x Filial ou Projeto é crucial para empresas com operações em v
   <img src="../../assets/flux_pmp_tabela.png" alt="PMP Tabela">
   <h6>Imagem 4: Pagamento por Data</h6>
 </div></p>
+
+Este gráfico exibe uma tabela detalhada dos pagamentos, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada pagamento realizado, desde o fornecedor até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada despesa, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos pagamentos. Com esta estrutura, a empresa pode monitorar detalhadamente os pagamentos efetuados, identificar padrões de despesas e tomar decisões informadas para gerenciar o fluxo de caixa, garantindo que a saúde financeira da empresa seja mantida. A seguir, explicamos como interpretar cada coluna da tabela.
+
+Esta tabela é essencial quando se busca detalhes sobre pagamentos específicos. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros).
+
+### Cliente
+Esta coluna identifica o cliente específico que tem um valor a pagar, permitindo que você veja claramente quem são os devedores.
+### Origem
+A origem da fatura, como "INSS Retido" ou "Serviço Instalações", é indicada nesta coluna. Isso ajuda a entender a natureza da dívida e a sua fonte dentro das operações da empresa.
+### Nº LCM
+Esta coluna mostram o número do lançamento contábil relacionado à fatura. Elas são úteis para rastrear documentos específicos e reconciliar com registros contábeis.
+### Doc.
+O número do documento associado à fatura encontra-se aqui. Este é o número mais comumente usado ao pesquisar a transação no banco de dados.
+### Data de Criação
+Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
+### Data de Venc.
+Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
+### Data do Recebimento
+Esta é a data em que o pagamento do documento foi feito.
+### Dias do Recebimento
+Para ver quanto tempo levou para o pagamento ser feito, esta coluna mostra a diferença em dias entre a data de criação e a data do pagamento.
+### Valor
+Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
+### Filial
+Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos pagáveis.
+### Projeto
+Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
+### Status
+O status da fatura que é "Realizado" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/)
+### Processo
+Indica o processo associado ao recebimento, como "Pagamento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
+### Pesquisa de Documentos
+Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado recebível.
