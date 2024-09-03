@@ -41,7 +41,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
   <h6>Imagem 3: A Pagar X Favorecido, Origem, Filial ou Projeto</h6>
 </div></p>
 
-Um gráfico de barras que divide os pagáveis por favorecido, origem, filial ou projeto também oferece vantagens significativas para a gestão e análise da saúde financeira da sua empresa. Esse gráfico fornece uma visão clara e rápida de quais favorecido, origem, filial ou projeto têm os maiores montantes a pagar, permitindo que a gestão identifique facilmente onde estão as principais obrigações financeiras. Essa visualização facilita a priorização dos pagamentos, garantindo que as obrigações mais críticas sejam atendidas primeiro, o que é essencial para evitar inadimplências e manter boas relações com favorecidos.
+Um gráfico de barras que divide os pagáveis por favorecido, origem, filial ou projeto também oferece vantagens significativas para a gestão e análise da saúde financeira da empresa. Esse gráfico fornece uma visão clara e rápida de quais favorecido, origem, filial ou projeto têm os maiores montantes a pagar, permitindo que a gestão identifique facilmente onde estão as principais obrigações financeiras. Essa visualização facilita a priorização dos pagamentos, garantindo que as obrigações mais críticas sejam atendidas primeiro, o que é essencial para evitar inadimplências e manter boas relações com favorecidos.
 
 Além disso, o gráfico ajuda a identificar concentrações de risco, como grandes montantes devidos a um favorecido ou conta específica, o que pode indicar uma dependência excessiva e um potencial risco financeiro. Ao entender essa concentração, a empresa pode ajustar seu planejamento financeiro, como negociar prazos de pagamento mais favoráveis ou buscar diversificação de favorecidos para reduzir riscos. O gráfico também auxilia no monitoramento do desempenho financeiro das contas e filials envolvidas, fornecendo insights sobre onde os maiores custos estão sendo gerados e permitindo uma gestão mais eficaz dos recursos.
 
@@ -52,7 +52,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto para analisar a área necessária.
+Aqui, você pode navegar para cima ou para baixo entre Favorecido, Origem, Filial ou Projeto, facilitando a análise detalhada da área de interesse.
 
 ## A Pagar por Data
 
