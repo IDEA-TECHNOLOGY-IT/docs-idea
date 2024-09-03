@@ -11,7 +11,7 @@ O Painel de Pagamentos Realizados oferece uma visão abrangente e detalhada das 
 
 O prazo médio de pagamento (PMP) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para liquidar suas obrigações com fornecedores. Calculamos o tempo, em dias, desde a criação do documento até o pagamento de cada transação, somamos esses dias e depois dividimos pela quantidade de transações que foram feitas. Esse cálculo é aplicado a diferentes áreas do negócio, como clientes ou projetos. Esse indicador é crucial para a gestão financeira, pois permite monitorar o desempenho financeiro da empresa, manter o equilíbrio entre entradas e saídas de recursos e evitar contratempos que podem afetar as negociações e a reputação da empresa no mercado.
 
-Alguns dos benefícios de analisar o PMP são;
+Alguns dos benefícios de analisar o PMP são:
 
 **Gestão do Fluxo de Caixa:** O PMP permite que a empresa compreenda quanto tempo, em média, mantém o dinheiro em caixa antes de pagar seus fornecedores. Um PMP mais longo pode indicar maior retenção de caixa, o que pode ser benéfico para o fluxo de caixa, mas também pode impactar negativamente o relacionamento com fornecedores.
 
@@ -41,7 +41,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Favorecido ou Origem para analisar a área necessária.
+Aqui, você pode navegar entre Favorecido e Origem para categorizar as áreas de interesse.
 
 ## PMP x Filial ou Projeto
 
@@ -61,7 +61,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Filial ou Projeto para analisar a área necessária.
+Aqui, você pode mover para cima ou para baixo para navegar entre Filiais ou Projetos para analisar a área necessária.
 
 ## Pagamento por Data
 
