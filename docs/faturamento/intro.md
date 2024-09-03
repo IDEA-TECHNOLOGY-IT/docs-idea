@@ -27,7 +27,7 @@ Há um botão em cada painel do relatório que está vinculado à documentação
   <h6>Imagem 2: Barra de Menu</h6>
 </div>
 
-A barra de menu é um recurso de navegação localizado no lado esquerdo de todas as páginas do relatório, fornecendo acesso fácil a várias seções e páginas detalhadas do relatório. Ela ajuda os usuários a navegarem de forma eficiente entre diferentes áreas de análise e insights dos dados. O botão da página atual ficará destacado (mostrado abaixo).
+A barra de menu, situada no lado esquerdo de todas as páginas do relatório, é uma ferramenta de navegação essencial que oferece acesso direto às diversas seções e páginas do relatório. Ela facilita a movimentação entre diferentes áreas de análise e insights dos dados. O botão correspondente à página atual estará destacado, facilitando a identificação da sua localização no relatório.
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
@@ -35,8 +35,7 @@ Aqui está uma visão geral dos botões disponíveis na barra de menu:
 <p><img src="../../assets/fat_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada [Painel de Faturamento](./painel_faturamento_home.md). É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
-
+Este botão redireciona os usuários para a página principal, chamada [Painel de Faturamento](./painel_faturamento_home.md). Esta página serve como o ponto central de partida, oferecendo uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
 ### Botão Faturamento
 <p><img src="../../assets/fat_button_fat1.png" alt="fat1" style="vertical-align: middle; width: 60px; height: 50px;">
@@ -48,25 +47,25 @@ Clicar neste botão direciona os usuários para a página intitulada [Faturament
 <p><img src="../../assets/fat_button_vendas1.png" alt="vendas1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_vendas2.png" alt="vendas2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada [Vendas](./vendas.md). Aqui, os usuários podem visualizar e analisar as vendas realizadas pela empresa, auxiliando na compreensão dos resultados e no planejamento estratégico.
+Este botão direciona os usuários para a página chamada [Vendas](./vendas.md), onde é possível visualizar e analisar as vendas realizadas pela empresa. Esta seção fornece insights detalhados sobre o desempenho das vendas, auxiliando na compreensão dos resultados e no planejamento estratégico.
   
 ###  Botão Devoluções
 <p><img src="../../assets/fat_button_dev1.png" alt="dev1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_dev2.png" alt="dev2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão leva os usuários à página intitulada [Devoluções](./devolucoes.md). Aqui, os usuários podem visualizar e analisar as devoluções realizadas pela empresa, ajudando a entender os padrões de retorno e a melhorar a gestão de produtos e o atendimento ao cliente.
+Selecionar este botão leva os usuários à página [Devoluções](./devolucoes.md). Aqui, os usuários podem visualizar e analisar as devoluções realizadas pela empresa, ajudando a entender os padrões de retorno e a melhorar a gestão de produtos e o atendimento ao cliente.
   
 ### Botão CMV (Custo da Mercadoria Vendida)
 <p><img src="../../assets/fat_button_cmv1.png" alt="cmv1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_cmv2.png" alt="cmv2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona para a página intitulada [CMV (Custo da Mercadoria Vendida)](./cmv.md). Aqui, os usuários podem visualizar e analisar o custo associado às mercadorias vendidas pela empresa, fornecendo insights cruciais para a gestão de margem de lucro e a eficiência operacional.
+Este botão leva os usuários à página [CMV (Custo da Mercadoria Vendida)](./cmv.md), onde é possível explorar e analisar os custos associados às mercadorias vendidas pela empresa. Esta seção fornece informações valiosas para a gestão da margem de lucro e a otimização da eficiência operacional, ajudando a entender e controlar os custos envolvidos na produção e comercialização dos produtos.
   
 ### Botão Itens
 <p><img src="../../assets/fat_button_itens1.png" alt="itens1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_itens2.png" alt="itens2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada [Itens](./itens.md), onde os usuários podem visualizar informações como: quantidade de itens vendidos, tíquete médio, itens mais vendidos e com maior receita e maior preço médio de venda, tudo por item.
+Clicar neste botão abre a página denominada [Itens](./itens.md), onde os usuários podem visualizar informações como: quantidade de itens vendidos, tíquete médio, itens mais vendidos e com maior receita e maior preço médio de venda, tudo por item.
   
 ### Botão Indicadores
 <p><img src="../../assets/fat_button_ind1.png" alt="ind1" style="vertical-align: middle; width: 60px; height: 50px;">
@@ -96,7 +95,7 @@ Os filtros, são ferramentas cruciais que permitem filtrar todos os visuais pres
 
 Ao ajustar qualquer um dos filtros, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
 
-Os filtros são feitos a partir dos dados da empresa, ou seja, você pode filtrar por áreas específicas como projeto ou filial. Por exemplo, se você quiser ver os números de um projeto chamado “Novo Edifício”, basta selecioná-lo no slicer e o filtro será aplicado. Agora você pode ver todos os dados relacionados a este projeto em cada página do relatório.
+Os filtros são baseados nos dados da empresa e permitem a filtragem por áreas específicas, como projeto ou filial. Por exemplo, ao selecionar um projeto chamado “Novo Edifício” no filtro, ele será aplicado a todas as páginas do relatório, mostrando apenas os dados relacionados a esse projeto. Isso facilita a visualização e análise detalhada das informações pertinentes ao projeto escolhido.
 
 ###	Filial Consolidadora
 <p><img src="../../assets/fat_filtros_cons.png" alt="Filial Cons" style="vertical-align: middle; height: 50px;"></p>
@@ -124,7 +123,7 @@ Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher 
 
 ###	Limpar filtros
 <p><img src="../../assets/fat_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
-Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
+Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, clique no botão "Limpar filtros" situado à direita dos filtros. Isso eliminará todos os filtros ativos, permitindo uma visão geral completa e abrangente dos dados.
 
 ## Ícones de Cabeçalho
 
@@ -133,9 +132,9 @@ Para limpar todos os filtros aplicados e retornar à visualização completa dos
   <h6>Imagem 4: Ícones de Cabeçalho</h6>
 </div>
 
-Quando um visual é selecionado ou o mouse passa sobre ele, ícones de cabeçalho podem aparecer no canto superior direito da janela visual. Esses ícones dependem do tipo de visual, do conteúdo do visual e das opções selecionadas em relação aos ícones de cabeçalho na criação.
+Quando você seleciona um visual ou passa o mouse sobre ele, ícones de cabeçalho podem aparecer no canto superior direito. A presença e o tipo desses ícones variam conforme o tipo e o conteúdo do visual, além das opções configuradas durante a criação.
 
-Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "Ir para o próximo nível na hierarquia", que ajudam a facilitar a troca entre níveis como cliente ou projeto.
+No nosso relatório, os ícones mais úteis são "drill down" e "drill up". Esses ícones facilitam a navegação entre diferentes níveis de detalhes, como cliente ou projeto, proporcionando uma análise mais aprofundada e eficiente dos dados.
 
 Abaixo estão as opções que um usuário pode ver, o que elas significam e como usá-las.
 
@@ -145,9 +144,9 @@ Isso altera o drill down para as linhas ou colunas em uma tabela, por exemplo, o
 
 ### Fazer drill up
 <p><img src="../../assets/fat_hi_up.png" alt="Up" style="vertical-align: middle; height: 40px;"></p>
-Usar o botão fazer drill up move você para cima um degrau na hierarquia. Se o visual tiver opções como cliente, origem, filial e projeto e você estiver na filial, ao clicar neste botão ele exibirá a origem.
+O botão "drill up" permite que você suba um nível na hierarquia do visual. Por exemplo, se você estiver visualizando dados detalhados por filial e clicar neste botão, o visual exibirá o nível imediatamente superior, que neste caso seria a origem. Isso ajuda a obter uma visão mais ampla e consolidada dos dados.
 
-### Clique aqui parahabilitar o Drill down
+### Clique aqui para habilitar o Drill down
 <p><img src="../../assets/fat_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 40px;"></p>
 Este botão não é necessário para nossos relatórios, ele habilita os recursos de detalhamento, mas eles são predefinidos na criação.
 
