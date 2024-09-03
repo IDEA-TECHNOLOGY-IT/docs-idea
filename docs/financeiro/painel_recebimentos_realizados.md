@@ -41,7 +41,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
+Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
 
 ## PMR x Filial ou Projeto
 
@@ -50,9 +50,9 @@ Aqui você pode mover para cima ou para baixo entre Cliente ou Origem para anali
   <h6>Imagem 3: PMR x Filial ou Projeto</h6>
 </div></p>
 
-Esse gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de recebimento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMR para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para receber seus pagamentos.
+Este gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes filiais ou projetos da empresa, oferecendo uma visão clara das variações nos tempos de recebimento conforme a localização ou iniciativa específica. As barras representam o número médio de dias que cada filial ou projeto leva para receber seus pagamentos, destacando oportunidades de otimização na gestão financeira.
 
-Analisar o PMR por filial é fundamental para entender as diferenças nas práticas de recebimento em várias regiões ou unidades operacionais. Diferentes filiais podem enfrentar condições de mercado distintas, negociar prazos de pagamento diferentes com clientes ou ter processos internos variados que influenciam o tempo de recebimento. Ao identificar essas variações, a empresa pode padronizar práticas eficazes em todas as filiais, acelerar o ciclo de recebimento e melhorar o fluxo de caixa, assegurando uma entrada de recursos mais previsível.
+Analisar o PMR por filial ou projeto é essencial para entender as diferenças nas práticas de recebimento em várias regiões ou unidades operacionais. Filiais podem enfrentar condições de mercado diversas, negociar prazos de pagamento diferentes com clientes ou adotar processos internos variados, que influenciam diretamente o tempo de recebimento. Ao identificar essas disparidades, a empresa pode padronizar práticas eficazes, acelerar o ciclo de recebimento e melhorar o fluxo de caixa, assegurando uma entrada de recursos mais previsível e consistente.
 
 Além disso, visualizar o PMR por projeto permite avaliar como as condições específicas de cada iniciativa impactam a liquidez e o fluxo de recebimentos. Projetos de diferentes naturezas, como construção, tecnologia ou pesquisa, podem ter cronogramas de recebimento variados, influenciados pelo ciclo de vida do projeto ou pela natureza dos contratos envolvidos. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de cobrança, garantir que os projetos sejam financiados de forma adequada e evitar impactos negativos no fluxo de caixa geral da empresa.
 
@@ -61,7 +61,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui você pode mover para cima ou para baixo entre Filial ou Projeto para analisar a área necessária.
+Aqui, você pode mover para cima ou para baixo entre Filial ou Projeto para analisar a área necessária.
 
 ## A Receber por Data
 
@@ -72,7 +72,7 @@ Aqui você pode mover para cima ou para baixo entre Filial ou Projeto para anali
 
 Este gráfico exibe uma tabela detalhada dos recebimentos, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada pagamento recebido, desde o cliente até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada valor recebido, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos recebíveis. Com esta estrutura, a empresa pode monitorar detalhadamente os pagamentos realizados, identificar padrões de recebimento e tomar decisões informadas para otimizar o fluxo de caixa, garantindo que a saúde financeira da empresa seja mantida. A seguir, explicamos como interpretar cada coluna da tabela.
 
-Esta tabela é essencial quando se busca detalhes sobre recebimentos específicos. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros).
+Esta tabela é fundamental para obter detalhes precisos sobre recebimentos específicos. É possível aplicar diversos [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) para refinar os dados exibidos, permitindo uma análise mais direcionada e personalizada conforme as necessidades.
 
 ### Cliente
 Esta coluna identifica o cliente específico que tem um valor a pagar, permitindo que você veja claramente quem são os devedores.
