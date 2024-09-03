@@ -5,13 +5,13 @@
   <h6>Imagem 1: Indicadores Faturamento</h6>
 </div>
 
-Em cada página do nosso relatório no Power BI, você encontrará caixas de indicadores posicionadas de forma proeminente no topo. Essas caixas não são apenas marcadores; elas são ferramentas vitais projetadas para aprimorar sua experiência de relatório ao exibir de maneira consistente valores-chave que são centrais para a análise de cada página. As informações fornecidas nessas caixas de indicadores servem como uma referência rápida, garantindo que você possa acompanhar os dados críticos sem precisar navegar para frente e para trás entre as diferentes páginas do relatório.
+Em cada página do nosso relatório no Power BI, você encontrará indicadores destacados no topo, projetados para melhorar sua experiência de análise. Esses indicadores exibem consistentemente os "valores-chave" essenciais para cada seção do relatório, oferecendo uma referência rápida e facilitando a compreensão dos dados críticos sem a necessidade de alternar entre diferentes páginas.
 
-Uma das grandes vantagens dessas caixas de indicadores é a sua consistência. Os valores exibidos permanecem uniformes ao longo do relatório, permitindo um fluxo contínuo de informações à medida que você avança por diferentes seções. Essa consistência significa que, independentemente da página em que você esteja, você sempre terá acesso aos mesmos pontos de dados essenciais, facilitando a manutenção de uma visão clara das principais métricas do relatório. Esse recurso é particularmente útil ao realizar análises detalhadas, pois elimina a necessidade de se reorientar constantemente com os dados.
+Uma das principais vantagens desses indicadores é a sua consistência. Os valores exibidos são uniformes em todo o relatório, proporcionando uma visão contínua das principais métricas. Independentemente da página em que você se encontra, os dados essenciais permanecem acessíveis, permitindo uma análise mais fluida e eficiente. Isso é especialmente útil ao realizar análises detalhadas, pois elimina a necessidade de reorientação constante com os dados.
 
-Além disso, os valores apresentados nessas caixas de indicadores estão dinamicamente vinculados aos filtros aplicados no relatório. Essa integração garante que, à medida que você aplica diferentes filtros para refinar sua análise, os valores nas caixas de indicadores serão ajustados automaticamente para refletir os dados filtrados. Essa interação dinâmica torna sua análise não apenas mais eficiente, mas também mais precisa, pois as caixas de indicadores fornecem uma visão instantânea dos dados filtrados. Seja analisando dados em diferentes períodos, regiões ou outras dimensões, essas caixas ajudam a simplificar o processo, oferecendo uma visão clara e concisa de como seus filtros impactam os dados gerais.
+Além disso, os indicadores são dinamicamente ajustados conforme os filtros aplicados ao relatório. À medida que você refina sua análise usando diferentes filtros, os valores nos indicadores são automaticamente atualizados para refletir os dados filtrados. Essa integração dinâmica não só torna a análise mais eficiente, mas também mais precisa, oferecendo uma visão clara de como os filtros impactam os dados gerais. Seja examinando períodos, regiões ou outras dimensões, esses indicadores ajudam a simplificar o processo, proporcionando uma visão concisa e imediata dos dados filtrados.
 
-Em resumo, as caixas de indicadores no topo de cada página do relatório no Power BI são essenciais para manter a continuidade e clareza ao longo da sua análise. Elas fornecem métricas consistentes e sensíveis aos filtros que simplificam a capacidade de acompanhar e comparar os principais números em todo o relatório, aprimorando sua experiência analítica geral.
+Em resumo, os indicadores no topo de cada página do relatório no Power BI são fundamentais para manter a clareza e a continuidade da análise. Eles fornecem métricas consistentes e sensíveis aos filtros, facilitando a comparação e o acompanhamento das principais métricas ao longo de todo o relatório, e aprimorando a experiência analítica geral.
 
 ## Caixa de Mês Fechado
 
@@ -22,19 +22,19 @@ Em resumo, as caixas de indicadores no topo de cada página do relatório no Pow
 
 ### Faturamento Mês Fechado
 
-O valor Mês Fechado, que representa a receita do mês mais recentemente concluído, é crucial para uma avaliação financeira precisa e tomada de decisão informada. Ele oferece um instantâneo claro das vendas reais, livre de dados parciais, permitindo uma análise de tendências confiável e comparação com metas. Essa métrica é vital para comparar o desempenho ao longo do tempo, orientar o orçamento e a alocação de recursos e garantir que os relatórios financeiros para as partes interessadas sejam baseados nas informações mais atuais e precisas, apoiando, em última análise, uma melhor gestão financeira e planejamento estratégico.
+O valor "Mês Fechado", que representa a receita do mês mais recentemente concluído, é fundamental para uma avaliação financeira precisa e para decisões informadas. Ele fornece uma visão clara das vendas reais, sem dados parciais, permitindo uma análise confiável das tendências e uma comparação eficaz com as metas estabelecidas. Esta métrica é essencial para avaliar o desempenho ao longo do tempo, orientar o orçamento e alocar recursos de forma eficiente. Além disso, garante que os relatórios financeiros para as partes interessadas sejam baseados nas informações mais recentes e precisas, promovendo uma gestão financeira mais robusta e um planejamento estratégico mais eficaz.
 
 ### Mês Fechado Ano Anterior
 
-O valor Mês Fechado Ano Anterior (Ano Ant.) representa a receita do mesmo mês no ano anterior e serve como uma referência crítica para avaliar o desempenho ano a ano. Ao comparar esse valor com o atual "Mês Fechado", as empresas podem avaliar o crescimento ou declínio na receita, identificar tendências sazonais e medir o impacto de decisões estratégicas ao longo do tempo. Essa comparação é essencial para entender a dinâmica do mercado, definir metas futuras realistas e tomar decisões informadas para melhorar o desempenho financeiro e a competitividade.
+O valor "Mês Fechado Ano Anterior (Ano Ant.)" representa a receita do mesmo mês no ano anterior e serve como uma referência crítica para avaliar o desempenho ano a ano. Ao comparar esse valor com o atual "Mês Fechado", as empresas podem avaliar o crescimento ou declínio na receita, identificar tendências sazonais e medir o impacto de decisões estratégicas ao longo do tempo. Essa comparação é essencial para entender a dinâmica do mercado, definir metas futuras realistas e tomar decisões informadas para melhorar o desempenho financeiro e a competitividade.
 
 ### Mês Fechado Mês Anterior
 
-O valor Mês Fechado Mês Anterior (Mês-2) representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
+O valor "Mês Fechado Mês Anterior (Mês-2)" representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Faturamento. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Faturamento), o botão "Ver Mais" não é visível, e o cartão é destacado.
+O botão "Ver mais" direciona o usuário para a página de Faturamento. Se o usuário já estiver na página de Faturamento, o botão "Ver mais" não será exibido e o cartão correspondente será destacado. Isso garante uma navegação intuitiva e evita a duplicação de informações na mesma página.
 
 ## Caixa de Vendas
 
@@ -45,15 +45,15 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Fat
 
 ### Vendas
 
-O valor Vendas representa o valor total de vendas, fornecendo uma medida clara da geração geral de receita da empresa. Essa métrica é crucial para rastrear a saúde financeira, avaliar o desempenho de vendas e tomar decisões informadas relacionadas ao gerenciamento de estoque, preços e estratégias de marketing. Além disso, desempenha um papel fundamental em relatórios financeiros, definição de metas e previsões, ajudando a empresa a avaliar sua posição atual e planejar o crescimento futuro.
+O valor "Vendas" representa o valor total de vendas, fornecendo uma medida clara da geração geral de receita da empresa. Essa métrica é crucial para rastrear a saúde financeira, avaliar o desempenho de vendas e tomar decisões informadas relacionadas ao gerenciamento de estoque, preços e estratégias de marketing. Além disso, desempenha um papel fundamental em relatórios financeiros, definição de metas e previsões, ajudando a empresa a avaliar sua posição atual e planejar o crescimento futuro.
 
 ### Vendas Ano Anterior
 
-O cartão Vendas Ano Anterior (Ano Ant.) representa o valor total de vendas do mesmo período do ano anterior, servindo como um benchmark crítico para avaliar o desempenho ano a ano. Essa métrica permite que as empresas comparem as vendas atuais com os resultados do ano anterior, ajudando a identificar tendências de crescimento, avaliar o impacto de iniciativas estratégicas e entender a dinâmica do mercado. Ao analisar esse número, as empresas podem tomar decisões informadas para melhorar o desempenho futuro de vendas, ajustar estratégias e definir metas de vendas realistas com base em dados históricos.
+O cartão "Vendas Ano Anterior (Ano Ant.)" apresenta o total de vendas do mesmo período do ano passado, oferecendo uma referência crucial para a avaliação do desempenho anual. Esta métrica permite que as empresas comparem as vendas atuais com os resultados do ano anterior, facilitando a identificação de tendências de crescimento, a avaliação do impacto de iniciativas estratégicas e a compreensão das dinâmicas de mercado. Com base nessa análise, as empresas podem tomar decisões informadas para aprimorar o desempenho futuro, ajustar estratégias e estabelecer metas de vendas realistas, fundamentadas em dados históricos.
 
 ### Diferença %
 
-A Diferença (% Dif.) representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
+A "Diferença (% Dif.)" representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
 
 ### Botão Ver mais
 
