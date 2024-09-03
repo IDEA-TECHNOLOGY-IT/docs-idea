@@ -13,11 +13,11 @@ Além disso, os indicadores são dinamicamente ajustados conforme os filtros apl
 
 Em resumo, os indicadores no topo de cada página do relatório no Power BI são fundamentais para manter a clareza e a continuidade da análise. Eles fornecem métricas consistentes e sensíveis aos filtros, facilitando a comparação e o acompanhamento das principais métricas ao longo de todo o relatório, e aprimorando a experiência analítica geral.
 
-## Caixa de Mês Fechado
+## Indicador de Mês Fechado
 
 <div align="center">
   <img src="../../assets/fat_caixa_mesfechado.png" alt="Caixa de Mês Fechado">
-  <h6>Imagem 2: Caixa de Mês Fechado</h6>
+  <h6>Imagem 2: Mês Fechado</h6>
 </div>
 
 ### Faturamento Mês Fechado
@@ -36,11 +36,11 @@ O valor "Mês Fechado Mês Anterior (Mês-2)" representa a receita do mês imedi
 
 O botão "Ver mais" direciona o usuário para a página de Faturamento. Se o usuário já estiver na página de Faturamento, o botão "Ver mais" não será exibido e o cartão correspondente será destacado. Isso garante uma navegação intuitiva e evita a duplicação de informações na mesma página.
 
-## Caixa de Vendas
+## Indicador de Vendas
 
 <div align="center">
   <img src="../../assets/fat_caixa_vendas.png" alt="Caixa de Vendas">
-  <h6>Imagem 3: Caixa de Vendas</h6>
+  <h6>Imagem 3: Vendas</h6>
 </div>
 
 ### Vendas
@@ -59,10 +59,10 @@ A "Diferença (% Dif.)" representa a diferença percentual entre as vendas atuai
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Vendas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Vendas), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Devoluções
+## Indicador de Devoluções
 <div align="center">
   <img src="../../assets/fat_caixa_devs.png" alt="Caixa de Devoluções">
-  <h6>Imagem 4: Caixa de Devoluções</h6>
+  <h6>Imagem 4: Devoluções</h6>
 </div>
 
 ### Devoluções
@@ -81,11 +81,11 @@ A métrica Devoluções % (Dev. %) é calculada dividindo o valor total das devo
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Devoluções. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Devoluções), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Faturamento Líquido
+## Indicador de Faturamento Líquido
 
 <div align="center">
   <img src="../../assets/fat_caixa_fat.png" alt="Caixa de Faturamento Líquido">
-  <h6>Imagem 5: Caixa de Faturamento Líquido</h6>
+  <h6>Imagem 5: Faturamento Líquido</h6>
 </div>
 
 ### Faturamento Líquido
@@ -104,11 +104,11 @@ A Diferença (% Dif.) exibe a variação percentual entre a receita líquida atu
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Faturamento. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Faturamento), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de CMV
+## Indicador de CMV
 
 <div align="center">
   <img src="../../assets/fat_caixa_cmv.png" alt="Caixa de CMV">
-  <h6>Imagem 6: Caixa de CMV</h6>
+  <h6>Imagem 6: CMV</h6>
 </div>
 
 ### CMV
@@ -127,11 +127,11 @@ O valor do CMV % calcula a porcentagem do Custo da Mercadoria Vendida em relaç�
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Custo da Mercadoria Vendida. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custo da Mercadoria Vendida), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Lucro Bruto
+## Indicador de Lucro Bruto
 
 <div align="center">
   <img src="../../assets/fat_caixa_lucro.png" alt="Caixa de Lucro Bruto">
-  <h6>Imagem 7: Caixa de Lucro Bruto</h6>
+  <h6>Imagem 7: Lucro Bruto</h6>
 </div>
 
 ### Lucro Bruto
@@ -150,11 +150,11 @@ Margem de Lucro % (Margem) representa a porcentagem de lucro líquido em relaç�
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Itens. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Itens), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Positivação
+## Indicador de Positivação
 
 <div align="center">
   <img src="../../assets/fat_caixa_pos.png" alt="Caixa de Positivação">
-  <h6>Imagem 8: Caixa de Positivação</h6>
+  <h6>Imagem 8: Positivação</h6>
 </div>
 
 ### Positivação
