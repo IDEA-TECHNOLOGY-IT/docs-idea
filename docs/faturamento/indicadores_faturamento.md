@@ -22,15 +22,15 @@ Em resumo, os indicadores no topo de cada página do relatório no Power BI são
 
 ### Faturamento Mês Fechado
 
-O valor "Mês Fechado", que representa a receita do mês mais recentemente concluído, é fundamental para uma avaliação financeira precisa e para decisões informadas. Ele fornece uma visão clara das vendas reais, sem dados parciais, permitindo uma análise confiável das tendências e uma comparação eficaz com as metas estabelecidas. Esta métrica é essencial para avaliar o desempenho ao longo do tempo, orientar o orçamento e alocar recursos de forma eficiente. Além disso, garante que os relatórios financeiros para as partes interessadas sejam baseados nas informações mais recentes e precisas, promovendo uma gestão financeira mais robusta e um planejamento estratégico mais eficaz.
+O valor Mês Fechado, que representa a receita do mês mais recentemente concluído, é fundamental para uma avaliação financeira precisa e para decisões informadas. Ele fornece uma visão clara das vendas reais, sem dados parciais, permitindo uma análise confiável das tendências e uma comparação eficaz com as metas estabelecidas. Esta métrica é essencial para avaliar o desempenho ao longo do tempo, orientar o orçamento e alocar recursos de forma eficiente. Além disso, garante que os relatórios financeiros para as partes interessadas sejam baseados nas informações mais recentes e precisas, promovendo uma gestão financeira mais robusta e um planejamento estratégico mais eficaz.
 
 ### Mês Fechado Ano Anterior
 
-O valor "Mês Fechado Ano Anterior (Ano Ant.)" representa a receita do mesmo mês no ano anterior e serve como uma referência crítica para avaliar o desempenho ano a ano. Ao comparar esse valor com o atual "Mês Fechado", as empresas podem avaliar o crescimento ou declínio na receita, identificar tendências sazonais e medir o impacto de decisões estratégicas ao longo do tempo. Essa comparação é essencial para entender a dinâmica do mercado, definir metas futuras realistas e tomar decisões informadas para melhorar o desempenho financeiro e a competitividade.
+O valor Mês Fechado Ano Anterior (Ano Ant.) representa a receita do mesmo mês no ano anterior e serve como uma referência crítica para avaliar o desempenho ano a ano. Ao comparar esse valor com o atual "Mês Fechado", as empresas podem avaliar o crescimento ou declínio na receita, identificar tendências sazonais e medir o impacto de decisões estratégicas ao longo do tempo. Essa comparação é essencial para entender a dinâmica do mercado, definir metas futuras realistas e tomar decisões informadas para melhorar o desempenho financeiro e a competitividade.
 
 ### Mês Fechado Mês Anterior
 
-O valor "Mês Fechado Mês Anterior (Mês-2)" representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
+O valor Mês Fechado Mês Anterior (Mês-2) representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
 
 ### Botão Ver mais
 
@@ -45,15 +45,15 @@ O botão "Ver mais" direciona o usuário para a página de Faturamento. Se o usu
 
 ### Vendas
 
-O valor "Vendas" representa o valor total de vendas, fornecendo uma medida clara da geração geral de receita da empresa. Essa métrica é crucial para rastrear a saúde financeira, avaliar o desempenho de vendas e tomar decisões informadas relacionadas ao gerenciamento de estoque, preços e estratégias de marketing. Além disso, desempenha um papel fundamental em relatórios financeiros, definição de metas e previsões, ajudando a empresa a avaliar sua posição atual e planejar o crescimento futuro.
+O valor Vendas representa o valor total de vendas, fornecendo uma medida clara da geração geral de receita da empresa. Essa métrica é crucial para rastrear a saúde financeira, avaliar o desempenho de vendas e tomar decisões informadas relacionadas ao gerenciamento de estoque, preços e estratégias de marketing. Além disso, desempenha um papel fundamental em relatórios financeiros, definição de metas e previsões, ajudando a empresa a avaliar sua posição atual e planejar o crescimento futuro.
 
 ### Vendas Ano Anterior
 
-O cartão "Vendas Ano Anterior (Ano Ant.)" apresenta o total de vendas do mesmo período do ano passado, oferecendo uma referência crucial para a avaliação do desempenho anual. Esta métrica permite que as empresas comparem as vendas atuais com os resultados do ano anterior, facilitando a identificação de tendências de crescimento, a avaliação do impacto de iniciativas estratégicas e a compreensão das dinâmicas de mercado. Com base nessa análise, as empresas podem tomar decisões informadas para aprimorar o desempenho futuro, ajustar estratégias e estabelecer metas de vendas realistas, fundamentadas em dados históricos.
+O cartão Vendas Ano Anterior (Ano Ant.) apresenta o total de vendas do mesmo período do ano passado, oferecendo uma referência crucial para a avaliação do desempenho anual. Esta métrica permite que as empresas comparem as vendas atuais com os resultados do ano anterior, facilitando a identificação de tendências de crescimento, a avaliação do impacto de iniciativas estratégicas e a compreensão das dinâmicas de mercado. Com base nessa análise, as empresas podem tomar decisões informadas para aprimorar o desempenho futuro, ajustar estratégias e estabelecer metas de vendas realistas, fundamentadas em dados históricos.
 
 ### Diferença %
 
-A "Diferença (% Dif.)" representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
+A Diferença (% Dif.) representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
 
 ### Botão Ver mais
 
