@@ -26,7 +26,7 @@ Na matriz Fluxo Financeiro Conta, há uma visão detalhada dos movimentos financ
 
 Ao expandir ainda mais para baixo na hierarquia das linhas da matriz, você também poderá visualizar os valores para áreas como Projeto e Cliente. Nossa intenção é que o usuário possa expandir cada categoria para investigar mais profundamente, isso pode ser feito usando os ícones de cabeçalho ou usando os sinais "+" ao lado dos cabeçalhos de linha.
 
-Os valores para cada linha são divididos em colunas por ano e mês. Existem ícones ao lado dos valores que mostram se o número é melhor (verde) ou pior (vermelho) do que o mês anterior. Tornando fácil ver a progressão de qualquer categoria ao longo do tempo e identificar problemas.
+Os valores em cada linha são organizados em colunas por ano e mês. Ícones ao lado dos valores indicam se o desempenho é melhor (verde) ou pior (vermelho) em relação ao mês anterior. Isso facilita a visualização da progressão de cada categoria ao longo do tempo e ajuda a identificar rapidamente quaisquer problemas.
 
 Existe um [filtro]() para transações previstas e realizadas nesta página que você não vê em outras páginas, quando este não tem seleção o visual mostrará o valor de todas as transações, se selecionado, o visual mostrará as transações relacionadas.
 <p><img src="../../assets/flux_flux_prev.png" alt="Prev" style="vertical-align: middle; height: 50px;"></p>
