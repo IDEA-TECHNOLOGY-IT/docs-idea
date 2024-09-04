@@ -1,7 +1,7 @@
 # Visão Saldo Total em Contas
 
 <p><div align="center">
-  <img src="../../assets/flux_saldo_page1.png" alt="Saldo em Contas">
+  <img src="../../assets/flux_saldo_page1.png" alt="Saldo em Contas Page">
   <h6>Imagem 1: Pagína com Saldo Total em Contas</h6>
 </div></p>
 
@@ -20,7 +20,7 @@ A visualização adequada do saldo de contas é vital para garantir que a empres
   <h6>Imagem 2: Visão Saldo Total em Contas</h6>
 </div></p>
 
-A tabela de saldo de conta, acessível pelo botão [Ver mais](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#botao-ver-mais_6) em cada painel, é um componente crucial para o gerenciamento abrangente do fluxo de caixa. Esta tabela fornece uma visão detalhada dos saldos de conta para todas as contas listadas no plano de conta, incluindo todas as contas financeiras dentro deste plano. Ela serve como um repositório centralizado de informações financeiras, exibindo saldos em várias contas e categorias financeiras.
+A tabela de saldo de conta, acessível pelo botão [Ver mais](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#botao-ver-mais-e-veja-menos) em cada painel, é um componente crucial para o gerenciamento abrangente do fluxo de caixa. Esta tabela fornece uma visão detalhada dos saldos de conta para todas as contas listadas no plano de conta, incluindo todas as contas financeiras dentro deste plano. Ela serve como um repositório centralizado de informações financeiras, exibindo saldos em várias contas e categorias financeiras.
 
 Esta tabela é importante para o gerenciamento do fluxo de caixa por muitos motivos;
 
