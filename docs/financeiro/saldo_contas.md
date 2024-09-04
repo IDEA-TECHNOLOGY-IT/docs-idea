@@ -1,8 +1,8 @@
 # Visão Saldo Total em Contas
 
 <p><div align="center">
-  <img src="../../assets/flux_saldo_tabela.png" alt="Saldo em Contas">
-  <h6>Imagem 1: Visão Saldo Total em Contas</h6>
+  <img src="../../assets/flux_saldo_page1.png" alt="Saldo em Contas">
+  <h6>Imagem 1: Pagína com Saldo Total em Contas</h6>
 </div></p>
 
 Saldo Total em Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
@@ -14,6 +14,11 @@ Um gerenciamento eficiente do saldo de contas oferece uma série de benefícios,
 A visualização adequada do saldo de contas é vital para garantir que a empresa tenha recursos suficientes para suas operações diárias, investimentos e crescimento futuro. Sem uma visualização clara e atualizada, a empresa pode enfrentar dificuldades para monitorar a liquidez, o que pode resultar em problemas para pagar despesas correntes. Isso pode forçar a empresa a contrair dívidas em condições desfavoráveis, comprometendo a estabilidade financeira e a capacidade de tomada de decisões informadas.
 
 ## Tabela de Saldo Total em Contas
+
+<p><div align="center">
+  <img src="../../assets/flux_saldo_tabela.png" alt="Saldo em Contas">
+  <h6>Imagem 2: Visão Saldo Total em Contas</h6>
+</div></p>
 
 A tabela de saldo de conta, acessível pelo botão [Ver mais](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#botao-ver-mais_6) em cada painel, é um componente crucial para o gerenciamento abrangente do fluxo de caixa. Esta tabela fornece uma visão detalhada dos saldos de conta para todas as contas listadas no plano de conta, incluindo todas as contas financeiras dentro deste plano. Ela serve como um repositório centralizado de informações financeiras, exibindo saldos em várias contas e categorias financeiras.
 
