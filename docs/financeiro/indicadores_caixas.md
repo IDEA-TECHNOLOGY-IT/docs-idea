@@ -72,7 +72,15 @@ A inadimplência ocorre quando um devedor não cumpre suas obrigações financei
 
 ### Índice de Inadimplência %
 
-A Inadimplência % representa a porcentagem do total de contas a receber que estão vencidas ou não pagas, indicando a proporção de dívidas que não foram quitadas dentro do prazo. Monitorar esse indicador é essencial para avaliar a eficácia dos processos de crédito e cobrança da empresa. Além disso, ele ajuda a identificar potenciais problemas de fluxo de caixa e a tomar decisões estratégicas para mitigar riscos financeiros e melhorar a gestão das contas a receber.
+O Índice de Inadimplência % em recebíveis indica a porcentagem de valores que não foram pagos dentro do prazo acordado em relação ao total de créditos concedidos pela empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 5% e em verde quando estiver abaixo. Quando o Índice de Inadimplência está acima de 5%, isso indica que uma parcela significativa dos pagamentos devidos está em atraso, o que pode sinalizar problemas graves, como dificuldades financeiras dos clientes, ineficiências na gestão de crédito ou estratégias de cobrança inadequadas. Um índice elevado pode levar a impactos negativos, como:
+
+- **Diminuição da Liquidez:** Altos níveis de inadimplência podem reduzir a liquidez da empresa, dificultando sua capacidade de cumprir com suas próprias obrigações financeiras e investir em novas oportunidades.
+  
+- **Risco Aumentado:** Um índice elevado pode sinalizar problemas com a solvência dos clientes, levando a um aumento no risco de perdas financeiras para a empresa.
+  
+- **Impacto na Rentabilidade:** A inadimplência alta pode afetar diretamente a rentabilidade, já que valores que deveriam ter sido recebidos não são convertidos em receita.
+
+Por outro lado, um Índice de Inadimplência abaixo de 5% é geralmente considerado um sinal positivo. Isso indica que a empresa tem um bom controle sobre suas contas a receber e uma gestão eficaz das relações com os clientes. Portanto, manter o Índice de Inadimplência abaixo de 5% é crucial para garantir a estabilidade e o crescimento sustentável da empresa.
 
 ### Inadimplência em Atraso por 120+ dias
 
@@ -95,7 +103,15 @@ Pagamentos Vencidos são valores que ultrapassaram a data de vencimento e ainda 
 
 ### Índice de Pagamentos Vencidos %
 
-Pagamentos Vencidos % é a proporção dos pagamentos em atraso em relação ao total de obrigações financeiras, indicando o percentual de dívidas que não foram quitadas até a data de vencimento. Monitorar esse indicador é fundamental para avaliar a capacidade da empresa de gerenciar suas dívidas, identificar potenciais problemas de liquidez e implementar estratégias para melhorar a pontualidade nos pagamentos, garantindo maior estabilidade financeira.
+O Índice de Pagamentos Vencidos % indica a porcentagem de valores devidos que não foram pagos dentro do prazo acordado, em relação ao total de obrigações financeiras da empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 10% e em verde quando estiver abaixo. Quando esse índice está acima de 10%, isso sugere que uma parte significativa dos pagamentos está atrasada, o que pode indicar problemas sérios, como:
+
+- **Redução da Liquidez:** Altos níveis de inadimplência podem comprometer a liquidez da empresa, dificultando sua capacidade de honrar compromissos financeiros e investir em novas oportunidades.
+
+- **Aumento do Risco:** Um índice elevado pode refletir problemas com a gestão de pagamentos ou com a capacidade financeira dos fornecedores, resultando em um maior risco de penalidades ou restrições de crédito.
+
+- **Impacto na Rentabilidade:** Pagamentos vencidos podem acarretar custos adicionais, como multas e juros, que impactam diretamente a rentabilidade da empresa.
+
+Em contraste, um Índice de Pagamentos Vencidos abaixo de 10% é geralmente considerado um sinal positivo. Isso indica que a empresa está gerenciando suas obrigações financeiras de maneira eficiente e mantendo um bom relacionamento com seus fornecedores. Portanto, manter o Índice de Inadimplência abaixo de 10% é fundamental para garantir a saúde financeira da empresa, evitar custos adicionais e assegurar uma boa gestão de pagamentos.
 
 ### Pagamentos Vencidos em Atraso por 120+ dias
 
