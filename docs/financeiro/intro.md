@@ -102,9 +102,25 @@ Esses filtros são configurados com base nos dados da empresa, permitindo filtra
 <p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite refinar os dados com base em uma filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada filial.
 
+###	Conta
+<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
+
+###	Cliente/Favorecido
+<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Este filtro ajusta automaticamente as opções exibidas com base no painel em visualização, apresentando 'Cliente' ou 'Favorecido' conforme o contexto. Ao selecionar a opção apropriada, todos os visuais nas páginas correspondentes do relatório são atualizados para refletir as informações pertinentes. Isso agiliza o processo de análise, proporcionando uma visão mais clara e focada, permitindo uma navegação rápida e eficaz entre diferentes contextos de dados.
+
+###	Dimensão
+<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Este filtro permite refinar os dados selecionando entre várias dimensões e suas respectivas subcategorias, organizadas em uma hierarquia definida pelo cliente. Ao escolher uma dimensão, como a dimensão '2,' ou ao expandi-la para visualizar e selecionar subcategorias específicas como 'Água,' 'Eletricidade,' ou 'Gás,' todos os visuais no relatório são atualizados para refletir essas escolhas. Isso facilita a análise detalhada, permitindo uma visão mais estruturada e personalizada dos dados conforme as necessidades do usuário.
+
 ###	Projeto
 <p><img src="../../assets/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
 O filtro de projeto permite a seleção e filtragem dos dados por projetos específicos. Ao escolher um projeto, o relatório ajusta todos os visuais para exibir somente as informações relacionadas a esse projeto. Isso facilita uma análise detalhada dos custos, receitas e outros indicadores associados, oferecendo uma visão clara e focada do desempenho e dos resultados de cada projeto.
+
+### Documento
+<p><img src="../../assets/flux_filtros_doc.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+Para tornar os documentos mais fáceis de encontrar, há um filtro para o número do documento incluído nas páginas relevantes. Isso é útil quando há um documento específico que requer atenção e permite fácil rastreamento em diferentes áreas de processo do fluxo de caixa.
 
 ###	Ano
 <p><img src="../../assets/flux_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
@@ -113,14 +129,6 @@ O filtro de ano permite escolher o ano específico para análise. Ao aplicar ess
 ###	Mês
 <p><img src="../../assets/flux_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite selecionar um mês específico para análise. Ao escolher um mês, todos os visuais no relatório são atualizados para exibir exclusivamente os dados desse período. Isso facilita a análise mensal e a identificação de variações sazonais, proporcionando uma visão detalhada das tendências e mudanças ao longo do ano.
-
-###	Conta
-<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
-Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
-
-### Documento
-<p><img src="../../assets/flux_filtros_doc.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
-Para tornar os documentos mais fáceis de encontrar, há um filtro para o número do documento incluído nas páginas relevantes. Isso é útil quando há um documento específico que requer atenção e permite fácil rastreamento em diferentes áreas de processo do fluxo de caixa.
 
 ###	Limpar filtros
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
