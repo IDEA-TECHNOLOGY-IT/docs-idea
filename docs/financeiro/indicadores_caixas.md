@@ -140,6 +140,8 @@ O Período Médio de Recebimento (PMR) do Ano Anterior reflete o número médio 
 
 O Período Médio de Recebimento (PMR) %, encontrado próximo ao indicador ano anterior, representa a variação percentual no tempo médio que a empresa leva para receber pagamentos, comparado ao ano anterior. Acompanhar essa métrica é fundamental para avaliar melhorias ou retrocessos na eficiência de gestão de recebíveis ao longo do tempo. Identificar essas tendências permite que as empresas tomem decisões estratégicas, ajustem suas políticas de crédito e cobrança, e otimizem o fluxo de caixa de forma mais eficaz.
 
+Para mostrar alterações indesejadas de ano para ano, este valor será mostrado em vermelho quando estiver acima de 1% e em verde quando estiver abaixo disso.
+
 ### Recebimento
 
 Recebimento (Receb.) refere-se ao valor total dos pagamentos já recebidos pela empresa. Ao comparar esses valores com o montante a receber, as empresas podem gerenciar de forma mais eficaz seu fluxo de caixa, garantindo liquidez suficiente para cobrir despesas, realizar investimentos e implementar outras estratégias financeiras com maior segurança.
@@ -159,13 +161,15 @@ Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a págin
 
 O Período Médio de Pagamento (PMP) representa o número médio de dias que uma empresa leva para quitar suas obrigações com fornecedores ou credores após o recebimento de uma fatura. Acompanhar o PMP é essencial para uma gestão eficaz do fluxo de caixa, pois ajuda a garantir a pontualidade nos pagamentos, preservar bons relacionamentos com fornecedores, além de otimizar o capital de giro e possibilitar melhores condições de negociação.
 
-### Período Médio de Recebimento (PMR) Ano Anterior
+### Período Médio de Pagamento (PMP) Ano Anterior
 
 O Período Médio de Pagamento (PMP) Ano Anterior (Ano Ant.) refere-se ao número médio de dias que a empresa levou para pagar seus fornecedores ou credores no ano anterior. Comparar o PMP atual com o PMP do ano anterior é fundamental para avaliar mudanças na eficiência de pagamento, identificar tendências de melhoria ou deterioração na gestão de contas a pagar, e ajustar estratégias para otimizar o fluxo de caixa e fortalecer os relacionamentos com fornecedores.
 
 ### Período Médio de Pagamento (PMP) %
 
 O Período Médio de Pagamento (PMP) %, encontrado próximo ao indicador ano anterior, representa a variação percentual no número médio de dias que a empresa leva para pagar seus fornecedores, em comparação ao ano anterior. Monitorar o PMP % em relação ao ano anterior é essencial para avaliar se as práticas de pagamento estão melhorando ou se há atrasos, além de entender seu impacto no fluxo de caixa e nos relacionamentos com fornecedores. Isso permite à empresa tomar decisões informadas para otimizar seus processos de contas a pagar.
+
+Para mostrar alterações indesejadas de ano para ano, este valor será mostrado em vermelho quando estiver acima de 1% e em verde quando estiver abaixo disso.
 
 ### Pagamento
 
