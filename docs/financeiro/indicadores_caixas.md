@@ -24,9 +24,13 @@ Em resumo, os indicadores posicionados no topo de cada página do relatório no 
 
 A Receber refere-se ao valor total de pagamentos pendentes que a empresa ainda não recebeu. Esse valor inclui tanto os montantes em inadimplência, que são aqueles pagamentos ou dívidas que já estão atrasados, quanto os valores que ainda não venceram, mas que a empresa tem o direito de receber. Assim, a conta A Receber engloba todas as entradas financeiras futuras, independentemente de estarem ou não em atraso.
 
-### Recebimento
+### A Receber em 0 dias
 
-Recebimento (Receb.) refere-se ao valor total dos pagamentos já recebidos pela empresa. Ao comparar esses valores com o montante a receber, as empresas podem gerenciar de forma mais eficaz seu fluxo de caixa, garantindo liquidez suficiente para cobrir despesas, realizar investimentos e implementar outras estratégias financeiras com maior segurança.
+Este indicador mostra o valor que deve ser recebido imediatamente. Ao destacar os fundos que estão previstos para serem coletados no curto prazo, ele permite uma melhor gestão de fluxo de caixa e planejamento financeiro. Compreender os recebíveis imediatos possibilita à empresa antecipar a liquidez disponível, tomar decisões informadas sobre investimentos ou despesas, e garantir que as necessidades operacionais sejam atendidas sem interrupções. Esse nível de insight é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
+
+### A Receber em 30 dias
+
+O indicador para os valores que devem ser recebidos nos próximos 30 dias permite monitorar os recebíveis que estão por vencer, ajudando a empresa a prever entradas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é crucial para garantir que a organização possa cumprir suas obrigações financeiras, aproveitar oportunidades de investimento em tempo hábil e manter níveis saudáveis de liquidez. Além disso, acompanhar os recebíveis a vencer em breve possibilita uma comunicação proativa com os clientes, reduzindo o risco de atrasos nos pagamentos e melhorando a gestão geral do fluxo de caixa.
 
 ### Botão Ver mais
 
@@ -43,9 +47,13 @@ O botão "Ver mais" direciona o usuário para a página de A Receber quando clic
 
 A Pagar representa o valor total de pagamentos pendentes. Isso inclui tanto os Pagamentos Vencidos, referentes a dívidas ou obrigações em atraso, quanto os valores que ainda estão dentro do prazo de vencimento, mas ainda não foram pagos.
 
-### Pagamento
+### A Pagar em 0 dias
 
-Pagamento (Pago) refere-se ao valor total dos pagamentos já realizados. Comparar os valores pagos com os valores pendentes a pagar é fundamental para assegurar que haja recursos suficientes para cobrir as obrigações futuras, evitando problemas de liquidez. Com uma visão clara dos pagamentos realizados e das obrigações futuras, as empresas podem tomar decisões mais informadas sobre o gerenciamento de despesas, renegociação de prazos de pagamento e planejamento de investimentos estratégicos.
+Este indicador mostra o valor que deve ser pago imediatamente. Ao destacar os pagamentos que precisam ser realizados no curto prazo, ele permite uma melhor gestão do fluxo de caixa e planejamento financeiro. Compreender os pagamentos imediatos possibilita à empresa antecipar as saídas de caixa, tomar decisões informadas sobre a alocação de recursos e garantir que as obrigações financeiras sejam cumpridas sem interrupções. Esse nível de detalhe é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
+
+### A Pagar em 30 dias
+
+O indicador para os valores que devem ser pagos nos próximos 30 dias permite monitorar as obrigações financeiras que estão por vencer, ajudando a empresa a prever saídas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é essencial para garantir que a organização possa cumprir suas obrigações financeiras de forma oportuna, aproveitar oportunidades de investimento e manter níveis saudáveis de liquidez. Além disso, acompanhar os pagamentos a vencer em breve possibilita uma gestão proativa dos fornecedores, reduzindo o risco de atrasos e melhorando a eficiência geral do fluxo de caixa.
 
 ### Botão Ver mais
 
@@ -62,9 +70,13 @@ O botão "Ver mais" direciona o usuário para a página de A Pagar ao ser clicad
 
 A inadimplência ocorre quando um devedor não cumpre suas obrigações financeiras, resultando em pagamentos atrasados ou dívidas não quitadas. Este indicador reflete o valor total de pagamentos em atraso que a empresa ainda tem a receber. Monitorar a inadimplência é fundamental, pois ela afeta diretamente o fluxo de caixa e a saúde financeira do negócio. Ao acompanhar esse indicador, a empresa pode identificar riscos, adotar medidas corretivas e garantir uma posição financeira mais sólida e estável.
 
-### Inadimplência %
+### Índice de Inadimplência %
 
 A Inadimplência % representa a porcentagem do total de contas a receber que estão vencidas ou não pagas, indicando a proporção de dívidas que não foram quitadas dentro do prazo. Monitorar esse indicador é essencial para avaliar a eficácia dos processos de crédito e cobrança da empresa. Além disso, ele ajuda a identificar potenciais problemas de fluxo de caixa e a tomar decisões estratégicas para mitigar riscos financeiros e melhorar a gestão das contas a receber.
+
+### Inadimplência em Atraso por 120+ dias
+
+Este indicador mostra o valor dos pagamentos que estão inadimplentes há mais de 120 dias. Ao identificar as obrigações financeiras que estão significativamente atrasadas, ele permite à empresa focar na recuperação de créditos e na gestão de riscos associados a pagamentos não realizados. Compreender a inadimplência prolongada ajuda a empresa a implementar estratégias eficazes de cobrança, avaliar o impacto das dívidas vencidas sobre a liquidez e ajustar o planejamento financeiro para minimizar impactos negativos. Esse acompanhamento é crucial para manter a saúde financeira da organização, garantir a continuidade dos negócios e proteger o fluxo de caixa contra a deterioração causada por atrasos prolongados.
 
 ### Botão Ver mais
 
@@ -81,9 +93,13 @@ O botão "Ver mais", quando clicado, direciona o usuário para a página de Inad
 
 Pagamentos Vencidos são valores que ultrapassaram a data de vencimento e ainda não foram quitados, representando obrigações financeiras em atraso. Acompanhar esses pagamentos é crucial para a gestão dos passivos da empresa, evitando multas, encargos por atraso e mantendo relacionamentos positivos com fornecedores e credores, além de assegurar a pontualidade nos compromissos financeiros.
 
-### Pagamentos Vencidos %
+### Índice de Pagamentos Vencidos %
 
 Pagamentos Vencidos % é a proporção dos pagamentos em atraso em relação ao total de obrigações financeiras, indicando o percentual de dívidas que não foram quitadas até a data de vencimento. Monitorar esse indicador é fundamental para avaliar a capacidade da empresa de gerenciar suas dívidas, identificar potenciais problemas de liquidez e implementar estratégias para melhorar a pontualidade nos pagamentos, garantindo maior estabilidade financeira.
+
+### Pagamentos Vencidos em Atraso por 120+ dias
+
+Este indicador mostra o valor dos pagamentos que ainda precisam ser realizados e que estão vencidos há mais de 120 dias. Identificar esses pagamentos em atraso ajuda a empresa a priorizar ações para regularizar essas pendências, além de avaliar o impacto que esses atrasos podem ter sobre o fluxo de caixa e a saúde financeira da organização. Compreender a magnitude dos pagamentos vencidos por um longo período permite implementar estratégias de gestão de dívidas, negociar prazos com fornecedores e ajustar o planejamento financeiro para mitigar os efeitos negativos. Monitorar os pagamentos vencidos é crucial para assegurar a continuidade das operações e proteger a estabilidade financeira da empresa.
 
 ### Botão Ver mais
 
@@ -106,7 +122,11 @@ O Período Médio de Recebimento (PMR) do Ano Anterior reflete o número médio 
 
 ### Período Médio de Recebimento (PMR) %
 
-O Período Médio de Recebimento (PMR) % representa a variação percentual no tempo médio que a empresa leva para receber pagamentos, comparado ao ano anterior. Acompanhar essa métrica é fundamental para avaliar melhorias ou retrocessos na eficiência de gestão de recebíveis ao longo do tempo. Identificar essas tendências permite que as empresas tomem decisões estratégicas, ajustem suas políticas de crédito e cobrança, e otimizem o fluxo de caixa de forma mais eficaz.
+O Período Médio de Recebimento (PMR) %, encontrado próximo ao indicador ano anterior, representa a variação percentual no tempo médio que a empresa leva para receber pagamentos, comparado ao ano anterior. Acompanhar essa métrica é fundamental para avaliar melhorias ou retrocessos na eficiência de gestão de recebíveis ao longo do tempo. Identificar essas tendências permite que as empresas tomem decisões estratégicas, ajustem suas políticas de crédito e cobrança, e otimizem o fluxo de caixa de forma mais eficaz.
+
+### Recebimento
+
+Recebimento (Receb.) refere-se ao valor total dos pagamentos já recebidos pela empresa. Ao comparar esses valores com o montante a receber, as empresas podem gerenciar de forma mais eficaz seu fluxo de caixa, garantindo liquidez suficiente para cobrir despesas, realizar investimentos e implementar outras estratégias financeiras com maior segurança.
 
 ### Botão Ver mais
 
@@ -129,7 +149,11 @@ O Período Médio de Pagamento (PMP) Ano Anterior (Ano Ant.) refere-se ao númer
 
 ### Período Médio de Pagamento (PMP) %
 
-O Período Médio de Pagamento (PMP) % representa a variação percentual no número médio de dias que a empresa leva para pagar seus fornecedores, em comparação ao ano anterior. Monitorar o PMP % em relação ao ano anterior é essencial para avaliar se as práticas de pagamento estão melhorando ou se há atrasos, além de entender seu impacto no fluxo de caixa e nos relacionamentos com fornecedores. Isso permite à empresa tomar decisões informadas para otimizar seus processos de contas a pagar.
+O Período Médio de Pagamento (PMP) %, encontrado próximo ao indicador ano anterior, representa a variação percentual no número médio de dias que a empresa leva para pagar seus fornecedores, em comparação ao ano anterior. Monitorar o PMP % em relação ao ano anterior é essencial para avaliar se as práticas de pagamento estão melhorando ou se há atrasos, além de entender seu impacto no fluxo de caixa e nos relacionamentos com fornecedores. Isso permite à empresa tomar decisões informadas para otimizar seus processos de contas a pagar.
+
+### Pagamento
+
+Pagamento (Pago) refere-se ao valor total dos pagamentos já realizados. Comparar os valores pagos com os valores pendentes a pagar é fundamental para assegurar que haja recursos suficientes para cobrir as obrigações futuras, evitando problemas de liquidez. Com uma visão clara dos pagamentos realizados e das obrigações futuras, as empresas podem tomar decisões mais informadas sobre o gerenciamento de despesas, renegociação de prazos de pagamento e planejamento de investimentos estratégicos.
 
 ### Botão Ver mais
 
