@@ -137,15 +137,22 @@ Botão "Ver mais" quando clicado, este botão direciona o usuário para a págin
 
 ## Caixa de Saldo Total em Contas
 
-<div align="center">
-  <img src="../../assets/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas">
-  <h6>Imagem 8: Caixa de Saldo Total em Contas</h6>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center; margin-right: 20px;">
+    <img src="../../assets/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas">
+    <h6>Imagem 8: Caixa de Saldo Total em Contas - Ver mais</h6>
+  </div>
+  <div style="text-align: center;">
+    <img src="../../assets/flux_caixa_saldomenos.png" alt="Caixa de Saldo Total em Contas Menos">
+    <h6>Imagem 9: Caixa de Saldo Total em Contas - Veja menos</h6>
+  </div>
 </div>
+
 
 ### Saldo Total em Contas
 
 Saldo Total em Contas refere-se ao montante agregado disponível em todas as contas financeiras de uma empresa, abrangendo contas bancárias, dinheiro em caixa e outras contas semelhantes. Esse indicador é fundamental para avaliar a liquidez geral e a saúde financeira da empresa, assegurando que haja fundos adequados para operações diárias, investimentos e imprevistos. Além disso, proporciona uma visão clara para o gerenciamento eficiente de caixa e a tomada de decisões financeiras estratégicas.
 
-### Botão Ver mais
+### Botão Ver mais e Veja menos
 
 Botão "Ver mais" Ao ser clicado, este botão abre uma tabela detalhada do Saldo Total em Contas, mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão Veja menos, permitindo fechar a tabela e retornar à visualização anterior.
