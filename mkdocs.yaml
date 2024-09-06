@@ -168,5 +168,6 @@ nav:
     - contabilidade/regra_dos_40.md
     - contabilidade/dre.md
 - Demonstração:
-  - BI Idea Finance:
-    - financeiro/demo.md
+  - faturamento/demo.md
+  - financeiro/demo.md
+  - contabilidade/demo.md
