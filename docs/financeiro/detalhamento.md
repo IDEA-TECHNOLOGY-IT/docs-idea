@@ -43,8 +43,6 @@ O número do documento associado à fatura encontra-se aqui. Este é o número m
 Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
 #### Data de Venc.
 Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
-#### Dias em Atraso
-Para mostrar o tempo que a transação está atrasada.
 #### Valor
 Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
 #### Filial
@@ -53,6 +51,8 @@ Indica a filial da empresa responsável pela fatura. Isso é útil para entender
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
 #### Status
 O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/)
+#### Dias em Atraso
+Para mostrar o tempo que a transação está atrasada.
 #### Processo
 Indica o processo associado ao recebimento, como "Recebimento" ou "Carteira de Recebíveis". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
