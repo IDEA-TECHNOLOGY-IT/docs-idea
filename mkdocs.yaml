@@ -155,6 +155,7 @@ nav:
     - financeiro/painel_pagamentos_realizados.md
     - financeiro/fluxo_caixa.md
     - financeiro/saldo_contas.md
+    - financeiro/detalhamento.md
   - BI Idea Accounting:
     - contabilidade/ficha_tecnica.md
     - contabilidade/intro.md
