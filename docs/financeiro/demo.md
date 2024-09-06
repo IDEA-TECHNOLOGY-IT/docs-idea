@@ -4,7 +4,7 @@ hide:
 ---
 
 
-# Demonstração
+# Demonstração Idea Finance
 
 Teste aqui nossa solução [Idea Finance](./ficha_tecnica.md):
 
