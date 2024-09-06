@@ -134,6 +134,28 @@ Este filtro permite selecionar um mês específico para análise. Ao escolher um
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para restabelecer a visualização completa dos dados e remover todos os filtros aplicados, use o botão "Limpar filtros", que está localizado no lado direito dos filtros. Este botão remove todos os critérios de filtragem, permitindo uma visão geral completa e não filtrada dos dados.
 
+## Navegação
+
+Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente posicionados e rotulados são colocados em todos os painéis, otimizando a experiência do usuário ao permitir uma navegação clara e intuitiva. Esses botões fornecem acesso direto às principais áreas, permitindo que os usuários explorem dados de forma eficiente sem se perderem em menus complexos. Seja retornando a uma página anterior, buscando insights mais específicos ou alternando entre diferentes visões financeiras, o layout garante que os usuários possam se mover suavemente pelo relatório, melhorando sua interação geral e produtividade.
+
+A primeira opção é a [barra de menu](), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
+<p><img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;"></p>
+
+A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros]() - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
+<p><img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;"></p>
+
+Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px;">
+  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close">
+</div>
+
+O método final é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros]() pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/flux_button_tabela.png" alt="Tabela Open">
+</div>
+
 ## Ícones de Cabeçalho
 
 <div align="center">
