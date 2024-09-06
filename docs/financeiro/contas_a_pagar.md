@@ -65,29 +65,29 @@ Este gráfico exibe uma tabela detalhada das contas a pagar, organizada por data
 
 Esta tabela é essencial ao procurar detalhes sobre contas a pagar específicas. Ela pode ser filtrada usando [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) ou clicando nas barras dentro dos outros dois visuais na página. Por exemplo, para ver os detalhes de todas as transações a pagar que vencem em 30 dias, clique na coluna no gráfico Aging - Contas a Pagar que diz "03) Devido em até 30 dias".
 
-### Favorecido
+#### Favorecido
 Esta coluna indica o favorecido específico que tem um valor a pagar, permitindo que você veja claramente quem são os favorecidos.
-### Origem
+#### Origem
 A origem da fatura, como "INSS Retido" ou "Serviço Instalações", é indicada nesta coluna. Isso ajuda a entender a natureza da dívida e a sua fonte dentro das operações da empresa.
-### Nº LCM
+#### Nº LCM
 Esta coluna mostram o número do lançamento contábil relacionado à fatura. Elas são úteis para rastrear documentos específicos e reconciliar com registros contábeis.
-### Doc.
+#### Doc.
 O número do documento associado à fatura encontra-se aqui. Este é o número mais comumente usado ao pesquisar a transação no banco de dados.
-### Data de Criação
+#### Data de Criação
 Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
-### Data de Venc.
+#### Data de Venc.
 Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
-### Valor
+#### Valor
 Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
-### Filial
+#### Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos pagáveis.
-### Projeto
+#### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
-### Status
+#### Status
 O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/)
-### Processo
+#### Processo
 Indica o processo associado ao recebimento, como "Pagamento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
-### Pesquisa de Documentos
+#### Pesquisa de Documentos
 Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado pagável.
-### Dimensão
+#### Dimensão
 Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensao), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
