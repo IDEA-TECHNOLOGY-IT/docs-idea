@@ -5,6 +5,11 @@
   <h6>Imagem 1: Painel Fluxo de Caixa</h6>
 </div></p>
 
+<p><div align="center">
+  <img src="../../assets/flux_flux_page2.png" alt="Flux2">
+  <h6>Imagem 1: Painel Fluxo de Caixa Tabela</h6>
+</div></p>
+
 Fluxo de Caixa refere-se ao movimento de entrada e saída de dinheiro em uma empresa ao longo de um período específico. É uma das métricas financeiras mais críticas, pois fornece uma visão clara sobre a liquidez da empresa e sua capacidade de cumprir obrigações financeiras imediatas, como pagamentos a fornecedores, salários, e outros custos operacionais.
 
 O fluxo de caixa positivo indica que a empresa está gerando mais dinheiro do que está gastando, o que é essencial para a saúde financeira a longo prazo. Um fluxo de caixa negativo, por outro lado, pode indicar problemas financeiros, como vendas insuficientes, altos custos operacionais, ou dificuldades em receber pagamentos dos clientes. Se não for gerenciado adequadamente, o fluxo de caixa negativo pode levar à insolvência, forçando a empresa a buscar financiamento externo para cobrir as despesas, o que pode aumentar os custos de crédito e afetar negativamente a operação diária da empresa.
