@@ -6,7 +6,7 @@
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_page2.png" alt="Flux1">
+  <img src="../../assets/flux_flux_page2.png" alt="Flux2">
   <h6>Imagem 1: Painel Fluxo de Caixa Tabela</h6>
 </div></p>
 
