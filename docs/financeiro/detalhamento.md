@@ -27,7 +27,7 @@ Além disso, quando terminar de revisar os detalhes, os usuários podem clicar n
   <h6>Imagem 3: Tabela de Detalhes</h6>
 </div></p>
 
-Este gráfico exibe uma tabela detalhada de transações, organizada por data do documento, fornecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada transação, do cliente ao status atual e documentos relacionados. Esta visão tabular permite que a empresa visualize cada valor de transação em detalhes, fornecendo todas as informações necessárias para rastrear e gerenciar efetivamente as áreas com base na seleção por meio da função [drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/detalhamento/).
+Este gráfico exibe uma tabela detalhada de transações, organizada por data do documento, fornecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada transação, do cliente ao status atual e documentos relacionados. Esta visão tabular permite que a empresa visualize cada valor de transação em detalhes, fornecendo todas as informações necessárias para rastrear e gerenciar efetivamente as áreas com base na seleção por meio da função [drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/detalhamento/#drill-through).
 
 Com esta estrutura, a empresa pode escolher a área que deseja analisar em qualquer lugar dentro do BI Finanaceiro e acessar instantaneamente os aspectos relevantes. Abaixo, explicamos como interpretar cada coluna na tabela.
 
