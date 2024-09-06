@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://idea-technology-it.github.io/docs-idea/contabilidade/demo/</loc>
+         <lastmod>2024-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://idea-technology-it.github.io/docs-idea/contabilidade/dre/</loc>
          <lastmod>2024-09-06</lastmod>
          <changefreq>daily</changefreq>
@@ -62,6 +67,11 @@
     </url>
     <url>
          <loc>https://idea-technology-it.github.io/docs-idea/faturamento/cmv/</loc>
+         <lastmod>2024-09-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://idea-technology-it.github.io/docs-idea/faturamento/demo/</loc>
          <lastmod>2024-09-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
