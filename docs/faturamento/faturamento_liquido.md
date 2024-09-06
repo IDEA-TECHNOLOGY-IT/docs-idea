@@ -1,7 +1,9 @@
-# Painel Faturamento Líquido
+# Painel de Faturamento Líquido
 
-![Imagem 1: Relatório Geral Faturamento Líquido](../assets/fat_fat.png)
-<h6 align="center">Imagem 1: Relatório Geral de Faturamento Líquido</h6>
+<p><div align="center">
+  <img src="../../assets/fat_fat.png" alt="Faturamento Líquido">
+  <h6>Imagem 1: Painel de Faturamento Líquido</h6>
+</div></p>
 
 O **Faturamento Líquido** é o valor total das vendas de uma empresa após a dedução de impostos sobre vendas, devoluções de mercadorias, descontos comerciais e outras deduções aplicáveis. Ele representa a receita efetiva gerada pelas vendas, sendo um indicador importante para avaliar o desempenho financeiro real da empresa.
 
@@ -18,7 +20,12 @@ O Faturamento Líquido é um indicador crucial porque mostra a receita que a emp
 ## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
 
 ![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../assets/fat_fat_tabela.png)
-<p align="center"><em>Imagem 2: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+<p align="center"><em>Imagem 2: Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+
+<p><div align="center">
+  <img src="../../assets/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
+  <h6>Imagem 2: Painel de Faturamento Líquido</h6>
+</div></p>
 
 Esta tabela fornece uma análise detalhada do Faturamento Líquido segregado por diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item. A tabela apresenta diversas colunas que oferecem informações essenciais para a gestão financeira, incluindo faturamento, metas, margens e prazo médio de recebimento (PMR). A seguir, explicamos cada coluna e como interpretar os dados apresentados.
 
