@@ -1,16 +1,16 @@
-# Painel CMV
+# Painel Custo de Mercadoria Vendida
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_page1.png" alt="CMV1">
-  <h6>Imagem 1: Painel Custo de Mercadorias Vendidas - Visão Análise anual</h6>
+  <h6>Imagem 1: Painel Custo de Mercadoria Vendida - Visão Análise anual</h6>
 </div></p>
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_page1.png" alt="CMV2">
-  <h6>Imagem 2: Painel Custo de Mercadorias Vendidas - Visão Detalhes</h6>
+  <h6>Imagem 2: Painel Custo de Mercadoria Vendida - Visão Detalhes</h6>
 </div></p>
 
-O CMV (Custo de Mercadorias Vendidas) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
+O CMV (Custo de Mercadoria Vendida) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
 
 ## O que é um CMV?
 
