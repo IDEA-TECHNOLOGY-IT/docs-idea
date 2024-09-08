@@ -136,9 +136,9 @@ nav:
     - faturamento/intro.md
     - faturamento/indicadores_faturamento.md
     - faturamento/painel_faturamento.md
+    - faturamento/faturamento_liquido.md
     - faturamento/vendas.md
     - faturamento/devolucoes.md
-    - faturamento/faturamento_liquido.md
     - faturamento/cmv.md
     - faturamento/itens.md
     - faturamento/indicadores.md
