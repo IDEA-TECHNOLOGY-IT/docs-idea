@@ -15,10 +15,42 @@ Os relatórios de Fluxo de Caixa também aprimoram a precisão e a consistência
 
 Em resumo, um relatório de Fluxo de Caixa bem estruturado oferece uma visão detalhada e atualizada da saúde financeira da empresa, facilitando a tomada de decisões estratégicas, melhorando a eficiência operacional e fortalecendo a capacidade da empresa de se adaptar e prosperar em um ambiente de negócios em constante mudança.
 
-## Botão para Documentação
+## Navegação
 
+Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente posicionados e rotulados são colocados em todos os painéis, otimizando a experiência do usuário ao permitir uma navegação clara e intuitiva. Esses botões fornecem acesso direto às principais áreas, permitindo que os usuários explorem dados de forma eficiente sem se perderem em menus complexos. Seja retornando a uma página anterior, buscando insights mais específicos ou alternando entre diferentes visões financeiras, o layout garante que os usuários possam se mover suavemente pelo relatório, melhorando sua interação geral e produtividade.
+
+### Botões de Menu
+
+A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
+</div>
+
+### Botões de Ver mais
+
+A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+</div>
+
+Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px;">
+  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close">
+</div>
+
+### Botões de Tabela ou Gráfico
+
+O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/flux_button_tabela.png" alt="Tabela Open">
+</div>
+
+### Botão para Documentação
+
+Finalmente, há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
 <p><img src="../../assets/flux_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
-Há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
 
 ## Barra de Menu
 
@@ -36,7 +68,6 @@ Aqui está uma visão geral dos botões disponíveis na barra de menu:
 <img src="../../assets/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão retorna os usuários à página principal, chamada "Painel Financeiro". Esta página serve como o ponto central de partida, proporcionando uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
-
   
 ### Botão A Receber
 <p><img src="../../assets/flux_menu_rec1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
@@ -67,7 +98,6 @@ Selecionar este botão direciona os usuários para a página "Pagamentos Vencido
 <img src="../../assets/flux_menu_pmr2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Clicar neste botão leva os usuários à página "Painel de Recebimentos Realizados". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
-
   
 ### Botão Painel de Pagamentos Realizados
 <p><img src="../../assets/flux_menu_pmp1.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
@@ -133,28 +163,6 @@ Este filtro permite selecionar um mês específico para análise. Ao escolher um
 ###	Limpar filtros
 <p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para restabelecer a visualização completa dos dados e remover todos os filtros aplicados, use o botão "Limpar filtros", que está localizado no lado direito dos filtros. Este botão remove todos os critérios de filtragem, permitindo uma visão geral completa e não filtrada dos dados.
-
-## Navegação
-
-Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente posicionados e rotulados são colocados em todos os painéis, otimizando a experiência do usuário ao permitir uma navegação clara e intuitiva. Esses botões fornecem acesso direto às principais áreas, permitindo que os usuários explorem dados de forma eficiente sem se perderem em menus complexos. Seja retornando a uma página anterior, buscando insights mais específicos ou alternando entre diferentes visões financeiras, o layout garante que os usuários possam se mover suavemente pelo relatório, melhorando sua interação geral e produtividade.
-
-A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
-<p><img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;"></p>
-
-A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
-<p><img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;"></p>
-
-Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
-<div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px;">
-  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close">
-</div>
-
-O método final é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
-<div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/flux_button_tabela.png" alt="Tabela Open">
-</div>
 
 ## Ícones de Cabeçalho
 
