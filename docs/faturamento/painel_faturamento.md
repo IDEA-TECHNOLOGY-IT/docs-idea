@@ -1,46 +1,38 @@
 # Painel de Faturamento
 
-!["Painel de Faturamento"](../assets/fat.png)
-<h6 align="center">Imagem 1: Painel de Faturamento</h6>
+<p><div align="center">
+  <img src="../../assets/fat.png" alt="Faturamento">
+  <h6>Imagem 1: Painel de Faturamento</h6>
+</div></p>
 
-Um relatório de BI (Business Intelligence) abrangente e focado em Faturamento é essencial para oferecer uma visão clara e detalhada do desempenho comercial de uma empresa.
+O relatório de faturamento fornece uma visão geral abrangente da receita da sua empresa, rastreando o movimento de entrada de dinheiro gerado pelas vendas de produtos ou serviços. Este relatório é vital para entender o desempenho financeiro da sua organização, garantindo que as metas de receita sejam cumpridas e que as oportunidades de crescimento sejam capitalizadas. Ao analisar o faturamento, você pode identificar tendências de vendas, avaliar o impacto de suas estratégias comerciais e planejar o crescimento futuro de forma mais eficaz.
 
-Esse tipo de relatório permite uma análise profunda das vendas, incluindo a gestão de receitas, comparação de produtos e serviços vendidos, e avaliação do desempenho de vendas ao longo do tempo.
-
-Através de visualizações precisas e detalhadas, é possível identificar tendências de mercado, monitorar variações nas vendas e tomar decisões informadas para otimizar a estratégia comercial e maximizar a receita da empresa.
+Este painel fornece uma visão geral do desempenho do faturamento do negócio, exibindo o valor da receita mês a mês e detalhando as principais fontes de receita. É crucial monitorar o crescimento do faturamento, pois isso indica o sucesso das estratégias de vendas e marketing. Ao incorporar previsões de faturamento para os meses futuros, você obtém insights sobre riscos e oportunidades que podem impactar os planos financeiros. Entender o comportamento do faturamento por meio de análises detalhadas de receitas é benéfico para identificar padrões e áreas onde ajustes estratégicos podem ser necessários. Essa abordagem torna mais fácil identificar oportunidades para aumentar o faturamento, garantindo que o negócio continue a crescer de forma sustentável.
 
 Na página de Painel de Faturamento, você encontrará:
 
-!["Faturamento Acumulado ao Longo do Tempo"](../assets/fat_home_acumulado.png)
-<h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
+## Faturamento Acumulado
 
-Este gráfico de área exibe a evolução do saldo em tesouraria da empresa ao longo do tempo, mostrando tanto os valores positivos quanto os negativos. A linha de base do gráfico representa um saldo de zero, com áreas acima da linha indicativas de saldos positivos e áreas abaixo indicativas de saldos negativos.
- 
-**Onde:**
+<p><div align="center">
+  <img src="../../assets/fat_home_acumulado.png" alt="Faturamento Acumulado">
+  <h6>Imagem 2: Faturamento Acumulado</h6>
+</div></p>
 
-### Eixo X (Horizontal):
-- O eixo X representa o tempo, dividido em períodos regulares, como meses, trimestres ou anos, dependendo do intervalo de dados disponível. Este eixo mostra a progressão do faturamento da empresa ao longo do tempo, permitindo uma análise detalhada das tendências de receita.
+Um gráfico de área mostrando o valor realizado do faturamento acumulado ao longo do tempo até o mês atual.
 
-### Eixo Y (Vertical):
-- O eixo Y representa o valor do faturamento acumulado, refletindo o desempenho financeiro da empresa. Valores positivos indicam crescimento nas receitas.
+Este gráfico oferece uma visão clara do desempenho de faturamento da sua empresa ao longo do tempo, exibindo as receitas acumuladas mês a mês até o presente. Ele permite que você visualize como suas estratégias comerciais e de vendas impactaram a geração de receita ao longo do período analisado.
 
-### Área do Gráfico:
-- **Valores Positivos:** São representados por uma área preenchida acima da linha de base, geralmente em uma cor neutra ou verde. Isso indica que a empresa está gerando receitas, acumulando um saldo positivo ao longo do tempo, o que é um sinal de desempenho financeiro saudável.
+O acompanhamento do faturamento acumulado é essencial para monitorar o progresso em direção às suas metas financeiras. Ele ajuda a identificar padrões de crescimento, sazonalidade nas vendas e áreas onde ajustes podem ser necessários para melhorar o desempenho de faturamento. Ao entender como o faturamento evolui ao longo do tempo, você pode tomar decisões mais informadas para garantir que seu negócio continue a crescer de maneira consistente e sustentável.
 
-!["Faturamento Atual vs Ano Anterios"](../assets/fat_home_anoant.png)
-<h6 align="center">Imagem 2: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
+## Faturamento x Faturamento Ano Anterior
 
-Este gráfico de área mostra a evolução do saldo em tesouraria da empresa ao longo do tempo, comparando os saldos do Ano Atual com os do Ano Anterior. O gráfico utiliza diferentes áreas para representar cada ano, com uma linha de base que indica um saldo de zero. A sobreposição das áreas permite uma fácil visualização das diferenças entre os saldos do Ano Atual e do Ano Anterior, destacando períodos em que o desempenho financeiro melhorou ou piorou em relação ao ano anterior.
+<p><div align="center">
+  <img src="../../assets/fat_home_anoant.png" alt="Faturamento Ano">
+  <h6>Imagem 3: Faturamento x Faturamento Ano Anterior</h6>
+</div></p>
 
-**Onde:**
+Um gráfico de barras exibindo o faturamento atual e o faturamento do ano anterior lado a lado, com uma linha sobreposta representando a diferença percentual entre os dois. A cor do texto nos marcadores da linha muda para verde quando a diferença é positiva e para vermelho quando é negativa.
 
-### Eixo X (Horizontal):
-- O eixo X deste gráfico representa o tempo, dividido em meses, indo de janeiro de 2014 até fevereiro de 2016. Isso permite uma análise detalhada da evolução do faturamento da empresa ao longo desses dois anos e dois meses. Cada mês é claramente demarcado, permitindo identificar as tendências mensais no desempenho financeiro.
+Este gráfico oferece uma comparação visual clara entre o faturamento atual e o do ano anterior, permitindo que você avalie o crescimento ou declínio da receita ao longo do tempo. As barras destacam os valores absolutos de cada período, enquanto a linha de diferença fornece uma visão imediata do desempenho relativo. Quando a linha está em verde, indica um crescimento positivo, sugerindo que o faturamento atual superou o do ano anterior. Quando está em vermelho, revela uma queda na receita em comparação com o período anterior.
 
-### Eixo Y (Vertical):
-- O eixo Y deste gráfico representa dois tipos de dados: à esquerda, o faturamento em milhões (Mi) de unidades monetárias, e à direita, a porcentagem de diferença (% Dif.) entre o faturamento do Ano Atual e do Ano Anterior. O eixo esquerdo mostra o valor absoluto do faturamento, enquanto o eixo direito fornece uma visão relativa de como o faturamento de cada mês se compara ao mesmo mês do ano anterior.
-
-### Área do Gráfico:
-- **Valores Positivos:** São representados pelas barras e pelos pontos com linhas que mostram o faturamento para cada mês tanto no Ano Atual quanto no Ano Anterior. As barras azuis-claro representam o faturamento do Ano Anterior, enquanto as barras azuis-escuras mostram o faturamento do Ano Atual. Acima de cada barra, há um valor percentual que indica a diferença relativa em comparação ao ano anterior. Por exemplo, em janeiro de 2015, o faturamento foi menor que o do ano anterior, indicado por um percentual abaixo de 100%, enquanto em fevereiro de 2016, o percentual foi superior a 100%, indicando um crescimento em relação ao mesmo mês do ano anterior.
-  
-- **Percentual de Diferença:** A linha que acompanha o gráfico, marcada com os valores percentuais ao longo do tempo, destaca os meses onde o faturamento do Ano Atual foi superior (valores acima de 100%) ou inferior (valores abaixo de 100%) em relação ao Ano Anterior. Esta linha fornece uma visão clara de quando a empresa experimentou crescimento ou declínio em sua receita ao longo do período analisado.
+Este tipo de visualização é crucial para entender as tendências de crescimento e ajustar suas estratégias de vendas ou marketing conforme necessário. Ele facilita a identificação de períodos de crescimento ou retração e permite que você tome decisões estratégicas para otimizar o desempenho financeiro, garantindo que a empresa continue avançando em direção às suas metas de faturamento.
