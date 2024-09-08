@@ -25,18 +25,28 @@ O Faturamento Líquido é um indicador crucial porque revela a receita real que 
 
 Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item oferece uma visão detalhada do desempenho de vendas, organizada com métricas essenciais para acompanhar o progresso e avaliar a eficiência da equipe de vendas. O primeiro nível da tabela pode ser detalhado por diferentes categorias, proporcionando maior flexibilidade na análise:
 
-Vendedor (com drill-down para Filial, Cliente, Fabricante ou Item): O nome do vendedor pode ser expandido para visualizar o desempenho por diferentes níveis de detalhe, incluindo Filial (local da venda), Cliente (comprador), Fabricante (marca do produto), ou Item (produto vendido). Isso facilita uma análise mais granular ou mais agregada conforme necessário.
-
-- **Faturado:** O valor total de vendas realizadas, seja por filial, vendedor, cliente, fabricante ou item, dependendo do nível de drill-down escolhido.
-- **% Fat.:** A porcentagem de contribuição no total faturado da empresa, mostrando a relevância relativa de cada vendedor, filial, cliente, fabricante ou item nas vendas gerais.
-- **Ticket Médio:** O valor médio das vendas individuais realizadas no período analisado, ajustado conforme o nível de drill-down, indicando o valor médio por venda.
-- **Meta Mês:** O valor alvo de vendas estabelecido para cada vendedor ou nível de análise no mês.
-- **Meta %:** A porcentagem da meta de vendas que foi atingida. O texto será exibido em vermelho se a meta não foi atingida e em verde se a meta foi cumprida, facilitando a identificação rápida de quem está abaixo ou acima das expectativas.
-- **Faturamento Mês Fechado:** O valor total de vendas realizadas no mês atual, encerrado, com base no nível de detalhamento.
-- **Faturamento Mês Fechado - 1:** O faturamento realizado no mês anterior ao atual, para facilitar a comparação de desempenho recente.
-- **% Dif.:** A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês.
-- **Margem:** A margem de lucro gerada pelas vendas, refletindo a lucratividade das operações.
-- **PMR (Dias):** O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor (ou a filial, cliente, fabricante ou item) leva para receber o pagamento das vendas, auxiliando na análise do ciclo de caixa.
+#### Filial, Vendedor, Cliente, Fabricante ou Item
+A primeira coluna pode ser expandido para visualizar o desempenho por diferentes níveis de detalhe, incluindo Filial, Vendedor, Cliente, Fabricante, ou Item. Isso facilita uma análise mais granular ou mais agregada conforme necessário.
+#### Faturado 
+O valor total de vendas realizadas, seja por filial, vendedor, cliente, fabricante ou item, dependendo do nível de drill-down escolhido.
+#### % Fat. 
+A porcentagem de contribuição no total faturado da empresa, mostrando a relevância relativa de cada vendedor, filial, cliente, fabricante ou item nas vendas gerais.
+#### Ticket Médio
+O valor médio das vendas individuais realizadas no período analisado, ajustado conforme o nível de drill-down, indicando o valor médio por venda.
+#### Meta Mês
+O valor alvo de vendas estabelecido para cada vendedor ou nível de análise no mês.
+#### Meta %
+A porcentagem da meta de vendas que foi atingida. O texto será exibido em vermelho se a meta não foi atingida e em verde se a meta foi cumprida, facilitando a identificação rápida de quem está abaixo ou acima das expectativas.
+#### Faturamento Mês Fechado
+O valor total de vendas realizadas no mês atual, encerrado, com base no nível de detalhamento.
+#### Faturamento Mês Fechado - 1 
+O faturamento realizado no mês anterior ao atual, para facilitar a comparação de desempenho recente.
+#### % Dif.
+A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês.
+#### Margem
+A margem de lucro gerada pelas vendas, refletindo a lucratividade das operações.
+#### PMR (Dias) 
+O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor (ou a filial, cliente, fabricante ou item) leva para receber o pagamento das vendas, auxiliando na análise do ciclo de caixa.
 
 Esta tabela é uma ferramenta valiosa para monitorar e otimizar o desempenho de vendas, fornecendo insights acionáveis em diferentes níveis de detalhe. A possibilidade de realizar drill-down para Filial, Vendedor, Cliente, Fabricante ou Item oferece uma análise personalizada, permitindo a identificação de tendências, oportunidades de crescimento e áreas que precisam de melhorias. O acompanhamento do Faturado em relação às metas de vendas possibilita que as equipes visualizem rapidamente o progresso de cada vendedor, filial ou cliente, facilitando a tomada de decisões informadas para melhorar o desempenho individual ou coletivo.
 
