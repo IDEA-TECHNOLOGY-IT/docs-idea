@@ -9,7 +9,7 @@ O relatório de fluxo de caixa fornece uma visão geral abrangente da liquidez d
 
 Este painel fornece uma visão geral do desempenho do fluxo de caixa do negócio exibindo o saldo da conta mês a mês e detalhando os valores de entradas e saídas. É crucial monitorar o movimento do saldo da conta em uma direção positiva, pois isso indica uma gestão financeira saudável. Ao incorporar o saldo provisório para os meses futuros, você obtém insights sobre riscos e desafios potenciais que podem impactar os planos financeiros. Entender o fluxo de caixa por meio de análises detalhadas de transações de entrada e saída é benéfico para identificar tendências e áreas onde ajustes podem ser necessários. Essa abordagem torna mais fácil identificar oportunidades para otimizar o fluxo de caixa, garantindo que o negócio permaneça financeiramente resiliente.
 
-Na página de Home, você encontrará:
+Na página de Painel Financeiro, você encontrará:
 
 ## Saldo em Contas ao Longo do Tempo
 
