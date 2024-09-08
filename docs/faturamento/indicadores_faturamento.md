@@ -30,7 +30,7 @@ O valor Mês Fechado Ano Anterior (Ano Ant.) representa a receita do mesmo mês 
 
 ### Mês Fechado Mês Anterior
 
-O valor Mês Fechado Mês Anterior (Mês-2) representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
+O valor Mês Fechado Mês Anterior (Mês Ant.) representa a receita do mês imediatamente anterior. Essa métrica é valiosa para avaliar tendências de desempenho de curto prazo e entender mudanças recentes na atividade empresarial. Ao compará-lo com o atual "Mês Fechado", as empresas podem identificar rapidamente quaisquer mudanças significativas na receita, sejam positivas ou negativas, e responder adequadamente. Essa comparação ajuda a detectar padrões emergentes, avaliar a eficácia de estratégias recentes e fazer ajustes oportunos para manter ou melhorar o desempenho financeiro.
 
 ### Botão Ver mais
 
@@ -53,7 +53,7 @@ O cartão Vendas Ano Anterior (Ano Ant.) apresenta o total de vendas do mesmo pe
 
 ### Diferença %
 
-A Diferença (% Dif.) representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
+A Diferença (Dif.) representa a diferença percentual entre as vendas atuais (Vendas) e as vendas do mesmo período do ano anterior (Vendas Ano Anterior). Essa métrica é crucial para entender o crescimento ou declínio das vendas ao longo do tempo, fornecendo um indicador claro da trajetória de desempenho da empresa. Ao destacar a mudança percentual, ela ajuda as empresas a avaliar rapidamente se suas estratégias estão levando a melhorias ou se ajustes são necessários. Esse insight é essencial para definir metas futuras, tomar decisões estratégicas e manter a competitividade no mercado.
 
 ### Botão Ver mais
 
@@ -71,11 +71,11 @@ Devoluções representam o valor total de devoluções processadas dentro do per
 
 ### Devoluções Ano Anterior
 
-O valor de Devoluções Ano Anterior mostra o valor total de devoluções do mesmo período do ano anterior. Esse número é essencial para comparar as taxas de devolução atuais com as do ano passado, ajudando a identificar se as taxas de devolução estão aumentando ou diminuindo ao longo do tempo. Analisar esses dados permite que as empresas avaliem a eficácia das medidas tomadas para reduzir as devoluções e tomem decisões informadas sobre a qualidade do produto, atendimento ao cliente e gerenciamento da cadeia de suprimentos.
+O valor de Devoluções Ano Anterior (Ano Ant.) mostra o valor total de devoluções do mesmo período do ano anterior. Esse número é essencial para comparar as taxas de devolução atuais com as do ano passado, ajudando a identificar se as taxas de devolução estão aumentando ou diminuindo ao longo do tempo. Analisar esses dados permite que as empresas avaliem a eficácia das medidas tomadas para reduzir as devoluções e tomem decisões informadas sobre a qualidade do produto, atendimento ao cliente e gerenciamento da cadeia de suprimentos.
 
 ### Devoluções %
 
-A métrica Devoluções % (Dev. %) é calculada dividindo o valor total das devoluções pelo total de vendas no mesmo período. Essa porcentagem fornece insights sobre a proporção de vendas que resultam em devoluções, que é um indicador-chave da qualidade do produto e da satisfação do cliente. Uma porcentagem menor indica um processo de vendas mais saudável com menos devoluções, enquanto uma porcentagem maior pode sinalizar problemas potenciais que precisam ser resolvidos. O monitoramento dessa métrica ajuda as empresas a identificar tendências nas taxas de devolução, avaliar a eficácia das medidas de controle de qualidade e melhorar a experiência geral do cliente reduzindo a frequência de devoluções.
+A métrica Devoluções % (Índice) é calculada dividindo o valor total das devoluções pelo total de vendas no mesmo período. Essa porcentagem fornece insights sobre a proporção de vendas que resultam em devoluções, que é um indicador-chave da qualidade do produto e da satisfação do cliente. Uma porcentagem menor indica um processo de vendas mais saudável com menos devoluções, enquanto uma porcentagem maior pode sinalizar problemas potenciais que precisam ser resolvidos. O monitoramento dessa métrica ajuda as empresas a identificar tendências nas taxas de devolução, avaliar a eficácia das medidas de controle de qualidade e melhorar a experiência geral do cliente reduzindo a frequência de devoluções.
 
 ### Botão Ver mais
 
@@ -98,7 +98,7 @@ O valor do Faturamento Líquido Ano Anterior (Ano Ant.) representa a receita lí
 
 ### Diferença %
 
-A Diferença (% Dif.) exibe a variação percentual entre a receita líquida atual e a receita líquida do mesmo período do ano anterior. Essa porcentagem ajuda as empresas a avaliar rapidamente se sua receita líquida aumentou ou diminuiu em comparação ao ano anterior. Uma porcentagem positiva indica crescimento, enquanto uma porcentagem negativa sinaliza um declínio. Analisar essa porcentagem é essencial para entender as tendências de receita, medir o sucesso das estratégias de negócios e tomar decisões baseadas em dados para impulsionar o crescimento futuro.
+A Diferença (Dif.) exibe a variação percentual entre a receita líquida atual e a receita líquida do mesmo período do ano anterior. Essa porcentagem ajuda as empresas a avaliar rapidamente se sua receita líquida aumentou ou diminuiu em comparação ao ano anterior. Uma porcentagem positiva indica crescimento, enquanto uma porcentagem negativa sinaliza um declínio. Analisar essa porcentagem é essencial para entender as tendências de receita, medir o sucesso das estratégias de negócios e tomar decisões baseadas em dados para impulsionar o crescimento futuro.
 
 ### Botão Ver mais
 
@@ -115,13 +115,13 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Fat
 
 O CMV representa o Custo da Mercadoria Vendida, que é o custo total incorrido para produzir ou adquirir os bens vendidos durante o período atual. Esse indicador é crucial para entender os custos diretos associados à produção ou compra de produtos, permitindo que as empresas avaliem sua margem bruta e a rentabilidade geral. Ao analisar o CMV, as empresas podem avaliar a eficiência de custo, identificar oportunidades de redução de custos e tomar decisões informadas sobre precificação e gestão de inventário.
 
-### Vendas
+### CMV Ano Anterior
 
-O valor Vendas (Ven.) representa o valor total de vendas, fornecendo uma medida clara da geração geral de receita da empresa. Essa métrica é crucial para rastrear a saúde financeira, avaliar o desempenho de vendas e tomar decisões informadas relacionadas ao gerenciamento de estoque, preços e estratégias de marketing. Além disso, desempenha um papel fundamental em relatórios financeiros, definição de metas e previsões, ajudando a empresa a avaliar sua posição atual e planejar o crescimento futuro.
+O valor do CMV Ano Anterior (Ano Ant.) representa o custo de mercadorias vendidas no mesmo período do ano anterior. Esse número é crucial para comparações ano a ano, permitindo que as empresas avaliem mudanças nos custos de produção e identifiquem tendências ao longo do tempo. Ao comparar o CMV atual com o do ano anterior, as empresas podem avaliar o controle de custos, entender o impacto de decisões estratégicas e ajustar suas estratégias operacionais para melhorar a eficiência e lucratividade.
 
 ### CMV %
 
-O valor do CMV % calcula a porcentagem do Custo da Mercadoria Vendida em relação à receita total de vendas. Essa porcentagem é crucial para entender quanto da receita é consumido pelos custos de produção ou aquisição. Uma porcentagem mais baixa indica margens brutas mais altas e melhor rentabilidade, enquanto uma porcentagem mais alta sugere custos mais elevados em relação à receita. Analisar essa porcentagem ajuda as empresas a avaliar sua estrutura de custos, melhorar as medidas de controle de custos e otimizar estratégias de precificação para aumentar a rentabilidade geral.
+O valor do CMV % (Índice) calcula a porcentagem do Custo da Mercadoria Vendida em relação à receita total de vendas. Essa porcentagem é crucial para entender quanto da receita é consumido pelos custos de produção ou aquisição. Uma porcentagem mais baixa indica margens brutas mais altas e melhor rentabilidade, enquanto uma porcentagem mais alta sugere custos mais elevados em relação à receita. Analisar essa porcentagem ajuda as empresas a avaliar sua estrutura de custos, melhorar as medidas de controle de custos e otimizar estratégias de precificação para aumentar a rentabilidade geral.
 
 ### Botão Ver mais
 
@@ -140,11 +140,11 @@ Lucro Bruto representa o lucro obtido após subtrair o Custo das Mercadorias Ven
 
 ### Médio Lucro Bruto Por Item
 
-O valor do Médio Lucro Bruto Por Item (Por Item) representa o lucro bruto médio gerado por cada item vendido. Este indicador é calculado dividindo o lucro bruto total pelo número de itens vendidos durante o período analisado. Analisar o Médio Lucro Bruto Por Item é essencial para entender a lucratividade individual de cada produto, permitindo que as empresas identifiquem quais itens são mais lucrativos e quais podem estar gerando margens menores. Esse insight ajuda a ajustar estratégias de precificação, otimizar a combinação de produtos e tomar decisões informadas sobre a gestão de inventário e a promoção de produtos.
+O valor do Médio Lucro Bruto Por Item (Avg. por Item) representa o lucro bruto médio gerado por cada item vendido. Este indicador é calculado dividindo o lucro bruto total pelo número de itens vendidos durante o período analisado. Analisar o Médio Lucro Bruto Por Item é essencial para entender a lucratividade individual de cada produto, permitindo que as empresas identifiquem quais itens são mais lucrativos e quais podem estar gerando margens menores. Esse insight ajuda a ajustar estratégias de precificação, otimizar a combinação de produtos e tomar decisões informadas sobre a gestão de inventário e a promoção de produtos.
 
 ### Margem
 
-Margem de Lucro % (Margem) representa a porcentagem de lucro líquido em relação à receita total de vendas. Este indicador é calculado dividindo o lucro líquido pelo total de vendas e multiplicando o resultado por 100 para obter a porcentagem. A Margem de Lucro % é crucial para avaliar a eficiência geral da empresa em gerar lucro a partir de suas vendas, considerando todos os custos e despesas. Uma margem de lucro mais alta indica uma boa capacidade de gerar lucro em relação à receita, enquanto uma margem mais baixa pode sinalizar a necessidade de melhorar a gestão de custos ou estratégias de precificação. Monitorar esta margem ajuda as empresas a entender melhor sua rentabilidade, tomar decisões estratégicas para melhorar a eficiência e assegurar a sustentabilidade financeira.
+Margem de Lucro % (Mar.) representa a porcentagem de lucro líquido em relação à receita total de vendas. Este indicador é calculado dividindo o lucro líquido pelo total de vendas e multiplicando o resultado por 100 para obter a porcentagem. A Margem de Lucro % é crucial para avaliar a eficiência geral da empresa em gerar lucro a partir de suas vendas, considerando todos os custos e despesas. Uma margem de lucro mais alta indica uma boa capacidade de gerar lucro em relação à receita, enquanto uma margem mais baixa pode sinalizar a necessidade de melhorar a gestão de custos ou estratégias de precificação. Monitorar esta margem ajuda as empresas a entender melhor sua rentabilidade, tomar decisões estratégicas para melhorar a eficiência e assegurar a sustentabilidade financeira.
 
 ### Botão Ver mais
 
@@ -163,11 +163,11 @@ Positivação representa o número total de clientes ativos ou registrados em um
 
 ### Itens Vendidos
 
-O valor de Itens Vendidos mostra o número total de unidades de produtos ou serviços que foram vendidas durante um período específico. Esse dado é essencial para avaliar o desempenho de vendas e a aceitação dos produtos pelo mercado. Monitorar o número de itens vendidos permite identificar quais produtos estão se destacando, ajustar a gestão de estoque e planejar melhor a produção ou aquisição de novos itens. Além disso, esse indicador é essencial para analisar a receita, definir metas de vendas e implementar estratégias de marketing. Um aumento no número de itens vendidos pode refletir uma demanda crescente e ajudar no planejamento de recursos e otimização de estoque.
+O valor de Itens Vendidos (Itens Vend.) mostra o número total de unidades de produtos ou serviços que foram vendidas durante um período específico. Esse dado é essencial para avaliar o desempenho de vendas e a aceitação dos produtos pelo mercado. Monitorar o número de itens vendidos permite identificar quais produtos estão se destacando, ajustar a gestão de estoque e planejar melhor a produção ou aquisição de novos itens. Além disso, esse indicador é essencial para analisar a receita, definir metas de vendas e implementar estratégias de marketing. Um aumento no número de itens vendidos pode refletir uma demanda crescente e ajudar no planejamento de recursos e otimização de estoque.
 
-### PMR (Dias)
+### Prazo Médio de Recebimento (Dias)
 
-Prazo Médio de Recebimento (PMR) indica o tempo médio que a empresa leva para receber pagamentos após a emissão de faturas. Esse indicador é calculado como a média do número de dias entre a data de emissão da fatura e a data de recebimento do pagamento. O PMR é crucial para avaliar a eficiência das práticas de cobrança e o impacto dos recebíveis no fluxo de caixa da empresa. Monitorar o PMR ajuda a identificar possíveis atrasos nos pagamentos e a ajustar as políticas de crédito e cobrança para melhorar a liquidez. Um PMR mais curto indica que a empresa está recebendo pagamentos de forma mais rápida, enquanto um PMR mais longo pode sinalizar problemas na recuperação de créditos ou necessidade de revisão das condições de pagamento com clientes.
+Prazo Médio de Recebimento (PMR (Dias)) indica o tempo médio que a empresa leva para receber pagamentos após a emissão de faturas. Esse indicador é calculado como a média do número de dias entre a data de emissão da fatura e a data de recebimento do pagamento. O PMR é crucial para avaliar a eficiência das práticas de cobrança e o impacto dos recebíveis no fluxo de caixa da empresa. Monitorar o PMR ajuda a identificar possíveis atrasos nos pagamentos e a ajustar as políticas de crédito e cobrança para melhorar a liquidez. Um PMR mais curto indica que a empresa está recebendo pagamentos de forma mais rápida, enquanto um PMR mais longo pode sinalizar problemas na recuperação de créditos ou necessidade de revisão das condições de pagamento com clientes.
 
 ### Botão Mais indicadores
 
