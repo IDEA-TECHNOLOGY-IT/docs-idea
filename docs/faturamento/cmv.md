@@ -1,14 +1,18 @@
 # Painel CMV
 
-## O que é um CMV?
+<p><div align="center">
+  <img src="../../assets/fat_cmv_page1.png" alt="CMV1">
+  <h6>Imagem 1: Painel Custo de Mercadorias Vendidas - Visão Análise anual</h6>
+</div></p>
 
-![alt text](../assets/fat_cmv_page1.png)
-<h6 align = "center"> Imagem 1 - Relatório Geral CMV</h6>
-
-![alt text](../assets/fat_cmv_page2.png)
-<h6 align = "center"> Imagem 2 - Relatório Detalhado CMV</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_page1.png" alt="CMV2">
+  <h6>Imagem 2: Painel Custo de Mercadorias Vendidas - Visão Detalhes</h6>
+</div></p>
 
 O CMV (Custo de Mercadorias Vendidas) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
+
+## O que é um CMV?
 
 ### Componentes do CMV:
 
@@ -45,10 +49,12 @@ CMV = R$ 50.000 + R$ 120.000 – R$ 30.000 = R$ 140.000
 
 Em resumo, o CMV é uma métrica financeira essencial para o cálculo do lucro bruto, otimização de processos e definição de estratégias de precificação e controle de estoque.
 
-## Gráfico CMV Acumulado
+## Custo de Mercadoria Vendida (CMV) Acumulado
 
-![alt text](../assets/cmv/Imagem3 - Gráfico CMV Acumulado.png)
-<h6 align = "center"> Imagem 3 - Gráfico CMV Acumulado</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_acumulado.png" alt="CMV Acumulado">
+  <h6>Imagem 3: Custo de Mercadoria Vendida (CMV) Acumulado</h6>
+</div></p>
 
 O **Gráfico CMV Acumulado** é uma representação visual do Custo das Mercadorias Vendidas ao longo do tempo, mostrando a acumulação desses custos durante um período. Em vez de exibir os valores individuais em cada intervalo, ele foca na evolução acumulada dos custos, fornecendo uma visão contínua do impacto financeiro.
 
@@ -66,10 +72,12 @@ O **Gráfico CMV Acumulado** é uma representação visual do Custo das Mercador
 
 Resumidamente, o gráfico CMV acumulado é uma ferramenta poderosa para monitorar e analisar a evolução dos custos ao longo do tempo, auxiliando na tomada de decisões estratégicas.
 
-## Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Item
+## CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto
 
-![alt text](../assets/fat_cmv_anomes.png)
-<h6 align = "center"> Imagem 4 - Gráfico CMV por Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_acumulado.png" alt="CMV por Mês">
+  <h6>Imagem 4: CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
+</div></p>
 
 Esse gráfico é uma matriz dimensional que combina categorias como filiais, vendedores, clientes, fabricantes ou itens, permitindo uma análise detalhada do CMV com base em múltiplos parâmetros. Ele facilita a identificação de padrões, anomalias e oportunidades de melhoria em áreas específicas da operação.
 
@@ -82,10 +90,12 @@ Esse gráfico é uma matriz dimensional que combina categorias como filiais, ven
 
 Resumindo, esse gráfico é uma ferramenta essencial para análises complexas e detalhadas, ajudando a visualizar como os custos das mercadorias vendidas se distribuem entre diferentes categorias operacionais e fornecendo insights valiosos para otimizar processos e aumentar a rentabilidade.
 
-## Gráfico Detalhado do CMV
+## CMV Tabela de Detalhes
 
-![alt text](../assets/cmv/Imagem5 - Gráfico Detalhado do CMV.png)
-<h6 align = "center"> Imagem 5 - Gráfico Detalhado do CMV</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_tabela.png" alt="CMV Detalhes">
+  <h6>Imagem 5: CMV Tabela de Detalhes</h6>
+</div></p>
 
 Esse gráfico é uma tabela analítica que exibe o CMV distribuído entre diferentes dimensões operacionais, como filiais, vendedores, clientes, fabricantes e produtos. Ele apresenta tanto o valor do CMV quanto a participação percentual desses custos no total, oferecendo uma análise detalhada e minuciosa dos custos.
 
@@ -104,10 +114,12 @@ Esse gráfico é uma tabela analítica que exibe o CMV distribuído entre difere
 
 De modo sucinto, o gráfico detalhado do CMV é essencial para análises precisas, fornecendo uma visão clara e organizada dos custos por categoria, o que auxilia na tomada de decisões estratégicas e na otimização dos processos.
 
-## Gráfico CMV por Fabricante
+## CMV x Fabricante
 
-![alt text](../assets/cmv/Imagem6 - Gráfico CMV por Fabricante.png)
-<h6 align = "center"> Imagem 6 - Gráfico CMV por Fabricante</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_fabricante.png" alt="CMV Fabricante">
+  <h6>Imagem 6: CMV x Fabricante</h6>
+</div></p>
 
 O Gráfico CMV por Fabricante exibe o CMV distribuído entre diferentes fornecedores, facilitando a análise de desempenho e a gestão de custos com base nos fabricantes. Ele destaca rapidamente quais fabricantes estão associados aos maiores custos, auxiliando na tomada de decisões estratégicas.
 
@@ -126,10 +138,12 @@ O Gráfico CMV por Fabricante exibe o CMV distribuído entre diferentes forneced
 
 Resumidamente, o gráfico CMV por Fabricantes é uma ferramenta útil para otimizar a gestão de fornecedores, facilitando a análise do impacto dos diferentes fabricantes nos custos totais da empresa.
 
-## Gráfico CMV por Filial, Vendedor, Cliente ou Item
+## CMV x Filial, Vendedor, Cliente ou Item
 
-![alt text](../assets/cmv/Imagem7 - Gráfico CMV por Filial, Vendedor, Cliente ou Produto.png)
-<h6 align = "center"> Imagem 7 - Gráfico CMV por Filial, Vendedor, Cliente ou Produto</h6>
+<p><div align="center">
+  <img src="../../assets/fat_cmv_filial.png" alt="CMV Filail">
+  <h6>Imagem 7: CMV x Filial, Vendedor, Cliente ou Item</h6>
+</div></p>
 
 O Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual poderosa que exibe o Custo das Mercadorias Vendidas (CMV) distribuído entre diferentes categorias operacionais. Ele permite que a empresa identifique rapidamente quais áreas, como filiais, vendedores, clientes ou produtos, estão associadas aos maiores custos, facilitando uma análise direcionada e eficaz da operação.
 
