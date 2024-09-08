@@ -26,11 +26,11 @@ A Receber refere-se ao valor total de pagamentos pendentes que a empresa ainda n
 
 ### A Receber em 0 dias
 
-Este indicador mostra o valor que deve ser recebido imediatamente. Ao destacar os fundos que estão previstos para serem coletados no curto prazo, ele permite uma melhor gestão de fluxo de caixa e planejamento financeiro. Compreender os recebíveis imediatos possibilita à empresa antecipar a liquidez disponível, tomar decisões informadas sobre investimentos ou despesas, e garantir que as necessidades operacionais sejam atendidas sem interrupções. Esse nível de insight é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
+Este indicador (0 dias) mostra o valor que deve ser recebido imediatamente. Ao destacar os fundos que estão previstos para serem coletados no curto prazo, ele permite uma melhor gestão de fluxo de caixa e planejamento financeiro. Compreender os recebíveis imediatos possibilita à empresa antecipar a liquidez disponível, tomar decisões informadas sobre investimentos ou despesas, e garantir que as necessidades operacionais sejam atendidas sem interrupções. Esse nível de insight é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
 
 ### A Receber em 30 dias
 
-O indicador para os valores que devem ser recebidos nos próximos 30 dias permite monitorar os recebíveis que estão por vencer, ajudando a empresa a prever entradas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é crucial para garantir que a organização possa cumprir suas obrigações financeiras, aproveitar oportunidades de investimento em tempo hábil e manter níveis saudáveis de liquidez. Além disso, acompanhar os recebíveis a vencer em breve possibilita uma comunicação proativa com os clientes, reduzindo o risco de atrasos nos pagamentos e melhorando a gestão geral do fluxo de caixa.
+O indicador (30 dias) para os valores que devem ser recebidos nos próximos 30 dias permite monitorar os recebíveis que estão por vencer, ajudando a empresa a prever entradas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é crucial para garantir que a organização possa cumprir suas obrigações financeiras, aproveitar oportunidades de investimento em tempo hábil e manter níveis saudáveis de liquidez. Além disso, acompanhar os recebíveis a vencer em breve possibilita uma comunicação proativa com os clientes, reduzindo o risco de atrasos nos pagamentos e melhorando a gestão geral do fluxo de caixa.
 
 ### Botão Ver mais
 
@@ -49,11 +49,11 @@ A Pagar representa o valor total de pagamentos pendentes. Isso inclui tanto os P
 
 ### A Pagar em 0 dias
 
-Este indicador mostra o valor que deve ser pago imediatamente. Ao destacar os pagamentos que precisam ser realizados no curto prazo, ele permite uma melhor gestão do fluxo de caixa e planejamento financeiro. Compreender os pagamentos imediatos possibilita à empresa antecipar as saídas de caixa, tomar decisões informadas sobre a alocação de recursos e garantir que as obrigações financeiras sejam cumpridas sem interrupções. Esse nível de detalhe é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
+Este indicador (0 dias) mostra o valor que deve ser pago imediatamente. Ao destacar os pagamentos que precisam ser realizados no curto prazo, ele permite uma melhor gestão do fluxo de caixa e planejamento financeiro. Compreender os pagamentos imediatos possibilita à empresa antecipar as saídas de caixa, tomar decisões informadas sobre a alocação de recursos e garantir que as obrigações financeiras sejam cumpridas sem interrupções. Esse nível de detalhe é crucial para manter a estabilidade financeira e apoiar os objetivos estratégicos da organização.
 
 ### A Pagar em 30 dias
 
-O indicador para os valores que devem ser pagos nos próximos 30 dias permite monitorar as obrigações financeiras que estão por vencer, ajudando a empresa a prever saídas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é essencial para garantir que a organização possa cumprir suas obrigações financeiras de forma oportuna, aproveitar oportunidades de investimento e manter níveis saudáveis de liquidez. Além disso, acompanhar os pagamentos a vencer em breve possibilita uma gestão proativa dos fornecedores, reduzindo o risco de atrasos e melhorando a eficiência geral do fluxo de caixa.
+O indicador (30 dias) para os valores que devem ser pagos nos próximos 30 dias permite monitorar as obrigações financeiras que estão por vencer, ajudando a empresa a prever saídas de caixa com mais precisão e facilitando o planejamento financeiro de curto prazo. Essa previsão é essencial para garantir que a organização possa cumprir suas obrigações financeiras de forma oportuna, aproveitar oportunidades de investimento e manter níveis saudáveis de liquidez. Além disso, acompanhar os pagamentos a vencer em breve possibilita uma gestão proativa dos fornecedores, reduzindo o risco de atrasos e melhorando a eficiência geral do fluxo de caixa.
 
 ### Botão Ver mais
 
@@ -72,7 +72,7 @@ A inadimplência ocorre quando um devedor não cumpre suas obrigações financei
 
 ### Índice de Inadimplência %
 
-O Índice de Inadimplência % em recebíveis indica a porcentagem de valores que não foram pagos dentro do prazo acordado em relação ao total de créditos concedidos pela empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 5% e em verde quando estiver abaixo. Quando o Índice de Inadimplência está acima de 5%, isso indica que uma parcela significativa dos pagamentos devidos está em atraso, o que pode sinalizar problemas graves, como dificuldades financeiras dos clientes, ineficiências na gestão de crédito ou estratégias de cobrança inadequadas. Um índice elevado pode levar a impactos negativos, como:
+O Índice de Inadimplência % (Índice) em recebíveis indica a porcentagem de valores que não foram pagos dentro do prazo acordado em relação ao total de créditos concedidos pela empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 5% e em verde quando estiver abaixo. Quando o Índice de Inadimplência está acima de 5%, isso indica que uma parcela significativa dos pagamentos devidos está em atraso, o que pode sinalizar problemas graves, como dificuldades financeiras dos clientes, ineficiências na gestão de crédito ou estratégias de cobrança inadequadas. Um índice elevado pode levar a impactos negativos, como:
 
 - **Diminuição da Liquidez:** Altos níveis de inadimplência podem reduzir a liquidez da empresa, dificultando sua capacidade de cumprir com suas próprias obrigações financeiras e investir em novas oportunidades.
   
@@ -84,7 +84,7 @@ Por outro lado, um Índice de Inadimplência abaixo de 5% é geralmente consider
 
 ### Inadimplência em Atraso por 120+ dias
 
-Este indicador mostra o valor dos pagamentos que estão inadimplentes há mais de 120 dias. Ao identificar as obrigações financeiras que estão significativamente atrasadas, ele permite à empresa focar na recuperação de créditos e na gestão de riscos associados a pagamentos não realizados. Compreender a inadimplência prolongada ajuda a empresa a implementar estratégias eficazes de cobrança, avaliar o impacto das dívidas vencidas sobre a liquidez e ajustar o planejamento financeiro para minimizar impactos negativos. Esse acompanhamento é crucial para manter a saúde financeira da organização, garantir a continuidade dos negócios e proteger o fluxo de caixa contra a deterioração causada por atrasos prolongados.
+Este indicador (120+ dias) mostra o valor dos pagamentos que estão inadimplentes há mais de 120 dias. Ao identificar as obrigações financeiras que estão significativamente atrasadas, ele permite à empresa focar na recuperação de créditos e na gestão de riscos associados a pagamentos não realizados. Compreender a inadimplência prolongada ajuda a empresa a implementar estratégias eficazes de cobrança, avaliar o impacto das dívidas vencidas sobre a liquidez e ajustar o planejamento financeiro para minimizar impactos negativos. Esse acompanhamento é crucial para manter a saúde financeira da organização, garantir a continuidade dos negócios e proteger o fluxo de caixa contra a deterioração causada por atrasos prolongados.
 
 ### Botão Ver mais
 
@@ -103,7 +103,7 @@ Pagamentos Vencidos são valores que ultrapassaram a data de vencimento e ainda 
 
 ### Índice de Pagamentos Vencidos %
 
-O Índice de Pagamentos Vencidos % indica a porcentagem de valores devidos que não foram pagos dentro do prazo acordado, em relação ao total de obrigações financeiras da empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 10% e em verde quando estiver abaixo. Quando esse índice está acima de 10%, isso sugere que uma parte significativa dos pagamentos está atrasada, o que pode indicar problemas sérios, como:
+O Índice de Pagamentos Vencidos % (Índice) indica a porcentagem de valores devidos que não foram pagos dentro do prazo acordado, em relação ao total de obrigações financeiras da empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 10% e em verde quando estiver abaixo. Quando esse índice está acima de 10%, isso sugere que uma parte significativa dos pagamentos está atrasada, o que pode indicar problemas sérios, como:
 
 - **Redução da Liquidez:** Altos níveis de inadimplência podem comprometer a liquidez da empresa, dificultando sua capacidade de honrar compromissos financeiros e investir em novas oportunidades.
 
@@ -115,7 +115,7 @@ Em contraste, um Índice de Pagamentos Vencidos abaixo de 10% é geralmente cons
 
 ### Pagamentos Vencidos em Atraso por 120+ dias
 
-Este indicador mostra o valor dos pagamentos que ainda precisam ser realizados e que estão vencidos há mais de 120 dias. Identificar esses pagamentos em atraso ajuda a empresa a priorizar ações para regularizar essas pendências, além de avaliar o impacto que esses atrasos podem ter sobre o fluxo de caixa e a saúde financeira da organização. Compreender a magnitude dos pagamentos vencidos por um longo período permite implementar estratégias de gestão de dívidas, negociar prazos com fornecedores e ajustar o planejamento financeiro para mitigar os efeitos negativos. Monitorar os pagamentos vencidos é crucial para assegurar a continuidade das operações e proteger a estabilidade financeira da empresa.
+Este indicador (120+ dias) mostra o valor dos pagamentos que ainda precisam ser realizados e que estão vencidos há mais de 120 dias. Identificar esses pagamentos em atraso ajuda a empresa a priorizar ações para regularizar essas pendências, além de avaliar o impacto que esses atrasos podem ter sobre o fluxo de caixa e a saúde financeira da organização. Compreender a magnitude dos pagamentos vencidos por um longo período permite implementar estratégias de gestão de dívidas, negociar prazos com fornecedores e ajustar o planejamento financeiro para mitigar os efeitos negativos. Monitorar os pagamentos vencidos é crucial para assegurar a continuidade das operações e proteger a estabilidade financeira da empresa.
 
 ### Botão Ver mais
 
@@ -134,7 +134,7 @@ O Período Médio de Recebimento (PMR) é a quantidade média de dias que uma em
 
 ### Período Médio de Recebimento (PMR) Ano Anterior
 
-O Período Médio de Recebimento (PMR) do Ano Anterior reflete o número médio de dias que uma empresa levou para receber pagamentos dos clientes no ano anterior. Comparar o PMR atual com o do ano anterior é crucial para avaliar mudanças na eficiência da gestão de recebíveis ao longo do tempo. Essa análise ajuda a identificar tendências de melhoria ou deterioração nos processos de cobrança e permite ajustes estratégicos, otimizando o fluxo de caixa e fortalecendo a saúde financeira da empresa.
+O Período Médio de Recebimento (PMR) do Ano Anterior (Ano Ant.) reflete o número médio de dias que uma empresa levou para receber pagamentos dos clientes no ano anterior. Comparar o PMR atual com o do ano anterior é crucial para avaliar mudanças na eficiência da gestão de recebíveis ao longo do tempo. Essa análise ajuda a identificar tendências de melhoria ou deterioração nos processos de cobrança e permite ajustes estratégicos, otimizando o fluxo de caixa e fortalecendo a saúde financeira da empresa.
 
 ### Período Médio de Recebimento (PMR) %
 
