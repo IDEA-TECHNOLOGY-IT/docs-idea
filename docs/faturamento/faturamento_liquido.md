@@ -5,114 +5,83 @@
   <h6>Imagem 1: Painel de Faturamento Líquido</h6>
 </div></p>
 
-O **Faturamento Líquido** é o valor total das vendas de uma empresa após a dedução de impostos sobre vendas, devoluções de mercadorias, descontos comerciais e outras deduções aplicáveis. Ele representa a receita efetiva gerada pelas vendas, sendo um indicador importante para avaliar o desempenho financeiro real da empresa.
+Faturamento Líquido é o valor total das vendas de uma empresa após a dedução de impostos sobre vendas, devoluções de mercadorias, descontos comerciais e outras deduções aplicáveis. Ele reflete a receita efetivamente gerada pelas vendas e é um indicador fundamental para avaliar o desempenho financeiro real da empresa.
 
-No cálculo do Faturamento Líquido, são subtraídos do faturamento bruto os valores referentes a:
+Ao calcular o Faturamento Líquido, são subtraídos do Faturamento Bruto os seguintes itens:
 
-- **Impostos sobre Vendas**: Como o ICMS, ISS, PIS, COFINS, entre outros tributos que incidem diretamente sobre as vendas.
-- **Devoluções de Mercadorias**: Produtos que foram devolvidos pelos clientes, seja por defeitos, insatisfação ou outros motivos.
-- **Descontos Comerciais**: Reduções concedidas aos clientes sobre o preço original de venda, geralmente para pagamentos antecipados ou em grandes quantidades.
-- **Outras Deduções**: Podem incluir abatimentos ou outros valores que reduzem o valor total das vendas.
+- **Impostos sobre Vendas:** Tributos como ICMS, ISS, PIS, COFINS, entre outros que incidem diretamente sobre as vendas.
+- **Devoluções de Mercadorias:** Produtos devolvidos por clientes devido a defeitos, insatisfação ou outras razões.
+- **Descontos Comerciais:** Reduções concedidas sobre o preço original de venda, geralmente por pagamento antecipado ou compras em grandes quantidades.
+- **Outras Deduções:** Incluem abatimentos ou outros valores que diminuem o total das vendas.
 
-O Faturamento Líquido é um indicador crucial porque mostra a receita que a empresa realmente obteve após cumprir suas obrigações fiscais e comerciais. Ele é frequentemente utilizado para calcular outras métricas financeiras, como a margem de lucro, e para avaliar a viabilidade de operações de negócio e estratégias de vendas.
+O Faturamento Líquido é um indicador crucial porque revela a receita real que a empresa obtém após cumprir suas obrigações fiscais e comerciais. Ele serve como base para o cálculo de métricas financeiras importantes, como a margem de lucro, e é essencial para avaliar a viabilidade de operações, além de orientar decisões estratégicas relacionadas a vendas e crescimento.
 
-
-## Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item
-
-![Imagem 1: Tabela de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item](../assets/fat_fat_tabela.png)
-<p align="center"><em>Imagem 2: Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+## Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
   <img src="../../assets/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
-  <h6>Imagem 2: Painel de Faturamento Líquido</h6>
+  <h6>Imagem 2: Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
-Esta tabela fornece uma análise detalhada do Faturamento Líquido segregado por diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item. A tabela apresenta diversas colunas que oferecem informações essenciais para a gestão financeira, incluindo faturamento, metas, margens e prazo médio de recebimento (PMR). A seguir, explicamos cada coluna e como interpretar os dados apresentados.
+Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item oferece uma visão detalhada do desempenho de vendas, organizada com métricas essenciais para acompanhar o progresso e avaliar a eficiência da equipe de vendas. O primeiro nível da tabela pode ser detalhado por diferentes categorias, proporcionando maior flexibilidade na análise:
 
-### Colunas Principais
+Vendedor (com drill-down para Filial, Cliente, Fabricante ou Item): O nome do vendedor pode ser expandido para visualizar o desempenho por diferentes níveis de detalhe, incluindo Filial (local da venda), Cliente (comprador), Fabricante (marca do produto), ou Item (produto vendido). Isso facilita uma análise mais granular ou mais agregada conforme necessário.
 
-- **Filial**: Identifica a filial específica da empresa. Cada linha da tabela corresponde a uma filial diferente, permitindo visualizar o desempenho de faturamento por unidade.
+- **Faturado:** O valor total de vendas realizadas, seja por filial, vendedor, cliente, fabricante ou item, dependendo do nível de drill-down escolhido.
+- **% Fat.:** A porcentagem de contribuição no total faturado da empresa, mostrando a relevância relativa de cada vendedor, filial, cliente, fabricante ou item nas vendas gerais.
+- **Ticket Médio:** O valor médio das vendas individuais realizadas no período analisado, ajustado conforme o nível de drill-down, indicando o valor médio por venda.
+- **Meta Mês:** O valor alvo de vendas estabelecido para cada vendedor ou nível de análise no mês.
+- **Meta %:** A porcentagem da meta de vendas que foi atingida. O texto será exibido em vermelho se a meta não foi atingida e em verde se a meta foi cumprida, facilitando a identificação rápida de quem está abaixo ou acima das expectativas.
+- **Faturamento Mês Fechado:** O valor total de vendas realizadas no mês atual, encerrado, com base no nível de detalhamento.
+- **Faturamento Mês Fechado - 1:** O faturamento realizado no mês anterior ao atual, para facilitar a comparação de desempenho recente.
+- **% Dif.:** A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês.
+- **Margem:** A margem de lucro gerada pelas vendas, refletindo a lucratividade das operações.
+- **PMR (Dias):** O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor (ou a filial, cliente, fabricante ou item) leva para receber o pagamento das vendas, auxiliando na análise do ciclo de caixa.
 
-- **Faturado**: Exibe o valor total faturado por cada filial. Este valor representa o Faturamento Líquido, ou seja, o valor das vendas após a dedução de impostos, devoluções e descontos.
+Esta tabela é uma ferramenta valiosa para monitorar e otimizar o desempenho de vendas, fornecendo insights acionáveis em diferentes níveis de detalhe. A possibilidade de realizar drill-down para Filial, Vendedor, Cliente, Fabricante ou Item oferece uma análise personalizada, permitindo a identificação de tendências, oportunidades de crescimento e áreas que precisam de melhorias. O acompanhamento do Faturado em relação às metas de vendas possibilita que as equipes visualizem rapidamente o progresso de cada vendedor, filial ou cliente, facilitando a tomada de decisões informadas para melhorar o desempenho individual ou coletivo.
 
-- **% Fat.**: Percentual de participação do faturamento de cada filial no total geral. Essa coluna ajuda a entender a contribuição de cada unidade para o faturamento total da empresa.
+A tabela também facilita a avaliação comparativa, com a comparação do Faturamento Mês Fechado com o mês anterior e a diferença percentual (% Dif.), o que permite identificar se o desempenho está melhorando ou apresentando queda. Isso é essencial para ajustar estratégias e reagir a mudanças de mercado ou comportamento do cliente. A coluna Meta %, com texto colorido (verde para metas atingidas e vermelho para metas não alcançadas), oferece uma forma visual rápida e simples de identificar quem está superando as expectativas e quem precisa de suporte ou revisão de metas, permitindo respostas rápidas da gestão.
 
-- **Ticket Médio**: Valor médio das vendas por transação. Essa métrica é útil para avaliar a eficiência das vendas, indicando se as filiais estão conseguindo vender produtos de maior valor agregado.
+Além disso, a inclusão da Margem permite que a equipe de vendas não foque apenas no volume de vendas, mas também na lucratividade, o que é crucial para garantir que o crescimento de vendas esteja alinhado com os objetivos financeiros da empresa. O Prazo Médio de Recebimento (PMR) mostra a eficiência financeira, indicando quanto tempo a empresa leva para receber o pagamento das vendas. Um PMR alto pode indicar problemas de fluxo de caixa, enquanto um PMR baixo reflete maior eficiência, ajudando a ajustar políticas de crédito ou renegociar condições com clientes.
 
-- **Meta Mês**: A meta de faturamento estabelecida para cada filial no mês em análise. Esse valor é comparado com o faturamento real para avaliar o desempenho.
+A flexibilidade de detalhamento por Filial, Cliente, Fabricante ou Item possibilita uma análise granular que ajuda a identificar quais fatores específicos estão impulsionando ou limitando o desempenho de vendas. Isso permite que ações corretivas sejam tomadas rapidamente, como no caso de uma filial ou produto específico com queda no faturamento. Além disso, o Ticket Médio ajuda a entender o valor médio das transações, o que pode ser útil para ajustar estratégias de precificação ou vendas, como focar em produtos de maior valor ou oferecer incentivos para aumentar o ticket médio.
 
-- **Meta %**: Percentual de cumprimento da meta de faturamento. Um valor acima de 100% indica que a filial superou a meta estabelecida.
+Em resumo, esta tabela não só facilita o acompanhamento do desempenho de vendas em tempo real, mas também ajuda a identificar rapidamente oportunidades de melhoria e ajustes estratégicos, promovendo uma abordagem mais eficaz e orientada a resultados.
 
-- **Faturamento Mês Fechado**: Faturamento realizado pela filial no mês anterior ao mês em análise. Essa coluna é útil para comparar o desempenho recente com o histórico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
 
-- **Faturamento Mês Fechado-1**: Faturamento realizado pela filial dois meses antes do mês em análise. Serve como uma referência adicional para entender a tendência de vendas ao longo do tempo.
+## Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
-- **% Dif.**: Percentual de diferença entre o faturamento do mês atual e o mês anterior. Um valor positivo indica crescimento no faturamento, enquanto um valor negativo sugere uma queda.
+<p><div align="center">
+  <img src="../../assets/fat_fat_filial.png" alt="Faturamento Filial">
+  <h6>Imagem 3: Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+</div></p>
 
-- **Margem**: Representa a margem de lucro obtida por cada filial. Essa métrica é crucial para avaliar a rentabilidade das operações, mostrando a porcentagem de lucro sobre o faturamento.
+Este gráfico de barras proporciona uma visão clara e detalhada do faturamento, segmentado por diferentes categorias. Ele exibe o valor total de vendas em barras, facilitando a comparação entre as diferentes categorias, que incluem Filial, Vendedor, Cliente, Fabricante e Item. A funcionalidade de drill-down permite uma análise mais profunda, possibilitando explorar os dados em níveis mais específicos ou gerais conforme necessário.
 
-- **PMR (Dias)**: Prazo Médio de Recebimento, em dias, que cada filial leva para receber os pagamentos das vendas realizadas. Um PMR menor indica que a filial consegue converter vendas em caixa mais rapidamente.
+No nível mais alto, o gráfico mostra o faturamento agregado por categoria principal, como Filial ou Vendedor. Ao usar o recurso de drill-down, você pode aprofundar a análise para visualizar o faturamento detalhado por Cliente, Fabricante ou Item. Esta capacidade de drill-down oferece flexibilidade para investigar quais aspectos específicos estão contribuindo para o faturamento total ou quais áreas podem precisar de atenção especial.
 
-### Como Usar Esta Tabela
+O gráfico de barras facilita a visualização do desempenho de vendas em diferentes níveis, permitindo que você identifique rapidamente quais categorias estão performando melhor e quais podem precisar de estratégias de melhoria. A comparação entre as diferentes categorias ajuda a entender melhor as dinâmicas de vendas e a tomar decisões informadas baseadas em dados precisos.
 
-- **Análise Comparativa**: Utilize esta tabela para comparar o desempenho de diferentes filiais em termos de faturamento, cumprimento de metas e rentabilidade.
-  
-- **Identificação de Tendências**: Observe as colunas de Faturamento Mês Fechado e Mês Fechado-1 para identificar tendências de crescimento ou declínio nas vendas de cada filial.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
 
-- **Avaliação de Desempenho**: A coluna de Meta % permite avaliar quais filiais estão superando as metas estabelecidas e quais estão ficando aquém das expectativas.
+## Mês de Faturamento x Meta
 
-- **Gestão de Caixa**: A coluna PMR (Dias) é essencial para a gestão do fluxo de caixa, ajudando a identificar filiais que estão levando mais tempo para receber os pagamentos e que podem precisar de estratégias de cobrança mais eficazes.
+<p><div align="center">
+  <img src="../../assets/fat_fat_meta.png" alt="Faturamento Meta">
+  <h6>Imagem 4: Mês de Faturamento x Meta</h6>
+</div></p>
 
-Com esta documentação, você pode interpretar e utilizar os dados da tabela "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item" para tomar decisões informadas sobre a gestão financeira e o desempenho das unidades de negócio.
+Este gráfico de barras oferece uma visão detalhada do faturamento mensal ao longo dos anos, comparando-o diretamente com os valores das metas estabelecidas para cada mês. As barras representam o faturamento real de cada mês, enquanto uma segunda série de barras exibe o valor da meta correspondente. Sobre essas barras, uma linha mostra a porcentagem da meta atingida, com a cor verde indicando que a meta foi alcançada ou superada, e vermelho sinalizando que a meta não foi atingida.
 
-## Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"
-
-![Gráfico "Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item"](../assets/grafico-barras-faturamento-filial-vendendor-cliente-fabricante-item.jpeg)
-<p align="center"><em>Imagem 3: Gráfico de Faturamento por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
-
-Este gráfico apresenta uma visualização do Faturamento Líquido segregado por Filial, Vendedor, Cliente, Fabricante ou Item. Cada barra do gráfico representa uma unidade específica (neste caso, Filiais), mostrando o valor total faturado por cada uma.
-
-### Interpretação do Gráfico
-
-- **Filial**: Cada barra corresponde a uma Filial da empresa, permitindo a comparação direta entre as unidades em termos de faturamento. As filiais estão listadas ao lado esquerdo do gráfico.
-
-- **Faturamento**: O comprimento de cada barra indica o valor total de faturamento para a respectiva Filial. Valores maiores resultam em barras mais longas, destacando as Filiais que contribuíram mais para o faturamento total da empresa.
-
-
-### Como Usar Este Gráfico
-
-- **Identificação de Filiais de Alto Desempenho**: As barras mais longas indicam as Filiais que mais contribuem para o faturamento. Isso pode ajudar a identificar unidades de alto desempenho que podem servir como exemplo ou foco para investimentos adicionais.
-
-- **Análise Comparativa**: Compare o desempenho das diferentes Filiais para entender onde estão as maiores oportunidades de crescimento ou necessidade de melhoria.
-
-- **Gestão Estratégica**: Utilize as informações deste gráfico para tomar decisões estratégicas, como alocação de recursos, mudanças nas políticas de vendas ou desenvolvimento de campanhas específicas para melhorar o desempenho das unidades com faturamento menor.
-
-Este gráfico fornece uma visão clara e comparativa do desempenho de faturamento entre diferentes Filiais, ajudando a identificar as unidades que mais contribuem para o sucesso financeiro da empresa e aquelas que podem precisar de mais atenção ou suporte.
-
-
-## Gráfico "Meta Faturado Mês Atual"
-
-![Gráfico "Meta Faturado Mês Atual"](../assets/fat_fat_meta.png)
-<p align="center"><em>Imagem 4: Gráfico de Meta Faturado Mês Atual</em></p>
-
-Este gráfico apresenta a comparação entre a meta de faturamento estabelecida e o faturamento efetivamente realizado pela empresa ao longo de diferentes meses. Além disso, o gráfico mostra o percentual de cumprimento da meta (% da Meta) para cada período.
-
-### Interpretação do Gráfico
-
-- **Meta (Colunas Cinza)**: Representa a meta de faturamento estabelecida para cada mês. As colunas cinza indicam o valor-alvo que a empresa pretendia alcançar em cada período.
-
-- **Faturamento (Colunas Verde)**: Mostra o faturamento real obtido em cada mês. A comparação entre as colunas de Faturamento e Meta permite visualizar se a empresa conseguiu atingir ou superar suas metas de faturamento.
-
-- **% da Meta (Linha Verde)**: A linha que percorre o gráfico indica o percentual de cumprimento da meta para cada mês. Valores acima de 100% mostram que a meta foi superada, enquanto valores abaixo de 100% indicam que a meta não foi atingida.
-
-
-### Como Usar Este Gráfico
-
-- **Avaliação de Desempenho**: Utilize este gráfico para avaliar o desempenho mensal da empresa em relação às metas de faturamento. Ele permite identificar quais meses foram mais desafiadores e quais superaram as expectativas.
-
-- **Análise Sazonal**: Identifique padrões sazonais que possam afetar o cumprimento das metas de faturamento. Isso pode ajudar na definição de metas mais realistas e no planejamento de estratégias de venda.
-
-- **Ajuste de Estratégias**: Se forem observados meses consecutivos com desempenho abaixo da meta, pode ser necessário revisar as estratégias de venda ou ajustar as metas para melhor refletir a realidade do mercado.
-
-Este gráfico é uma ferramenta poderosa para monitorar o desempenho da empresa em relação às metas de faturamento ao longo do tempo, permitindo uma gestão mais informada e estratégica.
-
+Esse gráfico é extremamente útil porque permite uma análise clara e comparativa do desempenho de vendas em relação às metas estabelecidas. As barras de faturamento e meta permitem uma visualização direta da diferença entre o desempenho real e as expectativas, facilitando a identificação de variações e períodos em que os objetivos foram ou não cumpridos. A linha de porcentagem fornece um feedback imediato sobre o grau de cumprimento das metas, destacando de forma visual se os objetivos foram atingidos. Esta combinação de dados facilita o monitoramento contínuo do progresso, a avaliação da eficácia das estratégias de vendas e a identificação de áreas que podem precisar de ajustes. Em suma, este gráfico oferece uma ferramenta valiosa para acompanhar o desempenho, ajustar estratégias e tomar decisões informadas para melhorar os resultados futuros.
