@@ -1,35 +1,61 @@
 # Painel Vendas
-![Vendas "Visão de Vendas"](../assets/fat_vendas_page1.png)
-<h6 align="center">Imagem 1: Painel "Visão de Vendas"</h6>
 
-![Vendas "Visão de Vendas"](../assets/fat_vendas_page2.png)
-<h6 align="center">Imagem 2: Painel "Visão de Vendas"</h6>
+<div align="center">
+  <img src="../../assets/fat_vendas_page1.png" alt="Vendas1">
+  <h6>Imagem 1: Painel Vendas - Visão Análise Anual</h6>
+</div>
 
-Vendas é uma métrica fundamental que reflete o total de receitas geradas pela empresa através da comercialização de produtos ou serviços. O desempenho em vendas é um indicador direto da saúde financeira e do sucesso operacional de uma empresa, influenciando todos os aspectos do negócio, desde a gestão do fluxo de caixa até as decisões estratégicas de crescimento.
+<div align="center">
+  <img src="../../assets/fat_vendas_page2.png" alt="Vendas2">
+  <h6>Imagem 2: Painel Vendas - Visão Detalhes</h6>
+</div>
 
-No contexto empresarial, as vendas podem ser analisadas de várias formas, incluindo vendas a prazo, vendas à vista, e vendas por canal ou produto. Entender a composição das vendas e as tendências ao longo do tempo ajuda a empresa a ajustar suas estratégias de marketing, preços e distribuição para maximizar as receitas.
+A análise de vendas é um elemento fundamental no Business Intelligence (BI) porque fornece insights valiosos sobre as fontes de receita de uma empresa, o comportamento do cliente e as tendências de mercado. Monitorar o desempenho de vendas ajuda as empresas a identificar quais produtos, serviços ou mercados estão impulsionando o crescimento e quais áreas precisam de melhorias. Ao analisar várias métricas de vendas, as empresas podem otimizar suas estratégias, melhorar a eficiência operacional e tomar decisões informadas.
 
-Uma gestão eficiente das vendas é crucial para garantir o crescimento sustentável da empresa. Isso envolve não apenas a maximização das receitas, mas também a compreensão dos ciclos de vendas, o monitoramento das taxas de conversão e a otimização dos esforços de venda para atingir metas de desempenho. A análise das vendas também permite identificar oportunidades de expansão, ajustar ofertas de produtos ou serviços, e melhorar a experiência do cliente.
+Visualizações como vendas acumuladas e crescimento das vendas mês a mês são essenciais para acompanhar o desempenho ao longo do tempo. As vendas acumuladas oferecem uma perspectiva de longo prazo, mostrando como as vendas estão se acumulando ao longo de um período específico, o que ajuda a entender as tendências de receita e a prever o desempenho futuro. Por outro lado, a comparação de vendas mês a mês permite que as empresas detectem mudanças de curto prazo, como flutuações sazonais ou o impacto de campanhas de marketing, e ajustem rapidamente suas estratégias.
 
-## Gráfico "Vendas Acumulado"
-![Vendas "Visão de Faturamento Acumulado"](../assets/fat_vendas_acumulado.png)
-<h6 align="center">Imagem 3: Gráfico "Faturamento Acumulado ao Longo do Tempo"</h6>
+Vendas detalhadas por Filial, Vendedor, Cliente, Fabricante ou Item são fundamentais para uma visão detalhada do desempenho do negócio. Esse tipo de análise permite que as empresas identifiquem quais locais, vendedores ou produtos são mais lucrativos ou estão com baixo desempenho. Compreender essa distribuição ajuda a identificar pontos fortes e fracos, permitindo uma melhor alocação de recursos, programas de incentivo para equipes de vendas e estratégias mais focadas no relacionamento com o cliente.
 
-Este gráfico oferece uma análise detalhada do Faturamento Acumulado por período. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como períodos mensais, trimestrais ou anuais, para obter uma visão mais específica ou mais agregada do desempenho de vendas ao longo do tempo. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
+A análise de vendas por prazo médio fornece insights sobre o comportamento de pagamento dos clientes e a gestão de fluxo de caixa. A empresa pode identificar quais clientes estão pagando pontualmente e quais podem precisar de opções de pagamento mais flexíveis, permitindo uma melhor gestão de risco de crédito e otimização do fluxo de caixa.
 
-### Nível 1: Período Mensal
-No nível mensal, o gráfico apresenta o faturamento acumulado ao final de cada mês. Esta visualização é ideal para identificar tendências sazonais e monitorar o desempenho de vendas mês a mês. Use esta visão para detectar períodos de pico ou queda nas vendas e ajustar suas estratégias de marketing e vendas conforme necessário.
+O impacto da análise de vendas vai além do departamento de vendas. Os insights obtidos dos dados de vendas podem influenciar estratégias de marketing, gestão da cadeia de suprimentos, desenvolvimento de produtos e planejamento financeiro. Por exemplo, entender quais produtos têm bom desempenho pode ajudar as equipes de marketing a direcionar seus esforços de forma mais eficaz, enquanto os insights sobre a demanda do cliente podem ajudar as equipes de suprimentos a gerenciar o estoque com mais eficiência. Além disso, a análise de tendências de vendas ajuda as equipes financeiras a criar previsões de receita mais precisas, gerenciar orçamentos e otimizar estratégias de precificação.
 
-### Nível 2: Período Anual
-No nível anual, o gráfico mostra o faturamento acumulado ao longo de um ano completo. Esta visão é útil para análises de longo prazo, permitindo que você avalie o crescimento anual da empresa, identifique anos de forte desempenho e compare o progresso em relação às metas de longo prazo.
+Em resumo, a análise de vendas no BI é uma ferramenta poderosa para impulsionar o crescimento empresarial. Ao examinar as vendas de vários ângulos, como desempenho cumulativo, mudanças mês a mês e detalhamento por diversos fatores, as empresas obtêm uma compreensão mais profunda de seu mercado. Essa análise não só melhora as estratégias de vendas, mas também impacta outras áreas-chave como marketing, finanças e operações, criando um ambiente de negócios mais responsivo e orientado por dados.
 
-### Visualizar mais Detalhes
+## Visão Análise Anual
+
+### Vendas Acumulado
+
+<div align="center">
+  <img src="../../assets/fat_vendas_acumulado.png" alt="Vendas Acumulado">
+  <h6>Imagem 3: Vendas Acumulado</h6>
+</div>
+
+Um gráfico de área é uma maneira eficaz de visualizar as vendas acumuladas ao longo do tempo, especialmente quando o eixo x representa ano e mês. Ele permite que as empresas acompanhem como as vendas se acumulam ao longo de um período específico, destacando padrões, taxas de crescimento e flutuações sazonais. A área preenchida abaixo da linha ajuda a enfatizar visualmente o aumento das vendas, facilitando a visualização de como a receita está crescendo mês a mês. Esse tipo de gráfico fornece uma visão clara do progresso geral e ajuda a identificar tendências, como crescimento constante ou períodos de aceleração rápida, oferecendo às empresas insights valiosos para a tomada de decisões e previsões.
+
+### Vendas por Mês x Filial, Vendedor, Cliente, Fabricante ou Item
+
+<div align="center">
+  <img src="../../assets/fat_vendas_anomes.png" alt="Vendas Ano Mês">
+  <h6>Imagem 4: Vendas por Mês x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+</div>
+
+Uma matriz que exibe os valores de vendas mês a mês com ícones que indicam aumento (verde) ou diminuição (vermelho) em relação ao mês anterior oferece uma maneira dinâmica e intuitiva de analisar o desempenho de vendas ao longo do tempo. Esse tipo de matriz permite que os usuários acompanhem facilmente as flutuações nas vendas, identifiquem tendências de crescimento e detectem áreas potenciais de preocupação em diferentes períodos. O uso de ícones coloridos simplifica a comparação, fornecendo sinais visuais imediatos — verde para crescimento positivo e vermelho para queda — facilitando a interpretação rápida dos dados sem precisar se aprofundar em números complexos.
+
+O que torna essa matriz particularmente poderosa é a capacidade de alterar os cabeçalhos das linhas entre Filial, Vendedor, Cliente, Fabricante ou Item. Essa flexibilidade permite uma análise mais profunda em várias dimensões do negócio. Por exemplo, ao mudar para Filial, a empresa pode avaliar o desempenho de diferentes filiais, identificando quais locais estão se destacando ou apresentando desempenho inferior mês a mês. Selecionar Vendedor oferece insights sobre o desempenho individual dos membros da equipe de vendas, destacando os melhores vendedores e aqueles que podem precisar de suporte adicional. Ao analisar por Cliente, a matriz pode revelar mudanças no comportamento de clientes importantes, ajudando a identificar clientes fiéis ou aqueles cujas compras diminuíram. Da mesma forma, a análise por Fabricante ou Item ajuda a acompanhar quais produtos ou fabricantes estão impulsionando o crescimento e quais podem necessitar de atenção ou descontinuação.
+
+Esse tipo de análise visual não só auxilia na tomada de decisões rápidas, mas também permite que as empresas identifiquem oportunidades e riscos em várias áreas de suas operações. A capacidade de mudar as dimensões garante uma análise abrangente e flexível, apoiando estratégias mais direcionadas para melhorar as vendas, o engajamento dos clientes e o desempenho geral da empresa.
+
+## Visão Detalhes
+
+### Tabela de Vendas Detalhes
+
+<div align="center">
+  <img src="../../assets/fat_vendas_tabela.png" alt="Vendas Tabela">
+  <h6>Imagem 5: Tabela de Vendas Detalhes</h6>
+</div>
 
 Este gráfico é uma visão detalhada das vendas realizadas após a seleção do botão acima que ativou a navegação para um nível mais específico de análise. Aqui está uma explicação detalhada dos componentes exibidos:
-
-## Tabela de Vendas
-![Vendas Visão mais Detalhada](../assets/fat_vendas_tabela.png)
-<h6 align="center">Imagem 4: Visão mais Detalhada</h6>
 
 - **Descrição:** A tabela exibe um histórico detalhado de vendas, listando individualmente cada transação, permitindo visualizar informações críticas como a data de venda, a filial que efetuou a venda, o vendedor responsável, o cliente que comprou, o fabricante do produto e o valor da venda.
 
@@ -45,10 +71,12 @@ Este gráfico é uma visão detalhada das vendas realizadas após a seleção do
 - ***Total de Vendas:***
   - Na parte inferior da tabela, é mostrado o total acumulado das vendas listadas, que neste caso é de R$ 129.733.816,71.
 
-## Vendas por Prazo Médio
+### Vendas x Prazo Médio
 
-![Vendas por Prazo Médio](../assets/sales_per_pm.png)
-<h6 align="center">Imagem 5: Gráfico "Vendas por Prazo Médio"</h6>
+<div align="center">
+  <img src="../../assets/fat_vendas_prazo.png" alt="Vendas Prazo">
+  <h6>Imagem 6: Vendas x Prazo Médio</h6>
+</div>
 
 Este gráfico de barras apresenta a distribuição das vendas por diferentes intervalos de prazo de recebimento.
 - **Categorias:**
@@ -57,72 +85,18 @@ Este gráfico de barras apresenta a distribuição das vendas por diferentes int
   - **30 - 60 dias:** Pagamentos realizados entre 30 e 60 dias representam R$ 16.129.594,59.
   - **60 - 90 dias:** Este intervalo apresenta o menor valor, R$ 366,49.
   - **90 ou mais dias:** Um montante menor, R$ 33.004,68, corresponde a vendas com prazo de pagamento de 90 dias ou mais.
+ 
+### Vendas x Filial, Vendedor, Cliente, Fabricante ou Item
 
-![Vendas por clientes, vendedor, filiais, fabricante ou item](../assets/sales_per_client_branch.png)
-<h6 align="center">Imagem 6: Gráfico "Vendas por clientes, vendedor, filiais, fabricante ou item"</h6>
+<div align="center">
+  <img src="../../assets/fat_vendas_cliente.png" alt="Vendas Filial">
+  <h6>Imagem 7: Vendas x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+</div>
 
 O gráfico fornecido mostra as vendas por cliente, comparando os valores de vendas acumuladas para diferentes clientes, vendedor, filiais, fabricante ou item específicos. Cada barra no gráfico representa uma categoria, e a extensão da barra indica o valor total das vendas realizadas para esse cliente durante o período analisado.
-
-![Vendas "Navegação Entre níveis"](../assets/nav_sales.png)
 
 ### Navegação Entre Níveis: 
 Utilize as opções de navegação disponíveis na ferramenta de BI para alternar entre os diferentes níveis de visualização. Por exemplo, você pode começar analisando os dados no nível mensal e, em seguida, subir para o nível anual para uma visão mais agregada.
 
 - Para ir para o próximo nível de hierarquia (Indicador 1): Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
 - Para retornar ao nível anterior (Indicador 2): Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
-
-## Gráfico "Vendas por Filial, Vendedor, Cliente, Fabricante ou Item"
-
-Este gráfico oferece uma análise detalhada das Vendas Acumuladas por período e  Filial, Vendedor, Cliente, Fabricante ou Item. A ferramenta de BI utilizada permite que você navegue facilmente entre diferentes níveis hierárquicos, como Filial, Vendedor, Cliente, Fabricante ou Item, para obter uma visão mais específica ou mais agregada do desempenho de vendas. Abaixo está uma explicação de cada nível e instruções sobre como interpretar os dados e navegar entre eles.
-
-![Vendas "Vendas por Cliente"](../assets/fat_vendas_anomes.png)
-
-### Nível 1: Cliente
-**Descrição:** No nível de cliente, o gráfico exibe o valor total das vendas associado a cada cliente específico. Cada barra representa um cliente ou grupo de clientes e ilustra o montante total de vendas realizado com eles durante o período analisado.
-
-**Interpretação:** Este gráfico permite identificar quais clientes ou grupos de clientes geram os maiores volumes de vendas, o que pode indicar clientes-chave para o negócio. Com essa informação, a empresa pode focar em fortalecer o relacionamento com esses clientes, personalizar ofertas e serviços, ou desenvolver estratégias para aumentar as vendas com outros clientes que apresentam um potencial de crescimento. Essa análise também ajuda a identificar quais clientes podem precisar de atenção especial para evitar quedas no volume de vendas.
-
-### Nível 2: Filial
-**Descrição:** No nível de filial, o gráfico exibe o valor total das vendas associado a cada filial específica. Cada barra representa uma filial e ilustra o montante total de vendas realizadas por essa unidade durante o período analisado.
-
-**Interpretação:** Este gráfico permite identificar quais filiais estão gerando os maiores volumes de vendas, destacando aquelas que desempenham um papel crucial no sucesso da empresa. Com essa informação, a empresa pode analisar as práticas bem-sucedidas dessas filiais, replicá-las em outras unidades, ou ajustar recursos e estratégias para melhorar o desempenho das filiais que estão abaixo das expectativas. Essa análise também pode revelar necessidades de suporte adicional ou oportunidades de expansão em filiais de alto desempenho.
-
-### Nível 3: Vendedor
-**Descrição:** No nível de vendedor, o gráfico exibe o valor total das vendas associadas a cada vendedor específico. Cada barra representa um vendedor e ilustra o montante total de vendas que esse profissional realizou durante o período analisado.
-
-**Interpretação:** Este gráfico permite identificar quais vendedores estão gerando os maiores volumes de vendas, ajudando a destacar os melhores desempenhos individuais dentro da equipe. Com essa informação, a empresa pode reconhecer e recompensar o bom desempenho, oferecer treinamentos ou suporte adicional para vendedores que possam estar abaixo da meta, e ajustar as metas de vendas para alinhar com as capacidades de cada membro da equipe. Essa análise também pode ser usada para otimizar a distribuição de leads ou territórios de vendas.
-
-### Nível 4: Fabricante
-**Descrição:** No nível de fabricante, o gráfico exibe o valor total das vendas associadas a cada fabricante específico. Cada barra representa um fabricante e ilustra o montante total de vendas dos produtos desse fabricante durante o período analisado.
-
-**Interpretação:**  Este gráfico permite identificar quais fabricantes contribuem mais significativamente para o faturamento da empresa. Com essa informação, a empresa pode estreitar relações com os fabricantes mais lucrativos, renegociar condições de fornecimento, ou ajustar o portfólio de produtos para focar naqueles que geram maior receita. Além disso, a análise pode revelar oportunidades de diversificação, substituição ou eliminação de produtos de fabricantes com desempenho insatisfatório.
-
-### Nível 5: Item
-**Descrição:** No nível de item, o gráfico exibe o valor total das vendas associado a cada item específico. Cada barra representa um item de produto ou serviço e ilustra o montante total de vendas gerado por esse item durante o período analisado.
-
-**Interpretação:** Este gráfico permite identificar quais itens são os mais vendidos e quais contribuem de forma mais significativa para o faturamento da empresa. Com essa informação, a empresa pode ajustar seu mix de produtos, focando naqueles que têm maior aceitação no mercado, enquanto considera a reformulação, promoção adicional, ou descontinuação de itens com desempenho insatisfatório. Essa análise também pode ajudar a identificar tendências de consumo e oportunidades para o desenvolvimento de novos produtos ou serviços.
-
-![Vendas "Navegação Entre Níveis"](../assets/drill_down.png)
-
-### Navegação Entre Níveis
-
-A ferramenta de BI permite que você navegue facilmente entre os diferentes níveis de hierarquia para obter insights mais detalhados. Para mudar de nível, siga as instruções abaixo:
-
-**1 - Seletor de Dimensão (Colunas/Linhas)**
-
-- **Função:** Este seletor permite que o usuário escolha a dimensão na qual deseja realizar o drill-down. Na imagem, as opções disponíveis são "Colunas" e "Linhas".
-- **Colunas:** Se selecionado, o drill-down será feito ao longo das colunas do gráfico ou tabela, explorando os dados de forma mais detalhada ao longo do eixo horizontal.
-- **Linhas:** Se selecionado, o drill-down será realizado nas linhas, explorando os dados ao longo do eixo vertical.
-- **Uso:** O usuário deve selecionar a dimensão que deseja expandir ou detalhar antes de prosseguir com o drill-down.
-
-**2 - Botão de Drill-Up**
-
-- **Função:** Este botão permite que o usuário suba um nível na hierarquia de dados após ter realizado um drill-down.
-- **Exemplo:** Se o usuário tiver detalhado as vendas de um ano específico para ver os dados mensais, ao clicar neste botão ele retornará ao nível de visualização anual.
-- **Uso:** Útil para retornar a uma visão mais agregada dos dados após explorar detalhes específicos.
-
-**3 - Botão de Drill-Down**
-
-- **Função:** Este botão permite que o usuário desça um nível na hierarquia de dados para ver informações mais detalhadas.
-- **Exemplo:** Se o usuário está visualizando dados de vendas por ano, ao clicar neste botão, ele pode detalhar para ver os dados de vendas por trimestre ou mês.
-- **Uso:** Ajuda a explorar informações mais detalhadas dentro de uma visualização, permitindo análises mais aprofundadas.
