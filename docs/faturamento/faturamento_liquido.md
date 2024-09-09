@@ -42,7 +42,7 @@ O valor total de vendas realizadas no mês atual, encerrado, com base no nível 
 #### Faturamento Mês Fechado - 1 
 O faturamento realizado no mês anterior ao atual, para facilitar a comparação de desempenho recente.
 #### % Dif.
-A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês.
+A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês. Quando houver aumento em relação ao mês anterior, o texto será exibido em verde, enquanto se houver diminuição, o texto será exibido em vermelho.
 #### Margem
 A margem de lucro gerada pelas vendas, refletindo a lucratividade das operações.
 #### PMR (Dias) 
