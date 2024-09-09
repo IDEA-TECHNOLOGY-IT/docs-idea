@@ -46,8 +46,8 @@ O terceiro método é usar botões para alternar entre diferentes visualizaçõe
 
 De forma semelhante ao terceiro método, o quarto é usar botões para alternar entre diferentes visualizações dentro de um painel, mas nesses casos as visualizações são Análise anual ou Detalhes. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open" style="margin-right: 10px;">
-  <img src="../../assets/fat_button_voltar.png" alt="Voltar">
+  <img src="../../assets/fat_button_voltar.png" alt="Voltar" style="margin-right: 10px;">
+  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open">
 </div>
 
 ### Botão para Documentação
