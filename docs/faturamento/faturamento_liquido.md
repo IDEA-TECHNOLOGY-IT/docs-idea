@@ -44,7 +44,7 @@ O faturamento realizado no mês anterior ao atual, para facilitar a comparação
 #### % Dif.
 A diferença percentual entre o faturamento do mês atual e o do mês anterior, ajudando a avaliar o crescimento ou retração mês a mês. Quando houver aumento em relação ao mês anterior, o texto será exibido em verde, enquanto se houver diminuição, o texto será exibido em vermelho.
 #### Margem
-A margem de lucro gerada pelas vendas, refletindo a lucratividade das operações.
+A "Margem de Lucro" é uma métrica financeira que mostra a porcentagem da receita que uma empresa retém como lucro após cobrir todas as despesas. Ela é calculada dividindo o Lucro Líquido pela Receita Bruta e multiplicando por 100. Uma margem mais alta indica maior eficiência em converter a receita em lucro.
 #### PMR (Dias) 
 O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor (ou a filial, cliente, fabricante ou item) leva para receber o pagamento das vendas, auxiliando na análise do ciclo de caixa.
 
