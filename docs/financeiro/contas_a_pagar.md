@@ -7,12 +7,16 @@
 
 ## Informações no Painel A Pagar
 
+### Valor A Pagar
+
 Contas a pagar representam as obrigações financeiras que uma empresa assume com fornecedores e outros credores, com o compromisso de quitação em um período futuro. 
 
 No contexto empresarial, essas contas incluem dívidas com fornecedores, salários de funcionários, impostos, aluguéis e outras despesas operacionais. No balanço patrimonial, as contas a pagar são classificadas como passivos de curto prazo, pois geralmente precisam ser liquidadas dentro de um ano.
 
 Uma gestão eficiente das contas a pagar é crucial para manter a saúde financeira da empresa, assegurando o cumprimento 
 de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negócio. Além disso, uma boa administração das contas a pagar contribui para a manutenção de relacionamentos saudáveis com os fornecedores e apoia a sustentabilidade financeira do negócio.
+
+Os visuais deste painel são focados no valor a pagar e nas áreas divisórias que este valor influencia como Tempo, Projeto e Favorecido.
 
 ## Visão Principal
 
