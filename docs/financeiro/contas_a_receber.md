@@ -7,6 +7,8 @@
 
 ## Informações no Painel A Receber
 
+### Valor A Receber
+
 A Receber representam os valores que uma empresa tem o direito de receber de seus clientes, oriundos de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
 No contexto empresarial, as contas a receber englobam valores devidos por clientes em função de vendas a crédito, financiamentos e outras transações comerciais. No balanço patrimonial, essas contas são classificadas como ativos circulantes, pois representam recursos que a empresa espera converter em caixa dentro de um curto prazo, geralmente inferior a um ano.
