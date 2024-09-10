@@ -10,10 +10,6 @@
   <h6>Imagem 2: Painel Inadimplência - Visão de Tabela</h6>
 </div></p>
 
-
-
-## O que é Inadimplência?
-
 A inadimplência ocorre quando uma obrigação financeira não é cumprida dentro do prazo estabelecido para o pagamento. Isso significa que a empresa ou o indivíduo não realizou o pagamento conforme acordado com fornecedores, credores ou outras partes envolvidas.
 
 Esse problema representa um risco significativo para a saúde financeira e operacional de uma empresa. O não pagamento dentro do prazo pode desencadear uma série de consequências negativas, afetando tanto as finanças imediatas quanto as relações comerciais e a reputação no mercado. Entre os impactos, estão o acréscimo de multas e juros, a deterioração da classificação de crédito e o comprometimento de relacionamentos comerciais essenciais. Além disso, a inadimplência pode gerar sérios problemas de fluxo de caixa, dificultando o cumprimento de outras obrigações financeiras.
@@ -36,13 +32,33 @@ Esta página do relatório é dividida em duas visualizações, visão gráfica 
 
 Na Painel Inadimplência, você encontrará:
 
-## Visão Gráfica
+## Visão Gráfica e Tabela
+
+### Inadimplência x Projeto, Filial ou Dimensão
+
+<p><div align="center">
+  <img src="../../assets/flux_rec_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
+  <h6>Imagem 3: Inadimplência x Projeto, Filial ou Dimensão</h6>
+</div></p>
+
+Uma matriz exibindo o valor da "Inadimplência" com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta crucial para análise financeira e tomada de decisão. Ao organizar as inadimplências por essas categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os valores inadimplentes estão concentrados e rastreiem os pagamentos em atraso de diferentes projetos ou filiais. Essa análise detalhada é importante para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem estar enfrentando problemas de inadimplência, o que pode impactar a saúde financeira geral da organização.
+
+Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica dentro da matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou painéis, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente em áreas específicas de inadimplência, facilitando a análise de conexões entre as contas em atraso e outras áreas financeiras da organização. Isso agiliza o processo de isolamento de dados críticos, permitindo uma tomada de decisão mais rápida e informada.
+
+Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar as Filiais e Dimensões associadas a esse projeto, proporcionando uma visão mais detalhada da estrutura de inadimplência. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade. Isso torna a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios, oferecendo uma visão clara e detalhada da inadimplência e suas implicações financeiras.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
 ### Aging - Inadimplência
 
 <p><div align="center">
   <img src="../../assets/flux_inadim_aging.png" alt="Aging Inadimplência">
-  <h6>Imagem 3: Aging - Inadimplência</h6>
+  <h6>Imagem 4: Aging - Inadimplência</h6>
 </div></p>
 
 O gráfico de barras divide a inadimplência em 5 categorias, a primeira das quais é o valor que está em atraso por mais de 120 dias, diminuindo em intervalos de 30 dias e terminando com qualquer coisa que esteja em atraso por até 30 dias. Ele também tem um rótulo de detalhes mostrando a porcentagem do total de inadimplência que se enquadra em cada categoria.
@@ -63,31 +79,31 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Aprimorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios de fluxo de caixa e alocar recursos de forma eficaz,
 - Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
-### Inadimplência por Cliente, Origem, Filial ou Projeto
+### Inadimplência por Cliente ou Origem
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente">
-  <h6>Imagem 4: Inadimplência por Cliente, Origem, Filial ou Projeto</h6>
+  <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente ou Origem">
+  <h6>Imagem 5: Inadimplência por Cliente ou Origem</h6>
 </div></p>
 
-Um gráfico de barras que segmenta a inadimplência por cliente, origem, filial ou projeto oferece uma poderosa ferramenta para a gestão e análise financeira da empresa. Esse tipo de gráfico fornece uma visão clara e rápida das áreas que concentram os maiores montantes em atraso, seja por cliente, origem, filial ou projeto, permitindo à gestão identificar facilmente os principais pontos de preocupação. Essa visualização facilita a priorização das ações de cobrança, garantindo que os casos mais críticos recebam atenção imediata. Ao tratar primeiro os maiores riscos, a empresa pode reduzir as perdas potenciais e manter o fluxo de caixa saudável e estável.
+Um gráfico de barras que segmenta a inadimplência por cliente ou origem oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes ou origens têm os maiores valores em atraso, permitindo que a administração identifique facilmente onde os montantes mais significativos de inadimplência estão concentrados. Essa análise comparativa permite direcionar os esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação das dívidas mais críticas primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de inadimplências fortemente associadas a um cliente ou origem específico, o que pode representar riscos financeiros maiores caso os valores não sejam recebidos. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e um melhor alinhamento das obrigações financeiras futuras com os recebíveis.
 
-Além disso, o gráfico ajuda a identificar concentrações de risco, como grandes montantes devidos por um cliente ou em uma conta específica, o que pode indicar uma dependência excessiva de certos clientes ou setores e um potencial risco financeiro. Compreendendo essa concentração, a empresa pode ajustar suas estratégias de cobrança e renegociar condições de pagamento para minimizar o risco de inadimplência. O gráfico também auxilia no monitoramento do desempenho financeiro das diferentes filiais e projetos envolvidos, fornecendo insights sobre onde os maiores atrasos estão ocorrendo e permitindo uma gestão mais eficaz dos recursos.
-
-Assim como nos pagáveis, o gráfico de inadimplência pode ser uma ferramenta estratégica nas negociações com clientes. Ao ter uma visão clara dos montantes em atraso, a empresa pode negociar melhores condições de pagamento, como prazos mais curtos ou acordos de parcelamento, visando recuperar valores de forma mais eficiente. Isso não apenas ajuda a melhorar o fluxo de caixa, mas também fortalece as relações comerciais ao demonstrar uma abordagem proativa na resolução de atrasos. Em última análise, ao destacar onde a inadimplência está concentrada, o gráfico informa decisões estratégicas, como a alocação de recursos para cobranças e a necessidade de ajustes nos termos de crédito. Esse gráfico de barras, portanto, é uma ferramenta essencial para otimizar o fluxo de caixa, mitigar riscos financeiros e melhorar a gestão financeira global do negócio.
+O gráfico também é valioso para monitorar o comportamento de pagamento de diferentes clientes e origens ao longo do tempo, oferecendo insights sobre padrões de inadimplência. Essas informações podem orientar decisões sobre estratégias de crédito, gestão de contas e políticas de cobrança. Além disso, o gráfico pode ser utilizado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ao apresentar um panorama claro das dívidas em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde as inadimplências estão concentradas, seja por origem ou cliente, o gráfico informa a tomada de decisões estratégicas, como a priorização de cobranças ou a revisão dos termos de crédito para clientes específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir a inadimplência, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode mover para cima ou para baixo entre Cliente, Origem, Filial ou Projeto para analisar a área necessária.
+Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
+
+## Visão Gráfica
 
 ### Inadimplência por Mês
 
 <p><div align="center">
   <img src="../../assets/flux_inadim_mes.png" alt="Inadimplência por Mês">
-  <h6>Imagem 5: Inadimplência por Mês</h6>
+  <h6>Imagem 6: Inadimplência por Mês</h6>
 </div></p>
 
 O gráfico ilustra inadimplências por mês e ano, destacando três elementos principais:
@@ -106,7 +122,7 @@ Esses três elementos, em conjunto, oferecem uma visão completa da saúde finan
 
 <p><div align="center">
   <img src="../../assets/flux_inadim_tabela.png" alt="Inadim Tabela">
-  <h6>Imagem 6: Tabela de Detalhes de Inadimplência</h6>
+  <h6>Imagem 7: Tabela de Detalhes de Inadimplência</h6>
 </div></p>
 
 Este gráfico exibe uma tabela detalhada das inadimplências, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada inadimplência, desde o cliente até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada valor inadimplente, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos recebíveis em atraso. Com esta estrutura, a empresa pode monitorar detalhadamente os pagamentos não realizados, identificar padrões de inadimplência e tomar decisões informadas para mitigar riscos financeiros, garantindo que medidas apropriadas sejam tomadas para recuperar valores em atraso e manter a saúde financeira da empresa. A seguir, explicamos como interpretar cada coluna da tabela.
