@@ -10,7 +10,13 @@
   <h6>Imagem 2: Painel Pagamentos Vencidos - Visão de Tabela</h6>
 </div></p>
 
-## O que são Pagamentos Vencidos?
+## Navigação
+
+Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+
+## Informações no Painel Pagamentos Vencidos
+
+### Valor de Pagamentos Vencidos
 
 Pagamentos vencidos são obrigações financeiras que ultrapassaram a data de vencimento estabelecida para o pagamento. Isso indica que a empresa ou o indivíduo não efetuou o pagamento no prazo acordado com o fornecedor, credor ou qualquer outra parte envolvida.
 
@@ -28,9 +34,13 @@ Os pagamentos vencidos representam um desafio significativo para a saúde financ
 
 Em resumo, pagamentos vencidos indicam que a empresa não está cumprindo com suas obrigações financeiras de forma adequada, o que pode ter várias consequências negativas. Muitas vezes, isso ocorre porque o gestor não possui uma ferramenta eficaz para monitorar esses pagamentos. O BI Financeiro, auxilia o gestor na identificação de pagamentos vencidos e na tomada de decisões apropriadas.
 
-Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+### Índice de Pagamentos Vencidos (%)
 
-Na Painel Pagamentos Vencidos, você encontrará:
+O Índice de Pagamentos Vencidos (%) é uma métrica essencial para a gestão financeira e a saúde econômica de uma empresa. Este índice reflete a porcentagem de pagamentos que estão vencidos em relação ao total de pagamentos devidos, oferecendo uma visão clara da eficácia na gestão de contas a pagar e no controle de obrigações financeiras. Um índice de pagamentos vencidos elevado pode indicar problemas na capacidade de cumprir com as obrigações financeiras dentro dos prazos estabelecidos, o que pode afetar o fluxo de caixa e a estabilidade financeira da empresa. Monitorar e analisar esse índice permite identificar padrões de atraso, ajustar políticas de pagamento e melhorar a gestão das contas a pagar. Além disso, um controle eficaz dos pagamentos vencidos contribui para uma melhor previsão de fluxo de caixa e ajuda na tomada de decisões estratégicas, como a revisão de prazos de pagamento e a alocação de recursos para evitar multas e penalidades. Em resumo, o Índice de Pagamentos Vencidos (%) é crucial para manter a saúde financeira da empresa, minimizar riscos e garantir a sustentabilidade financeira a longo prazo.
+
+No contexto deste relatório, o valor de referência para o Índice de Pagamentos Vencidos é inferior a 5%, uma vez que este é frequentemente considerado favorável. Você verá a cor do texto deste Indicador ficar vermelho quando estiver acima de 5% e verde quando estiver abaixo. Esta baixa percentagem indica que uma pequena proporção das contas a pagar está vencida, sugerindo uma gestão eficiente dos pagamentos e uma boa capacidade de cumprimento das obrigações financeiras. Manter um índice baixo é benéfico porque reflete um fluxo de caixa saudável, risco reduzido de multas e penalidades, e práticas de pagamento eficazes.
+
+Ao utilizar filtros ou clicar em pontos de dados nas visualizações deste painel, o Índice de Pagamentos Vencidos (%) será ajustado automaticamente para refletir apenas os dados relevantes à seleção feita. Isso permite uma análise mais detalhada e personalizada, ajudando a focar em segmentos específicos, como determinados períodos, projetos ou fornecedores. Com essa interatividade, você pode explorar como diferentes variações ou índices afetam o panorama geral e obter insights mais precisos sobre a gestão dos pagamentos vencidos em diferentes contextos.
 
 ## Visão Gráfica e Tabela
 
