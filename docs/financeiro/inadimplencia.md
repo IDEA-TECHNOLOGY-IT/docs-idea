@@ -12,9 +12,9 @@
 
 ## Informações no Painel Inadimplência
 
-Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+### Navigação
 
-Na Painel Inadimplência, você encontrará:
+Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
 
 ### Valor Inadimplência
 
