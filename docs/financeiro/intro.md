@@ -39,12 +39,19 @@ Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontr
   <img src="../../assets/flux_saldo_close.png" alt="Saldo Close" style="height: 150px;">
 </div>
 
-### Botões de Tabela ou Gráfico
+### Botões para Diferentes Visões
 
-O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
+O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px; height: 50px;">
   <img src="../../assets/flux_button_tabela.png" alt="Tabela Open" style="height: 50px;">
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_button_vmensal.png" alt="Voltar Mensal" style="margin-right: 10px; height: 50px;">
+  <img src="../../assets/flux_button_mensal.png" alt="Mensal Open" style="height: 50px;">
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/flux_button_vflux.png" alt="Voltar Flux" style="height: 50px;">
 </div>
 
 ### Botão para Documentação
