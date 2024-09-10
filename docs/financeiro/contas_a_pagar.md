@@ -5,6 +5,8 @@
   <h6>Imagem 1: Painel A Pagar</h6>
 </div></p>
 
+## Informações no Painel A Pagar
+
 Contas a pagar representam as obrigações financeiras que uma empresa assume com fornecedores e outros credores, com o compromisso de quitação em um período futuro. 
 
 No contexto empresarial, essas contas incluem dívidas com fornecedores, salários de funcionários, impostos, aluguéis e outras despesas operacionais. No balanço patrimonial, as contas a pagar são classificadas como passivos de curto prazo, pois geralmente precisam ser liquidadas dentro de um ano.
@@ -12,7 +14,9 @@ No contexto empresarial, essas contas incluem dívidas com fornecedores, salári
 Uma gestão eficiente das contas a pagar é crucial para manter a saúde financeira da empresa, assegurando o cumprimento 
 de todas as obrigações sem comprometer o fluxo de caixa ou a liquidez do negócio. Além disso, uma boa administração das contas a pagar contribui para a manutenção de relacionamentos saudáveis com os fornecedores e apoia a sustentabilidade financeira do negócio.
 
-## A Pagar x Projeto, Filial ou Dimensão
+## Visão Principal
+
+### A Pagar x Projeto, Filial ou Dimensão
 
 <p><div align="center">
   <img src="../../assets/flux_pag_projeto.png" alt="A Pagar x Projeto, Filial ou Dimensão">
@@ -32,7 +36,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
-## Aging - Contas a Pagar
+### Aging - Contas a Pagar
 
 <p><div align="center">
   <img src="../../assets/flux_pag_aging.png" alt="Aging - Contas a Pagar">
@@ -53,7 +57,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
 - Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
-## A Pagar X Favorecido ou Origem
+### A Pagar X Favorecido ou Origem
 
 <p><div align="center">
   <img src="../../assets/flux_pag_fav.png" alt="A Pagar X Favorecido ou Origem">
@@ -71,7 +75,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar para cima ou para baixo entre Favorecido ou Origem, facilitando a análise detalhada da área de interesse.
 
-## A Pagar por Data
+### A Pagar por Data
 
 <p><div align="center">
   <img src="../../assets/flux_pag_data.png" alt="A Pagar por Data">
