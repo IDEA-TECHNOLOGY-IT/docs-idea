@@ -23,20 +23,20 @@ Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente
 
 A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 200px;">
+  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
 ### Botões de Ver mais
 
 A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 200px;">
+  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
 Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#caixa-de-saldo-total-em-contas). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px; height: 200px;">
-  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close" style="height: 200px;">
+  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close" style="height: 150px;">
 </div>
 
 ### Botões de Tabela ou Gráfico
@@ -44,7 +44,7 @@ Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontr
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px; height: 50px;">
-  <img src="../../assets/flux_button_tabela.png" alt="Tabela Open">
+  <img src="../../assets/flux_button_tabela.png" alt="Tabela Open" style="height: 50px;">
 </div>
 
 ### Botão para Documentação
@@ -70,55 +70,55 @@ Aqui está uma visão geral dos botões disponíveis na barra de menu:
 Este botão retorna os usuários à página principal, chamada "Painel Financeiro". Esta página serve como o ponto central de partida, proporcionando uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
 ### Botão A Receber
-<p><img src="../../assets/flux_menu_rec1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_rec2.png" alt="rb2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_rec1.png" alt="Rec1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_rec2.png" alt="Rec2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao clicar neste botão, os usuários são direcionados para a página "A Receber". Esta página oferece visualizações e análises detalhadas sobre os valores que a empresa ainda precisa receber.
   
 ### Botão A Pagar
-<p><img src="../../assets/flux_menu_pag1.png" alt="ced1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pag2.png" alt="ced2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_pag1.png" alt="Pag1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pag2.png" alt="Pag2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao clicar neste botão, os usuários são levados à página "A Pagar". Nesta seção, eles podem visualizar e analisar as obrigações financeiras que a empresa ainda precisa quitar.
   
 ###  Botão Inadimplência
-<p><img src="../../assets/flux_menu_inadim1.png" alt="ll1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_inadim2.png" alt="ll2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_inadim1.png" alt="Inadim1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_inadim2.png" alt="Inadim2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao selecionar este botão, os usuários são direcionados para a página "Inadimplência". Nesta seção, eles encontrarão insights detalhados sobre pagamentos em atraso que ainda não foram recebidos.
   
 ### Botão Pagamentos Vencidos
-<p><img src="../../assets/flux_menu_venc1.png" alt="ebitda1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_venc2.png" alt="ebitda2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_venc1.png" alt="Venc1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_venc2.png" alt="Venc2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona os usuários para a página "Pagamentos Vencidos". Nesta seção, são fornecidos insights detalhados sobre pagamentos que já passaram da data de vencimento e ainda não foram quitados.
   
 ### Botão Painel de Recebimentos Realizados
-<p><img src="../../assets/flux_menu_pmr1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pmr2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_pmr1.png" alt="PMR1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pmr2.png" alt="PMR2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Clicar neste botão leva os usuários à página "Painel de Recebimentos Realizados". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
   
 ### Botão Painel de Pagamentos Realizados
-<p><img src="../../assets/flux_menu_pmp1.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pmp2.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_pmp1.png" alt="PMP1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_pmp2.png" alt="PMP2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão direciona os usuários para a página "Painel de Pagamentos Realizados", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
   
 ### Botão Fluxo de Caixa
-<p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_inadim2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux_menu_fluxo1.png" alt="Flux1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux_menu_fluxo2.png" alt="Flux2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
 ## Filtros
 
 <div align="center">
-  <img src="../../assets/flux_filtros1.png" alt="Financeiro Filtros">
+  <img src="../../assets/flux_filtros1.png" alt="Financeiro Filtros1" style="vertical-align: middle; height: 50px;">
   <h6>Imagem 3: Filtros Visão 1</h6>
 </div>
 <div align="center">
-  <img src="../../assets/flux_filtros2.png" alt="Financeiro Filtros">
+  <img src="../../assets/flux_filtros2.png" alt="Financeiro Filtros2" style="vertical-align: middle; height: 50px;">
   <h6>Imagem 4: Filtros Visão 2</h6>
 </div>
 
@@ -130,7 +130,7 @@ Esses filtros são configurados com base nos dados da empresa, permitindo filtra
 
 ###	Empresa/Filial
 <p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
-Este filtro permite refinar os dados com base em uma filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada filial.
+Este filtro permite refinar os dados com base em uma 'Empresa' ou 'Filial' específica da empresa. Ao selecionar uma empresa ou filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada empresa ou filial.
 
 ###	Conta
 <p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
@@ -142,7 +142,7 @@ Este filtro ajusta automaticamente as opções exibidas com base no painel em vi
 
 ###	Dimensão/Centro de Custo
 <p><img src="../../assets/flux_filtros_dimensao.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
-Este filtro permite refinar os dados selecionando entre várias dimensões e suas respectivas subcategorias, organizadas em uma hierarquia definida pelo cliente. Ao escolher uma dimensão, como a dimensão '2,' ou ao expandi-la para visualizar e selecionar subcategorias específicas como 'Água,' 'Eletricidade,' ou 'Gás,' todos os visuais no relatório são atualizados para refletir essas escolhas. Isso facilita a análise detalhada, permitindo uma visão mais estruturada e personalizada dos dados conforme as necessidades do usuário.
+Este filtro permite refinar os dados selecionando entre várias dimensões (centro de custos) e suas respectivas subcategorias, organizadas em uma hierarquia definida pelo cliente. Ao escolher uma dimensão, como a dimensão '2,' ou ao expandi-la para visualizar e selecionar subcategorias específicas como 'Água,' 'Eletricidade,' ou 'Gás,' todos os visuais no relatório são atualizados para refletir essas escolhas. Isso facilita a análise detalhada, permitindo uma visão mais estruturada e personalizada dos dados conforme as necessidades do usuário.
 
 ###	Projeto
 <p><img src="../../assets/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
