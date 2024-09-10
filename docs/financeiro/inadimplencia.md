@@ -37,7 +37,7 @@ Na Painel Inadimplência, você encontrará:
 ### Inadimplência x Projeto, Filial ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
+  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
   <h6>Imagem 3: Inadimplência x Projeto, Filial ou Dimensão</h6>
 </div></p>
 
