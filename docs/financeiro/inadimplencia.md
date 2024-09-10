@@ -28,7 +28,7 @@ Diante desses riscos, é essencial que as empresas adotem práticas eficazes de 
 
 Em resumo, a inadimplência indica que a empresa não está cumprindo suas obrigações financeiras de forma adequada, o que pode ter várias consequências negativas. Muitas vezes, isso ocorre porque o gestor não possui uma ferramenta eficaz para monitorar esses pagamentos. O BI Financeiro auxilia o gestor na identificação de inadimplências e na tomada de decisões apropriadas.
 
-Esta página do relatório é dividida em duas visualizações, visão gráfica e visão de tabela.
+Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
 
 Na Painel Inadimplência, você encontrará:
 
