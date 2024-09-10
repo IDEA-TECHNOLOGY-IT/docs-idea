@@ -11,11 +11,31 @@ No contexto empresarial, as contas a receber englobam valores devidos por client
 
 Uma gestão eficiente das contas a receber é crucial para garantir a liquidez da empresa e o fluxo de caixa necessário para suas operações. Isso envolve o monitoramento rigoroso dos prazos de pagamento, a identificação e minimização dos riscos de inadimplência e a garantia de que os recebíveis sejam convertidos em caixa o mais rapidamente possível. Além disso, uma boa administração das contas a receber contribui para a manutenção de relacionamentos saudáveis com os clientes e apoia a sustentabilidade financeira do negócio.
 
+## A Receber x Projeto, Filial ou Dimensão
+
+<p><div align="center">
+  <img src="../../assets/flux_rec_projeto.png" alt="A Receber x Projeto, Filial ou Dimensão">
+  <h6>Imagem 2: A Receber x Projeto, Filial ou Dimensão</h6>
+</div></p>
+
+Uma matriz exibindo o valor de "A Receber" com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta crucial para análise financeira e tomada de decisão. Ao organizar os recebíveis pendentes por essas categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os recebíveis estão concentrados e rastreiem os pagamentos devidos de diferentes projetos ou filiais. Essa análise detalhada é importante para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem ter pagamentos atrasados ​​e podem impactar a saúde financeira geral da organização.
+
+Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica dentro da matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou gráficos, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente em áreas específicas de interesse, facilitando a análise de conexões entre recebíveis e suas áreas respeitadas. Isso agiliza o processo de isolamento de dados críticos, permitindo uma tomada de decisão mais rápida e informada.
+
+Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar os Filiais e Dimensões associados a esse projeto, dando uma visão mais detalhada da estrutura de recebíveis. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade, tornando a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+
 ## Aging - Contas a Receber
 
 <p><div align="center">
   <img src="../../assets/flux_rec_aging.png" alt="Aging - Contas a Receber">
-  <h6>Imagem 2: Aging - Contas a Receber</h6>
+  <h6>Imagem 3: Aging - Contas a Receber</h6>
 </div></p>
 
 O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
@@ -32,16 +52,16 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
 - Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
-## A Receber x Cliente, Origem, Filial ou Projeto
+## A Receber x Cliente ou Origem
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_cliente.png" alt="A Receber x Cliente">
-  <h6>Imagem 3: A Receber x Cliente, Origem, Filial ou Projeto</h6>
+  <img src="../../assets/flux_rec_cliente.png" alt="A Receber x Cliente ou Origem">
+  <h6>Imagem 4: A Receber x Cliente ou Origem</h6>
 </div></p>
 
-Um gráfico de barras que segmenta os recebíveis por cliente, conta, empresa ou projeto oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes, contas, empresas ou projetos têm os maiores valores em aberto, permitindo que a administração identifique facilmente onde os montantes mais significativos de dinheiro estão alocados. Essa análise comparativa permite direcionar esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação dos maiores recebíveis primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de recebíveis fortemente associados a um cliente, conta, empresa ou projeto específico, o que pode representar riscos financeiros caso não sejam recebidos a tempo. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e melhor alinhamento dos recebíveis com as obrigações financeiras futuras.
+Um gráfico de barras que segmenta os recebíveis por cliente ou origem oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes ou origens têm os maiores valores em aberto, permitindo que a administração identifique facilmente onde os montantes mais significativos de dinheiro estão alocados. Essa análise comparativa permite direcionar esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação dos maiores recebíveis primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de recebíveis fortemente associados a um cliente ou origem específico, o que pode representar riscos financeiros caso não sejam recebidos a tempo. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e melhor alinhamento dos recebíveis com as obrigações financeiras futuras.
 
-O gráfico também é valioso para monitorar o desempenho de diferentes contas e empresas, oferecendo insights sobre os comportamentos de pagamento ao longo do tempo. Essas informações podem orientar decisões sobre estratégias de vendas, gestão de contas e políticas empresariais. Além disso, o gráfico pode ser usado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ou empresas ao apresentar um panorama claro dos pagamentos em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde os recebíveis estão concentrados, seja por conta ou empresa, o gráfico informa a tomada de decisões estratégicas, como a alocação de recursos ou a necessidade de revisar os termos de engajamento com clientes ou projetos específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir o fluxo de caixa, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
+O gráfico também é valioso para monitorar o desempenho de diferentes clientes e origens, oferecendo insights sobre os comportamentos de pagamento ao longo do tempo. Essas informações podem orientar decisões sobre estratégias de vendas, gestão de contas e políticas empresariais. Além disso, o gráfico pode ser usado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ao apresentar um panorama claro dos pagamentos em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde os recebíveis estão concentrados, seja por origem ou cliente, o gráfico informa a tomada de decisões estratégicas, como a alocação de recursos ou a necessidade de revisar os termos de engajamento com clientes específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir o fluxo de caixa, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
@@ -54,7 +74,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente, O
 
 <p><div align="center">
   <img src="../../assets/flux_rec_data.png" alt="A Receber por Data">
-  <h6>Imagem 4: A Receber por Data</h6>
+  <h6>Imagem 5: A Receber por Data</h6>
 </div></p>
 
 Este gráfico exibe uma tabela detalhada das contas a receber, organizada por data de vencido, que apresenta uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada fatura, desde o cliente até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada conta a receber, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos recebíveis. Através desta estrutura, a empresa pode monitorar detalhadamente o fluxo de caixa e tomar decisões informadas sobre o gerenciamento financeiro. A seguir, explicamos como interpretar cada coluna da tabela.
