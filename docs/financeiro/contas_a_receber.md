@@ -5,13 +5,19 @@
   <h6>Imagem 1: Painel A Receber</h6>
 </div></p>
 
+## Informações no
+
 A Receber representam os valores que uma empresa tem o direito de receber de seus clientes, oriundos de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
 No contexto empresarial, as contas a receber englobam valores devidos por clientes em função de vendas a crédito, financiamentos e outras transações comerciais. No balanço patrimonial, essas contas são classificadas como ativos circulantes, pois representam recursos que a empresa espera converter em caixa dentro de um curto prazo, geralmente inferior a um ano.
 
 Uma gestão eficiente das contas a receber é crucial para garantir a liquidez da empresa e o fluxo de caixa necessário para suas operações. Isso envolve o monitoramento rigoroso dos prazos de pagamento, a identificação e minimização dos riscos de inadimplência e a garantia de que os recebíveis sejam convertidos em caixa o mais rapidamente possível. Além disso, uma boa administração das contas a receber contribui para a manutenção de relacionamentos saudáveis com os clientes e apoia a sustentabilidade financeira do negócio.
 
-## A Receber x Projeto, Filial ou Dimensão
+Os visuais deste painel são focados no valor a receber e nas áreas divisórias que este valor influencia como Tempo, Projeto e Favorecido.
+
+## Visão Principal
+
+### A Receber x Projeto, Filial ou Dimensão
 
 <p><div align="center">
   <img src="../../assets/flux_rec_projeto.png" alt="A Receber x Projeto, Filial ou Dimensão">
@@ -31,7 +37,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
-## Aging - Contas a Receber
+### Aging - Contas a Receber
 
 <p><div align="center">
   <img src="../../assets/flux_rec_aging.png" alt="Aging - Contas a Receber">
@@ -52,7 +58,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
 - Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
-## A Receber x Cliente ou Origem
+### A Receber x Cliente ou Origem
 
 <p><div align="center">
   <img src="../../assets/flux_rec_cliente.png" alt="A Receber x Cliente ou Origem">
@@ -70,7 +76,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente ou Origem, para analisar a área desejada.
 
-## A Receber por Data
+### A Receber por Data
 
 <p><div align="center">
   <img src="../../assets/flux_rec_data.png" alt="A Receber por Data">
