@@ -107,7 +107,7 @@ Este botão direciona os usuários para a página "Painel de Pagamentos Realizad
   
 ### Botão Fluxo de Caixa
 <p><img src="../../assets/flux_menu_inadim1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_inadim1.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<img src="../../assets/flux_menu_inadim2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
@@ -128,7 +128,7 @@ Ao modificar qualquer filtro, todos os gráficos, tabelas e outros elementos vis
 
 Esses filtros são configurados com base nos dados da empresa, permitindo filtragens por áreas específicas, como projeto ou filial. Por exemplo, se você deseja analisar os dados de um projeto específico, como "Novo Edifício", basta selecioná-lo no filtro. A partir desse momento, todas as visualizações em cada página do relatório serão atualizadas para mostrar apenas os dados relacionados a esse projeto.
 
-###	Filial
+###	Empresa/Filial
 <p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite refinar os dados com base em uma filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada filial.
 
@@ -137,11 +137,11 @@ Este filtro permite refinar os dados com base em uma filial específica da empre
 Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
 
 ###	Cliente/Favorecido
-<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux_filtros_cliente.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro ajusta automaticamente as opções exibidas com base no painel em visualização, apresentando 'Cliente' ou 'Favorecido' conforme o contexto. Ao selecionar a opção apropriada, todos os visuais nas páginas correspondentes do relatório são atualizados para refletir as informações pertinentes. Isso agiliza o processo de análise, proporcionando uma visão mais clara e focada, permitindo uma navegação rápida e eficaz entre diferentes contextos de dados.
 
-###	Dimensão
-<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+###	Dimensão/Centro de Custo
+<p><img src="../../assets/flux_filtros_dimensao.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite refinar os dados selecionando entre várias dimensões e suas respectivas subcategorias, organizadas em uma hierarquia definida pelo cliente. Ao escolher uma dimensão, como a dimensão '2,' ou ao expandi-la para visualizar e selecionar subcategorias específicas como 'Água,' 'Eletricidade,' ou 'Gás,' todos os visuais no relatório são atualizados para refletir essas escolhas. Isso facilita a análise detalhada, permitindo uma visão mais estruturada e personalizada dos dados conforme as necessidades do usuário.
 
 ###	Projeto
