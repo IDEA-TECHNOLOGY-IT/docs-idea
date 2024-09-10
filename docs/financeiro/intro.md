@@ -23,27 +23,27 @@ Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente
 
 A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 200px;">
 </div>
 
 ### Botões de Ver mais
 
 A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 200px;">
 </div>
 
-Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
+Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#caixa-de-saldo-total-em-contas). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px;">
-  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close">
+  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px; height: 200px;">
+  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close" style="height: 200px;">
 </div>
 
 ### Botões de Tabela ou Gráfico
 
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/flux_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px; height: 50px;">
   <img src="../../assets/flux_button_tabela.png" alt="Tabela Open">
 </div>
 
