@@ -5,9 +5,11 @@
   <h6>Imagem 1: Painel de Pagamentos Realizados</h6>
 </div></p>
 
+## Informações no Painel de Pagamentos Realizados
+
 O Painel de Pagamentos Realizados oferece uma visão abrangente e detalhada das transações financeiras realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos pagamentos. Neste painel você encontrará informações sobre o Prazo Médio de Pagamento (PMP) bem como detalhes das transações concluídas.
 
-## Prazo Médio de Pagamento (PMP)
+### Prazo Médio de Pagamento (PMP)
 
 O prazo médio de pagamento (PMP) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para liquidar suas obrigações com fornecedores. Calculamos o tempo, em dias, desde a criação do documento até o pagamento de cada transação, somamos esses dias e depois dividimos pela quantidade de transações que foram feitas. Esse cálculo é aplicado a diferentes áreas do negócio, como clientes ou projetos. Esse indicador é crucial para a gestão financeira, pois permite monitorar o desempenho financeiro da empresa, manter o equilíbrio entre entradas e saídas de recursos e evitar contratempos que podem afetar as negociações e a reputação da empresa no mercado.
 
@@ -23,7 +25,9 @@ Alguns dos benefícios de analisar o PMP são:
 
 **Tomada de Decisões Financeiras:** Com base no PMP, o gestor financeiro pode tomar decisões estratégicas sobre a melhor alocação de recursos, planejando pagamentos de forma a otimizar o uso do caixa sem comprometer as relações comerciais.
 
-## PMP x Favorecido ou Origem
+## Visão Principal
+
+### PMP x Favorecido ou Origem
 
 <p><div align="center">
   <img src="../../assets/flux_pmp_fav.png" alt="PMP Fav">
@@ -43,7 +47,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre Favorecido e Origem para categorizar as áreas de interesse.
 
-## PMP x Filial ou Projeto
+### PMP x Filial ou Projeto
 
 <p><div align="center">
   <img src="../../assets/flux_pmp_filial.png" alt="PMP Filial">
@@ -63,7 +67,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode mover para cima ou para baixo para navegar entre Filiais ou Projetos para analisar a área necessária.
 
-## Pagamento por Data
+### Pagamento por Data
 
 <p><div align="center">
   <img src="../../assets/flux_pmp_tabela.png" alt="PMP Tabela">
