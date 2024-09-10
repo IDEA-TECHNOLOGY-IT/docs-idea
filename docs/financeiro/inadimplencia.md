@@ -10,6 +10,14 @@
   <h6>Imagem 2: Painel Inadimplência - Visão de Tabela</h6>
 </div></p>
 
+## Informações no Painel Inadimplência
+
+Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+
+Na Painel Inadimplência, você encontrará:
+
+### Valor Inadimplência
+
 A inadimplência ocorre quando uma obrigação financeira não é cumprida dentro do prazo estabelecido para o pagamento. Isso significa que a empresa ou o indivíduo não realizou o pagamento conforme acordado com fornecedores, credores ou outras partes envolvidas.
 
 Esse problema representa um risco significativo para a saúde financeira e operacional de uma empresa. O não pagamento dentro do prazo pode desencadear uma série de consequências negativas, afetando tanto as finanças imediatas quanto as relações comerciais e a reputação no mercado. Entre os impactos, estão o acréscimo de multas e juros, a deterioração da classificação de crédito e o comprometimento de relacionamentos comerciais essenciais. Além disso, a inadimplência pode gerar sérios problemas de fluxo de caixa, dificultando o cumprimento de outras obrigações financeiras.
@@ -28,9 +36,13 @@ Diante desses riscos, é essencial que as empresas adotem práticas eficazes de 
 
 Em resumo, a inadimplência indica que a empresa não está cumprindo suas obrigações financeiras de forma adequada, o que pode ter várias consequências negativas. Muitas vezes, isso ocorre porque o gestor não possui uma ferramenta eficaz para monitorar esses pagamentos. O BI Financeiro auxilia o gestor na identificação de inadimplências e na tomada de decisões apropriadas.
 
-Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+### Índice de Inadimplência (%)
 
-Na Painel Inadimplência, você encontrará:
+O Índice de Inadimplência (%) é uma métrica crucial para a gestão financeira e a saúde econômica de uma empresa. Este índice reflete a porcentagem de contas a receber que estão em atraso em relação ao total de contas emitidas, oferecendo uma visão clara da eficácia na gestão de crédito e cobrança. Um índice de inadimplência elevado pode indicar problemas na qualidade dos créditos concedidos ou na eficiência dos processos de cobrança, potencialmente afetando o fluxo de caixa e a estabilidade financeira da empresa. Monitorar e analisar esse índice permite identificar padrões de inadimplência, ajustar políticas de crédito e melhorar estratégias de cobrança. Além disso, um controle eficaz da inadimplência contribui para uma melhor previsão de fluxo de caixa e ajuda na tomada de decisões estratégicas, como a revisão de termos de crédito e a alocação de recursos para a recuperação de dívidas. Em resumo, o Índice de Inadimplência (%) é essencial para manter a saúde financeira da empresa, minimizar riscos e garantir a sustentabilidade financeira a longo prazo.
+
+No contexto deste relatório, o valor de referência para o Índice de Inadimplência é inferior a 5%, uma vez que este é frequentemente considerado favorável. Você verá a cor do texto deste [Indicador]() ficar vermelho quando estiver acima de 5% e verde quando estiver abaixo. Esta baixa percentagem indica que uma pequena proporção das contas a receber está vencida, sugerindo uma gestão de crédito eficaz e uma base de clientes fiável. Manter um índice baixo é benéfico porque reflete um fluxo de caixa saudável, risco reduzido de dívidas inadimplentes e práticas de cobrança eficientes.
+
+Ao utilizar filtros ou clicar em pontos de dados nas visualizações neste painel, o Índice de Inadimplência (%) será ajustado automaticamente para refletir apenas os dados relevantes à seleção feita. Isso permite uma análise mais detalhada e personalizada, ajudando a focar em segmentos específicos, como determinados períodos, clientes ou origens. Com essa interatividade, você pode explorar como diferentes variações ou índices e obter insights mais precisos sobre a inadimplência em diferentes contextos.
 
 ## Visão Gráfica e Tabela
 
