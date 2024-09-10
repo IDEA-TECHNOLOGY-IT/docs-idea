@@ -5,7 +5,7 @@
   <h6>Imagem 1: Painel A Receber</h6>
 </div></p>
 
-## Informações no
+## Informações no Painel A Receber
 
 A Receber representam os valores que uma empresa tem o direito de receber de seus clientes, oriundos de vendas de produtos ou serviços a prazo, com a expectativa de recebimento em um período futuro.
 
