@@ -5,9 +5,13 @@
   <h6>Imagem 1: Painel de Recebimentos Realizados</h6>
 </div></p>
 
+## Informações no Painel de Recebimentos Realizados
+
+### Valor Recebimento
+
 O Painel de Recebimentos Realizados oferece uma visão abrangente e detalhada das transações financeiras de entrada realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos recebimentos. Neste painel, você encontrará informações sobre o Prazo Médio de Recebimento (PMR) bem como detalhes das transações concluídas.
 
-## Prazo Médio de Recebimento (PMR)
+### Prazo Médio de Recebimento (PMR)
 
 O prazo médio de recebimento (PMR) é um indicador financeiro essencial que calcula o tempo médio que uma empresa leva para receber os pagamentos de seus clientes. Calculamos o tempo, em dias, desde a emissão do documento até o recebimento de cada transação, somamos esses dias e depois dividimos pela quantidade de transações que foram concluídas. Esse cálculo é aplicado a diferentes áreas do negócio, como clientes ou projetos. Esse indicador é crucial para a gestão financeira, pois permite monitorar a eficiência na cobrança, manter o equilíbrio entre entradas e saídas de recursos, e evitar contratempos que podem impactar o fluxo de caixa e a saúde financeira da empresa.
 
@@ -23,18 +27,43 @@ Alguns dos benefícios de analisar o PMR são:
 
 **Tomada de Decisões Financeiras:** Com base no PMR, o gestor financeiro pode tomar decisões estratégicas sobre a melhor alocação de recursos, planejando recebimentos de forma a otimizar o uso do caixa e assegurar que a empresa mantenha uma posição financeira saudável.
 
-## PMR x Cliente ou Origem
+## Visão Principal
+
+### Valor Recebido e PMR x Project, Filial ou Dimensão
+
+Uma matriz exibindo o Valor Recebido e o Prazo Médio de Recebimento (PMR) com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta fundamental para análise financeira e tomada de decisão. Ao organizar esses dados por categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os valores recebidos e os tempos de recebimento variam entre diferentes projetos ou filiais. Essa análise detalhada é crucial para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem estar enfrentando desafios relacionados ao tempo de recebimento, o que pode impactar a saúde financeira geral da organização.
+
+Além disso, a matriz se torna ainda mais útil com recursos interativos. Ao clicar em uma linha específica na matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou painéis, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários analisem mais profundamente como o Valor Recebido e o PMR variam para diferentes categorias, facilitando a conexão entre os valores recebidos, o tempo de recebimento e outras métricas financeiras. Isso agiliza a análise de dados críticos e permite uma tomada de decisão mais rápida e informada.
+
+Os usuários podem explorar facilmente os relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar as Filiais e Dimensões associadas a esse projeto, proporcionando uma visão mais detalhada da estrutura de recebimentos e prazos. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher oferece flexibilidade na navegação de grandes conjuntos de dados, permitindo alternar entre visualizações resumidas e detalhadas com facilidade. Isso torna a exploração dos dados mais eficiente e adaptável a diferentes necessidades de relatórios, proporcionando uma visão clara e abrangente do Valor Recebido e do PMR, bem como de suas implicações financeiras.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Project, Filial ou Dimensão para analisar a área necessária.
+
+### Valor Recebido e PMR x Cliente ou Origem
 
 <p><div align="center">
   <img src="../../assets/flux_pmr_cliente.png" alt="PMR Cliente">
   <h6>Imagem 2: PMR x Cliente ou Origem</h6>
 </div></p>
 
-Esse gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes clientes ou origens das transações de entrada da empresa. Ele oferece uma visão clara de como os tempos de recebimento variam conforme o cliente ou a origem específica dos recebimentos, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMR para cada cliente ou origem, mostrando o número médio de dias que a empresa leva para receber seus pagamentos de cada cliente ou em cada categoria de origem.
+Este gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes clientes ou origens de receita da empresa, proporcionando uma visão clara das variações no tempo de recebimento com base no cliente ou origem específica. As barras representam o número médio de dias que a empresa leva para receber os pagamentos de cada cliente ou origem, destacando oportunidades para otimizar a gestão financeira e melhorar o fluxo de caixa.
 
-Analisar o PMR por cliente é crucial para entender as diferenças nas práticas de pagamento entre os diversos clientes com os quais a empresa trabalha. Diferentes clientes podem ter condições de pagamento distintas, e a forma como a empresa gere esses prazos pode influenciar diretamente seu fluxo de caixa e a relação comercial. Ao identificar essas variações, a empresa pode negociar melhores prazos, priorizar cobranças estratégicas e melhorar o gerenciamento do capital de giro.
+Analisar o PMR por cliente ou origem é fundamental para entender as diferenças nas práticas de recebimento associadas a diferentes clientes ou fontes de receita. Cada cliente pode ter condições de pagamento distintas ou padrões de pagamento variados que influenciam o tempo de recebimento. Identificar essas variações permite à empresa ajustar suas estratégias de cobrança para atender melhor às necessidades de cada cliente, padronizar práticas eficazes e reduzir o ciclo de recebimento, garantindo uma entrada de recursos mais previsível e consistente.
 
-Além disso, visualizar o PMR por origem permite avaliar como diferentes categorias de receitas ou origens de recebimento afetam a liquidez e o cumprimento das obrigações financeiras. Certas origens, como vendas de produtos, prestação de serviços ou investimentos, podem ter cronogramas de recebimento únicos que impactam o fluxo de caixa de maneiras distintas. Compreender essas diferenças ajuda a empresa a alinhar suas práticas de recebimento com suas metas financeiras, garantindo uma gestão mais eficiente dos recursos e evitando pressões desnecessárias no caixa.
+Além disso, visualizar o PMR por origem permite avaliar como diferentes fontes de receita impactam a liquidez e o fluxo de recebimentos. Origem de receita pode incluir diferentes segmentos de mercado ou linhas de produto, cada uma com características próprias de pagamento. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de cobrança e a alocar recursos de forma mais eficaz para maximizar a recuperação de receitas.
+
+A análise do Valor Recebido em conjunto com o PMR é crucial para uma visão completa da eficácia da gestão de recebíveis. O Valor Recebido representa o montante total efetivamente recebido de cada cliente ou origem durante um período específico. Comparar este valor com o PMR permite identificar não apenas o tempo de recebimento, mas também a quantia financeira que está realmente sendo recebida pela empresa.
+
+O Valor Recebido e PMR x Cliente ou Origem oferece uma perspectiva detalhada sobre a eficiência da cobrança e a saúde financeira relacionada a diferentes clientes ou origens. Clientes ou origens que apresentam um PMR elevado, mesmo com valores recebidos significativos, podem indicar atrasos nos recebimentos que afetam o fluxo de caixa. Por outro lado, clientes ou origens com um PMR baixo e um bom Valor Recebido podem refletir práticas de cobrança bem-sucedidas e um fluxo de caixa saudável.
+
+Essas análises são essenciais porque permitem à empresa identificar áreas onde a gestão de recebíveis pode ser aprimorada, ajustar estratégias para melhorar o ciclo de caixa e otimizar a utilização de recursos. Além disso, ajudam na tomada de decisões estratégicas sobre alocação de recursos, gestão de riscos e otimização das operações financeiras relacionadas a clientes e origens específicas.
+
+Ao selecionar uma barra neste gráfico, você pode filtrar automaticamente outros visuais no painel. Isso facilita a análise detalhada e personalizada, permitindo explorar como o PMR e o Valor Recebido para o cliente ou origem selecionado se relacionam com outras variáveis e métricas financeiras apresentadas em outros gráficos e tabelas do painel.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
@@ -43,7 +72,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
 
-## PMR x Filial ou Projeto
+### Valor Recebido e PMR x Filial ou Projeto
 
 <p><div align="center">
   <img src="../../assets/flux_pmr_filial.png" alt="PMR Filial">
@@ -56,6 +85,14 @@ Analisar o PMR por filial ou projeto é essencial para entender as diferenças n
 
 Além disso, visualizar o PMR por projeto permite avaliar como as condições específicas de cada iniciativa impactam a liquidez e o fluxo de recebimentos. Projetos de diferentes naturezas, como construção, tecnologia ou pesquisa, podem ter cronogramas de recebimento variados, influenciados pelo ciclo de vida do projeto ou pela natureza dos contratos envolvidos. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de cobrança, garantir que os projetos sejam financiados de forma adequada e evitar impactos negativos no fluxo de caixa geral da empresa.
 
+Adicionalmente, a análise do Valor Recebido em conjunto com o PMR é crucial para uma visão abrangente da eficácia da gestão de recebíveis. O Valor Recebido representa o montante total efetivamente recebido pelas filiais ou projetos durante um período específico. Comparando este valor com o PMR, é possível identificar não apenas quanto tempo leva para receber os pagamentos, mas também o montante financeiro que está realmente entrando na empresa.
+
+O Valor Recebido e PMR x Filial ou Projeto fornece uma perspectiva valiosa sobre a eficiência da cobrança e a saúde financeira das diferentes áreas da empresa. Filiais ou projetos que apresentam um PMR elevado, mesmo com valores recebidos significativos, podem indicar um atraso nos recebimentos que pode impactar negativamente o fluxo de caixa, enquanto filiais ou projetos com um PMR baixo e um bom Valor Recebido podem sugerir práticas de cobrança eficientes e um fluxo de caixa saudável.
+
+Essas análises são importantes porque permitem à empresa identificar áreas onde a gestão de recebíveis pode ser aprimorada, ajustar estratégias para melhorar o ciclo de caixa e assegurar que todos os recursos estão sendo utilizados de forma eficaz. Além disso, essas informações ajudam na tomada de decisões estratégicas sobre alocação de recursos, gestão de riscos e otimização das operações financeiras em diferentes filiais e projetos.
+
+Ao selecionar uma barra neste gráfico, você pode filtrar automaticamente outros visuais no painel. Isso facilita a análise detalhada e personalizada, permitindo que você explore como o PMR e o Valor Recebido para a filial ou projeto selecionado se relacionam com outras variáveis e métricas financeiras apresentadas em outros gráficos e tabelas do painel.
+
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
@@ -63,7 +100,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial ou Projeto para analisar a área necessária.
 
-## A Receber por Data
+### Recebimento por Data
 
 <p><div align="center">
   <img src="../../assets/flux_pmr_tabela.png" alt="PMR Tabela">
