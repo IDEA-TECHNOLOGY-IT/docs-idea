@@ -14,8 +14,8 @@
 
 Este painel de relatório está dividido em duas visualizações;
 
-Visão Gráfica - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico".
-Visão de tabela - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico".
+- **[Visão de tabela](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Inadimplência
 
