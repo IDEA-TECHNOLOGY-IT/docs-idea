@@ -7,7 +7,15 @@
 
 ## Informações no Painel de Pagamentos Realizados
 
-O Painel de Pagamentos Realizados oferece uma visão abrangente e detalhada das transações financeiras realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos pagamentos. Neste painel você encontrará informações sobre o Prazo Médio de Pagamento (PMP) bem como detalhes das transações concluídas.
+### Valor Pagamento
+
+Valor Pago representa o total de pagamentos realizados por uma empresa durante um período específico, refletindo suas obrigações financeiras cumpridas com fornecedores, funcionários, impostos e outros credores. Esse indicador é fundamental para a gestão financeira, pois ele revela a capacidade da empresa de honrar suas dívidas e compromissos dentro dos prazos estabelecidos, influenciando diretamente o fluxo de caixa e a liquidez disponível. Ao contrário de métricas que tratam de despesas futuras ou valores a pagar, o Valor Pago trata dos montantes que já foram efetivamente desembolsados, oferecendo uma visão clara da eficiência na administração dos passivos.
+
+A importância do Valor Pago está na sua relação direta com a manutenção da saúde financeira e operacional da empresa. Quando a empresa não gerencia bem seus pagamentos, isso pode levar a atrasos, multas e até prejudicar o relacionamento com fornecedores, impactando negativamente a continuidade das operações. Por outro lado, um controle eficaz dos valores pagos ajuda a manter um equilíbrio saudável entre o fluxo de caixa e as necessidades de curto e longo prazo, garantindo que a empresa tenha os recursos necessários para crescer e se adaptar a novas demandas.
+
+Além disso, monitorar o Valor Pago de forma consistente permite que a empresa avalie melhor suas prioridades financeiras, otimize seu cronograma de pagamentos e negocie melhores condições com fornecedores. Ele também oferece insights importantes sobre a alocação de recursos, possibilitando a identificação de áreas onde os gastos podem ser ajustados para melhorar a eficiência operacional.
+
+Em suma, o Valor Pago é um indicador crucial da saúde financeira de uma empresa, pois mostra como os recursos são utilizados para cumprir compromissos financeiros, mantendo o fluxo de caixa controlado e apoiando o desenvolvimento sustentável do negócio.
 
 ### Prazo Médio de Pagamento (PMP)
 
@@ -27,18 +35,46 @@ Alguns dos benefícios de analisar o PMP são:
 
 ## Visão Principal
 
-### PMP x Favorecido ou Origem
+### Valor Pago e PMP x Projeto, Filial ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_fav.png" alt="PMP Fav">
-  <h6>Imagem 2: PMP x Favorecido ou Origem</h6>
+  <img src="../../assets/flux_pmp_fav.png" alt="Valor Pago e PMP x Projeto, Filial ou Dimensão">
+  <h6>Imagem 2: Valor Pago e PMP x Projeto, Filial ou Dimensão</h6>
 </div></p>
 
-Esse gráfico compara o Prazo Médio de Pagamento (PMP) entre diferentes favorecidos ou origens das transações da empresa. Ele oferece uma visão clara de como os tempos de pagamento variam conforme o fornecedor ou a origem específica dos pagamentos, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMP para cada favorecido ou origem, mostrando o número médio de dias que a empresa leva para pagar suas obrigações a cada fornecedor ou em cada categoria de origem.
+Uma matriz exibindo o Valor Pago e o Prazo Médio de Pagamento (PMP) com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta essencial para a análise financeira e tomada de decisões. Ao organizar esses dados por categorias específicas, a matriz permite que os gestores identifiquem rapidamente onde os valores pagos e os tempos de pagamento variam entre diferentes projetos ou filiais. Essa análise detalhada é crucial para otimizar a gestão de caixa e de despesas, destacando quais projetos ou filiais podem estar enfrentando desafios relacionados ao cumprimento de prazos de pagamento, o que pode impactar a saúde financeira da empresa.
 
-Analisar o PMP por favorecido é crucial para entender as diferenças nas práticas de pagamento entre os diversos fornecedores com os quais a empresa trabalha. Diferentes fornecedores podem oferecer condições de pagamento distintas, e a forma como a empresa gere esses prazos pode influenciar diretamente seu fluxo de caixa e as relações comerciais. Ao identificar essas variações, a empresa pode negociar melhores termos, priorizar pagamentos estratégicos e melhorar o gerenciamento do capital de giro.
+Além disso, a matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica na matriz, os usuários podem filtrar automaticamente outros visuais no painel, como gráficos, tabelas ou dashboards, para exibir apenas os dados relevantes do projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente nos detalhes do Valor Pago e do PMP, facilitando a conexão entre os valores desembolsados, o tempo médio de pagamento e outras métricas financeiras. Isso acelera a análise de dados críticos e proporciona uma tomada de decisão mais rápida e eficaz.
 
-Além disso, visualizar o PMP por origem permite avaliar como diferentes categorias de despesas ou origens de pagamento afetam a liquidez e o cumprimento das obrigações financeiras. Certas origens, como despesas operacionais, investimentos em capital ou custos administrativos, podem ter cronogramas de pagamento únicos que impactam o fluxo de caixa de maneiras distintas. Compreender essas diferenças ajuda a empresa a alinhar suas práticas de pagamento com suas metas financeiras, garantindo uma gestão mais eficiente dos recursos e evitando pressões desnecessárias no caixa.
+Os usuários podem explorar facilmente os relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar nesse símbolo expande a tabela para revelar as Filiais e Dimensões associadas ao projeto, proporcionando uma visão detalhada da estrutura de pagamentos e prazos. Da mesma forma, os usuários podem retrair a visualização clicando no sinal de menos (-) para recolher a hierarquia, simplificando a matriz quando uma visão geral de alto nível é suficiente. A funcionalidade de expandir e recolher proporciona flexibilidade na navegação de grandes conjuntos de dados, permitindo alternar entre visualizações resumidas e detalhadas com facilidade. Isso torna a exploração dos dados mais eficiente e adaptável a diferentes necessidades de relatórios, oferecendo uma visão clara e abrangente do Valor Pago e do PMP, além de suas implicações financeiras para a organização.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Project, Filial ou Dimensão para analisar a área necessária.
+
+### Valor Pago e PMP x Favorecido ou Origem
+
+<p><div align="center">
+  <img src="../../assets/flux_pmp_fav.png" alt="Valor Pago e PMP x Favorecido ou Origem">
+  <h6>Imagem 3: Valor Pago e PMP x Favorecido ou Origem</h6>
+</div></p>
+
+Este gráfico compara o Prazo Médio de Pagamento (PMP) entre diferentes favorecidos ou origens de pagamento da empresa, proporcionando uma visão clara das variações no tempo de pagamento com base no favorecido ou origem específica. As barras representam o número médio de dias que a empresa leva para efetuar os pagamentos a cada favorecido ou origem, destacando oportunidades para otimizar a gestão financeira e melhorar o controle de saídas de caixa.
+
+Analisar o PMP por favorecido ou origem é fundamental para entender as diferenças nas práticas de pagamento associadas a diferentes fornecedores ou fontes de pagamento. Cada favorecido pode ter condições de pagamento distintas ou padrões de recebimento variados que influenciam o tempo médio de pagamento. Identificar essas variações permite à empresa ajustar suas estratégias de pagamento para atender melhor a cada fornecedor, padronizar práticas eficazes e reduzir o ciclo de pagamento, garantindo um fluxo de caixa mais previsível e estável.
+
+Além disso, visualizar o PMP por origem permite avaliar como diferentes categorias de pagamento impactam a liquidez e a saída de recursos. As origens de pagamento podem incluir diferentes segmentos de despesa ou linhas de fornecimento, cada uma com características próprias de pagamento. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de desembolso e a alocar recursos de forma mais eficiente para garantir o cumprimento de obrigações sem comprometer a liquidez.
+
+A análise do Valor Pago em conjunto com o PMP é crucial para obter uma visão completa da eficácia da gestão de passivos. O Valor Pago representa o montante total efetivamente desembolsado para cada favorecido ou origem durante um período específico. Comparar esse valor com o PMP permite identificar não apenas o tempo de pagamento, mas também a quantia financeira que está sendo desembolsada pela empresa.
+
+O Valor Pago e PMP x Favorecido ou Origem oferece uma perspectiva detalhada sobre a eficiência da gestão de pagamentos e a saúde financeira relacionada a diferentes fornecedores ou origens. Favorecidos ou origens que apresentam um PMP elevado, mesmo com valores pagos significativos, podem indicar atrasos nos pagamentos que afetam a relação com os fornecedores e o controle de caixa. Por outro lado, favorecidos ou origens com um PMP baixo e um valor pago adequado podem refletir uma gestão eficiente de pagamentos e um fluxo de caixa saudável.
+
+Essas análises são essenciais porque permitem à empresa identificar áreas onde a gestão de pagamentos pode ser aprimorada, ajustar estratégias para melhorar o ciclo de pagamento e otimizar a utilização de recursos. Além disso, ajudam na tomada de decisões estratégicas sobre alocação de recursos, gestão de riscos e otimização das operações financeiras relacionadas a favorecidos e origens específicas.
+
+Ao selecionar uma barra neste gráfico, os usuários podem filtrar automaticamente outros visuais no painel. Isso facilita uma análise detalhada e personalizada, permitindo explorar como o PMP e o Valor Pago para o favorecido ou origem selecionada se relacionam com outras variáveis e métricas financeiras exibidas em outros gráficos e tabelas do painel.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
@@ -47,18 +83,26 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre Favorecido e Origem para categorizar as áreas de interesse.
 
-### PMP x Filial ou Projeto
+### Valor Pago e PMP x Filial ou Projeto
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_filial.png" alt="PMP Filial">
-  <h6>Imagem 3: PMP x Filial ou Projeto</h6>
+  <img src="../../assets/flux_pmp_filial.png" alt="Valor Pago e PMP x Filial ou Projeto">
+  <h6>Imagem 4: Valor Pago e PMP x Filial ou Projeto</h6>
 </div></p>
 
-Esse gráfico compara o Prazo Médio de Pagamento (PMP) entre diferentes filiais ou projetos da empresa. Ele oferece uma visão clara de como os tempos de pagamento variam conforme a localização ou a iniciativa específica, ajudando a identificar oportunidades de otimização na gestão financeira. As barras representam o PMP para cada filial ou projeto, mostrando o número médio de dias que uma filial ou projeto leva para pagar suas obrigações.
+Este gráfico compara o Prazo Médio de Pagamento (PMP) entre diferentes filiais ou projetos da empresa, oferecendo uma visão clara das variações nos tempos de pagamento conforme a localização ou iniciativa específica. As barras representam o número médio de dias que cada filial ou projeto leva para efetuar seus pagamentos, destacando oportunidades de otimização na gestão financeira e controle de saídas de caixa.
 
-Analisar o PMP por filial é fundamental para entender as diferenças nas práticas de pagamento em várias regiões ou unidades operacionais. Diferentes filiais podem enfrentar condições de mercado distintas, negociar termos de pagamento diferentes com fornecedores ou ter processos internos variados que influenciam o tempo de pagamento. Ao identificar essas variações, a empresa pode padronizar práticas eficazes em todas as filiais, reduzir atrasos e melhorar o relacionamento com fornecedores, assegurando um fluxo de caixa mais consistente.
+Analisar o PMP por filial ou projeto é essencial para entender as diferenças nas práticas de pagamento em várias regiões ou unidades operacionais. Filiais podem enfrentar diferentes condições de mercado, negociar prazos de pagamento distintos com fornecedores ou adotar processos internos variados, que influenciam diretamente o tempo médio de pagamento. Ao identificar essas disparidades, a empresa pode padronizar práticas eficazes, acelerar o ciclo de pagamento e melhorar o fluxo de caixa, assegurando uma saída de recursos mais previsível e estável.
 
-Além disso, visualizar o PMP por projeto permite avaliar como as condições específicas de cada iniciativa impactam a liquidez e o cumprimento das obrigações financeiras. Projetos de diferentes naturezas, como construção, tecnologia ou pesquisa, podem ter cronogramas de pagamento variados, influenciados pelo ciclo de vida do projeto ou pela natureza dos contratos envolvidos. Compreender essas diferenças ajuda a empresa a planejar melhor suas necessidades de capital de giro, garantir que os projetos sejam financiados de forma adequada e evitar impactos negativos no caixa geral da empresa.
+Além disso, visualizar o PMP por projeto permite avaliar como as condições específicas de cada iniciativa impactam a liquidez e o fluxo de pagamentos. Projetos de diferentes naturezas, como construção, tecnologia ou pesquisa, podem ter cronogramas de pagamento variados, influenciados pelo ciclo de vida do projeto ou pelos termos dos contratos envolvidos. Compreender essas diferenças ajuda a empresa a planejar melhor suas estratégias de desembolso, garantir que os projetos sejam financiados de forma adequada e evitar pressões indesejadas sobre o fluxo de caixa geral da empresa.
+
+Adicionalmente, a análise do Valor Pago em conjunto com o PMP é crucial para obter uma visão abrangente da eficácia da gestão de passivos. O Valor Pago representa o montante total efetivamente desembolsado pelas filiais ou projetos durante um período específico. Comparando este valor com o PMP, é possível identificar não apenas quanto tempo leva para efetuar os pagamentos, mas também o montante financeiro que está saindo da empresa.
+
+O Valor Pago e PMP x Filial ou Projeto oferece uma perspectiva valiosa sobre a eficiência da gestão de pagamentos e a saúde financeira das diferentes áreas da empresa. Filiais ou projetos que apresentam um PMP elevado, mesmo com valores pagos significativos, podem indicar atrasos nos pagamentos que podem impactar negativamente o relacionamento com fornecedores e o fluxo de caixa. Por outro lado, filiais ou projetos com um PMP baixo e um bom Valor Pago podem sugerir práticas de pagamento eficientes e um fluxo de caixa saudável.
+
+Essas análises são importantes porque permitem à empresa identificar áreas onde a gestão de pagamentos pode ser aprimorada, ajustar estratégias para melhorar o ciclo de caixa e assegurar que todos os recursos estão sendo utilizados de forma eficaz. Além disso, essas informações ajudam na tomada de decisões estratégicas sobre alocação de recursos, gestão de riscos e otimização das operações financeiras em diferentes filiais e projetos.
+
+Ao selecionar uma barra neste gráfico, você pode filtrar automaticamente outros visuais no painel. Isso facilita a análise detalhada e personalizada, permitindo que você explore como o PMP e o Valor Pago para a filial ou projeto selecionado se relacionam com outras variáveis e métricas financeiras apresentadas em outros gráficos e tabelas do painel.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
