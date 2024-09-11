@@ -10,6 +10,8 @@
   <h6>Imagem 2: Painel Vendas - Visão Detalhes</h6>
 </div>
 
+Informações no Painel Vendas
+
 A análise de vendas é um elemento fundamental no Business Intelligence (BI) porque fornece insights valiosos sobre as fontes de receita de uma empresa, o comportamento do cliente e as tendências de mercado. Monitorar o desempenho de vendas ajuda as empresas a identificar quais produtos, serviços ou mercados estão impulsionando o crescimento e quais áreas precisam de melhorias. Ao analisar várias métricas de vendas, as empresas podem otimizar suas estratégias, melhorar a eficiência operacional e tomar decisões informadas.
 
 Visualizações como vendas acumuladas e crescimento das vendas mês a mês são essenciais para acompanhar o desempenho ao longo do tempo. As vendas acumuladas oferecem uma perspectiva de longo prazo, mostrando como as vendas estão se acumulando ao longo de um período específico, o que ajuda a entender as tendências de receita e a prever o desempenho futuro. Por outro lado, a comparação de vendas mês a mês permite que as empresas detectem mudanças de curto prazo, como flutuações sazonais ou o impacto de campanhas de marketing, e ajustem rapidamente suas estratégias.
@@ -55,21 +57,34 @@ Esse tipo de análise visual não só auxilia na tomada de decisões rápidas, m
   <h6>Imagem 5: Tabela de Vendas Detalhes</h6>
 </div>
 
-Este gráfico é uma visão detalhada das vendas realizadas após a seleção do botão acima que ativou a navegação para um nível mais específico de análise. Aqui está uma explicação detalhada dos componentes exibidos:
+A Tabela de Vendas Detalhes é um componente crucial para empresas que buscam entender e analisar seus dados de vendas em um nível detalhado. Esta tabela captura informações essenciais sobre cada transação de vendas, incluindo o identificador exclusivo para cada venda, a data da transação e detalhes importantes, como a filial onde a venda ocorreu, o representante de vendas envolvido, o cliente que fez a compra, o fornecedor ou fabricante do produto e o valor monetário da venda.
 
-- **Descrição:** A tabela exibe um histórico detalhado de vendas, listando individualmente cada transação, permitindo visualizar informações críticas como a data de venda, a filial que efetuou a venda, o vendedor responsável, o cliente que comprou, o fabricante do produto e o valor da venda.
+Ter esses dados detalhados permite que as empresas rastreiem vendas individuais com precisão, facilitando a reconciliação de registros, a realização de auditorias e a resolução de quaisquer discrepâncias. Além disso, a tabela permite insights mais profundos sobre tendências de vendas, mostrando quando as vendas ocorrem e vinculando-as a clientes, filiais e fornecedores específicos. Isso ajuda as organizações a identificar padrões em vendas, como horários de pico para produtos ou regiões específicas, e a entender o desempenho de diferentes representantes de vendas ou filiais. Ao saber quais clientes estão comprando mais ou quais fornecedores fornecem os produtos com maior geração de receita, as empresas podem adaptar suas estratégias de marketing, melhorar os relacionamentos com os clientes e otimizar sua cadeia de suprimentos.
 
-- **Colunas da Tabela:**
-  - **Doc.:** Número do documento que identifica cada transação de venda.
-  - **Lançamento:** Data em que a venda foi registrada.
-  - **Filial:** A unidade da empresa onde a venda foi realizada.
-  - **Vendedor:** O representante de vendas responsável pela transação.
-  - **Cliente:** Identificação do cliente que realizou a compra.
-  - **Fabricante:** O fornecedor ou fabricante do produto vendido.
-  - **Vendas:** O valor monetário da venda.
+Além disso, dados transacionais detalhados são essenciais para relatórios financeiros e previsões, pois fornecem uma imagem clara do fluxo de receita e ajudam as empresas a avaliar a lucratividade. A capacidade de analisar dados de vendas nesse nível permite que as empresas tomem decisões informadas sobre estratégias de preços, esforços promocionais e gerenciamento de estoque, contribuindo, em última análise, para a eficiência operacional geral e o crescimento estratégico.
 
-- ***Total de Vendas:***
-  - Na parte inferior da tabela, é mostrado o total acumulado das vendas listadas, que neste caso é de R$ 129.733.816,71.
+Esta tabela é essencial quando se busca detalhes sobre vendas específicas. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#filtros). A seguir, explicamos como interpretar cada coluna da tabela.
+
+#### Doc. 
+Número do documento que identifica cada transação de venda.
+  
+#### Lançamento
+Data em que a venda foi registrada.
+  
+#### Filial
+A unidade da empresa onde a venda foi realizada.
+  
+#### Vendedor
+O representante de vendas responsável pela transação.
+  
+#### Cliente
+Identificação do cliente que realizou a compra.
+  
+#### Fabricante
+O fornecedor ou fabricante do produto vendido.
+  
+#### Vendas
+O valor monetário da venda.
 
 ### Vendas x Prazo Médio
 
@@ -78,13 +93,13 @@ Este gráfico é uma visão detalhada das vendas realizadas após a seleção do
   <h6>Imagem 6: Vendas x Prazo Médio</h6>
 </div>
 
-Este gráfico de barras apresenta a distribuição das vendas por diferentes intervalos de prazo de recebimento.
-- **Categorias:**
-  - **À vista:** A maior parte das vendas foi realizada com pagamento à vista, totalizando R$ 97.094.916,13.
-  - **7 - 30 dias:** Vendas cujo pagamento foi feito entre 7 e 30 dias somaram R$ 16.475.934,83.
-  - **30 - 60 dias:** Pagamentos realizados entre 30 e 60 dias representam R$ 16.129.594,59.
-  - **60 - 90 dias:** Este intervalo apresenta o menor valor, R$ 366,49.
-  - **90 ou mais dias:** Um montante menor, R$ 33.004,68, corresponde a vendas com prazo de pagamento de 90 dias ou mais.
+O gráfico de barras do Prazo Médio é uma ferramenta essencial para analisar a distribuição de vendas com base em termos de pagamento, dando uma representação visual de quanta receita vem de vendas feitas em diferentes intervalos de pagamento. O gráfico é dividido em intervalos de tempo principais: À vista (vendas feitas com pagamento imediato), 7-30 dias (vendas com pagamento devido em 7 a 30 dias), 30-60 dias, 60-90 dias e 90 ou mais dias (vendas com pagamentos devidos em 90 dias ou mais).
+
+Este gráfico fornece insights valiosos sobre o fluxo de caixa e a saúde financeira da empresa. Ao comparar o volume de vendas entre esses diferentes termos de pagamento, as empresas podem avaliar quanta receita está sendo coletada antecipadamente em comparação a períodos mais longos. Uma proporção maior de vendas nas categorias "À vista" ou de curto prazo, por exemplo, indica um fluxo de caixa imediato mais forte, o que pode ser benéfico para cobrir despesas operacionais sem depender de financiamento externo.
+
+Por outro lado, vendas com prazos de pagamento mais longos, como 90 ou mais dias, podem revelar potenciais desafios de liquidez, pois o dinheiro fica retido em contas a receber por períodos prolongados. Monitorar a distribuição entre essas categorias permite que as empresas identifiquem tendências, como se os clientes estão cada vez mais aproveitando prazos de pagamento mais longos e se isso afeta o fluxo de caixa geral e o planejamento financeiro. Além disso, essas informações ajudam a ajustar as políticas de crédito, negociar melhores termos com os clientes e garantir que o equilíbrio entre recebíveis de curto e longo prazo esteja alinhado com as metas financeiras da empresa.
+
+Ao visualizar as vendas em relação aos prazos de pagamento em um gráfico de barras, as empresas podem facilmente interpretar onde a maior parte de sua receita está concentrada e tomar ações estratégicas para otimizar as políticas de pagamento, aprimorar o gerenciamento do fluxo de caixa e mitigar os riscos associados a pagamentos atrasados.
  
 ### Vendas x Filial, Vendedor, Cliente, Fabricante ou Item
 
@@ -93,10 +108,23 @@ Este gráfico de barras apresenta a distribuição das vendas por diferentes int
   <h6>Imagem 7: Vendas x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div>
 
-O gráfico fornecido mostra as vendas por cliente, comparando os valores de vendas acumuladas para diferentes clientes, vendedor, filiais, fabricante ou item específicos. Cada barra no gráfico representa uma categoria, e a extensão da barra indica o valor total das vendas realizadas para esse cliente durante o período analisado.
+Um gráfico de barras intitulado Vendas x Filial, Vendedor, Cliente, Fabricante ou Item oferece uma representação visual poderosa do desempenho de vendas segmentado por várias dimensões comerciais importantes, como Filial, Vendedor, Cliente, Fabricante ou Item. Cada barra no gráfico representa uma dessas dimensões, permitindo que a empresa analise como as vendas são distribuídas entre diferentes entidades.
 
-### Navegação Entre Níveis: 
-Utilize as opções de navegação disponíveis na ferramenta de BI para alternar entre os diferentes níveis de visualização. Por exemplo, você pode começar analisando os dados no nível mensal e, em seguida, subir para o nível anual para uma visão mais agregada.
+Este tipo de gráfico é inestimável para identificar tendências e padrões em vendas. Por exemplo, um gráfico Vendas x Filial ajuda a empresa a avaliar o desempenho de diferentes filiais, mostrando quais locais estão gerando mais receita. Esse insight permite que as empresas tomem decisões baseadas em dados, como realocar recursos, otimizar esforços de marketing regionais ou identificar filiais de baixo desempenho que podem exigir intervenção estratégica.
 
-- Para ir para o próximo nível de hierarquia (Indicador 1): Clique na opção "Ir para o próximo nível de hierarquia" na interface do BI. Isso levará você para o próximo nível, onde os dados serão detalhados de acordo com a nova categoria (por exemplo, de Cliente para Origem).
-- Para retornar ao nível anterior (Indicador 2): Caso queira voltar a um nível mais agregador, clique em "Subir um nível na hierarquia". Isso levará você de volta ao nível anterior de categorização.
+Da mesma forma, um gráfico Vendas x Vendedor fornece uma visão clara de como os vendedores individuais estão contribuindo para a receita geral. Ele ajuda a reconhecer os melhores desempenhos, motivar a equipe por meio de incentivos baseados em desempenho e identificar áreas onde treinamento ou suporte adicional podem ser necessários.
+
+Um gráfico Vendas x Cliente revela quais clientes são responsáveis ​​pelos maiores volumes de vendas, permitindo que as empresas se concentrem em clientes de alto valor, personalizem serviços ou ofereçam ofertas exclusivas para impulsionar a retenção e a satisfação do cliente. Ao mesmo tempo, entender a distribuição de vendas por cliente ajuda a segmentar o mercado e identificar oportunidades de crescimento.
+
+Ao examinar as vendas por Fabricante, o gráfico permite que as empresas analisem o desempenho de diferentes fornecedores ou fabricantes. Isso pode ser especialmente importante para o gerenciamento da cadeia de suprimentos, permitindo que a empresa se concentre em relacionamentos com fornecedores de alto desempenho, renegocie termos ou diversifique sua base de fornecedores para reduzir riscos.
+
+Finalmente, um gráfico Vendas x Item divide as vendas por produtos específicos, destacando quais itens são os mais populares ou lucrativos. Esses dados são cruciais para o gerenciamento de estoque, desenvolvimento de produtos e estratégias de preços, garantindo que a empresa possa otimizar seu mix de produtos para atender à demanda do cliente e maximizar a lucratividade.
+
+No geral, o gráfico de barras Vendas x Filial, Vendedor, Cliente, Fabricante ou Item fornece uma análise flexível e detalhada das vendas, permitindo que as empresas se concentrem nas principais dimensões que impulsionam a receita e a eficiência operacional. Ele capacita os tomadores de decisão com insights acionáveis ​​para alocação de recursos, melhoria de desempenho e crescimento estratégico.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
