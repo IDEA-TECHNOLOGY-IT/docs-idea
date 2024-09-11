@@ -31,23 +31,19 @@ A primeira opção é a [barra de menu](https://idea-technology-it.github.io/doc
 A segunda maneira de navegar é através dos botões "Ver mais" ou "Mais indicadores" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/fat_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px; margin-right: 10px;">
-  <img src="../../assets/fat_caixa_clickindicadores.png" alt="Mais indicadores Hover">
+  <img src="../../assets/fat_caixa_clickindicadores.png" alt="Mais indicadores Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
-### Botões de Tabela ou Gráfico
+### Botões para Diferentes Visões
 
-O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
+O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/fat_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/fat_button_tabela.png" alt="Tabela Open">
+  <img src="../../assets/fat_button_tabela.png" alt="Tabela Open" style="vertical-align: middle; height: 150px;">
 </div>
-
-### Botões de Detalhes ou Análise anual
-
-De forma semelhante ao terceiro método, o quarto é usar botões para alternar entre diferentes visualizações dentro de um painel, mas nesses casos as visualizações são Análise anual ou Detalhes. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/fat_button_voltar.png" alt="Voltar" style="margin-right: 10px;">
-  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open">
+  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open" style="vertical-align: middle; height: 150px;">
 </div>
 
 ### Botão para Documentação
