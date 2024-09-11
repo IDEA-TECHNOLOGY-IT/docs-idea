@@ -10,7 +10,16 @@
   <h6>Imagem 2: Painel Vendas - Visão Detalhes</h6>
 </div>
 
-Informações no Painel Vendas
+## Navegação
+
+Este painel de relatório está dividido em duas visualizações;
+
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "voltar para análise anual".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
+
+## Informações no Painel Vendas
+
+### Valor de Vendas
 
 A análise de vendas é um elemento fundamental no Business Intelligence (BI) porque fornece insights valiosos sobre as fontes de receita de uma empresa, o comportamento do cliente e as tendências de mercado. Monitorar o desempenho de vendas ajuda as empresas a identificar quais produtos, serviços ou mercados estão impulsionando o crescimento e quais áreas precisam de melhorias. Ao analisar várias métricas de vendas, as empresas podem otimizar suas estratégias, melhorar a eficiência operacional e tomar decisões informadas.
 
