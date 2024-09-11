@@ -131,6 +131,11 @@ Este botão direciona os usuários para a página "Painel de Pagamentos Realizad
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
+### Botão Voltar
+<p><img src="../../assets/flux_menu_voltar.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+<h6>Página atual</h6>
+This button is different from the other menu buttons as it only appears on the Painel de Detalhamento. Selecting this button returns the user to the page from which they made the [Drill-through]() action.
+
 ## Filtros
 
 <div align="center">
