@@ -5,6 +5,10 @@
   <h6>Imagem 1: Pagína com Saldo Total em Contas</h6>
 </div></p>
 
+## Informações no Painel Pagamentos Vencidos
+
+### Saldo Realizado
+
 Saldo Total em Contas refere-se ao valor disponível em uma conta financeira em um determinado momento, que pode incluir saldos positivos (créditos) ou negativos (débito). O gerenciamento eficiente dos saldos de contas é crucial para garantir que a empresa tenha recursos suficientes para cumprir suas obrigações financeiras e investir em oportunidades de crescimento.
 
 Manter um saldo de contas adequado é fundamental para a saúde financeira de uma empresa, pois permite que ela pague suas obrigações a tempo, evitando atrasos e multas, e também para aproveitar oportunidades de investimento que possam surgir. Um saldo inadequado pode levar à necessidade de buscar financiamento externo, o que aumenta os custos com juros e pode impactar negativamente a lucratividade da empresa.
@@ -13,7 +17,9 @@ Um gerenciamento eficiente do saldo de contas oferece uma série de benefícios,
 
 A visualização adequada do saldo de contas é vital para garantir que a empresa tenha recursos suficientes para suas operações diárias, investimentos e crescimento futuro. Sem uma visualização clara e atualizada, a empresa pode enfrentar dificuldades para monitorar a liquidez, o que pode resultar em problemas para pagar despesas correntes. Isso pode forçar a empresa a contrair dívidas em condições desfavoráveis, comprometendo a estabilidade financeira e a capacidade de tomada de decisões informadas.
 
-## Tabela de Saldo Total em Contas
+## Visão Principal
+
+### Tabela de Saldo Total em Contas
 
 <p><div align="center">
   <img src="../../assets/flux_saldo_tabela.png" alt="Saldo em Contas">
