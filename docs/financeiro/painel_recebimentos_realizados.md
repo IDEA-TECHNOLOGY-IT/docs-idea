@@ -35,6 +35,11 @@ Alguns dos benefícios de analisar o PMR são:
 
 ### Valor Recebido e PMR x Project, Filial ou Dimensão
 
+<p><div align="center">
+  <img src="../../assets/flux_pmr_projeto.png" alt="PMR Projeto">
+  <h6>Imagem 2: Valor Recebido e PMR x Project, Filial ou Dimensão</h6>
+</div></p>
+
 Uma matriz exibindo o Valor Recebido e o Prazo Médio de Recebimento (PMR) com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta fundamental para análise financeira e tomada de decisão. Ao organizar esses dados por categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os valores recebidos e os tempos de recebimento variam entre diferentes projetos ou filiais. Essa análise detalhada é crucial para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem estar enfrentando desafios relacionados ao tempo de recebimento, o que pode impactar a saúde financeira geral da organização.
 
 Além disso, a matriz se torna ainda mais útil com recursos interativos. Ao clicar em uma linha específica na matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou painéis, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários analisem mais profundamente como o Valor Recebido e o PMR variam para diferentes categorias, facilitando a conexão entre os valores recebidos, o tempo de recebimento e outras métricas financeiras. Isso agiliza a análise de dados críticos e permite uma tomada de decisão mais rápida e informada.
@@ -51,8 +56,8 @@ Aqui, você pode mover para cima ou para baixo entre Project, Filial ou Dimensã
 ### Valor Recebido e PMR x Cliente ou Origem
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_cliente.png" alt="PMR Cliente">
-  <h6>Imagem 2: PMR x Cliente ou Origem</h6>
+  <img src="../../assets/flux_pmr_cliente.png" alt="Valor Recebido e PMR x Cliente ou Origem">
+  <h6>Imagem 3: Valor Recebido e PMR x Cliente ou Origem</h6>
 </div></p>
 
 Este gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes clientes ou origens de receita da empresa, proporcionando uma visão clara das variações no tempo de recebimento com base no cliente ou origem específica. As barras representam o número médio de dias que a empresa leva para receber os pagamentos de cada cliente ou origem, destacando oportunidades para otimizar a gestão financeira e melhorar o fluxo de caixa.
@@ -79,8 +84,8 @@ Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para anal
 ### Valor Recebido e PMR x Filial ou Projeto
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_filial.png" alt="PMR Filial">
-  <h6>Imagem 3: PMR x Filial ou Projeto</h6>
+  <img src="../../assets/flux_pmr_filial.png" alt="Valor Recebido e PMR x Filial ou Projeto">
+  <h6>Imagem 4: Valor Recebido e PMR x Filial ou Projeto</h6>
 </div></p>
 
 Este gráfico compara o Prazo Médio de Recebimento (PMR) entre diferentes filiais ou projetos da empresa, oferecendo uma visão clara das variações nos tempos de recebimento conforme a localização ou iniciativa específica. As barras representam o número médio de dias que cada filial ou projeto leva para receber seus pagamentos, destacando oportunidades de otimização na gestão financeira.
@@ -108,7 +113,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial ou Projeto para anal
 
 <p><div align="center">
   <img src="../../assets/flux_pmr_tabela.png" alt="PMR Tabela">
-  <h6>Imagem 4: A Receber por Data</h6>
+  <h6>Imagem 5: Recebimento por Data</h6>
 </div></p>
 
 Este gráfico exibe uma tabela detalhada dos recebimentos, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada pagamento recebido, desde o cliente até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada valor recebido, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz dos recebíveis. Com esta estrutura, a empresa pode monitorar detalhadamente os pagamentos realizados, identificar padrões de recebimento e tomar decisões informadas para otimizar o fluxo de caixa, garantindo que a saúde financeira da empresa seja mantida. A seguir, explicamos como interpretar cada coluna da tabela.
