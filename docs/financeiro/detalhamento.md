@@ -5,22 +5,23 @@
   <h6>Imagem 1: Painel de Detalhamento</h6>
 </div></p>
 
-O Painel de Detalhamento tem uma função diferente das outras áreas do BI Financeiro. Isso ocorre porque ele contém uma tabela detalhada que os usuários podem acessar "drill-through" em pontos de dados específicos de qualquer outra página do relatório. 
+## Informações no Painel de Recebimentos Realizados
 
-## Drill-through
+### Detalhes
 
-A função usada para fazer isso é chamada de "Drill-through" e pode ser executada clicando com o botão direito em um visual e selecionando Drill-through no menu que aparece, isso estenderá o menu que mostra "Detalhamento". Uma vez clicado, o Painel de Detalhamento será aberto e será filtrado automaticamente pelo ponto de dados em que você clicou com o botão direito. Abaixo está um exemplo de clique com o botão direito na barra para 01) Em Atraso no visual Aging - Contas a Pagar;
+Após envolver a ação **[Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through)** com um elemento visual nos painéis — como selecionar um ponto de dados específico em um gráfico ou uma célula específica em uma tabela — o Painel de Detalhamento aparece, exibindo dados na forma de uma tabela que já está filtrada de acordo com a seleção feita. Esse mecanismo de filtragem é crucial, pois permite que os usuários conduzam um exame detalhado e focado dos dados pertinentes à sua seleção, fornecendo uma compreensão mais profunda e contextual das informações. Por exemplo, se um usuário selecionar um cliente ou fatura específica, o painel de detalhes mostrará automaticamente informações diretamente relacionadas a essa seleção, como detalhes da fatura, informações do cliente e datas relevantes, garantindo que a análise seja precisa e relevante.
 
-<p><div align="center">
-  <img src="../../assets/flux_detail_drillthrough.png" alt="Drillthrough">
-  <h6>Imagem 2: Drill-through</h6>
-</div></p>
+A tabela em si contém todas as informações principais encontradas em todo o relatório. Embora cada painel tenha sua própria tabela, a tabela de detalhes no painel oferece uma visão combinada dos dados, por exemplo, pode mostrar as transações A Receber e A Pagar ao mesmo tempo. Isso pode ser útil ao analisar casos ou documentos específicos, pois permite uma perspectiva mais ampla sobre os movimentos relevantes.
 
-Por padrão, este painel fica oculto, tornando-se visível apenas quando um drillthrough é iniciado. Uma vez na página de drillthrough, os usuários encontrarão uma tabela abrangente exibindo todos os campos e dados relevantes vinculados ao item específico em que eles fizeram drill, oferecendo uma visão mais granular desses dados.
+Além dos filtros automáticos aplicados a partir da ação drill-through, os usuários têm a flexibilidade de usar [filtros]() adicionais disponíveis neste painel. Esses filtros extras oferecem mais personalização e refinamento dos dados, permitindo que os usuários aprimorem suas análises adicionando mais contexto ou focando em aspectos específicos dos dados. Esse recurso é particularmente útil para explorar variações ou anomalias no conjunto de dados e para conduzir investigações mais granulares.
 
-Além disso, quando terminar de revisar os detalhes, os usuários podem clicar no botão de retorno na barra de menu (que só aparece depois que um drillthrough é executado) para voltar à página de onde vieram. Essa configuração permite uma exploração mais profunda dos dados sem perder o contexto original.
+O Painel de Detalhamento também inclui um botão de retorno dedicado localizado na barra de menu, que é exclusivo para este painel. Este botão permite que os usuários retornem perfeitamente ao painel original do qual o drill-through foi iniciado. Essa funcionalidade é essencial para manter a continuidade da análise, pois permite que os usuários alternem entre a visualização detalhada e o contexto mais amplo do painel original sem perder o controle de seu caminho de exploração.
 
-## Tabela de Detalhes
+No geral, a ação drill-through, combinada com a capacidade de aplicar filtros adicionais e navegar de volta ao painel de origem, aprimora os recursos analíticos da ferramenta. Ele fornece uma maneira abrangente e intuitiva de explorar dados, entender o desempenho com mais profundidade, investigar problemas específicos e tomar decisões bem informadas com base em um exame detalhado das informações.
+
+## Visão Principal
+
+### Tabela de Detalhes
 
 <p><div align="center">
   <img src="../../assets/flux_detail_table.png" alt="Detalhes Tabela">
