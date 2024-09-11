@@ -41,7 +41,7 @@ Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontr
 
 ### Botões para Diferentes Visões
 
-O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, gráfico ou tabela. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
+O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas ou três visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
   <img src="../../assets/flux_button_tabela.png" alt="Gráfico Open" style="margin-right: 10px;">
   <img src="../../assets/flux_button_gráfico.png" alt="Tabela Open">
