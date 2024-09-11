@@ -9,7 +9,11 @@
 
 ### Valor Recebimento
 
-O Painel de Recebimentos Realizados oferece uma visão abrangente e detalhada das transações financeiras de entrada realizadas pela empresa, permitindo um monitoramento preciso do fluxo de caixa relacionado aos recebimentos. Neste painel, você encontrará informações sobre o Prazo Médio de Recebimento (PMR) bem como detalhes das transações concluídas.
+Valor Recebido representa o montante total de pagamentos efetivamente recebidos por uma empresa durante um período específico, refletindo o sucesso de suas operações de cobrança e a capacidade de transformar vendas ou contratos em fluxo de caixa. Esse indicador é essencial para avaliar a saúde financeira de uma empresa, pois ele reflete a liquidez real disponível, que pode ser usada para financiar operações, pagar despesas e investir em crescimento. Diferente de métricas que se baseiam em receitas futuras ou contas a receber, o Valor Recebido lida diretamente com o dinheiro que já entrou no caixa da empresa, tornando-se um parâmetro claro para mensurar a eficiência das práticas de cobrança e o comportamento de pagamento dos clientes.
+
+A importância do Valor Recebido reside na sua relação direta com o fluxo de caixa, que sustenta a operação diária e o planejamento financeiro. Quando o valor recebido é baixo ou irregular, a empresa pode enfrentar dificuldades para cumprir com suas obrigações financeiras, como pagamento de fornecedores, salários e investimentos em novos projetos. Por isso, monitorar o Valor Recebido em comparação com os valores a receber e os prazos de pagamento acordados ajuda a identificar possíveis gargalos na gestão de recebíveis e a tomar ações corretivas para otimizar a entrada de recursos. Além disso, ele auxilia na avaliação de clientes, permitindo ajustes nas condições de pagamento e estratégias de crédito, de forma a mitigar riscos de inadimplência e manter um fluxo de caixa estável.
+
+Em resumo, o Valor Recebido é um dos indicadores mais concretos e imediatos da saúde financeira de uma empresa, pois reflete sua capacidade de gerar liquidez a partir das suas operações, garantindo a continuidade e a sustentabilidade dos negócios.
 
 ### Prazo Médio de Recebimento (PMR)
 
