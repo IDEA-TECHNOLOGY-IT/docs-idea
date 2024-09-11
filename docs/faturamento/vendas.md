@@ -67,6 +67,13 @@ O que torna essa matriz particularmente poderosa é a capacidade de alterar os c
 
 Esse tipo de análise visual não só auxilia na tomada de decisões rápidas, mas também permite que as empresas identifiquem oportunidades e riscos em várias áreas de suas operações. A capacidade de mudar as dimensões garante uma análise abrangente e flexível, apoiando estratégias mais direcionadas para melhorar as vendas, o engajamento dos clientes e o desempenho geral da empresa.
 
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
+
 ## Visão Detalhes
 
 ### Tabela de Vendas Detalhes
