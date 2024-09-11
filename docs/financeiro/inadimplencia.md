@@ -62,7 +62,7 @@ Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. 
 
 Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar as Filiais e Dimensões associadas a esse projeto, proporcionando uma visão mais detalhada da estrutura de inadimplência. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade. Isso torna a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios, oferecendo uma visão clara e detalhada da inadimplência e suas implicações financeiras.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -105,7 +105,7 @@ Um gráfico de barras que segmenta a inadimplência por cliente ou origem oferec
 
 O gráfico também é valioso para monitorar o comportamento de pagamento de diferentes clientes e origens ao longo do tempo, oferecendo insights sobre padrões de inadimplência. Essas informações podem orientar decisões sobre estratégias de crédito, gestão de contas e políticas de cobrança. Além disso, o gráfico pode ser utilizado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ao apresentar um panorama claro das dívidas em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde as inadimplências estão concentradas, seja por origem ou cliente, o gráfico informa a tomada de decisões estratégicas, como a priorização de cobranças ou a revisão dos termos de crédito para clientes específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir a inadimplência, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
