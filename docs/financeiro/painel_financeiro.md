@@ -5,13 +5,15 @@
   <h6>Imagem 1: Painel de Financeira</h6>
 </div>
 
+## Informações no Painel Financeiro
+
 O relatório de fluxo de caixa fornece uma visão geral abrangente da liquidez da sua empresa rastreando o movimento de entrada e saída de dinheiro do negócio. Este relatório é vital para entender a saúde financeira da sua organização, garantindo que haja dinheiro suficiente disponível para cumprir com as obrigações e capitalizar oportunidades. Ao analisar o fluxo de caixa, você pode antecipar possíveis déficits, gerenciar despesas de forma mais eficaz e planejar o crescimento futuro.
 
 Este painel fornece uma visão geral do desempenho do fluxo de caixa do negócio exibindo o saldo da conta mês a mês e detalhando os valores de entradas e saídas. É crucial monitorar o movimento do saldo da conta em uma direção positiva, pois isso indica uma gestão financeira saudável. Ao incorporar o saldo provisório para os meses futuros, você obtém insights sobre riscos e desafios potenciais que podem impactar os planos financeiros. Entender o fluxo de caixa por meio de análises detalhadas de transações de entrada e saída é benéfico para identificar tendências e áreas onde ajustes podem ser necessários. Essa abordagem torna mais fácil identificar oportunidades para otimizar o fluxo de caixa, garantindo que o negócio permaneça financeiramente resiliente.
 
-Na página de Painel Financeiro, você encontrará:
+## Visão Principal
 
-## Saldo em Contas ao Longo do Tempo
+### Saldo em Contas ao Longo do Tempo
 
 <div align="center">
   <img src="../../assets/flux_home_saldo.png" alt="Saldo em Contas ao Longo do Tempo">
@@ -24,7 +26,7 @@ Este gráfico oferece uma perspectiva dupla sobre seu fluxo de caixa. A seção 
 
 Isso é crucial para o planejamento financeiro de longo prazo. Ao comparar os dados realizados com as projeções previstas, você pode avaliar se suas tendências de fluxo de caixa são sustentáveis ​​e se alinham com suas metas financeiras. Ele permite que você tome decisões informadas, como ajustar os gastos ou investir em novas oportunidades, com base na disponibilidade de caixa prevista.
 
-## Comparativo Mensal (Entradas x Saídas) - Realizado
+### Comparativo Mensal (Entradas x Saídas) - Realizado
 
 <div align="center">
   <img src="../../assets/flux_home_entradas.png" alt="Comparativo Mensal (Entradas x Saídas) - Realizado">
