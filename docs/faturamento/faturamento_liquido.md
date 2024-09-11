@@ -20,7 +20,9 @@ Ao calcular o Faturamento Líquido, são subtraídos do Faturamento Bruto os seg
 
 O Faturamento Líquido é um indicador crucial porque revela a receita real que a empresa obtém após cumprir suas obrigações fiscais e comerciais. Ele serve como base para o cálculo de métricas financeiras importantes, como a margem de lucro, e é essencial para avaliar a viabilidade de operações, além de orientar decisões estratégicas relacionadas a vendas e crescimento.
 
-## Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
+## Visão Principal
+
+### Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
   <img src="../../assets/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
@@ -69,7 +71,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
 
-## Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
+### Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
   <img src="../../assets/fat_fat_filial.png" alt="Faturamento Filial">
@@ -89,7 +91,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
 
-## Mês de Faturamento x Meta
+### Mês de Faturamento x Meta
 
 <p><div align="center">
   <img src="../../assets/fat_fat_meta.png" alt="Faturamento Meta">
