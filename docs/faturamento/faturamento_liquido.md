@@ -5,6 +5,10 @@
   <h6>Imagem 1: Painel de Faturamento Líquido</h6>
 </div></p>
 
+## Informações no Painel de Faturamento Líquido
+
+### Faturamento Líquido
+
 Faturamento Líquido é o valor total das vendas de uma empresa após a dedução de impostos sobre vendas, devoluções de mercadorias, descontos comerciais e outras deduções aplicáveis. Ele reflete a receita efetivamente gerada pelas vendas e é um indicador fundamental para avaliar o desempenho financeiro real da empresa.
 
 Ao calcular o Faturamento Líquido, são subtraídos do Faturamento Bruto os seguintes itens:
@@ -22,6 +26,16 @@ O Faturamento Líquido é um indicador crucial porque revela a receita real que 
   <img src="../../assets/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
   <h6>Imagem 2: Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
+
+Esta tabela é uma ferramenta valiosa para monitorar e otimizar o desempenho de vendas, fornecendo insights acionáveis em diferentes níveis de detalhe. A possibilidade de realizar drill-down para Filial, Vendedor, Cliente, Fabricante ou Item oferece uma análise personalizada, permitindo a identificação de tendências, oportunidades de crescimento e áreas que precisam de melhorias. O acompanhamento do Faturado em relação às metas de vendas possibilita que as equipes visualizem rapidamente o progresso de cada vendedor, filial ou cliente, facilitando a tomada de decisões informadas para melhorar o desempenho individual ou coletivo.
+
+A tabela também facilita a avaliação comparativa, com a comparação do Faturamento Mês Fechado com o mês anterior e a diferença percentual (% Dif.), o que permite identificar se o desempenho está melhorando ou apresentando queda. Isso é essencial para ajustar estratégias e reagir a mudanças de mercado ou comportamento do cliente. A coluna Meta %, com texto colorido (verde para metas atingidas e vermelho para metas não alcançadas), oferece uma forma visual rápida e simples de identificar quem está superando as expectativas e quem precisa de suporte ou revisão de metas, permitindo respostas rápidas da gestão.
+
+Além disso, a inclusão da Margem permite que a equipe de vendas não foque apenas no volume de vendas, mas também na lucratividade, o que é crucial para garantir que o crescimento de vendas esteja alinhado com os objetivos financeiros da empresa. O Prazo Médio de Recebimento (PMR) mostra a eficiência financeira, indicando quanto tempo a empresa leva para receber o pagamento das vendas. Um PMR alto pode indicar problemas de fluxo de caixa, enquanto um PMR baixo reflete maior eficiência, ajudando a ajustar políticas de crédito ou renegociar condições com clientes.
+
+A flexibilidade de detalhamento por Filial, Cliente, Fabricante ou Item possibilita uma análise granular que ajuda a identificar quais fatores específicos estão impulsionando ou limitando o desempenho de vendas. Isso permite que ações corretivas sejam tomadas rapidamente, como no caso de uma filial ou produto específico com queda no faturamento. Além disso, o Ticket Médio ajuda a entender o valor médio das transações, o que pode ser útil para ajustar estratégias de precificação ou vendas, como focar em produtos de maior valor ou oferecer incentivos para aumentar o ticket médio.
+
+Em resumo, esta tabela não só facilita o acompanhamento do desempenho de vendas em tempo real, mas também ajuda a identificar rapidamente oportunidades de melhoria e ajustes estratégicos, promovendo uma abordagem mais eficaz e orientada a resultados.
 
 Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item oferece uma visão detalhada do desempenho de vendas, organizada com métricas essenciais para acompanhar o progresso e avaliar a eficiência da equipe de vendas. O primeiro nível da tabela pode ser detalhado por diferentes categorias, proporcionando maior flexibilidade na análise:
 
@@ -47,16 +61,6 @@ A diferença percentual entre o faturamento do mês atual e o do mês anterior, 
 A "Margem de Lucro" é uma métrica financeira que mostra a porcentagem da receita que uma empresa retém como lucro após cobrir todas as despesas. Ela é calculada dividindo o Lucro Líquido pela Receita Bruta e multiplicando por 100. Uma margem mais alta indica maior eficiência em converter a receita em lucro.
 #### PMR (Dias) 
 O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor (ou a filial, cliente, fabricante ou item) leva para receber o pagamento das vendas, auxiliando na análise do ciclo de caixa.
-
-Esta tabela é uma ferramenta valiosa para monitorar e otimizar o desempenho de vendas, fornecendo insights acionáveis em diferentes níveis de detalhe. A possibilidade de realizar drill-down para Filial, Vendedor, Cliente, Fabricante ou Item oferece uma análise personalizada, permitindo a identificação de tendências, oportunidades de crescimento e áreas que precisam de melhorias. O acompanhamento do Faturado em relação às metas de vendas possibilita que as equipes visualizem rapidamente o progresso de cada vendedor, filial ou cliente, facilitando a tomada de decisões informadas para melhorar o desempenho individual ou coletivo.
-
-A tabela também facilita a avaliação comparativa, com a comparação do Faturamento Mês Fechado com o mês anterior e a diferença percentual (% Dif.), o que permite identificar se o desempenho está melhorando ou apresentando queda. Isso é essencial para ajustar estratégias e reagir a mudanças de mercado ou comportamento do cliente. A coluna Meta %, com texto colorido (verde para metas atingidas e vermelho para metas não alcançadas), oferece uma forma visual rápida e simples de identificar quem está superando as expectativas e quem precisa de suporte ou revisão de metas, permitindo respostas rápidas da gestão.
-
-Além disso, a inclusão da Margem permite que a equipe de vendas não foque apenas no volume de vendas, mas também na lucratividade, o que é crucial para garantir que o crescimento de vendas esteja alinhado com os objetivos financeiros da empresa. O Prazo Médio de Recebimento (PMR) mostra a eficiência financeira, indicando quanto tempo a empresa leva para receber o pagamento das vendas. Um PMR alto pode indicar problemas de fluxo de caixa, enquanto um PMR baixo reflete maior eficiência, ajudando a ajustar políticas de crédito ou renegociar condições com clientes.
-
-A flexibilidade de detalhamento por Filial, Cliente, Fabricante ou Item possibilita uma análise granular que ajuda a identificar quais fatores específicos estão impulsionando ou limitando o desempenho de vendas. Isso permite que ações corretivas sejam tomadas rapidamente, como no caso de uma filial ou produto específico com queda no faturamento. Além disso, o Ticket Médio ajuda a entender o valor médio das transações, o que pode ser útil para ajustar estratégias de precificação ou vendas, como focar em produtos de maior valor ou oferecer incentivos para aumentar o ticket médio.
-
-Em resumo, esta tabela não só facilita o acompanhamento do desempenho de vendas em tempo real, mas também ajuda a identificar rapidamente oportunidades de melhoria e ajustes estratégicos, promovendo uma abordagem mais eficaz e orientada a resultados.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
@@ -94,4 +98,4 @@ Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabrica
 
 Este gráfico de barras oferece uma visão detalhada do faturamento mensal ao longo dos anos, comparando-o diretamente com os valores das metas estabelecidas para cada mês. As barras representam o faturamento real de cada mês, enquanto uma segunda série de barras exibe o valor da meta correspondente. Sobre essas barras, uma linha mostra a porcentagem da meta atingida, com a cor verde indicando que a meta foi alcançada ou superada, e vermelho sinalizando que a meta não foi atingida.
 
-Esse gráfico é extremamente útil porque permite uma análise clara e comparativa do desempenho de vendas em relação às metas estabelecidas. As barras de faturamento e meta permitem uma visualização direta da diferença entre o desempenho real e as expectativas, facilitando a identificação de variações e períodos em que os objetivos foram ou não cumpridos. A linha de porcentagem fornece um feedback imediato sobre o grau de cumprimento das metas, destacando de forma visual se os objetivos foram atingidos. Esta combinação de dados facilita o monitoramento contínuo do progresso, a avaliação da eficácia das estratégias de vendas e a identificação de áreas que podem precisar de ajustes. Em suma, este gráfico oferece uma ferramenta valiosa para acompanhar o desempenho, ajustar estratégias e tomar decisões informadas para melhorar os resultados futuros.
+Esse é extremamente útil porque permite uma análise clara e comparativa do desempenho de vendas em relação às metas estabelecidas. As barras de faturamento e meta permitem uma visualização direta da diferença entre o desempenho real e as expectativas, facilitando a identificação de variações e períodos em que os objetivos foram ou não cumpridos. A linha de porcentagem fornece um feedback imediato sobre o grau de cumprimento das metas, destacando de forma visual se os objetivos foram atingidos. Esta combinação de dados facilita o monitoramento contínuo do progresso, a avaliação da eficácia das estratégias de vendas e a identificação de áreas que podem precisar de ajustes. Em suma, este gráfico oferece uma ferramenta valiosa para acompanhar o desempenho, ajustar estratégias e tomar decisões informadas para melhorar os resultados futuros.
