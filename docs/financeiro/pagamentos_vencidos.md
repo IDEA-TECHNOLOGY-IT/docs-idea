@@ -10,9 +10,12 @@
   <h6>Imagem 2: Painel Pagamentos Vencidos - Visão de Tabela</h6>
 </div></p>
 
-## Navigação
+## Navegação
 
-Este painel de relatório é dividido em duas visualizações, visualização gráfica e visualização de tabela. Eles podem ser navegados através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráficos" ou " ir para visualização em tabela".
+Este painel de relatório está dividido em duas visualizações;
+
+- **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico".
+- **[Visão de tabela](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Pagamentos Vencidos
 
