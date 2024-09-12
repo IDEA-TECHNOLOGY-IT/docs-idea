@@ -1,4 +1,4 @@
-# Introdução à área de Demonstração
+# Introdução
 
 Bem-vindo à seção de demonstração do Idea Analytics! Aqui você terá a oportunidade de explorar e testar nossas soluções de Business Intelligence (BI). Utilize os recursos interativos disponíveis para experimentar como cada solução pode ajudar a sua empresa a tomar decisões baseadas em dados.
 
