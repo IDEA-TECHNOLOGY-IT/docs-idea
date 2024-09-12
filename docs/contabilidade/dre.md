@@ -23,6 +23,9 @@ Este indicador mostra a mudança percentual no valor realizado em comparação c
 ### AH% (Variação Absoluta Percentual Histórica)
 Este indicador compara o valor realizado com o valor do mesmo período no ano anterior, expressando a mudança percentual em relação ao período correspondente do ano passado. O AH% é útil para avaliar o desempenho financeiro ao longo do tempo e entender como as métricas atuais se comparam com o desempenho histórico. Ele ajuda a identificar tendências de longo prazo e a medir o crescimento ou declínio anual em cada conta.
 
+
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
+
 A Demonstração do Resultado do Exercício (DRE) é crucial para a análise financeira, pois fornece uma visão abrangente da rentabilidade da empresa, permitindo uma avaliação detalhada do desempenho operacional e financeiro. A análise das variações AV% e AH% ajuda a compreender as flutuações financeiras, identificar áreas de melhoria e tomar decisões estratégicas baseadas em dados precisos e históricos.
 
 
