@@ -4,7 +4,7 @@ hide:
 ---
 
 
-# Demonstração Idea Sales
+# Idea Sales
 
 Experimente nossa solução Idea Sales aqui e descubra mais usando nossa [documentação](./ficha_tecnica.md):
 
