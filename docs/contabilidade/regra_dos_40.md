@@ -54,3 +54,7 @@ Este gráfico de barras exibe a Regra dos 40 por ano, com rótulos de texto que 
 </div>
 
 O gráfico de área mostra a Regra dos 40 por mês e ano, com rótulos de texto que também mudam de cor de acordo com a meta. Os rótulos ficam vermelhos quando o valor está abaixo de 40% e verdes quando está igual ou acima de 40%. Além disso, o gráfico inclui uma linha que marca o objetivo de 40%, facilitando a comparação visual do desempenho com a meta estabelecida.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
