@@ -43,3 +43,7 @@ Esta tabela é importante para o gerenciamento do fluxo de caixa por muitos moti
 **Transparência e responsabilidade:** relatórios detalhados de saldo de conta aumentam a transparência e a responsabilidade dentro da organização. Eles permitem que as partes interessadas vejam onde os fundos são alocados e como estão sendo utilizados, o que é crucial para auditorias internas e revisões financeiras. Essa transparência promove a confiança e garante que as práticas financeiras estejam alinhadas com as políticas e regulamentações organizacionais.
 
 Ao aproveitar esta tabela, você pode obter insights valiosos sobre o status financeiro da sua organização, levando a uma tomada de decisão mais informada e ao gerenciamento eficaz do fluxo de caixa.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
