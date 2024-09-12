@@ -17,7 +17,7 @@ Este painel de relatório está dividido em duas visualizações;
 - **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "voltar para análise anual".
 - **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
 
-## Informações no Painel Vendas
+## Informações no Painel Devoluções
 
 ### Valor de Devoluções
 
@@ -96,7 +96,7 @@ Além disso, os dados de devoluções são críticos para relatórios financeiro
 Esta tabela é essencial quando se busca detalhes sobre devoluções específicas. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#filtros). A seguir, explicamos como interpretar cada coluna da tabela.
 
 #### Doc. 
-Número do documento que identifica cada transação de venda. Este permite rastrear e auditar transações específicas, ajudando na análise detalhada e identificação de vendas individuais no BI.
+Número do documento que identifica cada transação de venda. Este permite rastrear e auditar transações específicas, ajudando na análise detalhada e identificação de devoluções individuais no BI.
   
 #### Lançamento
 Data em que a venda foi registrada que fornece o contexto temporal para as transações, permitindo identificar tendências e padrões de vendas ao longo do tempo.
