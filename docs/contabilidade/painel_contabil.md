@@ -39,3 +39,6 @@ As etiquetas de '% Dif.' são verdes quando positivas e vermelhas quando negativ
 
 A codificação por cores ajuda a identificar rapidamente se a empresa está gerando receita suficiente para cobrir seus custos e despesas, e a ajustar estratégias financeiras conforme necessário.
 
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
