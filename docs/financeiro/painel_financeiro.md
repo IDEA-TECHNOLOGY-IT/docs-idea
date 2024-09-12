@@ -38,3 +38,7 @@ Este gráfico segmenta seu fluxo de caixa mensal em dois componentes principais:
 Os rótulos "% Variância" são codificados por cores, aparecendo em verde quando positivos e em vermelho quando negativos. Esse recurso permite comparar diretamente entradas e saídas mês a mês, visualizando a diferença percentual entre elas. A codificação por cores facilita a identificação rápida de períodos em que a empresa está gastando mais do que está ganhando, permitindo ajustes estratégicos nas finanças.
 
 Monitorar a relação entre entradas e saídas é crucial para manter a liquidez. A linha de variação percentual destaca os meses em que as saídas podem superar as entradas, apontando possíveis problemas de fluxo de caixa. Esse gráfico é uma ferramenta essencial para a gestão financeira diária, ajudando a agir preventivamente diante de déficits e a otimizar as operações financeiras.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
