@@ -11,6 +11,11 @@
 
 Após envolver a ação **[Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through)** com um elemento visual nos painéis — como selecionar um ponto de dados específico em um gráfico ou uma célula específica em uma tabela — o Painel de Detalhamento aparece, exibindo dados na forma de uma tabela que já está filtrada de acordo com a seleção feita. Esse mecanismo de filtragem é crucial, pois permite que os usuários conduzam um exame detalhado e focado dos dados pertinentes à sua seleção, fornecendo uma compreensão mais profunda e contextual das informações. Por exemplo, se um usuário selecionar um cliente ou fatura específica, o painel de detalhes mostrará automaticamente informações diretamente relacionadas a essa seleção, como detalhes da fatura, informações do cliente e datas relevantes, garantindo que a análise seja precisa e relevante.
 
+<p><div align="center">
+  <img src="../../assets/flux_detail_filters.png" alt="Detalhes Filters">
+  <h6>Imagem 2: Filtros de Drill-through</h6>
+</div></p>
+
 A tabela em si contém todas as informações principais encontradas em todo o relatório. Embora cada painel tenha sua própria tabela, a tabela de detalhes no painel oferece uma visão combinada dos dados, por exemplo, pode mostrar as transações A Receber e A Pagar ao mesmo tempo. Isso pode ser útil ao analisar casos ou documentos específicos, pois permite uma perspectiva mais ampla sobre os movimentos relevantes.
 
 Além dos filtros automáticos aplicados a partir da ação drill-through, os usuários têm a flexibilidade de usar [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) adicionais disponíveis neste painel. Esses filtros extras oferecem mais personalização e refinamento dos dados, permitindo que os usuários aprimorem suas análises adicionando mais contexto ou focando em aspectos específicos dos dados. Esse recurso é particularmente útil para explorar variações ou anomalias no conjunto de dados e para conduzir investigações mais granulares.
