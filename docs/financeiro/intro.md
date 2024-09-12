@@ -235,3 +235,7 @@ Abre o modo de foco, que é uma nova página com apenas o visual selecionado, da
 ### Mais opções
 <p><img src="../../assets/flux_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 40px;"></p>
 Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar. A disponibilidade dessas opções varia de acordo com o tipo de visual selecionado e as configurações aplicadas.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
