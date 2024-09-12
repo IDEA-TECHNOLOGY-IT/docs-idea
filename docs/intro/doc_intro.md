@@ -26,4 +26,6 @@ Para começar, clique em um dos links abaixo para acessar a documentação de ca
     <strong><a href="https://idea-technology-it.github.io/docs-idea/contabilidade/ficha_tecnica/" target="_blank">Idea Accounting</a></strong> (BI Contábil): foca em processos contábeis, como balanço patrimonial, fluxo de contas a pagar e a receber, inadimplência e auditoria contábil. Através dessa documentação, a equipe contábil pode acompanhar de perto as operações financeiras e garantir a conformidade com as normas e boas práticas contábeis.
   </div>
 </div>
+<br>
 
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
