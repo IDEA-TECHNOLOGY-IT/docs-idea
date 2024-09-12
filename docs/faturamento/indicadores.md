@@ -289,3 +289,7 @@ O gráfico de **Ticket Médio (R$)** mostra a evolução do valor médio das ven
 
 Este gráfico oferece uma visão clara do valor médio das vendas ao longo do tempo, permitindo uma análise detalhada do comportamento de compra dos clientes e ajudando na tomada de decisões estratégicas para aumentar o ticket médio e melhorar a eficiência das campanhas de marketing e vendas.
 
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
+
