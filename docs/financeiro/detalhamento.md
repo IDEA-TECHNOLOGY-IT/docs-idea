@@ -51,8 +51,12 @@ O número do documento associado à fatura encontra-se aqui. Este é o número m
 Indica quando a fatura foi criada. Essa informação é importante para entender o histórico da transação e verificar quanto tempo se passou desde a emissão da fatura.
 #### Data de Venc.
 Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
-#### Valor
-Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
+#### Valor Entradas
+Exibe o valor de entradas em cada transação. Esta coluna permite uma visão clara dos montantes recebidos.
+#### Valor Saídas
+Exibe o valor de saídas em cada transação. Esta coluna permite uma visão clara dos montantes pagos.
+#### Valor Total
+Apresenta o valor das entradas menos saídas. Esta coluna fornece uma visão clara do valor total ao analisar entradas e saídas.
 #### Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
 #### Projeto
