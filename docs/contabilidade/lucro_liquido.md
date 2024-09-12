@@ -64,3 +64,6 @@ A tabela de detalhamento contém colunas para Identificador (ID da Transação),
 Permite uma análise detalhada de cada transação, facilitando a auditoria e o rastreamento do impacto das transações no Lucro Líquido. 
 
 Essa visão é importante para identificar e avaliar os principais fatores que influenciam o lucro final da empresa.
+
+
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
