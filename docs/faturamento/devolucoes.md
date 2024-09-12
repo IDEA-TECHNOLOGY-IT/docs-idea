@@ -127,3 +127,7 @@ Esse gráfico exibe o valor e o percentual das devoluções distribuídas por Fi
 - **Análise de Desempenho:** O gráfico permite identificar qual filial, vendedor, cliente ou item está gerando mais devoluções, auxiliando na tomada de decisões estratégicas para melhoria nessas áreas. Isso pode resultar em ajustes nas operações, como aprimoramento no atendimento ao cliente ou revisão dos processos de logística.
 - **Identificação de Padrões e Problemas:** A visualização dos dados facilita a identificação de padrões recorrentes ou anomalias. Por exemplo, se um cliente específico apresenta uma alta taxa de devolução, isso pode indicar problemas que necessitam de uma abordagem personalizada.
 - **Monitoramento de Desempenho Contínuo:** Esse gráfico é uma ferramenta eficaz para monitorar o desempenho contínuo das operações da empresa, ajudando a identificar tendências negativas antes que se tornem problemas críticos.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
