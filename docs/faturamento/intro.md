@@ -39,11 +39,11 @@ A segunda maneira de navegar é através dos botões "Ver mais" ou "Mais indicad
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores_faturamento/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/fat_button_gráfico.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/fat_button_tabela.png" alt="Tabela Open" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/fat_button_tabela.png" alt="Tabela Open" style="vertical-align: middle;">
 </div>
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/fat_button_voltar.png" alt="Voltar" style="margin-right: 10px;">
-  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/fat_button_detalhes.png" alt="Detalhes Open" style="vertical-align: middle;">
 </div>
 
 ### Botão para Documentação
