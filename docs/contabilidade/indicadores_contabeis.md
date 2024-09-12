@@ -186,3 +186,5 @@ Capital de Giro (CDG) representa o montante de recursos que a empresa necessita 
 ### Necessidade de Capital de Giro (NGC)
 
 Necessidade de Capital de Giro (NGC) refere-se ao capital necessário para financiar o ciclo operacional da empresa, cobrindo o período entre o pagamento de seus fornecedores e o recebimento de suas vendas. Esse indicador mostra a necessidade de recursos para manter as operações contínuas.
+
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
