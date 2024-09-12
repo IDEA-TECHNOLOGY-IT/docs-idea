@@ -66,3 +66,6 @@ A linha é codificada por cores: vermelha para margens abaixo de 20% e verde par
 Esta tabela apresenta dados detalhados de transações com colunas para Identificador (ID da Transação), Data Lançamento (Data da Transação), Filial (Filial), Projeto e EBITDA. 
 
 Ela fornece uma visão granular de cada transação, permitindo que os usuários detalhem informações específicas e analisem o impacto das transações individuais no desempenho geral do EBITDA.
+
+
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
