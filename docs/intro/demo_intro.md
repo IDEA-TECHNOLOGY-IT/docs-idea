@@ -6,8 +6,6 @@ Bem-vindo à seção de demonstração do Idea Analytics! Aqui você terá a opo
 
 Para começar, clique em um dos links abaixo para acessar a demonstração de cada área:
 
-# Demonstração do Idea Analytics
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../../assets/fat.png" alt="Idea Sales" style="height: 8em; width: 150px; margin-right: 20px;">
   <div style="flex: 1;">
