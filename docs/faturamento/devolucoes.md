@@ -93,40 +93,80 @@ Esse nível de detalhamento é essencial para otimizar a gestão da cadeia de su
 
 Além disso, os dados de devoluções são críticos para relatórios financeiros e análises de desempenho, uma vez que ajudam a avaliar o impacto das devoluções na receita e a monitorar o fluxo de caixa de maneira mais precisa. Com a capacidade de analisar essas informações detalhadas, as empresas podem tomar decisões estratégicas em relação a políticas de devolução, gerenciamento de estoque e manutenção de margens de lucro saudáveis. Em última análise, a Tabela de Devoluções Detalhadas oferece insights valiosos para melhorar a eficiência operacional e garantir um crescimento sustentável, ao mesmo tempo em que minimiza os custos associados às devoluções.
 
+Esta tabela é essencial quando se busca detalhes sobre devoluções específicas. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#filtros). A seguir, explicamos como interpretar cada coluna da tabela.
 
+#### Doc. 
+Número do documento que identifica cada transação de venda. Este permite rastrear e auditar transações específicas, ajudando na análise detalhada e identificação de vendas individuais no BI.
+  
+#### Lançamento
+Data em que a venda foi registrada que fornece o contexto temporal para as transações, permitindo identificar tendências e padrões de vendas ao longo do tempo.
+  
+#### Filial
+A unidade da empresa onde a venda foi realizada. Auxilia na comparação de desempenho entre diferentes filiais, destacando quais locais estão gerando mais vendas ou onde há necessidade de ajustes.
+  
+#### Vendedor
+O representante de vendas responsável pela transação, facilita a análise de desempenho individual dos vendedores, ajudando identificar os melhores vendedores ou onde é necessário mais suporte.
 
-**YOU ARE ON THIS PART**
+#### Fabricante
+O fornecedor ou fabricante do produto vendido. Essencial para monitorar a contribuição de diferentes fornecedores para as vendas, permitindo avaliar a demanda por produtos de fabricantes específicos.
 
+#### Cliente
+Identificação do cliente que realizou a compra que é crucial para segmentação de clientes e análise de comportamento de compra, permitindo estratégias de vendas personalizadas e retenção de clientes.
+  
+#### Devoluções
+O valor monetário da devolução que permite acompanhar o impacto financeiro das devoluções, ajudando a identificar potenciais problemas com produtos ou serviços.
 
+#### Devoluções %
+Percentual da venda devolvida que ajuda a mensurar a taxa de devolução em relação ao total de vendas, indicando a satisfação do cliente e a qualidade dos produtos vendidos. Quando a porcentagem está abaixo de 10%, o texto será exibido em verde, indicando um nível mais aceitável de devoluções.
 
-## Gráfico de Devoluções por Fabricante
+### Devoluções x Fabricante
 
-![alt text](../assets/devolucoes/Imagem6 - Gráfico de Devoluções por Fabricante.png)
-<h6 align = "center"> Imagem6 - Gráfico de Devoluções por Fabricante</h6>
+<p><div align="center">
+  <img src="../../assets/fat_dev_fab.png" alt="Devoluções x Fabricante">
+  <h6>Imagem 6: Devoluções x Fabricante</h6>
+</div></p>
 
-O gráfico de devolução por fabricante é uma ferramenta visual que mostra o valor e o percentual das devoluções de produtos associados a diferentes fabricantes. Utilizando barras para comparar os fabricantes, esse gráfico é útil para analisar o desempenho de cada fornecedor em termos de qualidade de produto, ajudando a identificar quais estão gerando mais devoluções.
+Um gráfico de barras intitulado Devoluções x Fabricante oferece uma representação visual crucial do impacto das devoluções com base nos diferentes fabricantes que fornecem os produtos vendidos. Cada barra no gráfico representa um fabricante específico e exibe tanto o valor monetário quanto a porcentagem de devoluções, permitindo que a empresa analise como os retornos de produtos estão distribuídos entre os fornecedores.
 
-### Finalidade do Gráfico:
+Uma característica importante desse gráfico é o uso de cores para indicar a porcentagem de devoluções: quando a porcentagem de devoluções está acima de 10%, o texto da porcentagem será exibido em vermelho, sinalizando um possível problema com a qualidade ou conformidade do produto fornecido. Quando a porcentagem está abaixo de 10%, o texto será exibido em verde, indicando um nível mais aceitável de devoluções.
 
-- **Análise de Qualidade:** Esse gráfico ajuda a identificar quais fabricantes estão entregando produtos com maior incidência de problemas, refletidos no volume de devoluções. Isso pode orientar decisões importantes, como renegociações de contratos, melhorias nos processos de qualidade dos fabricantes ou até a substituição de fornecedores.
-- **Comparação de Desempenho:** O gráfico permite uma comparação clara e visual entre diferentes fabricantes, destacando quais estão atendendo melhor às expectativas de qualidade da empresa e dos clientes.
-- **Decisões de Abastecimentos:** As empresas podem usar esse gráfico para otimizar sua cadeia de suprimentos, priorizando fabricantes com menores taxas de devoluções e possivelmente renegociando condições com aqueles que apresentam altos volumes de retornos.
-- **Monitoramento de Tendências:** Ao longo do tempo, o gráfico pode ser utilizado para monitorar como as devoluções de diferentes fabricantes evoluem, ajudando a identificar melhorias ou deteriorações no desempenho de qualidade de cada fornecedor.
+Esse gráfico é particularmente valioso para avaliar o desempenho dos fabricantes em termos de devoluções. O fabricante tem um papel essencial na qualidade do produto e na conformidade com as expectativas do cliente. Um gráfico Devoluções x Fabricante ajuda a identificar quais fornecedores estão associados a maiores taxas de devoluções, permitindo que a empresa tome medidas corretivas, como revisar os contratos, renegociar termos ou até mesmo buscar novos parceiros de fornecimento.
 
-Resumindo, o gráfico de devolução por fabricante é um indicador eficaz para analisar a qualidade dos produtos fornecidos por diferentes fabricantes, fornecendo uma visualização clara e comparativa que pode ajudar na tomada de decisões estratégicas relacionadas a fornecedores e qualidade de produtos.
+Ao identificar padrões de devoluções associados a determinados fabricantes, a empresa pode investigar problemas de qualidade ou inconsistências que estejam gerando insatisfação entre os clientes. Esses insights são fundamentais para garantir que a cadeia de suprimentos esteja alinhada com os padrões de qualidade da empresa, minimizando o impacto das devoluções tanto no custo operacional quanto na reputação da marca.
 
-## Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item
+Além disso, o gráfico permite identificar fabricantes que têm baixos índices de devoluções, o que pode indicar uma alta confiabilidade em seus produtos. Esses fabricantes podem se tornar parceiros estratégicos, ajudando a melhorar a oferta de produtos da empresa, reduzir custos associados a devoluções e melhorar a satisfação do cliente.
 
-![alt text](../assets/devolucoes/Imagem7 - Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item.png)
-<h6 align = "center"> Imagem7 - Gráfico de Devoluções por Filial, Vendedor, Cliente ou Item</h6>
+Por fim, a análise das devoluções por fabricante não apenas ajuda a melhorar a gestão de fornecedores, mas também possibilita que a empresa atue de forma proativa para mitigar o risco de devoluções em grande escala, garantindo que os produtos atendam ou superem as expectativas dos clientes.
 
-Esse gráfico exibe o valor e o percentual das devoluções distribuídas por Filial, Vendedor, Cliente ou Produto. O objetivo é permitir a análise comparativa das devoluções com base em diferentes parâmetros operacionais, como as filiais da empresa, o desempenho de vendedores, os comportamentos de clientes ou o resultado de produtos específicos. Esse tipo de gráfico facilita a identificação de padrões, problemas e oportunidades de melhoria em diferentes áreas da empresa.
+No geral, o gráfico de barras Devoluções x Fabricante oferece uma visão detalhada e essencial para a gestão da cadeia de suprimentos, com indicadores visuais (vermelho/verde) que facilitam a identificação de áreas críticas. Ele capacita os tomadores de decisão a avaliar o desempenho dos fabricantes, fortalecer relações com fornecedores confiáveis e mitigar problemas de devolução que impactam diretamente a rentabilidade e a experiência do cliente.
 
-### Finalidade do Gráfico:
+### Devoluções x Filial, Vendedor, Cliente ou Item
 
-- **Análise de Desempenho:** O gráfico permite identificar qual filial, vendedor, cliente ou item está gerando mais devoluções, auxiliando na tomada de decisões estratégicas para melhoria nessas áreas. Isso pode resultar em ajustes nas operações, como aprimoramento no atendimento ao cliente ou revisão dos processos de logística.
-- **Identificação de Padrões e Problemas:** A visualização dos dados facilita a identificação de padrões recorrentes ou anomalias. Por exemplo, se um cliente específico apresenta uma alta taxa de devolução, isso pode indicar problemas que necessitam de uma abordagem personalizada.
-- **Monitoramento de Desempenho Contínuo:** Esse gráfico é uma ferramenta eficaz para monitorar o desempenho contínuo das operações da empresa, ajudando a identificar tendências negativas antes que se tornem problemas críticos.
+<p><div align="center">
+  <img src="../../assets/fat_dev_filial.png" alt="Devoluções x Filial, Vendedor, Cliente ou Item">
+  <h6>Imagem 7: Devoluções x Filial, Vendedor, Cliente ou Item</h6>
+</div></p>
+
+Um gráfico de barras intitulado Devoluções x Filial, Vendedor, Cliente ou Item oferece uma representação visual poderosa do desempenho de devoluções, segmentado por várias dimensões comerciais importantes, como Filial, Vendedor, Cliente ou Item. Cada barra no gráfico representa uma dessas dimensões e exibe tanto o valor monetário quanto a porcentagem de devoluções, permitindo que a empresa analise como as devoluções estão distribuídas entre diferentes entidades.
+
+Uma funcionalidade importante desse gráfico é o uso de cores para indicar a porcentagem de devoluções: quando a porcentagem de devoluções está acima de 10%, o texto da porcentagem será exibido em vermelho, sinalizando uma preocupação ou problema que requer atenção. Por outro lado, quando a porcentagem de devoluções está abaixo de 10%, o texto será exibido em verde, indicando uma situação mais controlada e favorável.
+
+Esse tipo de gráfico é inestimável para identificar problemas e padrões em devoluções. Por exemplo, um gráfico Devoluções x Filial ajuda a empresa a avaliar o impacto das devoluções em diferentes filiais, mostrando quais locais enfrentam maior volume ou porcentagem de devoluções. Esse insight permite que a empresa tome decisões informadas, como investigar as causas das devoluções em locais específicos e implementar soluções para reduzir a taxa de devolução.
+
+Da mesma forma, um gráfico Devoluções x Vendedor oferece uma visão clara de como cada vendedor está gerando devoluções em relação ao valor total de vendas. Ele ajuda a identificar quais vendedores podem precisar de treinamento adicional ou apoio para reduzir devoluções, enquanto também possibilita o reconhecimento de vendedores com menor índice de devoluções.
+
+Um gráfico Devoluções x Cliente revela quais clientes têm as maiores taxas de devolução, tanto em valor absoluto quanto percentual. Isso permite que a empresa adote estratégias direcionadas para lidar com clientes que fazem devoluções frequentes, ajustando expectativas ou oferecendo suporte pós-venda para melhorar a satisfação do cliente e reduzir o número de devoluções.
+
+Ao examinar as Devoluções por Item, o gráfico permite que as empresas analisem quais produtos estão sendo devolvidos com mais frequência, seja em termos de valor ou percentual de vendas. Isso é essencial para a gestão de produtos, pois ajuda a identificar produtos com problemas de qualidade, discrepâncias de expectativas ou outras causas subjacentes que levam a devoluções. A empresa pode usar esses insights para melhorar a qualidade dos produtos, ajustar descrições de produtos ou ofertas, e, eventualmente, reduzir as devoluções.
+
+No geral, o gráfico de barras Devoluções x Filial, Vendedor, Cliente ou Item oferece uma análise detalhada das devoluções, tanto em termos de valor monetário quanto de porcentagem em relação às vendas, com indicadores visuais (vermelho/verde) que facilitam a identificação de áreas críticas. Ele capacita os tomadores de decisão a identificar áreas problemáticas, reduzir custos relacionados a devoluções e melhorar a experiência geral do cliente. Com essas informações, a empresa pode otimizar seus processos operacionais, de vendas e de atendimento ao cliente.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
 
 
 <br><br>
