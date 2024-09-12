@@ -161,3 +161,7 @@ O Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual po
 - **Direcionamento de Ações**: Empresas podem utilizar esses gráficos para focar em filiais, vendedores, clientes ou produtos que requerem atenção especial, seja para controle de custos, ajustes em processos ou melhoria de desempenho.
 
 Em resumo, o Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual eficaz que permite à empresa monitorar e comparar os custos das mercadorias vendidas entre diferentes categorias operacionais. Ele auxilia na identificação de áreas de alto impacto, facilita a comparação entre categorias e oferece suporte à tomada de decisões estratégicas, visando à otimização de custos e à melhoria da eficiência operacional.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
