@@ -10,157 +10,168 @@
   <h6>Imagem 2: Painel Custo de Mercadoria Vendida - Visão Detalhes</h6>
 </div></p>
 
-O CMV (Custo de Mercadoria Vendida) é um indicador financeiro que contabiliza os custos relacionados à produção ou aquisição de mercadorias que foram efetivamente vendidas. Ele avalia a lucratividade das vendas ao longo de um período, mostrando se os custos associados às mercadorias precisam ser ajustados para melhorar os resultados financeiros. O CMV é crucial para calcular o lucro bruto, que é a diferença entre as receitas de vendas e os custos associados à produção ou aquisição das mercadorias vendidas.
+## Navegação
 
-## O que é um CMV?
+Este painel de relatório está dividido em duas visualizações;
 
-### Componentes do CMV:
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "voltar para análise anual".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
 
-O cálculo do CMV geralmente inclui os seguintes elementos:
+## Informações no Painel Custo da Mercadoria Vendida
 
-- **Estoque Inicial**: Valor do estoque de mercadorias no início do período (ex: início do mês ou ano).
-- **Compras Durante o Período**: Valor total das mercadorias adquiridas ou produzidas ao longo do período.
-- **Estoque Final**: Valor do estoque de mercadorias no final do período (ex: final do mês ou ano).
+### Valor de Custo da Mercadoria Vendida (CMV)
 
-### Fórmula do CMV:
+A análise do Custo de Mercadorias Vendidas (CMV) é um componente essencial no Business Intelligence (BI), pois oferece insights valiosos sobre a eficiência operacional, a lucratividade e o controle de custos de uma empresa. Monitorar o CMV ajuda as empresas a entender melhor o impacto dos custos diretos relacionados à produção e venda de seus produtos, permitindo identificar áreas onde é possível melhorar a rentabilidade e a margem de lucro. Ao analisar várias métricas relacionadas ao CMV, as empresas podem otimizar seus processos produtivos, ajustar estratégias de precificação e tomar decisões mais embasadas.
 
-A fórmula básica para calcular o CMV é:
+Visualizações como o CMV acumulado e o CMV mês a mês são fundamentais para acompanhar os custos ao longo do tempo. O CMV acumulado oferece uma visão de longo prazo, mostrando como os custos estão se acumulando ao longo de um período específico. Essa análise ajuda a identificar padrões consistentes ou flutuações inesperadas nos custos, permitindo um planejamento financeiro mais preciso. Por outro lado, a comparação do CMV mês a mês possibilita detectar variações de curto prazo, como o impacto de mudanças em fornecedores, preços de insumos ou condições sazonais, ajudando a empresa a ajustar rapidamente suas operações e processos de compra.
 
-CMV = Estoque Inicial + Compras – Estoque Final
+Análises detalhadas do CMV por Filial, Vendedor, Cliente, Fabricante ou Item são essenciais para uma compreensão mais aprofundada dos custos em várias dimensões do negócio. Esse tipo de análise permite que as empresas identifiquem quais locais, produtos ou fornecedores estão gerando maiores custos, ajudando a ajustar estratégias de compra, negociação com fornecedores ou processos de fabricação. Além disso, essa análise detalhada revela quais produtos têm os maiores custos de produção e venda, permitindo à empresa ajustar sua estratégia de estoque e mix de produtos para otimizar a lucratividade.
 
-### Exemplo de Cálculo do CMV:
+A análise do CMV também oferece insights críticos para a gestão de fornecedores e a cadeia de suprimentos. Identificar como diferentes fornecedores impactam os custos de produção ajuda a empresa a renegociar contratos, procurar alternativas mais econômicas ou consolidar relações com fornecedores de maior confiança e qualidade. Esses insights são fundamentais para melhorar a eficiência operacional, reduzir o desperdício e minimizar custos associados à fabricação e distribuição de produtos.
 
-Suponha que uma empresa tenha os seguintes dados:
+Além disso, o CMV está intimamente relacionado à precificação e à margem de lucro de cada produto. Compreender os custos por item e as variações nos custos de produção ou compra permite que a equipe de vendas e finanças definam preços adequados para garantir que a margem de lucro seja mantida ou melhorada. Ao ajustar as estratégias de precificação com base no CMV, a empresa pode maximizar seus lucros sem sacrificar a competitividade no mercado.
 
-- **Estoque Inicial**: R$ 50.000
-- **Compras Durante o Período**: R$ 120.000
-- **Estoque Final**: R$ 30.000
+A análise do CMV também influencia diretamente outras áreas da empresa, como marketing e desenvolvimento de produtos. Por exemplo, produtos com altos custos podem exigir campanhas de marketing mais segmentadas ou ofertas diferenciadas para atrair o público certo, enquanto a equipe de desenvolvimento pode focar em produtos com margens mais favoráveis para maximizar a eficiência dos recursos.
 
-O CMV seria calculado da seguinte forma:
+No contexto financeiro, o CMV tem um impacto direto na demonstração de resultados da empresa, afetando o lucro bruto e, consequentemente, a lucratividade geral. Uma análise detalhada do CMV ajuda as equipes financeiras a entender melhor o impacto dos custos variáveis e a ajustar projeções de lucro com mais precisão.
 
-CMV = R$ 50.000 + R$ 120.000 – R$ 30.000 = R$ 140.000
+Em resumo, a análise do Custo de Mercadorias Vendidas (CMV) no BI é uma ferramenta essencial para melhorar a gestão de custos e a lucratividade da empresa. Ao examinar o CMV em várias dimensões, como desempenho acumulado, variações mensais e detalhamento por Filial, Vendedor, Cliente, Fabricante ou Item, as empresas podem identificar áreas críticas para ajustes e melhorias. Esse tipo de análise não apenas otimiza a gestão de custos, mas também impacta positivamente outras áreas-chave, como precificação, cadeia de suprimentos e operações, criando uma abordagem mais eficiente, estratégica e orientada por dados.
 
-### Importância do CMV:
+## Visão Análise Anual
 
-- **Margem de Lucro Bruto**: O CMV é essencial para calcular a margem de lucro bruto, que reflete a rentabilidade das operações antes de despesas operacionais, impostos e outros custos.
-- **Análise de Eficiência**: O CMV ajuda a avaliar a eficiência dos processos de produção e compras. Um CMV elevado pode indicar custos altos, afetando negativamente a lucratividade.
-- **Precificação de Produtos**: Compreender o CMV é vital para definir o preço de venda dos produtos, garantindo que a empresa cubra seus custos e gere lucro.
-- **Controle de Estoque**: O CMV oferece insights sobre a gestão de estoque, ajudando a otimizar a compra e o armazenamento de mercadorias, reduzindo desperdícios e custos.
-
-Em resumo, o CMV é uma métrica financeira essencial para o cálculo do lucro bruto, otimização de processos e definição de estratégias de precificação e controle de estoque.
-
-## Custo de Mercadoria Vendida (CMV) Acumulado
+### Custo de Mercadoria Vendida (CMV) Acumulado
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_acumulado.png" alt="CMV Acumulado">
   <h6>Imagem 3: Custo de Mercadoria Vendida (CMV) Acumulado</h6>
 </div></p>
 
-O **Gráfico CMV Acumulado** é uma representação visual do Custo das Mercadorias Vendidas ao longo do tempo, mostrando a acumulação desses custos durante um período. Em vez de exibir os valores individuais em cada intervalo, ele foca na evolução acumulada dos custos, fornecendo uma visão contínua do impacto financeiro.
+Um gráfico de área é uma ferramenta extremamente eficaz para visualizar o comportamento do Custo de Mercadorias Vendidas (CMV) acumulado ao longo do tempo, especialmente quando o eixo x é dividido por ano e mês. Esse tipo de gráfico permite que as empresas acompanhem as tendências dos custos de produção e venda de seus produtos, revelando padrões, flutuações sazonais, e variações em períodos específicos. A área preenchida abaixo da linha destaca visualmente o aumento ou diminuição acumulada do CMV, facilitando a compreensão de como os custos estão evoluindo ao longo dos meses.
 
-### Finalidade do Gráfico CMV Acumulado:
+Esse tipo de visualização é especialmente útil para destacar mudanças no CMV e identificar períodos de picos ou quedas nos custos. Um aumento repentino no CMV pode apontar para fatores como variações nos preços de insumos, problemas na cadeia de suprimentos, ou mudanças na demanda de produção. Por outro lado, uma redução consistente nos custos pode indicar eficiência nas operações, melhores acordos com fornecedores, ou processos de fabricação mais otimizados. As empresas podem usar essas informações para ajustar suas estratégias de compra, renegociar contratos com fornecedores, ou otimizar a gestão de produção.
 
-- **Análise de Custos ao Longo do Tempo**: Permite visualizar a evolução dos custos das mercadorias vendidas, facilitando o acompanhamento de tendências e a comparação entre diferentes períodos.
-- **Monitoramento Financeiro**: Acompanhando o CMV acumulado, é possível avaliar o impacto dos custos de produção ou compra na operação total. Um aumento acelerado do CMV acumulado em comparação à receita acumulada pode indicar uma redução da margem de lucro.
-- **Planejamento e Controle**: Fornece uma base visual para planejar e controlar os custos ao longo do tempo, permitindo identificar se a empresa está dentro do orçamento ou se os custos estão aumentando além do esperado.
-- **Comparação entre Anos ou Períodos**: Facilita a comparação do CMV acumulado entre diferentes anos ou períodos, destacando como os custos evoluíram em relação ao histórico anterior.
+Além disso, o gráfico de área acumulada é uma excelente ferramenta para identificar sazonalidades nos custos de produção. Por exemplo, uma empresa pode perceber que, após grandes campanhas de vendas ou eventos promocionais, os custos de produção aumentam, possivelmente devido ao aumento da demanda de produtos ou à necessidade de aquisição de insumos em maior quantidade. Com essa análise, a empresa pode se preparar melhor para períodos de maior demanda, ajustando suas previsões de custos, aumentando a eficiência dos processos de aquisição e fabricação, e garantindo que o impacto sobre a margem de lucro seja minimizado.
 
-### Exemplo de Utilização:
+Outra grande vantagem desse gráfico é a sua capacidade de oferecer uma visão comparativa entre diferentes períodos. Ele permite que as empresas observem como o CMV de um determinado mês ou trimestre se compara ao mesmo período de anos anteriores, identificando se os custos estão sendo controlados de forma eficiente ou se há aumentos progressivos que precisam ser analisados. A visão cumulativa dos custos ao longo do tempo ajuda a verificar se as medidas implementadas para otimizar os processos produtivos estão funcionando ou se são necessárias mudanças mais drásticas para reduzir os custos.
 
-- **Varejo**: Um varejista pode usar o gráfico para monitorar os custos ao longo de um trimestre ou ano, comparando-os com as vendas e a margem de lucro.
-- **Indústria**: Um fabricante pode utilizá-lo para acompanhar os custos de matérias-primas e produção ao longo das fases de fabricação e venda.
+Além de facilitar o acompanhamento e análise dos custos passados, o gráfico de área acumulada é uma ferramenta valiosa para planejamento financeiro e projeção de custos futuros. Com base em tendências anteriores, a empresa pode prever com maior precisão quais períodos são mais propensos a variações de custo e se preparar para isso. Isso auxilia na alocação de recursos e na definição de orçamentos, garantindo que a empresa tenha flexibilidade financeira para lidar com possíveis aumentos nos custos de produção ou aquisição de mercadorias.
 
-Resumidamente, o gráfico CMV acumulado é uma ferramenta poderosa para monitorar e analisar a evolução dos custos ao longo do tempo, auxiliando na tomada de decisões estratégicas.
+O gráfico de área acumulada também ajuda a identificar pontos de ineficiência no processo de fabricação ou fornecimento. Ao observar aumentos anormais nos custos, a empresa pode investigar a fundo quais fatores estão gerando esses aumentos e implementar ações corretivas, seja por meio de mudanças no processo produtivo, ajuste nas estratégias de aquisição ou melhorias no controle de estoque.
 
-## CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto
+Em resumo, o gráfico de área acumulada para o CMV proporciona uma visão clara e detalhada das tendências de custo ao longo do tempo, permitindo que as empresas identifiquem padrões e ajustem suas operações para maximizar a eficiência e a lucratividade. A capacidade de acompanhar o comportamento dos custos em diferentes períodos oferece insights estratégicos que impactam diretamente nas decisões sobre compras, produção e precificação, ajudando a empresa a manter uma gestão de custos mais rigorosa e eficiente. Ao fornecer uma base sólida para análise e projeções, essa visualização apoia as empresas em sua busca por otimização financeira e um melhor controle dos processos produtivos.
+
+### CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_acumulado.png" alt="CMV por Mês">
   <h6>Imagem 4: CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
 </div></p>
 
-Esse gráfico é uma matriz dimensional que combina categorias como filiais, vendedores, clientes, fabricantes ou itens, permitindo uma análise detalhada do CMV com base em múltiplos parâmetros. Ele facilita a identificação de padrões, anomalias e oportunidades de melhoria em áreas específicas da operação.
+Uma matriz que exibe os valores do Custo de Mercadorias Vendidas (CMV) mês a mês, com ícones que indicam aumento (verde) ou diminuição (vermelho) em relação ao mês anterior, oferece uma forma dinâmica e intuitiva de analisar o comportamento dos custos ao longo do tempo. Essa matriz permite que os usuários monitorem facilmente as flutuações no CMV, identifiquem tendências preocupantes e reconheçam melhorias em diferentes períodos. O uso de ícones coloridos simplifica a interpretação, fornecendo sinais visuais imediatos — verde para reduções nos custos e vermelho para aumentos —, facilitando a análise dos dados sem a necessidade de uma investigação profunda nos números.
 
-### Finalidade do Gráfico CMV por Categorias:
+O grande diferencial desta matriz é que, além de apresentar os valores absolutos do CMV, ela também exibe a percentagem do CMV em relação à receita de vendas. Essa métrica é essencial para avaliar a eficiência operacional da empresa e o impacto dos custos sobre a margem de lucro. Para facilitar ainda mais a interpretação, o texto da porcentagem muda de cor: verde para percentagens abaixo de um limite aceitável, indicando eficiência nos custos, e vermelho para percentagens acima do ideal, sinalizando uma área de risco que exige atenção. Essa codificação por cores oferece uma leitura rápida e eficaz, permitindo que os gestores identifiquem imediatamente os produtos, filiais ou fornecedores com maiores custos e avaliem onde estão as maiores ineficiências.
 
-- **Análise Comparativa**: Facilita a comparação do CMV entre diferentes combinações de categorias, como vendedores, clientes, produtos ou filiais, proporcionando uma análise detalhada dos custos.
-- **Identificação de Padrões e Anomalias**: Permite identificar padrões de alto ou baixo CMV que podem não ser evidentes em análises mais simples, revelando possíveis problemas ou oportunidades de otimização.
-- **Tomada de Decisões Estratégicas**: Ajuda na tomada de decisões informadas, como renegociação de contratos, melhorias na eficiência de vendedores ou ajustes na estratégia de vendas.
-- **Otimização de Custos**: Ao visualizar o CMV em diferentes categorias, a empresa pode identificar áreas com custos excessivos e agir para reduzi-los, seja melhorando processos ou ajustando preços.
+A matriz é altamente flexível, pois permite alterar os cabeçalhos das linhas entre Filial, Vendedor, Cliente, Fabricante ou Item, tornando-a uma ferramenta poderosa para uma análise segmentada e detalhada. Ao analisar o CMV por Filial, a empresa pode ver quais unidades estão enfrentando os maiores custos em relação às vendas, permitindo uma ação mais específica para otimizar a gestão de estoque ou renegociar preços com fornecedores locais. Ao alternar para Vendedor, a matriz fornece uma visão clara do impacto que cada representante de vendas tem sobre os custos, ajudando a identificar quem pode estar vendendo produtos com maiores custos de produção e, portanto, afetando a margem de lucro. A análise por Cliente permite avaliar o CMV associado a grandes clientes ou grupos de clientes, fornecendo insights sobre como os custos variam entre os segmentos de clientes mais importantes. Da mesma forma, a visualização por Fabricante ou Item possibilita uma avaliação detalhada dos produtos ou fornecedores que geram os maiores custos, o que pode levar a decisões de renegociação de contratos ou substituição de itens menos rentáveis.
 
-Resumindo, esse gráfico é uma ferramenta essencial para análises complexas e detalhadas, ajudando a visualizar como os custos das mercadorias vendidas se distribuem entre diferentes categorias operacionais e fornecendo insights valiosos para otimizar processos e aumentar a rentabilidade.
+Essa matriz não apenas ajuda na tomada de decisões rápidas, como também destaca oportunidades de melhoria em várias áreas da operação. A flexibilidade para alternar entre dimensões como Filial, Vendedor, Cliente, Fabricante ou Item oferece uma visão ampla e profunda, permitindo que a empresa formule estratégias eficazes para reduzir custos, otimizar a produção e melhorar a lucratividade. Ao detectar padrões de aumento ou diminuição no CMV, as equipes de gestão podem agir proativamente para resolver problemas e implementar práticas mais eficientes. A análise de CMV e CMV % permite uma visão detalhada da relação entre os custos de produção e as vendas, ajudando a empresa a tomar decisões mais embasadas, aumentar a eficiência e, em última instância, melhorar suas margens de lucro.
 
-## CMV Tabela de Detalhes
+Com essa matriz, a empresa pode acompanhar as variações nos custos de forma rápida e eficaz, garantindo que os custos sejam mantidos sob controle e ajustados quando necessário. Ao otimizar seus processos e tomar decisões baseadas em dados, a empresa se posiciona melhor para melhorar a eficiência operacional, maximizar o desempenho financeiro e manter a competitividade no mercado.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
+
+## Visão Detalhes
+
+### CMV Tabela de Detalhes
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_tabela.png" alt="CMV Detalhes">
   <h6>Imagem 5: CMV Tabela de Detalhes</h6>
 </div></p>
 
-Esse gráfico é uma tabela analítica que exibe o CMV distribuído entre diferentes dimensões operacionais, como filiais, vendedores, clientes, fabricantes e produtos. Ele apresenta tanto o valor do CMV quanto a participação percentual desses custos no total, oferecendo uma análise detalhada e minuciosa dos custos.
+A Tabela de CMV Detalhada é um componente crucial para empresas que buscam analisar seus dados de Custo de Mercadorias Vendidas (CMV) de forma precisa e aprofundada. Essa tabela captura informações essenciais sobre cada transação relacionada ao CMV, incluindo de dados importantes como a filial envolvida, o representante de vendas responsável, o cliente que efetuou a compra, o fornecedor ou fabricante do produto, e o valor do CMV correspondente.
 
-### Finalidade do Gráfico em Tabela Detalhado:
+Esse nível de detalhamento permite que as empresas monitorem os custos individuais associados às vendas de maneira eficaz, facilitando a identificação de padrões, a realização de auditorias e a resolução rápida de discrepâncias. A tabela oferece uma visão clara de quais produtos estão gerando os maiores custos, por quem foram vendidos, o que é fundamental para entender como os custos de produção, logística e fornecimento impactam as margens de lucro. Além disso, ao vincular os custos a filiais, representantes de vendas, clientes e fornecedores específicos, as organizações conseguem identificar quais regiões ou equipes de vendas apresentam custos mais elevados, possibilitando uma gestão mais direcionada e proativa.
 
-- **Análise Minuciosa de Custos**: Permite uma análise detalhada do CMV em várias categorias, ajudando a identificar onde os custos estão concentrados e como estão distribuídos.
-- **Identificação de Oportunidades**: Através da análise do CMV e do CMV%, é possível identificar oportunidades de redução de custos, melhorias em processos de compra ou renegociações com fornecedores.
-- **Tomada de Decisões Estratégicas**: Fornece dados precisos para decisões baseadas em fatos, como ajustes na estratégia de vendas ou negociações com fabricantes de alto CMV.
-- **Monitoramento e Controle**: Permite o acompanhamento contínuo do CMV ao longo do tempo, monitorando variações nos custos por diferentes dimensões.
+Esse detalhamento é essencial para otimizar a gestão da cadeia de suprimentos, melhorar a negociação com fornecedores e ajustar estratégias de vendas. Ao analisar quais clientes estão associados a maiores custos de venda ou quais fornecedores fornecem produtos com custos mais elevados, as empresas podem ajustar suas práticas para maximizar a rentabilidade, seja renegociando contratos de fornecimento, revisando a estratégia de precificação, ou aprimorando os processos logísticos.
 
-### Benefícios:
+Além disso, os dados de CMV são críticos para relatórios financeiros e análises de desempenho, uma vez que ajudam a avaliar o impacto direto dos custos sobre a receita e a monitorar o fluxo de caixa de maneira mais precisa. Com a capacidade de analisar essas informações detalhadas, as empresas podem tomar decisões estratégicas em relação ao gerenciamento de estoque, políticas de preço e manutenção de margens de lucro saudáveis. A Tabela de CMV Detalhada oferece insights valiosos para melhorar a eficiência operacional e garantir um crescimento sustentável, ao mesmo tempo que minimiza os custos associados à produção e venda de mercadorias.
 
-- **Comparação Detalhada**: A tabela permite comparar o desempenho de diferentes filiais, vendedores, clientes, fabricantes e itens, identificando os maiores geradores de custos.
-- **Identificação de Ineficiências**: Filiais ou vendedores com um CMV% elevado em relação ao total podem sinalizar ineficiências a serem corrigidas.
-- **Acompanhamento de Metas**: Ajuda a monitorar se os custos estão alinhados com as metas estabelecidas, facilitando o controle financeiro e operacional.
+Essa tabela é indispensável quando se busca uma análise detalhada dos custos envolvidos nas vendas. Ela pode ser filtrada de forma eficiente usando [filtros](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#filtros). A seguir, explicamos como interpretar cada coluna da tabela.
 
-De modo sucinto, o gráfico detalhado do CMV é essencial para análises precisas, fornecendo uma visão clara e organizada dos custos por categoria, o que auxilia na tomada de decisões estratégicas e na otimização dos processos.
+#### Filial
+A unidade da empresa onde a venda foi realizada. Ajuda a comparar o custo de mercadorias vendidas entre diferentes filiais, identificando quais locais estão gerando maiores custos e onde podem ser feitos ajustes para otimizar a rentabilidade.
 
-## CMV x Fabricante
+#### Vendedor
+O representante de vendas responsável pela transação. Facilita a análise de custo de mercadorias vendidas por vendedor, ajudando a identificar quais vendedores estão gerando maiores custos e onde é necessário implementar melhorias ou suporte adicional.
+
+#### Fabricante
+O fornecedor ou fabricante do produto vendido. Essencial para monitorar o custo de mercadorias vendidas associado a diferentes fabricantes, permitindo avaliar quais fornecedores estão contribuindo com maiores custos e ajustando as negociações ou estratégias de fornecimento conforme necessário.
+
+#### Cliente
+Identificação do cliente que realizou a compra. Crucial para analisar o impacto do custo de mercadorias vendidas em relação aos diferentes clientes, ajudando a identificar quais clientes estão gerando maiores custos e possibilitando estratégias para otimizar a rentabilidade e o relacionamento com clientes específicos.
+
+#### Item
+O produto específico que foi vendido. Essencial para analisar o custo de mercadorias vendidas associado a diferentes itens, permitindo identificar quais produtos estão gerando maiores custos. Com esses dados, é possível ajustar estratégias de precificação, renegociar condições com fornecedores ou melhorar a gestão de estoque para otimizar a rentabilidade.
+
+#### CMV
+O valor monetário do Custo de Mercadorias Vendidas (CMV) que permite acompanhar o impacto financeiro dos custos de produção e aquisição dos produtos vendidos. Esta métrica é essencial para identificar quais produtos ou categorias estão gerando maiores custos, ajudando a otimizar a gestão de estoque e a negociação com fornecedores.
+
+#### CMV %
+Percentual do CMV em relação ao total de vendas, que ajuda a mensurar a eficiência dos custos de mercadorias em comparação com a receita gerada. Esse indicador revela a proporção do custo em relação à receita e é crucial para avaliar a rentabilidade. Quando a porcentagem está abaixo de 10%, o texto será exibido em verde, indicando um custo controlado e mais aceitável; acima de 10%, será exibido em vermelho, sinalizando uma área que pode necessitar de revisão ou ajuste.
+
+### CMV x Fabricante
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_fabricante.png" alt="CMV Fabricante">
   <h6>Imagem 6: CMV x Fabricante</h6>
 </div></p>
 
-O Gráfico CMV por Fabricante exibe o CMV distribuído entre diferentes fornecedores, facilitando a análise de desempenho e a gestão de custos com base nos fabricantes. Ele destaca rapidamente quais fabricantes estão associados aos maiores custos, auxiliando na tomada de decisões estratégicas.
+Um gráfico de barras intitulado CMV x Fabricante oferece uma representação visual crucial do impacto dos custos de mercadorias vendidas (CMV) associados a diferentes fabricantes que fornecem os produtos. Cada barra no gráfico representa um fabricante específico e exibe tanto o valor monetário do CMV quanto a porcentagem de CMV em relação às vendas totais, permitindo que a empresa analise como os custos estão distribuídos entre os fornecedores.
 
-### Finalidade do Gráfico CMV por Fabricantes:
+Uma característica importante desse gráfico é o uso de cores para indicar a porcentagem de CMV: quando a porcentagem de CMV está acima de 10%, o texto da porcentagem será exibido em vermelho, sinalizando um possível problema com o custo dos produtos fornecidos ou com a eficácia do fornecimento. Quando a porcentagem está abaixo de 10%, o texto será exibido em verde, indicando um nível mais aceitável de custos.
 
-- **Identificação de Fabricantes com maior CMV**: Facilita a identificação dos fabricantes cujos produtos geram os maiores custos, permitindo direcionar ações específicas, como negociações de preços ou busca por fornecedores alternativos.
-- **Análise de Tendências**: Ajuda a identificar tendências ao longo do tempo, como aumentos significativos no CMV de um determinado fabricante, indicando potenciais problemas de custos.
-- **Tomada de Decisões Estratégicas**: Fornece informações valiosas para decisões relacionadas à gestão de fornecedores, como renegociações de contratos ou diversificação de fornecedores.
-- **Comparação entre Fabricantes**: Permite comparar rapidamente diferentes fabricantes em termos de impacto no CMV, destacando quais parcerias são mais custosas.
+Esse gráfico é particularmente valioso para avaliar o desempenho dos fabricantes em termos de CMV. O fabricante desempenha um papel essencial na determinação dos custos dos produtos e na conformidade com as expectativas de preço da empresa. Um gráfico CMV x Fabricante ajuda a identificar quais fornecedores estão associados a maiores custos de mercadorias vendidas, permitindo que a empresa tome medidas corretivas, como revisar contratos, renegociar termos ou até mesmo buscar novos parceiros de fornecimento.
 
-### Benefícios:
+Ao identificar padrões de CMV associados a determinados fabricantes, a empresa pode investigar problemas relacionados ao custo de produção ou fornecimento que estejam impactando a rentabilidade. Esses insights são fundamentais para garantir que a cadeia de suprimentos esteja otimizada para maximizar a margem de lucro e minimizar o impacto financeiro.
 
-- **Facilidade de Interpretação**: Gráficos em barras são intuitivos e fáceis de interpretar, permitindo que os tomadores de decisão identifiquem rapidamente áreas de foco.
-- **Clareza Visual**: A visualização do CMV por fabricantes facilita a comparação entre diferentes fornecedores, destacando aqueles com maior impacto no custo total.
-- **Análise Direcionada**: Empresas podem usar esses gráficos para aprofundar a análise em fabricantes específicos e identificar oportunidades de melhoria na gestão de custos.
+Além disso, o gráfico permite identificar fabricantes que têm baixos índices de CMV, o que pode indicar uma alta eficiência e confiabilidade em seus produtos. Esses fabricantes podem se tornar parceiros estratégicos, ajudando a reduzir custos associados a mercadorias e melhorar a rentabilidade da empresa.
 
-Resumidamente, o gráfico CMV por Fabricantes é uma ferramenta útil para otimizar a gestão de fornecedores, facilitando a análise do impacto dos diferentes fabricantes nos custos totais da empresa.
+Por fim, a análise dos custos de mercadorias vendidas por fabricante não apenas ajuda a melhorar a gestão de fornecedores, mas também possibilita que a empresa atue de forma proativa para otimizar seus custos e garantir que os produtos atendam ou superem as expectativas de custo e qualidade.
 
-## CMV x Filial, Vendedor, Cliente ou Item
+No geral, o gráfico de barras CMV x Fabricante oferece uma visão detalhada e essencial para a gestão da cadeia de suprimentos, com indicadores visuais (vermelho/verde) que facilitam a identificação de áreas críticas. Ele capacita os tomadores de decisão a avaliar o desempenho dos fabricantes, fortalecer relações com fornecedores eficientes e mitigar problemas de custo que impactam diretamente a rentabilidade e a eficiência operacional.
+
+### CMV x Filial, Vendedor, Cliente ou Item
 
 <p><div align="center">
   <img src="../../assets/fat_cmv_filial.png" alt="CMV Filail">
   <h6>Imagem 7: CMV x Filial, Vendedor, Cliente ou Item</h6>
 </div></p>
 
-O Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual poderosa que exibe o Custo das Mercadorias Vendidas (CMV) distribuído entre diferentes categorias operacionais. Ele permite que a empresa identifique rapidamente quais áreas, como filiais, vendedores, clientes ou produtos, estão associadas aos maiores custos, facilitando uma análise direcionada e eficaz da operação.
+Um gráfico de barras intitulado CMV x Filial, Vendedor, Cliente ou Item oferece uma representação visual poderosa do desempenho dos custos de mercadorias vendidas (CMV), segmentado por várias dimensões comerciais importantes, como Filial, Vendedor, Cliente ou Item. Cada barra no gráfico representa uma dessas dimensões e exibe tanto o valor monetário do CMV quanto a porcentagem de CMV em relação às vendas totais, permitindo que a empresa analise como os custos estão distribuídos entre diferentes entidades.
 
-### Finalidade do Gráfico:
+Uma funcionalidade importante desse gráfico é o uso de cores para indicar a porcentagem de CMV: quando a porcentagem de CMV está acima de 10%, o texto da porcentagem será exibido em vermelho, sinalizando uma preocupação ou problema que requer atenção. Por outro lado, quando a porcentagem de CMV está abaixo de 10%, o texto será exibido em verde, indicando uma situação mais controlada e favorável.
 
-- **Identificação de Áreas com maior Custo**: O gráfico destaca quais filiais, vendedores, clientes ou produtos estão gerando os maiores custos de mercadorias vendidas, permitindo que a gestão se concentre nas áreas mais críticas.
-- **Comparação entre Categorias**: Ao exibir os custos distribuídos entre diferentes categorias, o gráfico facilita a comparação entre filiais, vendedores, clientes e produtos, evidenciando onde o impacto do CMV é maior ou menor.
-- **Análise de Tendências e Padrões**: A visualização dos custos por diferentes dimensões possibilita a identificação de tendências ao longo do tempo, como aumentos ou reduções de custos em áreas específicas.
-- **Tomada de Decisões Estratégicas**: Os dados apresentados no gráfico podem ser usados para otimizar estratégias operacionais e de vendas, aprimorar a eficiência em determinadas filiais, renegociar condições com clientes de maior impacto ou ajustar o portfólio de produtos.
+Esse tipo de gráfico é inestimável para identificar problemas e padrões nos custos de mercadorias vendidas. Por exemplo, um gráfico CMV x Filial ajuda a empresa a avaliar o impacto dos custos em diferentes filiais, mostrando quais locais enfrentam maiores valores ou porcentagens de CMV. Esse insight permite que a empresa tome decisões informadas, como investigar as causas dos altos custos em filiais específicas e implementar estratégias para otimizar os custos.
 
-### Benefícios:
+Da mesma forma, um gráfico CMV x Vendedor oferece uma visão clara de como cada vendedor está gerando custos de mercadorias vendidas em relação ao valor total de vendas. Ele ajuda a identificar quais vendedores podem precisar de suporte adicional ou ajustes nas suas estratégias para melhorar a rentabilidade, enquanto também possibilita o reconhecimento de vendedores com menores índices de CMV.
 
-- **Visualização Clara**: O gráfico de barras proporciona uma visualização clara e intuitiva dos custos por diferentes categorias, facilitando a tomada de decisões rápidas e baseadas em dados.
-- **Facilidade de Comparação**: A representação visual em barras torna simples a comparação do desempenho entre diferentes categorias, ajudando a identificar áreas com maior ou menor impacto nos custos.
-- **Direcionamento de Ações**: Empresas podem utilizar esses gráficos para focar em filiais, vendedores, clientes ou produtos que requerem atenção especial, seja para controle de custos, ajustes em processos ou melhoria de desempenho.
+Um gráfico CMV x Cliente revela quais clientes estão associados aos maiores custos de mercadorias vendidas, tanto em valor absoluto quanto percentual. Isso permite que a empresa adote estratégias direcionadas para lidar com clientes de alto custo, ajustando as práticas de venda ou fornecimento para melhorar a rentabilidade e reduzir os custos.
 
-Em resumo, o Gráfico CMV por Filial, Vendedor, Cliente ou Item é uma ferramenta visual eficaz que permite à empresa monitorar e comparar os custos das mercadorias vendidas entre diferentes categorias operacionais. Ele auxilia na identificação de áreas de alto impacto, facilita a comparação entre categorias e oferece suporte à tomada de decisões estratégicas, visando à otimização de custos e à melhoria da eficiência operacional.
+Ao examinar o CMV por Item, o gráfico permite que as empresas analisem quais produtos estão gerando maiores custos, seja em termos de valor ou percentual de vendas. Isso é essencial para a gestão de produtos, pois ajuda a identificar produtos com problemas de custo, inconsistências de fornecimento ou outras causas subjacentes que levam a altos custos. A empresa pode usar esses insights para melhorar a eficiência do fornecimento, ajustar a estratégia de precificação ou renegociar contratos com fornecedores.
+
+No geral, o gráfico de barras CMV x Filial, Vendedor, Cliente ou Item oferece uma análise detalhada dos custos de mercadorias vendidas, tanto em termos de valor monetário quanto de porcentagem em relação às vendas, com indicadores visuais (vermelho/verde) que facilitam a identificação de áreas críticas. Ele capacita os tomadores de decisão a identificar áreas problemáticas, otimizar custos e melhorar a eficiência geral. Com essas informações, a empresa pode aprimorar seus processos operacionais, de vendas e de fornecimento.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
 
 
 <br><br>
