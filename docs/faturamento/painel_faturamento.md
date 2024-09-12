@@ -38,3 +38,7 @@ Um gráfico de barras exibindo o faturamento atual e o faturamento do ano anteri
 Este gráfico oferece uma comparação visual clara entre o faturamento atual e o do ano anterior, permitindo que você avalie o crescimento ou declínio da receita ao longo do tempo. As barras destacam os valores absolutos de cada período, enquanto a linha de diferença fornece uma visão imediata do desempenho relativo. Quando a linha está em verde, indica um crescimento positivo, sugerindo que o faturamento atual superou o do ano anterior. Quando está em vermelho, revela uma queda na receita em comparação com o período anterior.
 
 Este tipo de visualização é crucial para entender as tendências de crescimento e ajustar suas estratégias de vendas ou marketing conforme necessário. Ele facilita a identificação de períodos de crescimento ou retração e permite que você tome decisões estratégicas para otimizar o desempenho financeiro, garantindo que a empresa continue avançando em direção às suas metas de faturamento.
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
