@@ -97,4 +97,5 @@ Representa o valor disponível em caixa após a empresa ter cumprido todas as su
 Mede a capacidade de uma empresa em cumprir todas as suas obrigações financeiras, utilizando todos os seus ativos. Esse indicador reflete a sustentabilidade financeira da empresa a longo prazo.
 
 
+<br><br>
 ***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
