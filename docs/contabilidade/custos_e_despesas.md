@@ -68,3 +68,6 @@ Esta tabela contém dados detalhados com colunas para Identificador (ID da Trans
 A importância desta tabela está em fornecer uma visão granular e específica das transações individuais de custos e despesas. Isso permite uma análise detalhada do impacto de cada transação, facilitando a auditoria e o rastreamento dos gastos. 
 
 A inclusão dos diferentes níveis de contas ajuda a entender melhor a estrutura e os detalhes dos custos, possibilitando uma análise mais precisa e contextualizada das despesas da empresa
+
+
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
