@@ -7,7 +7,7 @@ Bem-vindo à seção de demonstração do Idea Analytics! Aqui você terá a opo
 Para começar, clique em um dos links abaixo para acessar a demonstração de cada área:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../../assets/fat.png" alt="Idea Sales" style="height: 8em; width: 187px; margin-right: 20px;">
+  <img src="../../assets/fat.png" alt="Idea Sales" style="height: 8em; width: auto; margin-right: 20px;">
   <div style="flex: 1;">
     <strong><a href="https://idea-technology-it.github.io/docs-idea/faturamento/demo/" target="_blank">Idea Sales</a></strong> (BI de Vendas): Experimente como nossa solução analítica pode fornecer uma visão detalhada sobre o desempenho de vendas, análise de receita por produto, desempenho de vendedores, devoluções e muito mais. Use esta demonstração para identificar oportunidades de crescimento e ajustar suas estratégias de vendas.
   </div>
