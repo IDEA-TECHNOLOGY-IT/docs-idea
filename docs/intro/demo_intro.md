@@ -27,3 +27,4 @@ Para começar, clique em um dos links abaixo para acessar a demonstração de ca
   </div>
 </div>
 
+***Aviso Legal:** Os números e informações apresentados nestas demonstrações são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
