@@ -62,13 +62,13 @@ A barra de menu, situada no lado esquerdo de todas as páginas do relatório, é
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Home
+### Botão Painel 
 <p><img src="../../assets/fat_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão redireciona os usuários para a página principal, chamada [Painel de Faturamento](./painel_faturamento.md). Esta página serve como o ponto central de partida, oferecendo uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
-### Botão Faturamento
+### Botão de Faturamento
 <p><img src="../../assets/fat_button_fat1.png" alt="fat1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat_button_fat2.png" alt="fat2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
