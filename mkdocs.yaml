@@ -131,6 +131,7 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
+    - intro/doc_intro.md
   - BI Idea Sales:
     - faturamento/ficha_tecnica.md
     - faturamento/intro.md
@@ -169,6 +170,7 @@ nav:
     - contabilidade/regra_dos_40.md
     - contabilidade/dre.md
 - Demonstrações:
+  - intro/demo_intro.md
   - faturamento/demo.md
   - financeiro/demo.md
   - contabilidade/demo.md
