@@ -4,7 +4,7 @@ hide:
 ---
 
 
-# Demonstração Idea Accounting
+# Idea Accounting
 
 Experimente nossa solução Idea Accounting aqui e descubra mais usando nossa [documentação](./ficha_tecnica.md):
 
