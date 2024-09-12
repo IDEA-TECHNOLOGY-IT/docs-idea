@@ -88,3 +88,7 @@ Este painel oferece uma visão consolidada dos itens mais importantes para a emp
 
 ![Painel de Itens Destacados](../assets/fat_itens_tabela.png)
 <p align="center"><em>Imagem 6: Tabela Detalhamento</em></p>
+
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
