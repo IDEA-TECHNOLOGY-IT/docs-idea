@@ -6,8 +6,6 @@ Bem-vindo à seção de documentação do Idea Analytics! Aqui você encontrará
 
 Para começar, clique em um dos links abaixo para acessar a documentação de cada área:
 
-# Documentação do Idea Analytics
-
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../../assets/fat.png" alt="Idea Sales" style="height: 8em; width: 196px; margin-right: 20px; display: block;">
   <div style="flex: 1;">
