@@ -73,3 +73,6 @@ A importância desta tabela reside na sua capacidade de fornecer uma visão gran
 
 A inclusão dos diferentes níveis de contas ajuda a entender melhor a estrutura e os detalhes das receitas, permitindo uma análise mais precisa e contextualizada.
 
+
+<br><br>
+***Aviso Legal:** Os números e informações apresentados nesta documentação são baseados em um conjunto de dados fictício. Eles são destinados exclusivamente para fins educacionais e de demonstração. Os dados não refletem condições do mundo real ou métricas de negócios reais e não devem ser usados ​​para tomada de decisão ou análise. Qualquer semelhança com entidades, eventos ou dados reais é mera coincidência.*
