@@ -1,69 +1,103 @@
 # Painel Devoluções
 
-![alt text](../assets/fat_dev_page1.png)
-<h6 align = "center"> Imagem 1 - Relatório Geral de Devoluções</h6>
+<p><div align="center">
+  <img src="../../assets/fat_dev_page1.png" alt="Inadimplência2">
+  <h6>Imagem 1: Painel Devoluções - Visão Análise Anual</h6>
+</div></p>
 
-![alt text](../assets/fat_dev_page2.png)
-<h6 align = "center"> Imagem 2 - Relatório Detalhado de Devoluções</h6>
+<p><div align="center">
+  <img src="../../assets/fat_dev_page2.png" alt="Inadimplência2">
+  <h6>Imagem 2: Painel Devoluções - Visão Detalhes</h6>
+</div></p>
 
-## O que são Devoluções? E Como Funciona?
+## Navegação
 
-As devoluções de mercadorias ocorrem quando um cliente retorna um item que já foi recebido e aceito, diferenciando-se do simples retorno de mercadorias que ocorre antes do recebimento oficial. As devoluções podem ser motivadas por diversos fatores, como defeitos no produto, insatisfação do cliente, erro no pedido, ou outros motivos que justifiquem o não aceite do item. Em geral, há um prazo estabelecido para que o cliente possa solicitar a devolução. O objetivo é cancelar a compra, aplicando o mesmo tratamento fiscal utilizado na compra original, seja com benefícios tributários ou tributação regular.
+Este painel de relatório está dividido em duas visualizações;
 
-### Principais aspectos das devoluções no faturamento:
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "voltar para análise anual".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
 
-- **Impactos no valor faturado:** Quando há uma devolução, o valor correspondente à mercadoria devolvida deve ser subtraído do total faturado. Esse ajuste é realizado por meio de notas de crédito que corrigem o valor da fatura original.
-- **Registro contábil:** As devoluções impactam tanto as contas de receita quanto as de estoque da empresa. Normalmente, o valor das devoluções é registrado em uma conta específica, permitindo o monitoramento detalhado do impacto financeiro dessas operações.
-- **Impostos:** Dependendo da legislação aplicável, as devoluções podem reduzir a base de cálculo de tributos, como ICMS, PIS e COFINS, afetando diretamente o valor dos impostos a serem recolhidos pela empresa.
-- **Controle de estoque:** Os itens devolvidos precisam ser reintegrados ao estoque da empresa, o que implica em ajustes tanto na quantidade disponível quanto no custo total dos itens em estoque. Esse processo requer atenção para garantir a exatidão dos registros de inventário.
+## Informações no Painel Vendas
 
-Em resumo, as devoluções no faturamento representam processos que envolvem a reversão parcial ou total de uma venda, impactando diretamente tanto os registros financeiros quanto os operacionais da empresa.
+### Valor de Devoluções
 
-## Gráfico de Devolução Acumulado
+A análise de devoluções é um elemento crucial no Business Intelligence (BI) porque oferece insights valiosos sobre a qualidade dos produtos, a satisfação dos clientes e a eficiência operacional. Monitorar o volume e as razões para devoluções ajuda as empresas a identificar quais produtos, serviços ou processos estão gerando problemas e quais áreas precisam de melhorias. Ao analisar várias métricas de devoluções, as empresas podem otimizar suas operações, melhorar a experiência do cliente e tomar decisões mais embasadas.
 
-![alt text](../assets/devolucoes/Imagem3 - Gráfico de Devolução Acumulado.png)
-<h6 align = "center"> Imagem3 - Gráfico de Devolução Acumulado</h6>
+Visualizações como devoluções acumuladas e devoluções mês a mês são essenciais para acompanhar o desempenho ao longo do tempo. As devoluções acumuladas oferecem uma visão de longo prazo, mostrando como as devoluções estão se acumulando ao longo de um período específico, o que ajuda a identificar padrões recorrentes e a prever possíveis problemas futuros. A comparação de devoluções mês a mês, por outro lado, permite detectar mudanças de curto prazo, como picos sazonais ou o impacto de campanhas ou mudanças em produtos, e ajustar rapidamente as estratégias operacionais ou de atendimento ao cliente.
 
-O **Gráfico de Devolução Acumulado** é uma representação visual que ilustra o volume de devoluções ao longo do tempo, acumulando os valores em cada ponto do gráfico. Em vez de mostrar apenas os valores pontuais de cada devolução, o gráfico permite visualizar o comportamento das devoluções de forma progressiva, mostrando o total acumulado até determinado momento.
+Análises detalhadas de devoluções por Filial, Vendedor, Cliente, Fabricante ou Item são fundamentais para uma visão aprofundada dos desafios enfrentados pelo negócio. Esse tipo de análise permite que as empresas identifiquem quais locais, vendedores, produtos ou fabricantes estão gerando mais devoluções, revelando potenciais problemas de qualidade, logística ou atendimento ao cliente. Compreender essa distribuição ajuda a identificar pontos fracos que podem estar afetando a percepção da marca, permitindo a adoção de medidas corretivas, como programas de melhoria de produto, treinamentos para equipes de vendas ou ajustes no suporte ao cliente.
 
-Esse gráfico geralmente apresenta uma linha ou curva crescente, onde cada ponto reflete o total acumulado até aquele período. Se o número de devoluções aumenta rapidamente, a inclinação da curva será mais acentuada; se as devoluções diminuem, a curva se torna mais suave.
+A análise das devoluções também fornece insights sobre o comportamento dos clientes e a gestão da relação com eles. Por exemplo, é possível identificar quais clientes fazem devoluções frequentes e as razões por trás dessas devoluções, o que permite à empresa melhorar o atendimento e oferecer soluções mais adequadas, como políticas de devolução mais flexíveis ou suporte técnico especializado. Além disso, a identificação de padrões nas devoluções pode ajudar a ajustar políticas de garantia ou a implementar processos de controle de qualidade mais rigorosos.
 
-### Finalidade do Gráfico:
+O impacto da análise de devoluções vai muito além do departamento de atendimento ao cliente. Os insights obtidos a partir dos dados de devoluções podem influenciar decisões nas áreas de marketing, desenvolvimento de produtos, cadeia de suprimentos e finanças. Por exemplo, compreender quais produtos têm altas taxas de devolução pode ajudar as equipes de marketing a ajustar suas mensagens e expectativas com os consumidores, enquanto insights sobre problemas de qualidade podem orientar as equipes de suprimentos e produção a melhorar seus processos de fabricação. Além disso, a análise de devoluções ajuda as equipes financeiras a calcular com mais precisão os impactos nas margens de lucro e a ajustar projeções de receita.
 
-- **Análise de Tendências:** O gráfico de devolução acumulado permite identificar tendências ao longo do tempo, como períodos de maior ou menor incidência de devoluções. Isso pode ajudar a empresa a entender os momentos críticos e ajustar suas operações conforme necessário.
-- **Comparação de Períodos:** Esse gráfico facilita a comparação entre diferentes períodos, como trimestre a trimestre ou ano a ano, permitindo uma análise mais detalhada sobre se o número de devoluções está aumentando ou diminuindo ao longo do tempo.
-- **Identificação de Padrões:** Pode ajudar a identificar padrões sazonais ou recorrentes nas devoluções, o que é útil para a tomada de decisões estratégicas, como ajustes em processos de qualidade, políticas de garantia ou atendimento ao cliente.
-- **Análise de Impacto Financeiro:** Fornece uma visão clara do impacto financeiro das devoluções ao longo do tempo, permitindo que a empresa avalie de maneira cumulativa como essas devoluções afetam a receita e o fluxo de caixa.
+Em resumo, a análise de devoluções no BI é uma ferramenta poderosa para melhorar a eficiência operacional e a satisfação do cliente. Ao examinar as devoluções de vários ângulos, como desempenho cumulativo, variações mês a mês e detalhamento por diversos fatores, as empresas podem identificar áreas críticas para ajustes e melhorias. Essa análise não só otimiza a gestão de devoluções, mas também impacta positivamente outras áreas-chave, como marketing, finanças e operações, ajudando a criar um ambiente de negócios mais eficiente, ágil e orientado por dados.
 
-## Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item
+## Visão Análise Anual
 
-![alt text](../assets/fat_dev_anomes.png)
-<h6 align = "center"> Imagem4 - Gráfico de Devoluções por Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+### Devoluções Acumulado
 
-Esse tipo de gráfico oferece uma representação visual que distribui o valor das devoluções de acordo com categorias específicas, como Filial, Vendedor, Cliente, Fabricante ou Item. Ele permite que a empresa identifique com precisão onde as devoluções estão ocorrendo e quais fatores ou grupos podem estar influenciando esses retornos de produtos.
+<p><div align="center">
+  <img src="../../assets/fat_dev_acumulado.png" alt="Devoluções Acumulado">
+  <h6>Imagem 3: Devoluções Acumulado</h6>
+</div></p>
 
-### Finalidade do Gráfico:
+Um gráfico de área é uma ferramenta extremamente eficaz para visualizar o comportamento das devoluções acumuladas ao longo do tempo, especialmente quando o eixo x é dividido por ano e mês. Esse tipo de gráfico permite que as empresas acompanhem a tendência das devoluções em um período específico, revelando padrões, taxas de aumento ou redução, além de flutuações sazonais. A área preenchida abaixo da linha não só realça visualmente o volume crescente ou decrescente de devoluções, mas também facilita a compreensão de como os problemas com produtos, logística ou atendimento estão se acumulando mês a mês.
 
-- **Análise Comparativa:** O gráfico permite comparar o desempenho entre diferentes categorias, ajudando a identificar áreas que necessitam de atenção ou melhorias. Por exemplo, pode-se comparar o volume de devoluções entre diferentes filiais, identificando quais têm mais problemas de devolução e por quê.
-- **Tomada de Decisão Estratégica:** Fornece insights valiosos que permitem à empresa ajustar suas políticas de vendas, melhorar a qualidade dos produtos ou revisar o atendimento ao cliente. Por exemplo, se um vendedor específico está associado a um alto volume de devoluções, isso pode indicar a necessidade de treinamento ou de revisão de práticas comerciais.
-- **Identificação de Padrões e Problemas:** A visualização dos dados permite identificar padrões anômalos ou recorrentes. Um exemplo disso seria a detecção de um fabricante cujos produtos têm uma taxa de devolução consistentemente elevada, o que pode indicar problemas de qualidade que precisam ser abordados.
-- **Monitoramento e Acompanhamento:** Esse gráfico ajuda a acompanhar o desempenho contínuo da empresa, possibilitando a identificação rápida de tendências positivas ou negativas. O monitoramento contínuo permite que a empresa reaja de forma proativa a problemas antes que eles se tornem críticos.
+Esse tipo de visualização é especialmente útil para destacar variações nas devoluções e identificar momentos de pico ou redução. Um aumento repentino no número de devoluções pode apontar para questões como falhas de qualidade em um produto, insatisfação generalizada do cliente ou problemas com o processo de entrega. Por outro lado, uma redução consistente no volume de devoluções pode indicar melhorias significativas nas operações, na satisfação do cliente ou na qualidade dos produtos. A empresa pode usar essas informações para ajustar suas estratégias, seja aprimorando processos internos, ajustando políticas de devolução ou investindo em campanhas de suporte ao cliente para mitigar problemas.
 
-## Gráfico Detalhado de Lançamento das Devoluções
+Além disso, o gráfico de área acumulada é uma excelente maneira de identificar sazonalidades nas devoluções. Por exemplo, uma empresa pode notar que após períodos de alta nas vendas, como durante o final de ano ou grandes promoções, o volume de devoluções também aumenta, destacando a necessidade de um planejamento mais eficaz para lidar com devoluções em massa. Com essa análise, a empresa pode se preparar melhor para esses períodos, ajustando suas políticas de devolução, capacitando suas equipes de atendimento ou otimizando seus processos logísticos para lidar de maneira mais eficiente com picos sazonais.
 
-![alt text](../assets/devolucoes/Imagem5 - Gráfico Detalhado de Lançamento das Devoluções.png)
-<h6 align = "center"> Imagem5 - Gráfico Detalhado de Lançamento das Devoluções</h6>
+Outra grande vantagem desse gráfico é sua capacidade de oferecer uma visão clara da comparação entre diferentes períodos. Ele permite que as empresas observem como o volume de devoluções de um determinado mês ou trimestre se compara ao mesmo período de anos anteriores. Isso ajuda a identificar se a empresa está efetivamente reduzindo a quantidade de devoluções ao longo do tempo ou se há problemas persistentes que precisam ser abordados. A visão cumulativa das devoluções ao longo do tempo permite que as empresas identifiquem se suas ações corretivas estão surtindo efeito ou se ajustes mais radicais são necessários.
 
-Esse gráfico é uma representação visual detalhada que mostra cada devolução registrada ao longo do tempo. Ele é especialmente útil para monitorar as devoluções de maneira granular, permitindo que a empresa acompanhe cada evento de devolução com todos os detalhes relevantes, como número do documento, data de lançamento, filial, vendedor, cliente, fabricante, data de devolução e percentual de devoluções.
+Além de facilitar o acompanhamento e análise das devoluções passadas, o gráfico de área acumulada é uma ferramenta valiosa para planejamento futuro e previsão de riscos. Com base em tendências passadas, a empresa pode prever com maior precisão quais períodos estão mais propensos a altas taxas de devolução e preparar-se para eles. Isso também auxilia no ajuste de orçamentos operacionais, garantindo que a empresa tenha recursos suficientes para lidar com picos de devoluções, como em termos de estoque reverso, logística e atendimento ao cliente.
 
-### Finalidade do Gráfico:
+Em resumo, o gráfico de área acumulada para devoluções proporciona uma visão clara e abrangente das tendências de devolução ao longo do tempo, permitindo que as empresas identifiquem padrões e tomem decisões informadas para mitigar problemas e melhorar seus processos. A capacidade de observar o comportamento das devoluções em diferentes períodos oferece insights estratégicos que impactam diretamente na gestão de qualidade, no suporte ao cliente e na eficiência operacional. Ao fornecer uma base sólida para análise e previsões, essa visualização apoia as empresas em sua busca por um atendimento ao cliente mais eficiente e por um controle rigoroso sobre a qualidade de seus produtos e serviços.
 
-- **Monitoramento Granular:** O gráfico fornece uma visão detalhada e contínua de cada devolução registrada, permitindo que a empresa acompanhe cada transação individualmente. Isso é essencial para garantir que cada devolução seja tratada adequadamente e dentro dos prazos esperados.
-- **Identificação de Padrões e Anomalias:** Esse gráfico permite a detecção de padrões de devoluções que podem não ser visíveis em gráficos agregados. Por exemplo, ele pode revelar picos de devoluções em um dia específico ou uma série de devoluções anômalas relacionadas a um único produto ou cliente.
-- **Análise de Causas:** Ao detalhar cada lançamento de devoluções, o gráfico permite uma análise aprofundada das causas dessas devoluções. Pode-se, por exemplo, identificar se um lote específico de produtos apresentou problemas que resultaram em um volume elevado de devoluções.
-- **Monitoramento de Fluxo de Devoluções:** Esse gráfico ajuda a equipe de operações a monitorar o fluxo de devoluções de maneira eficiente, garantindo que o processo de devolução esteja sendo gerenciado de forma adequada e dentro dos prazos estabelecidos.
+### Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item
 
-Em resumo, esse tipo de gráfico é uma ferramenta valiosa para o monitoramento detalhado e a análise minuciosa de cada devolução registrada, permitindo uma gestão mais precisa e proativa das operações de devolução.
+<p><div align="center">
+  <img src="../../assets/fat_dev_anomes.png" alt="Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item">
+  <h6>Imagem 4: Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
+</div></p>
+
+Uma matriz que exibe os valores de devoluções mês a mês com ícones que indicam aumento (verde) ou diminuição (vermelho) em relação ao mês anterior oferece uma maneira dinâmica e intuitiva de analisar o comportamento das devoluções ao longo do tempo. Essa matriz permite aos usuários monitorar facilmente as flutuações nas devoluções, identificar tendências preocupantes e reconhecer melhorias em diferentes períodos. O uso de ícones coloridos simplifica a interpretação, fornecendo sinais visuais imediatos — verde para reduções no volume de devoluções e vermelho para aumentos — facilitando a análise dos dados sem a necessidade de uma imersão profunda nos números.
+
+O grande diferencial desta matriz é que, além de apresentar os valores absolutos de devoluções, ela também exibe a percentagem de devoluções em relação às vendas totais, com um texto que muda de cor: verde para percentagens abaixo de 10%, indicando uma taxa de devolução aceitável, e vermelho para percentagens superiores a 10%, sinalizando uma área de risco que necessita de atenção. Essa codificação por cores oferece uma leitura rápida e eficaz das taxas de devolução, permitindo que os gestores identifiquem imediatamente os locais ou produtos que estão fora dos padrões desejados.
+
+A capacidade de alterar os cabeçalhos das linhas entre Filial, Vendedor, Cliente, Fabricante ou Item torna essa matriz uma ferramenta incrivelmente poderosa para uma análise detalhada e segmentada. Quando se analisa por Filial, é possível ver quais unidades da empresa estão enfrentando maiores desafios com devoluções, permitindo uma abordagem mais direcionada para corrigir problemas localizados. Mudar para Vendedor proporciona uma visão clara do desempenho de cada representante de vendas em termos de qualidade do serviço prestado e satisfação do cliente, identificando quais vendedores precisam melhorar o atendimento para reduzir devoluções. Ao analisar por Cliente, a matriz revela comportamentos de devolução, ajudando a detectar clientes que frequentemente devolvem produtos e que podem precisar de atenção especial. Da mesma forma, ao usar Fabricante ou Item, a análise permite que a empresa identifique quais produtos ou fornecedores apresentam maiores problemas de qualidade, possibilitando negociações mais eficazes ou até a substituição de produtos problemáticos.
+
+Esse tipo de visualização não apenas auxilia na tomada de decisões ágeis, como também ajuda a identificar oportunidades de melhoria em várias áreas da operação. A flexibilidade em alternar entre diferentes dimensões, como Filial, Vendedor, Cliente, Fabricante ou Item, oferece uma visão ampla e detalhada, permitindo a formulação de estratégias mais eficazes para reduzir as devoluções, melhorar a qualidade dos produtos e aumentar a satisfação dos clientes. Com essa matriz, a empresa pode rapidamente detectar padrões e agir de maneira proativa, garantindo que as devoluções sejam mantidas sob controle e otimizando seus processos de maneira geral.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
+
+## Visão Detalhes
+
+### Tabela de Devoluções Detalhes
+
+<p><div align="center">
+  <img src="../../assets/fat_dev_tabela.png" alt="Tabela de Devoluções Detalhes">
+  <h6>Imagem 5: Tabela de Devoluções Detalhes</h6>
+</div></p>
+
+A Tabela de Devoluções Detalhadas é um componente fundamental para empresas que desejam analisar seus dados de devolução de forma precisa e detalhada. Ela captura informações essenciais sobre cada devolução realizada, incluindo o identificador único de cada transação, a data em que a devolução foi processada, além de dados importantes como a filial envolvida, o representante de vendas associado, o cliente que realizou a devolução, o fornecedor ou fabricante do produto devolvido, e o valor correspondente da devolução.
+
+Dispor desses dados detalhados permite que as empresas monitorem as devoluções individuais de maneira eficaz, facilitando a identificação de padrões, a realização de auditorias e a resolução rápida de discrepâncias. A tabela fornece uma visão clara sobre quais produtos estão sendo devolvidos, quando e por quem, o que é crucial para entender as razões por trás das devoluções, como problemas de qualidade, insatisfação do cliente ou erros no processo de venda. Além disso, ao vincular as devoluções a filiais, representantes de vendas, clientes e fornecedores específicos, as organizações conseguem identificar quais regiões ou equipes de vendas apresentam maiores taxas de devolução, possibilitando uma gestão mais direcionada e proativa.
+
+Esse nível de detalhamento é essencial para otimizar a gestão da cadeia de suprimentos, melhorar o relacionamento com os clientes e aumentar a qualidade dos produtos. Ao analisar quais clientes estão realizando mais devoluções ou quais fornecedores estão relacionados a produtos com maior incidência de devolução, as empresas podem ajustar suas estratégias para reduzir os retornos, seja implementando programas de controle de qualidade, ajustando políticas de vendas, ou promovendo um melhor atendimento ao cliente.
+
+Além disso, os dados de devoluções são críticos para relatórios financeiros e análises de desempenho, uma vez que ajudam a avaliar o impacto das devoluções na receita e a monitorar o fluxo de caixa de maneira mais precisa. Com a capacidade de analisar essas informações detalhadas, as empresas podem tomar decisões estratégicas em relação a políticas de devolução, gerenciamento de estoque e manutenção de margens de lucro saudáveis. Em última análise, a Tabela de Devoluções Detalhadas oferece insights valiosos para melhorar a eficiência operacional e garantir um crescimento sustentável, ao mesmo tempo em que minimiza os custos associados às devoluções.
+
+
+
+
+
+
 
 ## Gráfico de Devoluções por Fabricante
 
