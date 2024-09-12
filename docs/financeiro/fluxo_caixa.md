@@ -167,6 +167,8 @@ Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data
 Exibe o valor de entradas em cada transação. Esta coluna permite uma visão clara dos montantes recebidos.
 #### Valor Saídas
 Exibe o valor de saídas em cada transação. Esta coluna permite uma visão clara dos montantes pagos.
+#### Valor Total
+Apresenta o valor das entradas menos saídas. Esta coluna fornece uma visão clara do valor total ao analisar entradas e saídas.
 #### Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
 #### Projeto
