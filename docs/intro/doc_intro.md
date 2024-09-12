@@ -1,4 +1,4 @@
-# Introdução à Documentação
+# Introdução
 
 Bem-vindo à seção de documentação do Idea Analytics! Aqui você encontrará uma série de recursos detalhados que o ajudarão a explorar e utilizar nossas soluções de Business Intelligence (BI) para diferentes áreas essenciais da sua empresa.
 
