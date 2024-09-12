@@ -92,25 +92,25 @@ Além disso, dados transacionais detalhados são essenciais para relatórios fin
 Esta tabela é essencial quando se busca detalhes sobre vendas específicas. Ele pode ser filtrado usando [filtros](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#filtros). A seguir, explicamos como interpretar cada coluna da tabela.
 
 #### Doc. 
-Número do documento que identifica cada transação de venda.
+Número do documento que identifica cada transação de venda. Este permite rastrear e auditar transações específicas, ajudando na análise detalhada e identificação de vendas individuais no BI.
   
 #### Lançamento
-Data em que a venda foi registrada.
+Data em que a venda foi registrada que fornece o contexto temporal para as transações, permitindo identificar tendências e padrões de vendas ao longo do tempo.
   
 #### Filial
-A unidade da empresa onde a venda foi realizada.
+A unidade da empresa onde a venda foi realizada. Auxilia na comparação de desempenho entre diferentes filiais, destacando quais locais estão gerando mais vendas ou onde há necessidade de ajustes.
   
 #### Vendedor
-O representante de vendas responsável pela transação.
-  
-#### Cliente
-Identificação do cliente que realizou a compra.
-  
+O representante de vendas responsável pela transação, facilita a análise de desempenho individual dos vendedores, ajudando identificar os melhores vendedores ou onde é necessário mais suporte.
+
 #### Fabricante
-O fornecedor ou fabricante do produto vendido.
+O fornecedor ou fabricante do produto vendido. Essencial para monitorar a contribuição de diferentes fornecedores para as vendas, permitindo avaliar a demanda por produtos de fabricantes específicos.
+
+#### Cliente
+Identificação do cliente que realizou a compra que é crucial para segmentação de clientes e análise de comportamento de compra, permitindo estratégias de vendas personalizadas e retenção de clientes.
   
 #### Vendas
-O valor monetário da venda.
+O valor monetário total da transação de venda fornece uma métrica chave para avaliar o desempenho de vendas, permitindo a análise de receita total gerada e auxiliando no monitoramento de metas e estratégias de crescimento.
 
 ### Vendas x Prazo Médio
 
