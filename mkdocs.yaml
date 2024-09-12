@@ -131,7 +131,7 @@ watch:
 nav:
 - Início: index.md
 - Documentação:
-    - intro/doc_intro.md
+  - intro/doc_intro.md
   - BI Idea Sales:
     - faturamento/ficha_tecnica.md
     - faturamento/intro.md
