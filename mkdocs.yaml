@@ -132,7 +132,7 @@ nav:
 - Início: index.md
 - Documentação:
   - intro/doc_intro.md
-  - BI Idea Sales:
+  - Idea Sales:
     - faturamento/ficha_tecnica.md
     - faturamento/intro.md
     - faturamento/indicadores_faturamento.md
@@ -143,7 +143,7 @@ nav:
     - faturamento/cmv.md
     - faturamento/itens.md
     - faturamento/indicadores.md
-  - BI Idea Finance: 
+  - Idea Finance: 
     - financeiro/ficha_tecnica.md
     - financeiro/intro.md
     - financeiro/indicadores_caixas.md
@@ -157,7 +157,7 @@ nav:
     - financeiro/fluxo_caixa.md
     - financeiro/saldo_contas.md
     - financeiro/detalhamento.md
-  - BI Idea Accounting:
+  - Idea Accounting:
     - contabilidade/ficha_tecnica.md
     - contabilidade/intro.md
     - contabilidade/indicadores_contabeis.md
