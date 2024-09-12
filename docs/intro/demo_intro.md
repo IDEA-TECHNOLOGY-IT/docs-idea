@@ -9,7 +9,7 @@ Para começar, clique em um dos links abaixo para acessar a demonstração de ca
 # Demonstração do Idea Analytics
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../../assets/fat.png" alt="Idea Sales" style="height: 6em; width: auto; margin-right: 20px;">
+  <img src="../../assets/fat.png" alt="Idea Sales" style="height: 6em; width: 12em; margin-right: 20px;">
   <div>
     <strong><a href="https://idea-technology-it.github.io/docs-idea/faturamento/demo/" target="_blank">Idea Sales</a></strong> (BI de Vendas): Experimente como nossa solução analítica pode fornecer uma visão detalhada sobre o desempenho de vendas, análise de receita por produto, desempenho de vendedores, devoluções e muito mais. Use esta demonstração para identificar oportunidades de crescimento e ajustar suas estratégias de vendas.
   </div>
@@ -18,7 +18,7 @@ Para começar, clique em um dos links abaixo para acessar a demonstração de ca
 <br><br>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../../assets/flux.png" alt="Idea Finance" style="height: 6em; width: auto; margin-right: 20px;">
+  <img src="../../assets/flux.png" alt="Idea Finance" style="height: 6em; width: 12em; margin-right: 20px;">
   <div>
     <strong><a href="https://idea-technology-it.github.io/docs-idea/financeiro/demo/" target="_blank">Idea Finance</a></strong> (BI Financeiro): Explore a demonstração que apresenta métricas e relatórios detalhados sobre o fluxo de caixa, inadimplência, gestão de despesas e receitas, análise de lucratividade e outros indicadores financeiros importantes. Teste como nossa solução pode ajudar a monitorar a saúde financeira da empresa e tomar decisões informadas.
   </div>
@@ -27,7 +27,7 @@ Para começar, clique em um dos links abaixo para acessar a demonstração de ca
 <br><br>
 
 <div style="display: flex; align-items: center;">
-  <img src="../../assets/contabilidade_home.png" alt="Idea Accounting" style="height: 6em; width: auto; margin-right: 20px;">
+  <img src="../../assets/contabilidade_home.png" alt="Idea Accounting" style="height: 6em; width: 12em; margin-right: 20px;">
   <div>
     <strong><a href="https://idea-technology-it.github.io/docs-idea/contabilidade/demo/" target="_blank">Idea Accounting</a></strong> (BI Contábil): Descubra a funcionalidade focada em processos contábeis, como receita bruta, custos e despesas, liquidez, giro e solvência. Utilize esta demonstração para acompanhar as operações financeiras e garantir a conformidade com as normas e boas práticas contábeis.
   </div>
