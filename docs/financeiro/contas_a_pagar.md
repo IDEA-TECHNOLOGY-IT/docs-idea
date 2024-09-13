@@ -17,27 +17,11 @@ Além de seu impacto direto na saúde financeira, uma boa administração das co
 
 Os visuais deste painel são projetados para fornecer uma visão detalhada do valor total a pagar e das áreas influenciadas por esse valor, como Tempo, Projeto e Favorecido. O painel permite uma análise aprofundada das contas a pagar, segmentando os valores de acordo com diferentes critérios e proporcionando uma compreensão clara de como essas obrigações financeiras se distribuem e afetam diferentes aspectos da empresa. Esta abordagem facilita a identificação de áreas de maior impacto financeiro, ajuda na priorização de pagamentos e contribui para a formulação de estratégias eficazes de gestão financeira.
 
+### % de Pagar
+
+A porcentagem (%) de Pagar é uma métrica essencial para a gestão financeira, pois oferece uma visão clara da representatividade de cada categoria (como Filial, Fornecedor, Projeto, Dimensão ou Origem) em relação ao valor total das obrigações a pagar. Essa métrica permite às empresas identificar quais áreas ou fornecedores estão gerando os maiores compromissos financeiros, facilitando a priorização de pagamentos e a gestão do fluxo de caixa. Além de mostrar os valores absolutos, a porcentagem de pagar destaca a relevância de cada componente, o que ajuda a tomar decisões estratégicas sobre alocação de recursos, renegociações de prazos e otimização de desembolsos. A análise percentual também é valiosa para acompanhar o comportamento das dívidas ao longo do tempo, permitindo identificar tendências, como o aumento ou a redução da participação de determinados fornecedores ou projetos nos valores a pagar, ajudando a empresa a se planejar melhor e a manter um controle financeiro mais eficiente.
+
 ## Visão Principal
-
-### A Pagar x Projeto, Filial ou Dimensão
-
-<p><div align="center">
-  <img src="../../assets/flux_pag_projeto.png" alt="A Pagar x Projeto, Filial ou Dimensão">
-  <h6>Imagem 2: A Pagar x Projeto, Filial ou Dimensão</h6>
-</div></p>
-
-Uma matriz exibindo o valor de "A Pagar" com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta crucial para análise financeira e tomada de decisão. Ao organizar os pagáveis pendentes por essas categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os pagáveis estão concentrados e rastreiem os pagamentos devidos de diferentes projetos ou filiais. Essa análise detalhada é importante para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem ter pagamentos atrasados ​​e podem impactar a saúde financeira geral da organização.
-
-Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica dentro da matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou gráficos, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente em áreas específicas de interesse, facilitando a análise de conexões entre pagáveis e suas áreas respeitadas. Isso agiliza o processo de isolamento de dados críticos, permitindo uma tomada de decisão mais rápida e informada.
-
-Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar os Filiais e Dimensões associados a esse projeto, dando uma visão mais detalhada da estrutura de pagáveis. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade, tornando a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios.
-
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
-<p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
-  <h6>Ícones de Cabeçalho</h6>
-</div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
 ### Aging - Contas a Pagar
 
@@ -46,30 +30,66 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
   <h6>Imagem 3: Aging - Contas a Pagar</h6>
 </div></p>
 
-O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
+O gráfico de barras do **Aging - Contas a Pagar** é dividido em 7 categorias, começando pelo valor que já está vencido. Em seguida, as categorias representam o tempo em que os pagamentos são devidos, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e finalizando com valores a pagar em 120 dias ou mais.
 
-Este visual oferece uma ótima visão geral de quais contas a pagar são esperadas nos próximos meses, juntamente com o que está vencido (mais detalhado no [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/)). Essas informações capacitam as empresas a gerenciar seu fluxo de caixa de forma mais eficaz, garantindo estabilidade financeira e eficiência operacional.
+Esse visual oferece uma visão geral essencial de quais contas a pagar estão programadas para os próximos meses, juntamente com as que estão vencidas. As barras representam o valor a pagar para cada categoria de tempo, e os rótulos detalham tanto o valor monetário quanto a porcentagem do total a pagar. Isso fornece uma visão clara da proporção de cada faixa em relação ao total das obrigações financeiras. Essas informações permitem às empresas gerenciar melhor seu fluxo de caixa, garantindo maior estabilidade financeira e eficiência nas operações.
 
-Sem usar nenhum filtro, o gráfico representa o valor total a pagar, mas usando os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) filial ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
+Sem a utilização de filtros, o gráfico exibe o valor total a pagar, mas ao aplicar os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros), como por filial, projeto ou período, é possível segmentar as informações e gerenciar áreas específicas do negócio de forma mais detalhada. Esses filtros também interagem dinamicamente com outros visuais na página, proporcionando uma visão mais integrada das finanças.
 
-Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), permitindo ações como;
+Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual, como uma tabela de contas a pagar, este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que melhora a compreensão dos dados e facilita decisões financeiras mais bem embasadas.
 
-- Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso,
-- Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa,
-- Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo,
-- Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
-- Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
+Apesar de ser um gráfico compacto, ele oferece diversas funcionalidades, especialmente quando usado em conjunto com o gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), permitindo ações como:
 
-### A Pagar X Favorecido ou Origem
+- Antecipar déficits e planejar saídas de caixa, possibilitando um planejamento financeiro mais preciso,
+- Melhorar a gestão de pagamentos por meio da priorização de dívidas e comunicação estratégica com fornecedores,
+- Aprimorar o controle de crédito ao monitorar o risco e o comportamento de pagamento, permitindo ajustes nos prazos de pagamento,
+- Apoiar o planejamento financeiro do negócio, proporcionando previsões e decisões de investimento mais informadas,
+- Mitigar o risco financeiro ao reduzir atrasos e inadimplências, gerenciando as contas de forma proativa para manter bons relacionamentos com fornecedores e parceiros financeiros, o que pode, a longo prazo, melhorar a gestão do caixa e dos pagamentos.
+
+### Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido
+
+<p><div align="center">
+  <img src="../../assets/flux_pag_projeto.png" alt="Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido">
+  <h6>Imagem 2: Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
+</div></p>
+
+Uma matriz exibindo os valores de Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e rastreiem os desembolsos realizados para diferentes origens, projetos ou filiais. Essa visualização detalhada é crucial para uma gestão eficaz do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e como esses pagamentos impactam a saúde financeira da organização.
+
+A matriz apresenta o valor total de pagamento e a porcentagem (%) de pagamento em relação ao total, oferecendo uma visão clara da contribuição de cada categoria. Esses indicadores ajudam a priorizar áreas que precisam de mais controle ou ajuste em termos de pagamentos, assegurando uma gestão mais eficiente dos recursos financeiros e dos processos de pagamento.
+
+Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como o [Aging - Contas a Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões embasadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem navegar pelos dados de forma fluida, investigando correlações entre diferentes variáveis e entendendo como diferentes categorias impactam o pagamento.
+
+A matriz também oferece a funcionalidade de expandir ou recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de uma Filial ou Projeto, a tabela se expande para mostrar os valores de pagamento associados às Dimensões, Origens ou Favorecidos correspondentes. Essa visão hierárquica permite uma análise mais segmentada e detalhada, facilitando o acompanhamento de cada parte envolvida no processo de pagamento. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão geral é suficiente.
+
+Além disso, a seleção dos cabeçalhos de linha nesta matriz possibilita criar diversas combinações com outra matriz de [Pagamento por Cliente, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#pagamento-por-cliente-origem-projeto-dimensão-ou-filial), aumentando ainda mais a flexibilidade da análise. A capacidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação das combinações mais relevantes, ajudando a visualizar as relações importantes na análise de pagamentos. Por exemplo, o usuário pode optar por visualizar Filial nesta matriz e Favorecido na segunda, ou Projeto nesta e Origem na outra, ajustando a visualização para exibir as informações mais relevantes no contexto da análise.
+
+Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, e a capacidade de explorar hierarquias e combinações de forma interativa, a matriz de **Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido** se torna uma ferramenta essencial para a gestão financeira. Ela possibilita uma navegação eficiente por grandes volumes de dados e interações com múltiplos visuais, auxiliando os tomadores de decisão a focar nas áreas mais críticas e a otimizar o desempenho financeiro da organização.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+
+### Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
   <img src="../../assets/flux_pag_fav.png" alt="A Pagar X Favorecido ou Origem">
   <h6>Imagem 4: A Pagar X Favorecido ou Origem</h6>
 </div></p>
 
-Um gráfico de barras que segmenta os pagamentos a serem feitos por favorecido ou origem oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais favorecidos ou origens têm os maiores valores a pagar, permitindo que a administração identifique facilmente onde os montantes mais significativos de obrigações financeiras estão concentrados. Essa análise comparativa permite direcionar os esforços de controle de desembolso de forma mais eficaz, garantindo que os recursos sejam aplicados no pagamento dos maiores compromissos primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de pagamentos fortemente associados a um favorecido ou origem específico, o que pode representar riscos financeiros caso não sejam geridos adequadamente. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e melhor alinhamento dos pagamentos com as receitas esperadas.
+Uma matriz exibindo os valores de Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e monitorem os desembolsos feitos para diferentes favorecidos, origens de despesa ou projetos. Esse nível de detalhamento é crucial para uma gestão eficiente do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e ajudando a identificar eventuais riscos ou oportunidades de otimização financeira.
 
-O gráfico também é valioso para monitorar o desempenho de diferentes favorecidos e origens, oferecendo insights sobre os prazos de pagamento e o comportamento dos compromissos ao longo do tempo. Essas informações podem orientar decisões sobre estratégias de negociação, gestão de fornecedores e políticas de crédito. Além disso, o gráfico pode ser usado como uma ferramenta de negociação com fornecedores, fornecendo vantagem em discussões ao apresentar um panorama claro dos valores pendentes. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com fornecedores e parceiros de negócios. Adicionalmente, ao destacar onde os pagamentos estão concentrados, seja por origem ou favorecido, o gráfico informa a tomada de decisões estratégicas, como a priorização de liquidações ou a revisão de contratos com fornecedores específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir o fluxo de caixa, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
+A matriz apresenta tanto o valor total de pagamento quanto a porcentagem (%) que cada favorecido, origem, projeto, dimensão ou filial representa no total, fornecendo uma visão clara da contribuição relativa de cada categoria. Esses indicadores facilitam a priorização de áreas que demandam mais controle, possibilitando ajustes mais rápidos e eficazes nos processos de pagamento e gerenciamento de despesas.
+
+Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em outro visual na página, como o gráfico [Aging - Contas a Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), esta matriz será automaticamente filtrada com base na seleção feita. Da mesma forma, ao selecionar um item nesta matriz, ela filtrará os outros visuais, como gráficos de barras ou tabelas, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Essa integração dinâmica cria uma experiência de exploração de dados fluida, onde os usuários podem rapidamente identificar correlações e entender como diferentes categorias impactam os pagamentos.
+
+A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Favorecido ou Origem, por exemplo, a tabela se expande para revelar os valores de pagamento detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada favorecido ou projeto e sua respectiva contribuição para o fluxo de caixa. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
+
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre favorecidos, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Favorecido** nesta matriz e **Filial** na outra, ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+
+Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
