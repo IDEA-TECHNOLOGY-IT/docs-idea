@@ -78,8 +78,8 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 ### Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
-  <h6>Imagem 3: Inadimplência x Projeto, Filial ou Dimensão</h6>
+  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente">
+  <h6>Imagem 3: Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
 Uma matriz exibindo os valores de Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente é uma ferramenta fundamental para análise financeira e tomada de decisões estratégicas. Ao organizar os valores de inadimplência conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de inadimplência estão concentrados e monitorem quais clientes, origens ou projetos apresentam maiores riscos. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando as áreas que estão enfrentando problemas de pagamento e ajudando a direcionar ações corretivas para minimizar impactos financeiros.
