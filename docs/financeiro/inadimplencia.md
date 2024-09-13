@@ -49,26 +49,6 @@ Ao utilizar filtros ou clicar em pontos de dados nas visualizações neste paine
 
 ## Visão Gráfica e Tabela
 
-### Inadimplência x Projeto, Filial ou Dimensão
-
-<p><div align="center">
-  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
-  <h6>Imagem 3: Inadimplência x Projeto, Filial ou Dimensão</h6>
-</div></p>
-
-Uma matriz exibindo o valor da "Inadimplência" com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta crucial para análise financeira e tomada de decisão. Ao organizar as inadimplências por essas categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os valores inadimplentes estão concentrados e rastreiem os pagamentos em atraso de diferentes projetos ou filiais. Essa análise detalhada é importante para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem estar enfrentando problemas de inadimplência, o que pode impactar a saúde financeira geral da organização.
-
-Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica dentro da matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou painéis, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente em áreas específicas de inadimplência, facilitando a análise de conexões entre as contas em atraso e outras áreas financeiras da organização. Isso agiliza o processo de isolamento de dados críticos, permitindo uma tomada de decisão mais rápida e informada.
-
-Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar as Filiais e Dimensões associadas a esse projeto, proporcionando uma visão mais detalhada da estrutura de inadimplência. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade. Isso torna a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios, oferecendo uma visão clara e detalhada da inadimplência e suas implicações financeiras.
-
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
-<p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
-  <h6>Ícones de Cabeçalho</h6>
-</div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
-
 ### Aging - Inadimplência
 
 <p><div align="center">
@@ -84,7 +64,7 @@ Por exemplo, uma grande porcentagem da inadimplência total que se enquadra na c
 
 No geral, o visual destaca efetivamente onde mais atenção é necessária e permite ações mais direcionadas para melhorar o fluxo de caixa e reduzir o risco financeiro associado a contas a receber vencidas.
 
-Sem usar nenhum filtro, o gráfico representa o valor total em atraso, mas usando os filtros de agência ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
+Sem usar nenhum filtro, o gráfico representa o valor total em atraso, mas usando os filtros de filial ou projeto, é possível gerenciar áreas específicas dentro do negócio também. Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como uma tabela de receber, este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas.
 
 Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#aging-pagamentos-vencidos), permitindo ações como;
 
@@ -94,16 +74,51 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Aprimorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios de fluxo de caixa e alocar recursos de forma eficaz,
 - Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
-### Inadimplência por Cliente ou Origem
+
+### Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente ou Origem">
-  <h6>Imagem 5: Inadimplência por Cliente ou Origem</h6>
+  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência x Projeto, Filial ou Dimensão">
+  <h6>Imagem 3: Inadimplência x Projeto, Filial ou Dimensão</h6>
 </div></p>
 
-Um gráfico de barras que segmenta a inadimplência por cliente ou origem oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes ou origens têm os maiores valores em atraso, permitindo que a administração identifique facilmente onde os montantes mais significativos de inadimplência estão concentrados. Essa análise comparativa permite direcionar os esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação das dívidas mais críticas primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de inadimplências fortemente associadas a um cliente ou origem específico, o que pode representar riscos financeiros maiores caso os valores não sejam recebidos. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e um melhor alinhamento das obrigações financeiras futuras com os recebíveis.
+Uma matriz exibindo os valores de Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente é uma ferramenta fundamental para análise financeira e tomada de decisões estratégicas. Ao organizar os valores de inadimplência conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de inadimplência estão concentrados e monitorem quais clientes, origens ou projetos apresentam maiores riscos. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando as áreas que estão enfrentando problemas de pagamento e ajudando a direcionar ações corretivas para minimizar impactos financeiros.
 
-O gráfico também é valioso para monitorar o comportamento de pagamento de diferentes clientes e origens ao longo do tempo, oferecendo insights sobre padrões de inadimplência. Essas informações podem orientar decisões sobre estratégias de crédito, gestão de contas e políticas de cobrança. Além disso, o gráfico pode ser utilizado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ao apresentar um panorama claro das dívidas em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde as inadimplências estão concentradas, seja por origem ou cliente, o gráfico informa a tomada de decisões estratégicas, como a priorização de cobranças ou a revisão dos termos de crédito para clientes específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir a inadimplência, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
+A matriz exibe o valor total de inadimplência e a porcentagem (%) de inadimplência em relação ao total, proporcionando uma visão clara da contribuição de cada categoria para o total de inadimplência. Esses indicadores ajudam a priorizar áreas que necessitam de maior atenção, permitindo ajustes rápidos e eficazes nas estratégias de recuperação de crédito. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas oferecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias apresentam maiores ou menores níveis de inadimplência em relação ao total. A representação visual aprimorada ajuda a interpretar os dados de maneira mais intuitiva, transformando informações complexas em insights visualmente acessíveis e compreensíveis.
+
+Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em outro visual na página, como o gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), esta matriz será automaticamente filtrada com base na seleção feita. Da mesma forma, ao selecionar um item nesta matriz, ela filtrará os outros visuais, como gráficos de barras ou tabelas, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem explorar os dados de forma fluida, investigando correlações e entendendo como diferentes categorias impactam a inadimplência.
+
+A matriz também oferece a funcionalidade de expandir ou recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de uma Filial ou Projeto, por exemplo, a tabela se expande para mostrar os valores de inadimplência associados às Dimensões, Origens ou Clientes correspondentes. Essa visão hierárquica permite uma análise mais detalhada e segmentada, facilitando o acompanhamento das contribuições individuais para a inadimplência. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), facilitando a navegação quando uma visão mais geral for suficiente.
+
+Além disso, a seleção de cabeçalhos de linha nesta matriz permite criar várias combinações com outra matriz de [Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/#inadimplencia-por-cliente-origem-projeto-dimensão-ou-filial), aumentando ainda mais a flexibilidade da análise. A possibilidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação de combinações relevantes, ajudando a visualizar as relações mais importantes para a análise de inadimplência. Por exemplo, o usuário pode optar por visualizar **Filial** nesta matriz e **Cliente** na segunda, ou **Projeto** aqui e **Origem** na outra, ajustando as tabelas conforme o contexto da análise.
+
+Com a exibição clara dos valores absolutos de inadimplência e suas respectivas porcentagens, além da capacidade de explorar essas relações hierárquicas e combinações de forma interativa, a matriz de **Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente** se torna uma ferramenta indispensável para a gestão financeira. Ela proporciona uma navegação eficiente em grandes volumes de dados e facilita interações entre múltiplos visuais, ajudando os tomadores de decisão a focar nos pontos críticos e a otimizar a saúde financeira da organização.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+
+### Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial
+
+<p><div align="center">
+  <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial">
+  <h6>Imagem 5: Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial</h6>
+</div></p>
+
+Uma matriz exibindo os valores de **Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para análise financeira e tomada de decisões estratégicas. Ao organizar a inadimplência com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de inadimplência estão concentrados e monitorem os pagamentos pendentes de diferentes clientes, origens de receita ou projetos. Esse nível de detalhamento é crucial para uma gestão eficaz do fluxo de caixa, destacando as áreas que enfrentam maiores problemas de pagamento e ajudando a identificar riscos ou oportunidades de otimização financeira.
+
+A matriz exibe tanto o valor total de inadimplência quanto a porcentagem (%) que cada cliente, origem, projeto, dimensão ou filial representa no total, fornecendo uma visão clara da contribuição relativa de cada categoria para a inadimplência geral. Esses indicadores facilitam a priorização das áreas que demandam mais atenção, possibilitando ajustes mais rápidos e eficazes nas estratégias de cobrança e recuperação de crédito. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas oferecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores de inadimplência em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
+
+Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em outro visual na página, como o gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), esta matriz será automaticamente filtrada com base na seleção feita. Da mesma forma, ao selecionar um item nesta matriz, ela filtrará os outros visuais, como gráficos de barras ou tabelas, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem explorar os dados de forma fluida, investigando correlações e entendendo como diferentes categorias impactam a inadimplência.
+
+A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Cliente ou Origem, por exemplo, a tabela se expande para revelar os valores de inadimplência detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada cliente ou projeto e sua respectiva contribuição para a inadimplência. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
+
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre clientes, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Cliente** nesta matriz e **Filial** na [outra](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-filial-projeto-dimensao-origem-ou-cliente), ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+
+Com a exibição clara dos valores absolutos de inadimplência e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
