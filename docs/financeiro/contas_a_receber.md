@@ -17,27 +17,11 @@ Além de seu impacto direto na saúde financeira, uma boa administração do val
 
 Os visuais deste painel são projetados para fornecer uma visão detalhada do valor total a receber e das áreas influenciadas por esse valor, como Tempo, Projeto e Favorecido. O painel permite uma análise aprofundada das contas a receber, segmentando os valores de acordo com diferentes critérios e proporcionando uma compreensão clara de como essas receitas se distribuem e afetam diferentes aspectos da empresa. Esta abordagem facilita a identificação de áreas de maior impacto financeiro, ajuda na priorização de estratégias de cobrança e contribui para a formulação de estratégias eficazes de gestão financeira.
 
+### % de Receber
+
+A porcentagem (%) de Receber é uma métrica valiosa para a gestão financeira, pois permite entender a representatividade de cada categoria (seja por Filial, Cliente, Projeto, Dimensão ou Origem) em relação ao valor total de recebimento esperado. Ao exibir essa porcentagem, as empresas conseguem identificar quais áreas, clientes ou projetos estão contribuindo mais ou menos para o fluxo de caixa, facilitando a priorização de esforços de cobrança e ajustes estratégicos. Além disso, essa métrica possibilita uma análise mais equilibrada, pois não apenas mostra os valores absolutos, mas também destaca a relevância relativa de cada componente, o que ajuda a tomar decisões mais informadas sobre alocação de recursos, renegociações e previsões de receita. A visão percentual também auxilia no monitoramento do desempenho ao longo do tempo, permitindo identificar mudanças e tendências, como um aumento ou diminuição no percentual de recebíveis de determinados clientes ou áreas, e agir de forma proativa para manter a saúde financeira da empresa.
+
 ## Visão Principal
-
-### A Receber x Projeto, Filial ou Dimensão
-
-<p><div align="center">
-  <img src="../../assets/flux_rec_projeto.png" alt="A Receber x Projeto, Filial ou Dimensão">
-  <h6>Imagem 2: A Receber x Projeto, Filial ou Dimensão</h6>
-</div></p>
-
-Uma matriz exibindo o valor de "A Receber" com cabeçalhos de linha para Projeto, Filial ou Dimensão é uma ferramenta crucial para análise financeira e tomada de decisão. Ao organizar os recebíveis pendentes por essas categorias específicas, a matriz permite que as partes interessadas identifiquem rapidamente onde os recebíveis estão concentrados e rastreiem os pagamentos devidos de diferentes projetos ou filiais. Essa análise detalhada é importante para gerenciar o fluxo de caixa de forma eficaz, pois destaca quais projetos ou filiais podem ter pagamentos atrasados ​​e podem impactar a saúde financeira geral da organização.
-
-Além disso, essa matriz se torna ainda mais poderosa com recursos interativos. Ao clicar em uma linha específica dentro da matriz, os usuários podem filtrar outros visuais no painel, como gráficos, tabelas ou gráficos, para exibir apenas os dados relevantes para o projeto, filial ou dimensão selecionada. Essa filtragem dinâmica permite que os usuários mergulhem mais profundamente em áreas específicas de interesse, facilitando a análise de conexões entre recebíveis e suas áreas respeitadas. Isso agiliza o processo de isolamento de dados críticos, permitindo uma tomada de decisão mais rápida e informada.
-
-Os usuários podem explorar facilmente relacionamentos hierárquicos dentro da matriz usando o sinal de mais (+) ao lado do nome de um projeto. Clicar neste símbolo expande a tabela para revelar os Filiais e Dimensões associados a esse projeto, dando uma visão mais detalhada da estrutura de recebíveis. Da mesma forma, os usuários podem retrair a visão clicando no sinal de menos (-) para recolher a hierarquia, simplificando a tabela quando uma visão geral de alto nível for suficiente. Essa funcionalidade de expandir e recolher fornece flexibilidade na navegação de grandes conjuntos de dados, permitindo que os usuários alternem entre visualizações resumidas e detalhadas com facilidade, tornando a exploração de dados mais eficiente e adaptável a diferentes necessidades de relatórios.
-
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
-<p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
-  <h6>Ícones de Cabeçalho</h6>
-</div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
 ### Aging - Contas a Receber
 
@@ -48,28 +32,64 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
 
 O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
 
-Este visual oferece uma ótima visão geral de quais contas a receber são esperadas nos próximos meses, juntamente com o que está vencido (mais detalhado no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/)). Essas informações capacitam as empresas a gerenciar seu fluxo de caixa de forma mais eficaz, garantindo estabilidade financeira e eficiência operacional.
+Este visual oferece uma ótima visão geral de quais contas a receber são esperadas nos próximos meses, juntamente com o que está vencido (mais detalhado no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/)). As barras representam o valor a receber para cada categoria de tempo, e há rótulos detalhados que mostram tanto o valor monetário quanto a porcentagem do total a receber, fornecendo uma visão clara da proporção de cada faixa em relação ao total das contas a receber. Essas informações capacitam as empresas a gerenciar seu fluxo de caixa de forma mais eficaz, garantindo estabilidade financeira e eficiência operacional.
 
-Sem usar nenhum filtro, o gráfico representa o valor total a receber, mas usando os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) filial ou projeto, é possível gerenciar áreas específicas dentro do negócio também.
+Sem usar nenhum filtro, o gráfico representa o valor total a receber, mas, utilizando os [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros), como filial, projeto ou período, é possível gerenciar áreas específicas dentro do negócio de forma mais detalhada. Esses filtros refinam os dados exibidos e também interagem dinamicamente com outros visuais na página, proporcionando uma visão mais completa e interconectada das finanças.
 
-Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), permitindo ações como;
+Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como uma tabela de receber, este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas.
+
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), permitindo ações como:
 
 - Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso,
 - Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa,
 - Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo,
 - Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
-- Mitigando o risco financeiro reduzindo dívidas inadimplentes e fortalecendo relacionamentos gerenciando proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
+- Mitigar o risco financeiro, reduzindo dívidas inadimplentes e fortalecendo relacionamentos ao gerenciar proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
-### A Receber x Cliente ou Origem
+### Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_cliente.png" alt="A Receber x Cliente ou Origem">
-  <h6>Imagem 4: A Receber x Cliente ou Origem</h6>
+  <img src="../../assets/flux_rec_projeto.png" alt="Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente">
+  <h6>Imagem 2: Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
-Um gráfico de barras que segmenta os recebíveis por cliente ou origem oferece vantagens significativas para a gestão e análise da saúde financeira do seu negócio. Visualmente, o gráfico proporciona uma visão rápida e clara de quais clientes ou origens têm os maiores valores em aberto, permitindo que a administração identifique facilmente onde os montantes mais significativos de dinheiro estão alocados. Essa análise comparativa permite direcionar esforços de cobrança de forma mais eficaz, garantindo que os recursos sejam aplicados na recuperação dos maiores recebíveis primeiro. Além disso, o gráfico ajuda a identificar concentrações de risco, como no caso de recebíveis fortemente associados a um cliente ou origem específico, o que pode representar riscos financeiros caso não sejam recebidos a tempo. Esse entendimento apoia o planejamento financeiro, permitindo uma previsão de fluxo de caixa mais precisa e melhor alinhamento dos recebíveis com as obrigações financeiras futuras.
+Uma matriz exibindo os valores de Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente é uma ferramenta fundamental para a análise financeira e a tomada de decisões estratégicas. Ao organizar os recebíveis conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores de recebimento estão concentrados e rastreiem os pagamentos recebidos de diferentes origens, projetos ou filiais. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando quais áreas estão contribuindo mais significativamente para o recebimento de valores, o que pode impactar diretamente a saúde financeira da organização.
 
-O gráfico também é valioso para monitorar o desempenho de diferentes clientes e origens, oferecendo insights sobre os comportamentos de pagamento ao longo do tempo. Essas informações podem orientar decisões sobre estratégias de vendas, gestão de contas e políticas empresariais. Além disso, o gráfico pode ser usado como uma ferramenta de negociação, fornecendo vantagem em discussões com clientes ao apresentar um panorama claro dos pagamentos em aberto. Essa abordagem baseada em dados não só melhora os termos de pagamento, mas também fortalece as relações com clientes e parceiros de negócios. Adicionalmente, ao destacar onde os recebíveis estão concentrados, seja por origem ou cliente, o gráfico informa a tomada de decisões estratégicas, como a alocação de recursos ou a necessidade de revisar os termos de engajamento com clientes específicos. Em resumo, esse gráfico de barras é uma ferramenta poderosa que aprimora a capacidade de gerir o fluxo de caixa, mitigar riscos e otimizar o desempenho financeiro em diferentes níveis do seu negócio.
+Essa matriz exibe o valor total de recebimento e a porcentagem (%) de recebimento em relação ao total, proporcionando uma visão clara da contribuição de cada categoria. Esses indicadores permitem priorizar áreas que requerem mais atenção ou ajuste em termos de recebimento, garantindo uma distribuição mais eficiente dos esforços de cobrança ou monitoramento.
+
+Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem navegar pelos dados de forma fluida, investigando correlações entre diferentes variáveis e entendendo como diferentes categorias impactam o recebimento.
+
+A matriz também oferece a funcionalidade de expandir ou recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de uma Filial ou Projeto, por exemplo, a tabela se expande para mostrar os valores de recebimento associados às Dimensões, Origens ou Clientes correspondentes. Essa visão hierárquica oferece uma análise mais detalhada e segmentada, permitindo um acompanhamento mais próximo das contribuições individuais de cada parte. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), facilitando a navegação quando uma visão mais geral for suficiente.
+
+Além disso, a seleção de cabeçalhos de linha nesta matriz permite criar várias combinações com outra matriz de [Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial]((https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-cliente-origem-projeto-dimensão-ou-filial), aumentando ainda mais a flexibilidade da análise. A possibilidade de escolher dos cabeçalhos de linha em cada matriz facilita a identificação de combinações relevantes, ajudando a visualizar as relações mais importantes para a análise de recebimento. Por exemplo, o usuário pode optar por visualizar Filial nesta matriz e Cliente na segunda, ou Projeto nesta e Origem na outra, ajustando a tabela para exibir as informações mais significativas com base no contexto.
+
+Com a exibição clara dos valores absolutos de recebimento e suas respectivas porcentagens, e a capacidade de explorar essas relações hierárquicas e combinações de forma interativa, a matriz de Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente se torna uma ferramenta essencial para a gestão financeira. Ela permite uma navegação eficiente de grandes volumes de dados e interações entre múltiplos visuais, ajudando os tomadores de decisão a focar nos pontos críticos e a otimizar o desempenho financeiro da organização.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+
+### Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial
+
+<p><div align="center">
+  <img src="../../assets/flux_rec_cliente.png" alt="Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial">
+  <h6>Imagem 4: Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial</h6>
+</div></p>
+
+Uma matriz exibindo os valores de **Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para análise financeira e tomada de decisões estratégicas. Ao organizar os recebíveis com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores de recebimento estão concentrados e monitorem os pagamentos devidos por diferentes clientes, origens de receita ou projetos. Esse nível de detalhamento é crucial para uma gestão eficiente do fluxo de caixa, destacando quais áreas estão gerando mais recebimentos e ajudando a identificar eventuais riscos ou oportunidades de otimização financeira.
+
+A matriz exibe tanto o valor total de recebimento quanto a porcentagem (%) que cada cliente, origem, projeto, dimensão ou filial representa no total, fornecendo uma visão clara da contribuição relativa de cada categoria. Esses indicadores facilitam a priorização de áreas que demandam mais atenção, possibilitando ajustes mais rápidos e eficazes nos processos de cobrança e gerenciamento de recebíveis.
+
+Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em outro visual na página, como o gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), esta matriz será automaticamente filtrada com base na seleção feita. Da mesma forma, ao selecionar um item nesta matriz, ela filtrará os outros visuais, como gráficos de barras ou tabelas, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Essa integração dinâmica cria uma experiência de exploração de dados fluida, onde os usuários podem rapidamente identificar correlações e compreender como diferentes categorias impactam o recebimento.
+
+A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Cliente ou Origem, por exemplo, a tabela se expande para revelar os valores de recebimento detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada cliente ou projeto e sua respectiva contribuição para o fluxo de caixa. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
+
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre clientes, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Cliente** nesta matriz e **Filial** na [primeira](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-filial-projeto-dimensao-origem-ou-cliente), ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+
+Com a exibição clara dos valores absolutos de recebimento e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
