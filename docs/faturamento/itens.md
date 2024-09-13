@@ -1,87 +1,49 @@
 # Painel Itens
-![Relatorio de Lucro Bruto](../assets/fat_itens_page1.png)
-<p align="center"><em>Imagem 1: Relatório de Lucro Bruto</em></p>
-O **Lucro Bruto** é uma métrica financeira fundamental que representa a diferença entre a receita líquida de vendas e o custo dos produtos vendidos (CPV). Em outras palavras, o lucro bruto é o valor que sobra das vendas depois que os custos diretos de produção, como materiais e mão de obra, são subtraídos.
 
-No contexto empresarial, o Lucro Bruto é um indicador crucial da eficiência operacional, pois demonstra a capacidade da empresa de gerar lucro a partir de suas operações principais, antes de considerar outras despesas, como administrativas, de vendas e financeiras.
+<p><div align="center">
+  <img src="../../assets/fat_itens_page1.png" alt="Itens2">
+  <h6>Imagem 1: Painel Itens - Visão Análise Anual</h6>
+</div></p>
 
-A fórmula para calcular o Lucro Bruto é:
+<p><div align="center">
+  <img src="../../assets/fat_itens_page2.png" alt="Itens2">
+  <h6>Imagem 2: Painel Itens - Visão Detalhes</h6>
+</div></p>
 
-**Lucro Bruto = Receita Líquida de Vendas - Custo dos Produtos Vendidos (CPV)**
+## Navegação
 
-## Importância do Lucro Bruto
+Este painel de relatório está dividido em duas visualizações;
 
-- **Avaliação da Rentabilidade**: O Lucro Bruto é utilizado para avaliar a rentabilidade das atividades principais da empresa. Um lucro bruto elevado indica que a empresa está conseguindo vender seus produtos ou serviços com uma margem saudável sobre os custos de produção.
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
-- **Margem Bruta**: A margem bruta, expressa em percentual, é derivada do lucro bruto e é calculada dividindo o Lucro Bruto pela Receita Líquida de Vendas. Ela ajuda a entender a proporção de lucro gerada por cada real de venda.
+## Informações no Painel Devoluções
 
-- **Análise de Eficiência Operacional**: Ao monitorar o Lucro Bruto, a empresa pode identificar se os custos de produção estão controlados e se as estratégias de precificação estão adequadas para garantir uma margem de lucro satisfatória.
+### Análise de Itens
 
-O Lucro Bruto é, portanto, uma métrica essencial para entender a saúde financeira e a eficiência operacional de uma empresa. Ele serve como base para a análise de outras métricas financeiras e para a tomada de decisões estratégicas voltadas à maximização do lucro.
+A análise de itens é uma componente fundamental do Business Intelligence (BI), oferecendo insights essenciais sobre o desempenho dos produtos e a eficiência das operações comerciais. Avaliar indicadores como Lucro Bruto, Quantidade Vendida, Ticket Médio e Margens de Lucro ajuda as empresas a compreender a rentabilidade e o sucesso de cada item em seu portfólio. Monitorar essas métricas permite identificar quais produtos estão contribuindo mais para o lucro e quais podem precisar de ajustes em termos de estratégia de venda ou precificação.
 
-## Gráfico "Quantidade de Itens Vendidos por Filial, Vendedor, Cliente, Fabricante ou Item"
+Visualizações detalhadas, como o Lucro Bruto por Item e a Quantidade Vendida, são cruciais para avaliar o desempenho financeiro dos produtos ao longo do tempo. O Lucro Bruto por Item oferece uma visão clara da rentabilidade gerada por cada produto, ajudando a identificar quais itens estão gerando maiores margens de lucro e quais podem estar impactando negativamente o resultado financeiro. A análise da Quantidade Vendida, por sua vez, revela quais produtos estão atraindo mais demanda, fornecendo uma base para decisões de reabastecimento e estratégias de marketing.
 
-![Gráfico "Quantidade de Itens Vendidos por Filial, Vendedor, Cliente, Fabricante ou Item"](../assets/quantidade-de-itens-filial-vendedor-cliente-fabricante-item.jfif)
-<p align="center"><em>Imagem 2: Gráfico de Quantidade de Itens Vendidos por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
+Análises do Ticket Médio e das Margens de Lucro são igualmente importantes para entender o impacto financeiro de cada item. O Ticket Médio fornece uma visão do valor médio das vendas por transação, ajudando a identificar tendências de compra e a ajustar estratégias de precificação. Margens de Lucro detalhadas mostram a eficiência na geração de lucro a partir das vendas, revelando quais produtos oferecem melhores retornos e quais podem necessitar de revisão na estratégia de custo.
 
-Este gráfico apresenta a quantidade de itens vendidos, segmentada por Cliente, Vendedor, Filial, Fabricante ou Item. Cada barra do gráfico representa uma entidade específica (neste caso, Clientes), mostrando o número total de itens vendidos para cada uma.
+Além disso, a análise detalhada por Filial, Vendedor, Cliente e Fabricante oferece uma visão aprofundada sobre a performance de itens em diferentes contextos. Por exemplo, entender o desempenho dos itens por Filial ajuda a identificar quais unidades estão vendendo mais ou menos, permitindo ajustes localizados. A análise por Vendedor revela quais representantes de vendas estão gerando melhores resultados com determinados itens, enquanto a análise por Cliente permite identificar preferências e comportamentos de compra. Avaliar o impacto dos Fabricantes ajuda a entender a relação entre fornecedores e o sucesso dos produtos no mercado.
 
-### Interpretação do Gráfico
+Em resumo, a análise de itens no BI é uma ferramenta poderosa para otimizar a gestão de produtos e maximizar a rentabilidade. Ao examinar indicadores como Lucro Bruto, Quantidade Vendida, Ticket Médio e Margens de Lucro, bem como segmentar esses dados por diferentes dimensões, as empresas podem tomar decisões informadas que aprimoram a eficiência operacional, ajustam as estratégias de venda e melhoram a satisfação do cliente. Esse processo de análise não só melhora a gestão de itens, mas também impacta positivamente outras áreas-chave do negócio, como marketing, vendas e operações.
 
-- **Cliente**: Cada barra corresponde a um Cliente da empresa. O gráfico mostra quantos itens foram vendidos para cada um, permitindo uma comparação direta entre os clientes.
+## Visão Gráfico
 
-- **Quantidade Vendida**: O comprimento de cada barra indica a quantidade total de itens vendidos para o respectivo Cliente. Valores maiores resultam em barras mais longas, destacando os clientes que mais compraram.
+### Quantidade de Itens Vendidos x Filial, Vendedor, Cliente, Fabricante ou Item
 
 
-### Como Usar Este Gráfico
 
-- **Identificação de Clientes de Alto Desempenho**: As barras mais longas indicam os clientes que mais contribuem para o volume de vendas. Isso pode ajudar a identificar os principais clientes e direcionar esforços para manter e expandir esses relacionamentos.
+### Ticket Médio x Filial, Vendedor, Cliente, Fabricante ou Item
 
-- **Análise Comparativa**: Compare o volume de vendas entre diferentes clientes para entender quais são os mais importantes para a empresa em termos de quantidade de itens vendidos.
 
-- **Gestão de Relacionamentos**: Utilize as informações deste gráfico para focar em estratégias de vendas e marketing que possam melhorar o desempenho dos clientes com menor volume de compras, ou para fortalecer os relacionamentos com os principais compradores.
 
-Este gráfico fornece uma visão clara e comparativa do volume de vendas entre diferentes clientes, ajudando a identificar os que mais contribuem para o sucesso comercial da empresa e aqueles que podem precisar de mais atenção ou suporte.
+### Itens Destacados
 
-## Gráfico "Ticket Médio por Filial, Vendedor, Cliente, Fabricante ou Item"
 
-![Gráfico "Ticket Médio por Filial, Vendedor, Cliente, Fabricante ou Item"](../assets/fat_itens_ticket.png)
-<p align="center"><em>Imagem 3: Gráfico de Ticket Médio por Filial, Vendedor, Cliente, Fabricante ou Item</em></p>
-
-Este gráfico apresenta o Ticket Médio, segmentado por Item, Filial, Vendedor, Cliente ou Fabricante. O Ticket Médio representa o valor médio das transações de venda para cada entidade, fornecendo uma visão sobre quais itens ou clientes geram transações de maior valor.
-
-### Interpretação do Gráfico
-
-- **Item**: Cada barra corresponde a um item específico vendido pela empresa. O gráfico mostra o valor médio por transação (Ticket Médio) para cada um desses itens.
-
-- **Ticket Médio**: O comprimento de cada barra indica o valor médio das vendas associadas a cada item. Itens com valores mais altos geram um ticket médio maior, indicando transações de maior valor por venda.
-
-### Como Usar Este Gráfico
-
-- **Identificação de Itens de Alto Valor**: As barras mais longas indicam os itens que geram transações de maior valor. Isso pode ajudar a identificar quais produtos contribuem mais para a receita em termos de ticket médio.
-
-- **Análise Comparativa**: Compare o ticket médio entre diferentes itens para entender quais produtos são mais lucrativos em termos de valor médio por transação.
-
-- **Otimização de Vendas**: Utilize as informações deste gráfico para focar em estratégias de venda que promovam itens de alto ticket médio, ou para identificar oportunidades de aumentar o ticket médio de itens com menor valor.
-
-Este gráfico fornece uma visão clara e comparativa do valor médio por transação para diferentes itens, ajudando a identificar produtos que contribuem significativamente para o faturamento e permitindo o desenvolvimento de estratégias para otimizar as vendas.
-
-## Painel de Itens Destacados
-
-![Painel de Itens Destacados](../assets/grafico-item-mais-vendido.jpeg)
-<p align="center"><em>Imagem 4: Painel de Itens Mais Vendidos, de Maior Faturamento e de Maior Preço Médio de Venda</em></p>
-
-Este painel apresenta informações sobre os itens mais importantes em três categorias: o Item Mais Vendido, o Item de Maior Faturamento e o Item de Maior Preço Médio de Venda. Essas métricas ajudam a identificar os produtos que têm maior impacto nas operações de venda da empresa.
-
-## Como Usar Este Painel
-
-- **Análise de Popularidade e Receita**: Este painel fornece uma visão rápida sobre quais produtos são mais populares e quais são mais lucrativos. Isso pode ajudar na definição de estratégias de marketing e vendas para maximizar tanto o volume de vendas quanto o faturamento.
-
-- **Foco em Itens de Alto Valor**: Identificar o Item de Maior Preço Médio de Venda é útil para concentrar esforços de vendas e marketing em produtos que têm um impacto maior no ticket médio, ajudando a aumentar a rentabilidade por transação.
-
-- **Decisões de Estoque e Suprimentos**: O Item Mais Vendido e o Item de Maior Faturamento são indicadores chave para decisões de estoque e suprimentos, garantindo que esses produtos estejam sempre disponíveis para atender à demanda.
-
-Este painel oferece uma visão consolidada dos itens mais importantes para a empresa em termos de volume de vendas, faturamento e preço médio, facilitando a tomada de decisões estratégicas para otimizar o desempenho comercial.
 
 ![Painel de Itens Destacados](../assets/fat_itens_acumulado.png)
 <p align="center"><em>Imagem 5: Acumulado</em></p>
