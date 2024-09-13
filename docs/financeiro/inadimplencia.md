@@ -74,7 +74,6 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 - Aprimorar a previsão e o planejamento financeiro analisando tendências de inadimplência e pagamentos em atraso, ajudando a antecipar melhor os desafios de fluxo de caixa e alocar recursos de forma eficaz,
 - Reduzir o risco financeiro gerenciando a inadimplência proativamente, o que pode levar a relacionamentos mais fortes com os clientes e potencialmente encorajar pagamentos mais pontuais no futuro, reduzindo assim a incidência de dívidas incobráveis.
 
-
 ### Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
