@@ -84,26 +84,24 @@ Selecionar este botão leva os usuários à página intitulada DRE (Demonstraç�
 
 <div align="center">
   <img src="../../assets/contabilidade_filtros.png" alt="Contabilidade Filtros">
-  <h6>Imagem 3: Filtros ou Slicers</h6>
+  <h6>Imagem 3: Filtros</h6>
 </div>
 
-Os filtros, que você pode ver sendo chamados de Slicers, são ferramentas cruciais que permitem filtrar todos os visuais presentes nas páginas do relatório de forma dinâmica e sincronizada. 
+Os filtros são ferramentas essenciais que permitem ajustar dinamicamente todos os visuais presentes nas páginas do relatório de forma sincronizada. Ao selecionar um filtro, gráficos, tabelas e outros elementos visuais são automaticamente atualizados para exibir apenas os dados relevantes com base nos critérios escolhidos.
 
-Ao ajustar qualquer um dos slicers, todos os gráficos, tabelas e outros elementos visuais em todas as páginas do relatório são atualizados automaticamente para refletir apenas os dados relevantes de acordo com o critério selecionado.
-
-Os filtros são feitos a partir dos dados da empresa, ou seja, você pode filtrar por áreas específicas como projeto ou filial. Por exemplo, se você quiser ver os números de um projeto chamado “Novo Edifício”, basta selecioná-lo no slicer e o filtro será aplicado. Agora você pode ver todos os dados relacionados a este projeto em cada página do relatório.
+Os filtros são baseados nos dados da empresa, possibilitando a seleção de áreas específicas como projeto ou filial. Por exemplo, para visualizar as informações de um projeto chamado "Novo Edifício", basta selecioná-lo no filtro. Assim, todos os dados referentes a esse projeto serão exibidos em cada página do relatório, proporcionando uma análise focada e precisa.
 
 ###	Filial
 <p><img src="../../assets/contabilidade_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
-Este filtro permite filtrar os dados com base na filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório mostrarão informações apenas relacionadas a essa filial. Isso é útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações.
+Este filtro permite segmentar os dados com base em uma filial específica da empresa. Ao selecionar uma filial, todos os visuais em todas as páginas do relatório serão automaticamente ajustados para exibir apenas as informações relacionadas àquela unidade. Essa funcionalidade é extremamente útil para analisar o desempenho e os resultados de diferentes unidades de negócios ou localizações, proporcionando uma visão mais detalhada e focada.
 
 ###	Projeto
 <p><img src="../../assets/contabilidade_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
-O filtro de projeto possibilita a filtragem dos dados por projetos específicos. Selecionando um projeto, o relatório ajusta todos os visuais para exibir apenas informações relevantes a esse projeto, facilitando a análise detalhada dos custos, receitas e outros indicadores associados.
+O filtro de projeto permite segmentar os dados por projetos específicos. Ao selecionar um projeto, todos os visuais no relatório são automaticamente ajustados para exibir apenas as informações relacionadas a ele. Isso facilita uma análise detalhada de custos, receitas e outros indicadores associados, proporcionando uma visão mais focada e precisa do desempenho de cada projeto.
 
 ###	Ano
 <p><img src="../../assets/contabilidade_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
-O filtro de ano permite selecionar o ano desejado para a análise. Aplicando um filtro de ano, todos os visuais nas páginas do relatório são atualizados para mostrar dados exclusivamente para o ano selecionado, permitindo uma comparação e análise de tendências anuais.
+O filtro de ano permite selecionar o período específico para análise. Ao aplicá-lo, todos os visuais nas páginas do relatório são automaticamente atualizados para exibir dados referentes apenas ao ano escolhido, facilitando a comparação e a análise de tendências ao longo dos anos.
 
 ###	Mês
 <p><img src="../../assets/contabilidade_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
