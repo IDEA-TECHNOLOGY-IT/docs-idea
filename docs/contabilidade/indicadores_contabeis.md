@@ -5,19 +5,19 @@
   <h6>Imagem 1: Indicadores Contábeis</h6>
 </div>
 
-Em cada página do nosso relatório no Power BI, você encontrará caixas de indicadores posicionadas de forma proeminente no topo. Essas caixas não são apenas marcadores; elas são ferramentas vitais projetadas para aprimorar sua experiência de relatório ao exibir de maneira consistente valores-chave que são centrais para a análise de cada página. As informações fornecidas nessas caixas de indicadores servem como uma referência rápida, garantindo que você possa acompanhar os dados críticos sem precisar navegar para frente e para trás entre as diferentes páginas do relatório.
+Em cada página do nosso relatório no Power BI, você encontrará indicadores destacados na parte superior. Esses elementos não são apenas marcadores visuais, mas ferramentas essenciais projetadas para aprimorar sua experiência analítica ao exibir de forma consistente valores-chave centrais para a análise de cada página. Essas informações oferecem uma referência rápida, permitindo que você acompanhe os dados críticos sem a necessidade de navegar entre diferentes seções do relatório.
 
-Uma das grandes vantagens dessas caixas de indicadores é a sua consistência. Os valores exibidos permanecem uniformes ao longo do relatório, permitindo um fluxo contínuo de informações à medida que você avança por diferentes seções. Essa consistência significa que, independentemente da página em que você esteja, você sempre terá acesso aos mesmos pontos de dados essenciais, facilitando a manutenção de uma visão clara das principais métricas do relatório. Esse recurso é particularmente útil ao realizar análises detalhadas, pois elimina a necessidade de se reorientar constantemente com os dados.
+Uma das grandes vantagens desses indicadores é a sua uniformidade. Os valores exibidos permanecem consistentes ao longo do relatório, permitindo um fluxo contínuo de informações à medida que você explora diferentes seções. Isso garante que, independentemente da página em que você esteja, os mesmos dados essenciais estejam sempre disponíveis, facilitando a manutenção de uma visão clara das principais métricas. Esse recurso é particularmente útil durante análises detalhadas, eliminando a necessidade de se reorientar constantemente com os dados.
 
-Além disso, os valores apresentados nessas caixas de indicadores estão dinamicamente vinculados aos filtros aplicados no relatório. Essa integração garante que, à medida que você aplica diferentes filtros para refinar sua análise, os valores nas caixas de indicadores serão ajustados automaticamente para refletir os dados filtrados. Essa interação dinâmica torna sua análise não apenas mais eficiente, mas também mais precisa, pois as caixas de indicadores fornecem uma visão instantânea dos dados filtrados. Seja analisando dados em diferentes períodos, regiões ou outras dimensões, essas caixas ajudam a simplificar o processo, oferecendo uma visão clara e concisa de como seus filtros impactam os dados gerais.
+Além disso, esses indicadores são dinâmicos e ajustam-se automaticamente aos filtros aplicados no relatório. Isso significa que, conforme você refina sua análise com diferentes filtros, os valores dos indicadores são atualizados instantaneamente, refletindo os dados filtrados. Essa interação dinâmica torna a análise mais eficiente e precisa, oferecendo uma visão clara e imediata de como os filtros afetam os dados gerais. Seja analisando períodos, regiões ou outras dimensões, os indicadores simplificam o processo, fornecendo uma visão concisa dos dados filtrados.
 
-Em resumo, as caixas de indicadores no topo de cada página do relatório no Power BI são essenciais para manter a continuidade e clareza ao longo da sua análise. Elas fornecem métricas consistentes e sensíveis aos filtros que simplificam a capacidade de acompanhar e comparar os principais números em todo o relatório, aprimorando sua experiência analítica geral.
+Em resumo, os indicadores no topo de cada página do Power BI são fundamentais para manter a continuidade e clareza durante sua análise. Eles fornecem métricas consistentes e sensíveis aos filtros, facilitando o acompanhamento e a comparação dos principais números ao longo do relatório, melhorando significativamente sua experiência analítica.
 
-## Caixa de Receita Bruta
+## Indicador de Receita Bruta
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_receita_bruta.png" alt="Caixa de Receita Bruta">
-  <h6>Imagem 2: Caixa de Receita Bruta</h6>
+  <h6>Imagem 2: Receita Bruta</h6>
 </div>
 
 ### Receita Bruta
@@ -36,11 +36,11 @@ Diferença (Dif.) exibe a diferença percentual entre a Receita Bruta do períod
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Receita Bruta. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Receita Bruta), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Custos e Despesas
+## Indicador de Custos e Despesas
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_custos.png" alt="Caixa de Custos e Despesas">
-  <h6>Imagem 3: Caixa de Custos e Despesas</h6>
+  <h6>Imagem 3: Custos e Despesas</h6>
 </div>
 
 ### Custos e Despesas
@@ -59,11 +59,11 @@ Diferença (Dif.) exibe a diferença percentual entre os Custos e Despesas do pe
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Custos e Despesas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custos e Despesas), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Lucro Líquido
+## Indicador de Lucro Líquido
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_lucro.png" alt="Caixa de Lucro Líquido">
-  <h6>Imagem 4: Caixa de Lucro Líquido</h6>
+  <h6>Imagem 4: Lucro Líquido</h6>
 </div>
 
 ### Lucro Líquido
@@ -82,11 +82,11 @@ Margem de Lucro Líquido (Mar.) exibe a margem de lucro líquida, calculada como
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Lucro Líquido. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Lucro Líquido), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de EBITDA
+## Indicador de EBITDA
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_ebitda.png" alt="Caixa de EBITDA">
-  <h6>Imagem 5: Caixa de EBITDA</h6>
+  <h6>Imagem 5: EBITDA</h6>
 </div>
 
 ### EBITDA
@@ -105,11 +105,11 @@ Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pel
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBITDA. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Capital Giro Próprio
+## Indicador de Capital Giro Próprio
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
-  <h6>Imagem 6: Caixa de Capital Giro Próprio</h6>
+  <h6>Imagem 6: Capital Giro Próprio</h6>
 </div>
 
 ### Capital de Giro Próprio
@@ -141,11 +141,11 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 - **Saldo em Tesouraria**
 - **Solvência Geral**
 
-## Caixa de Regra dos 40
+## Indicador de Regra dos 40
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_regra.png" alt="Caixa de Regra dos 40">
-  <h6>Imagem 7: Caixa de Regra dos 40</h6>
+  <h6>Imagem 7: Regra dos 40</h6>
 </div>
 
 ### Regra dos 40
@@ -168,11 +168,11 @@ Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela 
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Caixa de Saldo em Tesouraria
+## Indicador de Saldo em Tesouraria
 
 <div align="center">
   <img src="../../assets/contabilidade_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
-  <h6>Imagem 8: Caixa de Saldo em Tesouraria</h6>
+  <h6>Imagem 8: Saldo em Tesouraria</h6>
 </div>
 
 ### Saldo em Tesouraria
