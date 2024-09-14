@@ -7,15 +7,13 @@
   <h6>Imagem 2: Receita Bruta Visão de Tabela</h6>
 </div></p>
 
-Receita Bruta refere-se ao total de receita gerada pela empresa a partir de suas vendas e serviços antes de qualquer dedução, como impostos, descontos ou devoluções. 
+Receita Bruta refere-se ao total de receita gerada pela empresa a partir de suas vendas e serviços, sem qualquer dedução, como impostos, descontos ou devoluções.
 
-Esta métrica é essencial porque fornece uma visão clara da performance geral da empresa e da demanda de mercado pelos seus produtos ou serviços. 
+Essa métrica é crucial porque oferece uma visão ampla do desempenho geral da empresa e da demanda por seus produtos ou serviços no mercado. A Receita Bruta é um indicador-chave para avaliar o volume de negócios e a capacidade da empresa de gerar receita.
 
-A Receita Bruta é um indicador chave para avaliar o volume de negócios e a capacidade de geração de receita da empresa.
+A página de Receita Bruta no relatório é dividida em duas seções principais: uma visualização gráfica e uma visualização em tabela.
 
-Esta página do relatório é dividida em duas visualizações, visão gráfica e visão de tabela.
-
-Na página de Receita Bruta, você encontrará:
+Nesta página, você encontrará:
 
 ## Visão Gráfica
 ### Tabela de Receita Bruta
