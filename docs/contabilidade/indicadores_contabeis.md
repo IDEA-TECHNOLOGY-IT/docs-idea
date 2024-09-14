@@ -128,6 +128,7 @@ A Solvência Geral (Sol. Ger.) é uma métrica que avalia a capacidade da empres
 
 Botão "Mais indicadores", quando clicado, este botão leva o usuário à página de Indicadores. Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
 Na página de "Indicadores", você pode encontrar os seguintes indicadores:
+
 - **Capital de Giro Próprio**
 - **CDG (Capital de Giro)**
 - **Composição de Endividamento**
