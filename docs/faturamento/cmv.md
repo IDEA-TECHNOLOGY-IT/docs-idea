@@ -1,12 +1,12 @@
 # Painel Custo de Mercadoria Vendida
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_page1.png" alt="CMV1">
+  <img src="../../assets/fat/fat_cmv_page1.png" alt="CMV1">
   <h6>Imagem 1: Painel Custo de Mercadoria Vendida - Visão Análise anual</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_page2.png" alt="CMV2">
+  <img src="../../assets/fat/fat_cmv_page2.png" alt="CMV2">
   <h6>Imagem 2: Painel Custo de Mercadoria Vendida - Visão Detalhes</h6>
 </div></p>
 
@@ -42,7 +42,7 @@ Em resumo, a análise do Custo de Mercadorias Vendidas (CMV) no BI é uma ferram
 ### Custo de Mercadoria Vendida (CMV) Acumulado
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_acumulado.png" alt="CMV Acumulado">
+  <img src="../../assets/fat/fat_cmv_acumulado.png" alt="CMV Acumulado">
   <h6>Imagem 3: Custo de Mercadoria Vendida (CMV) Acumulado</h6>
 </div></p>
 
@@ -63,7 +63,7 @@ Em resumo, o gráfico de área acumulada para o CMV proporciona uma visão clara
 ### CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_acumulado.png" alt="CMV por Mês">
+  <img src="../../assets/fat/fat_cmv_acumulado.png" alt="CMV por Mês">
   <h6>Imagem 4: CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
 </div></p>
 
@@ -79,7 +79,7 @@ Com essa matriz, a empresa pode acompanhar as variações nos custos de forma r�
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
@@ -89,7 +89,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, 
 ### CMV Tabela de Detalhes
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_tabela.png" alt="CMV Detalhes">
+  <img src="../../assets/fat/fat_cmv_tabela.png" alt="CMV Detalhes">
   <h6>Imagem 5: CMV Tabela de Detalhes</h6>
 </div></p>
 
@@ -127,7 +127,7 @@ Percentual do CMV em relação ao total de vendas, que ajuda a mensurar a efici�
 ### CMV x Fabricante
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_fabricante.png" alt="CMV Fabricante">
+  <img src="../../assets/fat/fat_cmv_fabricante.png" alt="CMV Fabricante">
   <h6>Imagem 6: CMV x Fabricante</h6>
 </div></p>
 
@@ -148,7 +148,7 @@ No geral, o gráfico de barras CMV x Fabricante oferece uma visão detalhada e e
 ### CMV x Filial, Vendedor, Cliente ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_filial.png" alt="CMV Filail">
+  <img src="../../assets/fat/fat_cmv_filial.png" alt="CMV Filail">
   <h6>Imagem 7: CMV x Filial, Vendedor, Cliente ou Item</h6>
 </div></p>
 
@@ -168,7 +168,7 @@ No geral, o gráfico de barras CMV x Filial, Vendedor, Cliente ou Item oferece u
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
