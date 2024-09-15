@@ -7,16 +7,30 @@
   <h6>Imagem 2: Receita Bruta Visão de Tabela</h6>
 </div></p>
 
-Receita Bruta refere-se ao total de receita gerada pela empresa a partir de suas vendas e serviços, sem qualquer dedução, como impostos, descontos ou devoluções.
+## Navegação
 
-Essa métrica é crucial porque oferece uma visão ampla do desempenho geral da empresa e da demanda por seus produtos ou serviços no mercado. A Receita Bruta é um indicador-chave para avaliar o volume de negócios e a capacidade da empresa de gerar receita.
+Este painel de relatório está dividido em duas visualizações;
 
-A página de Receita Bruta no relatório é dividida em duas seções principais: uma visualização gráfica e uma visualização em tabela.
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
-Nesta página, você encontrará:
+## Informações no Painel Custos e Despesas
 
-## Visão Gráfica
-### Tabela de Receita Bruta
+A análise de receita bruta é uma parte crucial do Business Intelligence (BI) para contabilidade, pois fornece uma visão essencial das receitas totais geradas por uma empresa antes da dedução de quaisquer custos ou despesas. Monitorar e analisar a receita bruta permite que as empresas avaliem sua capacidade de gerar vendas e identifiquem oportunidades para aumentar a receita e otimizar estratégias de negócios.
+
+Visualizações como receita bruta acumulada e crescimento da receita bruta mês a mês são fundamentais para compreender o desempenho financeiro ao longo do tempo. A receita bruta acumulada oferece uma visão de longo prazo, mostrando como a receita total se acumula ao longo de um período específico. Isso ajuda a identificar tendências de crescimento e a projetar a evolução futura da receita. A comparação da receita bruta mês a mês permite que as empresas detectem variações de curto prazo, como o impacto de campanhas de marketing ou mudanças no mercado, e ajustem suas estratégias de vendas e marketing de forma ágil.
+
+A análise detalhada da receita bruta por produto, segmento, filial ou canal de vendas é essencial para entender quais áreas estão impulsionando as vendas e quais podem precisar de atenção. Esse tipo de análise permite que as empresas identifiquem quais produtos ou segmentos estão contribuindo mais para a receita e quais podem estar subperformando. Compreender essa distribuição ajuda a otimizar estratégias de vendas, ajustar ofertas de produtos e melhorar a alocação de recursos.
+
+A análise da variação da receita bruta também fornece insights sobre a eficácia das estratégias de vendas e marketing. Ao comparar a receita bruta ao longo do tempo, as empresas podem identificar o impacto de campanhas promocionais, mudanças nos preços ou alterações nas condições de mercado. Essa análise pode ajudar a ajustar estratégias e campanhas para maximizar a geração de receita.
+
+O impacto da análise de receita bruta vai além das vendas e marketing. Os insights obtidos dos dados de receita bruta podem influenciar decisões estratégicas, como expansão de mercado, desenvolvimento de novos produtos e planejamento financeiro. Compreender quais áreas estão gerando maior receita pode ajudar as equipes de gestão a tomar decisões informadas sobre investimentos e estratégias de crescimento.
+
+Em resumo, a análise de receita bruta no BI para contabilidade é uma ferramenta poderosa para monitorar e otimizar o desempenho financeiro. Ao examinar a receita bruta de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por segmento, as empresas obtêm uma compreensão mais profunda de suas fontes de receita. Essa análise não só melhora as estratégias de vendas e marketing, mas também impacta outras áreas-chave, como planejamento financeiro, desenvolvimento de produtos e decisões de expansão, criando um ambiente de negócios mais eficiente e orientado por dados.
+
+## Visão Gráfica e Tabela
+
+### Receita Bruta por Conta
 
 <div align="center">
   <img src="../../assets/con/con_rb_tabela.png" alt="Tabela de Receita Bruta">
@@ -29,7 +43,7 @@ A importância dessa tabela reside na sua capacidade de comparar diretamente o d
 
 A % Diferença é crucial para entender o crescimento ou a redução nas receitas de um período para outro, fornecendo insights sobre a performance de cada conta específica e ajudando a identificar áreas que precisam de atenção ou otimização.
 
-### Receita Bruta por Conta
+### Receita Bruta por Filial ou Projeto
 
 <div align="center">
   <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Conta">
@@ -42,7 +56,9 @@ Esse gráfico é importante porque permite uma comparação visual clara das rec
 
 A ordenação dos dados ajuda a destacar as principais contas em termos de receita e facilita a identificação de padrões de desempenho.
 
-### Variação da Receita Bruta em Relação ao Ano Anterior
+## Visão Gráfica
+
+### Receita Bruta Ano Atual vs. Ano Anterior
 
 <div align="center">
   <img src="../../assets/con/con_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
@@ -58,6 +74,7 @@ Este gráfico é essencial para a análise temporal da Receita Bruta, pois permi
 A codificação por cor da % Diferença ajuda a identificar rapidamente os períodos de melhoria ou deterioração no desempenho financeiro.
 
 ## Visão de Tabela
+
 ### Tabela de Detalhamento
 
 <div align="center">
