@@ -62,7 +62,7 @@ Aqui, você pode mover para cima ou para baixo entre Project, Filial, Cliente, O
 ### Recebimento por Filial, Project, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmr_cliente.png" alt="Recebimento por Filial, Project, Dimensão, Origem ou Cliente">
+  <img src="../../assets/flux/flux_pmr_filial.png" alt="Recebimento por Filial, Project, Dimensão, Origem ou Cliente">
   <h6>Imagem 3: Recebimento por Filial, Project, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
@@ -88,7 +88,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Project, Dimensão,
 ### Recebimento por Cliente, Origem, Project, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmr_filial.png" alt="Recebimento por Cliente, Origem, Project, Dimensão ou Filial">
+  <img src="../../assets/flux/flux_pmr_cliente.png" alt="Recebimento por Cliente, Origem, Project, Dimensão ou Filial">
   <h6>Imagem 4: Recebimento por Cliente, Origem, Project, Dimensão ou Filial</h6>
 </div></p>
 
