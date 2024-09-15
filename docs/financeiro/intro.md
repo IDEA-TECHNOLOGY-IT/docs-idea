@@ -134,7 +134,7 @@ Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", ond
 ### Botão Voltar
 <p><img src="../../assets/flux_menu_return.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
 <h6>Página atual</h6>
-This button is different from the other menu buttons as it only appears on the Painel de Detalhamento. Selecting this button returns the user to the page from which they made the [Drill-through]() action.
+This button is different from the other menu buttons as it only appears on the Painel de Detalhamento. Selecting this button returns the user to the page from which they made the [Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through) action.
 
 ## Filtros
 
