@@ -1,17 +1,17 @@
 # Painel Fluxo de Caixa
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_page1.png" alt="Flux1">
+  <img src="../../assets/flux/flux_flux_page1.png" alt="Flux1">
   <h6>Imagem 1: Painel Fluxo de Caixa - Visão de Fluxo de Caixa</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_page3.png" alt="Flux3">
+  <img src="../../assets/flux/flux_flux_page3.png" alt="Flux3">
   <h6>Imagem 2: Painel Fluxo de Caixa - Visão de Mensal e Diário</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_page2.png" alt="Flux2">
+  <img src="../../assets/flux/flux_flux_page2.png" alt="Flux2">
   <h6>Imagem 3: Painel Fluxo de Caixa - Visão de tabela</h6>
 </div></p>
 
@@ -75,7 +75,7 @@ Esse cálculo fornece uma medida abrangente da diferença entre o que foi realme
 ### Fluxo Financeiro de Caixa
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_tabela.png" alt="Fluxo Financeiro de Caixa">
+  <img src="../../assets/flux/flux_flux_tabela.png" alt="Fluxo Financeiro de Caixa">
   <h6>Imagem 4: Fluxo Financeiro de Caixa</h6>
 </div></p>
 
@@ -88,14 +88,14 @@ Os valores são organizados em colunas por ano e mês, proporcionando uma visão
 Para os negócios, essa matriz é uma ferramenta vital, pois oferece uma visão detalhada e temporal do fluxo financeiro, essencial para a tomada de decisões estratégicas e operacionais. Com ela, as empresas podem monitorar de perto o desempenho financeiro de diferentes contas e categorias, identificar áreas de melhoria e ajustar suas estratégias conforme necessário. A capacidade de analisar dados financeiros com um nível de detalhe tão fino permite uma gestão mais eficiente dos recursos, ajudando a garantir a saúde financeira da empresa e a maximizar a rentabilidade. Além disso, a visualização clara das tendências e variações financeiras ao longo do tempo ajuda a antecipar problemas e implementar ações corretivas de maneira oportuna, o que é crucial para manter a estabilidade e o crescimento sustentável do negócio.
 
 Existe um filtro para transações previstas e realizadas nesta página que você não vê em outras páginas, quando este não tem seleção o visual mostrará o valor de todas as transações, se selecionado, o visual mostrará as transações relacionadas.
-<p><img src="../../assets/flux_flux_prev.png" alt="Prev" style="vertical-align: middle; height: 50px; align: center;"></p>
+<p><img src="../../assets/flux/flux_flux_prev.png" alt="Prev" style="vertical-align: middle; height: 50px; align: center;"></p>
 
 ## Visão de Mensal e Diário
 
 ### Fluxo Mensal
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_mensal.png" alt="Fluxo Mensal">
+  <img src="../../assets/flux/flux_flux_mensal.png" alt="Fluxo Mensal">
   <h6>Imagem 5: Fluxo Mensal</h6>
 </div></p>
 
@@ -118,7 +118,7 @@ Quando exibido lado a lado com a matriz Fluxo Diário, a matriz oferece uma aná
 ### Fluxo Diário
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_diario.png" alt="Fluxo Diário">
+  <img src="../../assets/flux/flux_flux_diario.png" alt="Fluxo Diário">
   <h6>Imagem 6: Fluxo Diário</h6>
 </div></p>
 
@@ -143,7 +143,7 @@ Quando exibida lado a lado com a matriz Mensal, a matriz Fluxo Diário oferece u
 ### Tabela de Detalhes
 
 <p><div align="center">
-  <img src="../../assets/flux_flux_tabela2.png" alt="Flux Detalhes Tabela">
+  <img src="../../assets/flux/flux_flux_tabela2.png" alt="Flux Detalhes Tabela">
   <h6>Imagem 7: Tabela de Detalhes</h6>
 </div></p>
 
