@@ -163,7 +163,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel de Recebimentos Realiza
 ## Indicador de Período Médio de Pagamento (PMP)
 
 <div align="center">
-  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)">
+  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)" style="text-align: center; height: 150px;">
   <h6>Imagem 7: Período Médio de Pagamento (PMP)</h6>
 </div>
 
