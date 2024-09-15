@@ -11,8 +11,8 @@
 
 Este painel de relatório está dividido em duas visualizações;
 
-- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafico)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Custos e Despesas
 
@@ -28,7 +28,7 @@ O impacto da análise de custos e despesas vai além da contabilidade e das fina
 
 Em resumo, a análise de custos e despesas no BI para contabilidade é uma ferramenta poderosa para promover uma gestão financeira eficiente e estratégica. Ao examinar custos de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por centro de custo, as empresas obtêm uma compreensão mais profunda de suas saídas financeiras. Essa análise não só melhora a gestão de custos e despesas, mas também impacta outras áreas-chave como operações, compras e planejamento estratégico, criando um ambiente financeiro mais responsivo e orientado por dados.
 
-## Visão Gráfica
+## Visão Gráfica e Tabela
 
 ### Custos e Despesas por Conta
 
@@ -56,6 +56,8 @@ Esse gráfico é importante porque oferece uma comparação visual clara entre o
 
 A ordenação dos dados ajuda a destacar as principais contas em termos de custos e despesas, e facilita a identificação de padrões de desempenho.
 
+## Visão Gráfica
+
 ### Variação dos Custos e Despesas em Relação ao Ano Anterior
 
 <div align="center">
@@ -70,6 +72,7 @@ Este gráfico é essencial para a análise temporal dos custos e despesas, permi
 A codificação por cor da % Diferença ajuda a identificar rapidamente os períodos de aumento ou diminuição no desempenho financeiro.
 
 ## Visão de Tabela
+
 ### Tabela de Detalhamento
 
 <div align="center">
