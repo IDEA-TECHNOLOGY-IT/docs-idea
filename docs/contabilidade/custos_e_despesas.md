@@ -7,16 +7,30 @@
   <h6>Imagem 2: Custos e Despesas Visão de Tabela</h6>
 </div></p>
 
-Custos e Despesas refere-se aos gastos totais de uma empresa relacionados à sua operação e produção, antes de deduzir receitas ou outros ajustes. 
+## Navegação
 
-Essa métrica é essencial para entender a eficiência operacional e a gestão financeira da empresa, pois oferece uma visão clara dos custos envolvidos na manutenção das operações e permite avaliar como esses gastos impactam a rentabilidade geral.
+Este painel de relatório está dividido em duas visualizações;
 
-Esta página do relatório é dividida em duas visualizações, visão gráfica e visão de tabela.
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
 
-Na página de Receita Bruta, você encontrará:
+## Informações no Painel Custos e Despesas
+
+A análise de custos e despesas é um componente crucial no Business Intelligence (BI) para contabilidade, pois fornece uma visão detalhada e estratégica das saídas financeiras de uma empresa. Monitorar e analisar custos e despesas permite às empresas controlar e otimizar seus gastos, garantindo uma gestão financeira eficaz e um melhor alinhamento com seus objetivos estratégicos.
+
+Visualizações como custos acumulados e comparação de despesas mês a mês são essenciais para acompanhar o desempenho financeiro ao longo do tempo. Os custos acumulados oferecem uma perspectiva de longo prazo, demonstrando como os custos se acumulam ao longo de um período específico. Isso ajuda a identificar tendências e prever a necessidade de ajustes orçamentários. Por outro lado, a comparação de despesas mês a mês permite que as empresas detectem variações de curto prazo, como aumentos sazonais ou impactos de mudanças operacionais, facilitando ajustes rápidos e eficazes.
+
+A análise detalhada de custos por centro de custo, departamento ou projeto é fundamental para uma visão granular da gestão financeira. Esse tipo de análise permite que as empresas identifiquem quais áreas ou projetos estão gerando maiores gastos e quais estão dentro do orçamento. Compreender essa distribuição ajuda a identificar oportunidades de redução de custos, a melhorar a eficiência operacional e a alocar recursos de forma mais eficaz.
+
+A análise do prazo médio de pagamento e recebimento de despesas fornece insights sobre a gestão de fluxo de caixa e a eficiência dos processos financeiros. Identificar quais despesas são pagas pontualmente e quais enfrentam atrasos ajuda a otimizar o fluxo de caixa e a melhorar a gestão de risco financeiro.
+
+O impacto da análise de custos e despesas vai além da contabilidade e das finanças. Os insights obtidos desses dados podem influenciar estratégias operacionais, decisões de compras e planejamento financeiro. Por exemplo, entender quais despesas são mais variáveis pode ajudar as equipes a ajustar orçamentos e prever melhor as necessidades financeiras. Além disso, a análise de tendências de custos auxilia na identificação de áreas para economia e na otimização de estratégias de preços.
+
+Em resumo, a análise de custos e despesas no BI para contabilidade é uma ferramenta poderosa para promover uma gestão financeira eficiente e estratégica. Ao examinar custos de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por centro de custo, as empresas obtêm uma compreensão mais profunda de suas saídas financeiras. Essa análise não só melhora a gestão de custos e despesas, mas também impacta outras áreas-chave como operações, compras e planejamento estratégico, criando um ambiente financeiro mais responsivo e orientado por dados.
 
 ## Visão Gráfica
-### Tabela de Custos e Despesas
+
+### Custos e Despesas por Conta
 
 <div align="center">
   <img src="../../assets/con/con_ced_contas.png" alt="Tabela de Custos e Despesas">
@@ -29,7 +43,7 @@ A importância dessa tabela está na capacidade de comparar diretamente os custo
 
 A % Diferença é crucial para compreender o crescimento ou a redução nos custos e despesas, fornecendo insights sobre a performance de cada conta específica e ajudando a identificar áreas que podem necessitar de ajuste ou controle.
 
-### Custos e Despesas por Conta
+### Custos e Despesas por Filial ou Projeto
 
 <div align="center">
   <img src="../../assets/con/con_ced_ced.png" alt="Custos e Despesas por Conta">
