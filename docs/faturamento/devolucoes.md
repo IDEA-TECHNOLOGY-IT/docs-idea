@@ -1,12 +1,12 @@
 # Painel Devoluções
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_page1.png" alt="Inadimplência2">
+  <img src="../../assets/fat/fat_dev_page1.png" alt="Inadimplência2">
   <h6>Imagem 1: Painel Devoluções - Visão Análise Anual</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_page2.png" alt="Inadimplência2">
+  <img src="../../assets/fat/fat_dev_page2.png" alt="Inadimplência2">
   <h6>Imagem 2: Painel Devoluções - Visão Detalhes</h6>
 </div></p>
 
@@ -38,7 +38,7 @@ Em resumo, a análise de devoluções no BI é uma ferramenta poderosa para melh
 ### Devoluções Acumulado
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_acumulado.png" alt="Devoluções Acumulado">
+  <img src="../../assets/fat/fat_dev_acumulado.png" alt="Devoluções Acumulado">
   <h6>Imagem 3: Devoluções Acumulado</h6>
 </div></p>
 
@@ -57,7 +57,7 @@ Em resumo, o gráfico de área acumulada para devoluções proporciona uma visã
 ### Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_anomes.png" alt="Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item">
+  <img src="../../assets/fat/fat_dev_anomes.png" alt="Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item">
   <h6>Imagem 4: Devoluções por Mês x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
@@ -71,7 +71,7 @@ Esse tipo de visualização não apenas auxilia na tomada de decisões ágeis, c
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
@@ -81,7 +81,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, 
 ### Tabela de Devoluções Detalhes
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_tabela.png" alt="Tabela de Devoluções Detalhes">
+  <img src="../../assets/fat/fat_dev_tabela.png" alt="Tabela de Devoluções Detalhes">
   <h6>Imagem 5: Tabela de Devoluções Detalhes</h6>
 </div></p>
 
@@ -122,7 +122,7 @@ Percentual da venda devolvida que ajuda a mensurar a taxa de devolução em rela
 ### Devoluções x Fabricante
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_fab.png" alt="Devoluções x Fabricante">
+  <img src="../../assets/fat/fat_dev_fab.png" alt="Devoluções x Fabricante">
   <h6>Imagem 6: Devoluções x Fabricante</h6>
 </div></p>
 
@@ -143,7 +143,7 @@ No geral, o gráfico de barras Devoluções x Fabricante oferece uma visão deta
 ### Devoluções x Filial, Vendedor, Cliente ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_dev_filial.png" alt="Devoluções x Filial, Vendedor, Cliente ou Item">
+  <img src="../../assets/fat/fat_dev_filial.png" alt="Devoluções x Filial, Vendedor, Cliente ou Item">
   <h6>Imagem 7: Devoluções x Filial, Vendedor, Cliente ou Item</h6>
 </div></p>
 
@@ -163,7 +163,7 @@ No geral, o gráfico de barras Devoluções x Filial, Vendedor, Cliente ou Item 
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
