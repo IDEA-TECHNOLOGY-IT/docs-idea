@@ -1,12 +1,12 @@
 # Painel Pagamentos Vencidos
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_page1.png" alt="Vencido1">
+  <img src="../../assets/flux/flux_venc_page1.png" alt="Vencido1">
   <h6>Imagem 1: Painel Pagamentos Vencidos - Visão Gráfico</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_page2.png" alt="Vencido2">
+  <img src="../../assets/flux/flux_venc_page2.png" alt="Vencido2">
   <h6>Imagem 2: Painel Pagamentos Vencidos - Visão de Tabela</h6>
 </div></p>
 
@@ -54,7 +54,7 @@ Ao utilizar filtros ou clicar em pontos de dados nas visualizações deste paine
 ### Aging - Pagamentos Vencidos
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_aging.png" alt="Vencido Aging">
+  <img src="../../assets/flux/flux_venc_aging.png" alt="Vencido Aging">
   <h6>Imagem 3: Aging - Pagamentos Vencidos</h6>
 </div></p>
 
@@ -79,7 +79,7 @@ Embora compacto, este gráfico é muito funcional, especialmente quando combinad
 ### Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_projeto.png" alt="Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido">
+  <img src="../../assets/flux/flux_venc_projeto.png" alt="Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido">
   <h6>Imagem 3: Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
@@ -97,7 +97,7 @@ Com a exibição clara dos valores absolutos de pagamentos vencidos e suas respe
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
@@ -105,7 +105,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
 ### Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_fav.png" alt="Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial">
+  <img src="../../assets/flux/flux_venc_fav.png" alt="Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial">
   <h6>Imagem 4: Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial</h6>
 </div></p>
 
@@ -123,7 +123,7 @@ Com a exibição clara dos valores absolutos de pagamentos vencidos e suas respe
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre as opções de Favorecido ou Origem, permitindo que você explore e analise a área específica de interesse com mais profundidade.
@@ -133,7 +133,7 @@ Aqui, você pode navegar entre as opções de Favorecido ou Origem, permitindo q
 ### Pagamentos Vencidos Acumulado por Mês
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_mes.png" alt="Vencido Mês">
+  <img src="../../assets/flux/flux_venc_mes.png" alt="Vencido Mês">
   <h6>Imagem 5: Pagamentos Vencidos por Mês</h6>
 </div></p>
 
@@ -148,7 +148,7 @@ O gráfico ilustra os pagamentos vencidos por mês e ano, destacando três eleme
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos seus passivos. O gráfico permite que a empresa identifique padrões de atrasos, avalie o impacto dos pagamentos vencidos no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nos pagamentos vencidos em um mês específico, a empresa pode investigar as causas e implementar estratégias para evitar que isso ocorra novamente. Da mesma forma, ao comparar a porcentagem de pagamentos vencidos com os pagamentos acumulados, a gerência pode priorizar quais fornecedores ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para minimizar os impactos financeiros negativos. Em última análise, este gráfico é uma ferramenta essencial para otimizar o planejamento financeiro, melhorar a gestão do fluxo de caixa e manter uma operação financeira estável e saudável.
 
 <p><div align="center">
-  <img src="../../assets/flux_tooltip_venc.png" alt="Vencido ToolTip">
+  <img src="../../assets/flux/flux_tooltip_venc.png" alt="Vencido ToolTip">
 </div></p>
 
 Na dica de ferramenta para este visual, você encontrará mais três valores. Eles são pensados como um insight adicional para os **pagamentos vencidos** ao longo do tempo. Esses valores são:
@@ -164,7 +164,7 @@ Na dica de ferramenta para este visual, você encontrará mais três valores. El
 ### Tabela de Detalhes de Pagamentos Vencidos
 
 <p><div align="center">
-  <img src="../../assets/flux_venc_tabela.png" alt="Vencido Tabela">
+  <img src="../../assets/flux/flux_venc_tabela.png" alt="Vencido Tabela">
   <h6>Imagem 6: Tabela de Detalhes de Pagamentos Vencidos</h6>
 </div></p>
 
