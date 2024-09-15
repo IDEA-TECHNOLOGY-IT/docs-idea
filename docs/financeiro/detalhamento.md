@@ -1,7 +1,7 @@
 # Painel de Detalhamento
 
 <p><div align="center">
-  <img src="../../assets/flux_detail_page1.png" alt="Detalhamento">
+  <img src="../../assets/flux/flux_detail_page1.png" alt="Detalhamento">
   <h6>Imagem 1: Painel de Detalhamento</h6>
 </div></p>
 
@@ -12,7 +12,7 @@
 Após envolver a ação **[Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through)** com um elemento visual nos painéis — como selecionar um ponto de dados específico em um gráfico ou uma célula específica em uma tabela — o Painel de Detalhamento aparece, exibindo dados na forma de uma tabela que já está filtrada de acordo com a seleção feita. Esse mecanismo de filtragem é crucial, pois permite que os usuários conduzam um exame detalhado e focado dos dados pertinentes à sua seleção, fornecendo uma compreensão mais profunda e contextual das informações. Por exemplo, se um usuário selecionar um cliente ou fatura específica, o painel de detalhes mostrará automaticamente informações diretamente relacionadas a essa seleção, como detalhes da fatura, informações do cliente e datas relevantes, garantindo que a análise seja precisa e relevante.
 
 <p><div align="center">
-  <img src="../../assets/flux_detail_filters.png" alt="Detalhes Filters">
+  <img src="../../assets/flux/flux_detail_filters.png" alt="Detalhes Filters">
   <h6>Imagem 2: Filtros de Drill-through</h6>
 </div></p>
 
@@ -21,7 +21,7 @@ A tabela em si contém todas as informações principais encontradas em todo o r
 Além dos filtros automáticos aplicados a partir da ação drill-through, os usuários têm a flexibilidade de usar [filtros](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) adicionais disponíveis neste painel. Esses filtros extras oferecem mais personalização e refinamento dos dados, permitindo que os usuários aprimorem suas análises adicionando mais contexto ou focando em aspectos específicos dos dados. Esse recurso é particularmente útil para explorar variações ou anomalias no conjunto de dados e para conduzir investigações mais granulares.
 
 O Painel de Detalhamento também inclui um [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botao-voltar) de retorno dedicado localizado na barra de menu, que é exclusivo para este painel.
-<p><img src="../../assets/flux_menu_return.png" alt="Expand" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_return.png" alt="Expand" style="vertical-align: middle; width: 60px; height: 50px;"></p>
 Este botão permite que os usuários retornem perfeitamente ao painel original do qual o drill-through foi iniciado. Essa funcionalidade é essencial para manter a continuidade da análise, pois permite que os usuários alternem entre a visualização detalhada e o contexto mais amplo do painel original sem perder o controle de seu caminho de exploração.
 
 No geral, a ação drill-through, combinada com a capacidade de aplicar filtros adicionais e navegar de volta ao painel de origem, aprimora os recursos analíticos da ferramenta. Ele fornece uma maneira abrangente e intuitiva de explorar dados, entender o desempenho com mais profundidade, investigar problemas específicos e tomar decisões bem informadas com base em um exame detalhado das informações.
@@ -31,7 +31,7 @@ No geral, a ação drill-through, combinada com a capacidade de aplicar filtros 
 ### Tabela de Detalhes
 
 <p><div align="center">
-  <img src="../../assets/flux_detail_table.png" alt="Detalhes Tabela">
+  <img src="../../assets/flux/flux_detail_table.png" alt="Detalhes Tabela">
   <h6>Imagem 3: Tabela de Detalhes</h6>
 </div></p>
 
