@@ -1,7 +1,7 @@
 # Introdução ao BI Financeiro
 
 <div align="center">
-  <img src="../../assets/flux.png" alt="Financeiro Home">
+  <img src="../../assets/flux/flux.png" alt="Financeiro Home">
   <h6>Imagem 1: Painel Financeiro</h6>
 </div>
 
@@ -23,35 +23,35 @@ Existem várias maneiras de navegar pelo BI Financeiro. Botões estrategicamente
 
 A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/flux/flux_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
 ### Botões de Ver mais
 
 A segunda maneira de navegar é através dos botões "Ver mais" localizados nos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/flux/flux_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
 Há um botão exclusivo "Ver mais" que tem sua própria ação, e ele é encontrado na caixa intitulada [Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/#caixa-de-saldo-total-em-contas). Ele é encontrado na extrema direita de cada painel e abrirá uma tabela para o [Saldo por Conta](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/#tabela-de-saldo-total-em-contas). Quando esta tabela é aberta, o botão "Ver mais" é substituído por "Veja menos", permitindo que a tabela seja fechada.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px; height: 150px;">
-  <img src="../../assets/flux_saldo_close.png" alt="Saldo Close" style="height: 150px;">
+  <img src="../../assets/flux/flux_saldo_click.png" alt="Saldo Open" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux/flux_saldo_close.png" alt="Saldo Close" style="height: 150px;">
 </div>
 
 ### Botões para Diferentes Visões
 
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas ou três visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/financeiro/indicadores_caixas/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux_button_tabela.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/flux_button_gráfico.png" alt="Tabela Open">
+  <img src="../../assets/flux/flux_button_tabela.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/flux/flux_button_gráfico.png" alt="Tabela Open">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux_button_vmensal.png" alt="Voltar Mensal" style="margin-right: 10px;">
-  <img src="../../assets/flux_button_mensal.png" alt="Mensal Open">
+  <img src="../../assets/flux/flux_button_vmensal.png" alt="Voltar Mensal" style="margin-right: 10px;">
+  <img src="../../assets/flux/flux_button_mensal.png" alt="Mensal Open">
 </div>
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/flux_button_vflux.png" alt="Voltar Flux">
+  <img src="../../assets/flux/flux_button_vflux.png" alt="Voltar Flux">
 </div>
 
 ### Drill-through
@@ -59,7 +59,7 @@ O terceiro método é usar botões para alternar entre diferentes visualizaçõe
 A função usada para fazer isso é chamada de "Drill-through" e pode ser executada clicando com o botão direito em um visual e selecionando Drill-through no menu que aparece, isso estenderá o menu que mostra "Detalhamento". Uma vez clicado, o Painel de Detalhamento será aberto e será filtrado automaticamente pelo ponto de dados em que você clicou com o botão direito. Abaixo está um exemplo de clique com o botão direito na barra para 01) Em Atraso no visual Aging - Contas a Pagar;
 
 <p><div align="center">
-  <img src="../../assets/flux_detail_drillthrough.png" alt="Drillthrough">
+  <img src="../../assets/flux/flux_detail_drillthrough.png" alt="Drillthrough">
   <h6>Imagem 2: Drill-through</h6>
 </div></p>
 
@@ -70,12 +70,12 @@ Além disso, quando terminar de revisar os detalhes, os usuários podem clicar n
 ### Botão para Documentação
 
 Finalmente, há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
-<p><img src="../../assets/flux_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 
 ## Barra de Menu
 
 <div align="center">
-  <img src="../../assets/flux_menu.png" alt="Barra de Menu">
+  <img src="../../assets/flux/flux_menu.png" alt="Barra de Menu">
   <h6>Imagem 2: Barra de Menu</h6>
 </div>
 
@@ -84,66 +84,66 @@ A barra de menu é uma ferramenta de navegação situada no lado esquerdo de tod
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
 ### Botão Painel Financero
-<p><img src="../../assets/flux_menu_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão retorna os usuários à página principal, chamada "Painel Financeiro". Esta página serve como o ponto central de partida, proporcionando uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
 ### Botão A Receber
-<p><img src="../../assets/flux_menu_rec1.png" alt="Rec1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_rec2.png" alt="Rec2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_rec1.png" alt="Rec1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_rec2.png" alt="Rec2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao clicar neste botão, os usuários são direcionados para a página "A Receber". Esta página oferece visualizações e análises detalhadas sobre os valores que a empresa ainda precisa receber.
   
 ### Botão A Pagar
-<p><img src="../../assets/flux_menu_pag1.png" alt="Pag1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pag2.png" alt="Pag2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_pag1.png" alt="Pag1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_pag2.png" alt="Pag2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao clicar neste botão, os usuários são levados à página "A Pagar". Nesta seção, eles podem visualizar e analisar as obrigações financeiras que a empresa ainda precisa quitar.
   
 ###  Botão Inadimplência
-<p><img src="../../assets/flux_menu_inadim1.png" alt="Inadim1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_inadim2.png" alt="Inadim2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_inadim1.png" alt="Inadim1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_inadim2.png" alt="Inadim2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Ao selecionar este botão, os usuários são direcionados para a página "Inadimplência". Nesta seção, eles encontrarão insights detalhados sobre pagamentos em atraso que ainda não foram recebidos.
   
 ### Botão Pagamentos Vencidos
-<p><img src="../../assets/flux_menu_venc1.png" alt="Venc1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_venc2.png" alt="Venc2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_venc1.png" alt="Venc1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_venc2.png" alt="Venc2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona os usuários para a página "Pagamentos Vencidos". Nesta seção, são fornecidos insights detalhados sobre pagamentos que já passaram da data de vencimento e ainda não foram quitados.
   
 ### Botão Painel de Recebimentos Realizados
-<p><img src="../../assets/flux_menu_pmr1.png" alt="PMR1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pmr2.png" alt="PMR2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_pmr1.png" alt="PMR1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_pmr2.png" alt="PMR2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Clicar neste botão leva os usuários à página "Painel de Recebimentos Realizados". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
   
 ### Botão Painel de Pagamentos Realizados
-<p><img src="../../assets/flux_menu_pmp1.png" alt="PMP1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_pmp2.png" alt="PMP2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_pmp1.png" alt="PMP1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_pmp2.png" alt="PMP2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão direciona os usuários para a página "Painel de Pagamentos Realizados", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
   
 ### Botão Fluxo de Caixa
-<p><img src="../../assets/flux_menu_fluxo1.png" alt="Flux1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/flux_menu_fluxo2.png" alt="Flux2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_fluxo1.png" alt="Flux1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/flux/flux_menu_fluxo2.png" alt="Flux2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
 ### Botão Voltar
-<p><img src="../../assets/flux_menu_return.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_menu_return.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
 <h6>Página atual</h6>
 This button is different from the other menu buttons as it only appears on the Painel de Detalhamento. Selecting this button returns the user to the page from which they made the [Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through) action.
 
 ## Filtros
 
 <div align="center">
-  <img src="../../assets/flux_filtros1.png" alt="Financeiro Filtros1" style="vertical-align: middle;">
+  <img src="../../assets/flux/flux_filtros1.png" alt="Financeiro Filtros1" style="vertical-align: middle;">
   <h6>Imagem 3: Filtros Visão 1</h6>
 </div>
 <div align="center">
-  <img src="../../assets/flux_filtros2.png" alt="Financeiro Filtros2" style="vertical-align: middle;">
+  <img src="../../assets/flux/flux_filtros2.png" alt="Financeiro Filtros2" style="vertical-align: middle;">
   <h6>Imagem 4: Filtros Visão 2</h6>
 </div>
 
@@ -154,45 +154,45 @@ Ao modificar qualquer filtro, todos os gráficos, tabelas e outros elementos vis
 Esses filtros são configurados com base nos dados da empresa, permitindo filtragens por áreas específicas, como projeto ou filial. Por exemplo, se você deseja analisar os dados de um projeto específico, como "Novo Edifício", basta selecioná-lo no filtro. A partir desse momento, todas as visualizações em cada página do relatório serão atualizadas para mostrar apenas os dados relacionados a esse projeto.
 
 ###	Empresa/Filial
-<p><img src="../../assets/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_filial.png" alt="Filial" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite refinar os dados com base em uma 'Empresa' ou 'Filial' específica da empresa. Ao selecionar uma empresa ou filial, todos os visuais em todas as páginas do relatório serão atualizados para exibir informações exclusivamente relacionadas a essa unidade. Isso facilita a análise detalhada do desempenho e dos resultados de diferentes unidades de negócios ou localizações, permitindo uma visão mais clara e direcionada dos dados de cada empresa ou filial.
 
 ###	Conta
-<p><img src="../../assets/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_conta.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro está disponível apenas nas páginas Home e Fluxo de Conta e permite visualizar os resultados de acordo com contas específicas. Ele oferece um acesso facilitado a dados detalhados de cada conta, sendo especialmente útil para o planejamento e análise das movimentações financeiras de contas individuais.
 
 ###	Cliente/Favorecido
-<p><img src="../../assets/flux_filtros_cliente.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_cliente.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro ajusta automaticamente as opções exibidas com base no painel em visualização, apresentando 'Cliente' ou 'Favorecido' conforme o contexto. Ao selecionar a opção apropriada, todos os visuais nas páginas correspondentes do relatório são atualizados para refletir as informações pertinentes. Isso agiliza o processo de análise, proporcionando uma visão mais clara e focada, permitindo uma navegação rápida e eficaz entre diferentes contextos de dados.
 
 ###	Dimensão/Centro de Custo
-<p><img src="../../assets/flux_filtros_dimensao.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_dimensao.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite refinar os dados selecionando entre várias dimensões (centro de custos) e suas respectivas subcategorias, organizadas em uma hierarquia definida pelo cliente. Ao escolher uma dimensão, como a dimensão '2,' ou ao expandi-la para visualizar e selecionar subcategorias específicas como 'Água,' 'Eletricidade,' ou 'Gás,' todos os visuais no relatório são atualizados para refletir essas escolhas. Isso facilita a análise detalhada, permitindo uma visão mais estruturada e personalizada dos dados conforme as necessidades do usuário.
 
 ###	Projeto
-<p><img src="../../assets/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
 O filtro de projeto permite a seleção e filtragem dos dados por projetos específicos. Ao escolher um projeto, o relatório ajusta todos os visuais para exibir somente as informações relacionadas a esse projeto. Isso facilita uma análise detalhada dos custos, receitas e outros indicadores associados, oferecendo uma visão clara e focada do desempenho e dos resultados de cada projeto.
 
 ### Documento
-<p><img src="../../assets/flux_filtros_doc.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_doc.png" alt="Antes" style="vertical-align: middle; height: 50px;"></p>
 Para tornar os documentos mais fáceis de encontrar, há um filtro para o número do documento incluído nas páginas relevantes. Isso é útil quando há um documento específico que requer atenção e permite fácil rastreamento em diferentes áreas de processo do fluxo de caixa.
 
 ###	Ano
-<p><img src="../../assets/flux_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
 O filtro de ano permite escolher o ano específico para análise. Ao aplicar esse filtro, todos os visuais nas páginas do relatório são ajustados para exibir dados exclusivamente do ano selecionado. Isso facilita a comparação e análise de tendências anuais, proporcionando uma visão clara das variações e padrões ao longo do tempo.
 
 ###	Mês
-<p><img src="../../assets/flux_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_mes.png" alt="Mês" style="vertical-align: middle; height: 50px;"></p>
 Este filtro permite selecionar um mês específico para análise. Ao escolher um mês, todos os visuais no relatório são atualizados para exibir exclusivamente os dados desse período. Isso facilita a análise mensal e a identificação de variações sazonais, proporcionando uma visão detalhada das tendências e mudanças ao longo do ano.
 
 ###	Limpar filtros
-<p><img src="../../assets/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/flux/flux_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
 Para restabelecer a visualização completa dos dados e remover todos os filtros aplicados, use o botão "Limpar filtros", que está localizado no lado direito dos filtros. Este botão remove todos os critérios de filtragem, permitindo uma visão geral completa e não filtrada dos dados.
 
 ## Ícones de Cabeçalho
 
 <div align="center">
-  <img src="../../assets/flux_hi_all.png" alt="Header Icons All">
+  <img src="../../assets/flux/flux_hi_all.png" alt="Header Icons All">
   <h6>Imagem 4: Ícones de Cabeçalho</h6>
 </div>
 
@@ -203,48 +203,48 @@ Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "
 Abaixo estão as opções que um usuário pode visualizar, o significado de cada uma delas e como utilizá-las.
 
 ### Fazer drill on Linhas ou Colunas
-<p><img src="../../assets/flux_hi_fazer.png" alt="Fazer" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_fazer.png" alt="Fazer" style="vertical-align: middle; height: 40px;"></p>
 Isso ajusta o drill down para linhas ou colunas em uma tabela. Por exemplo, se os cabeçalhos das colunas incluem anos e meses, você pode selecionar colunas, permitindo que faça drill up para visualizar apenas os anos, drill down para ver apenas os meses, ou expandir para exibir ambos, ano e mês, como cabeçalhos de coluna. Da mesma forma, ao selecionar linhas, você pode navegar pela hierarquia das linhas, subindo ou descendo conforme necessário.
 
 ### Fazer drill up
-<p><img src="../../assets/flux_hi_up.png" alt="Up" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_up.png" alt="Up" style="vertical-align: middle; height: 40px;"></p>
 O botão "Fazer drill up" permite que você suba um nível na hierarquia de dados. Por exemplo, se o visual estiver detalhando informações por cliente, origem, filial e projeto, e você estiver visualizando os dados por filial, ao clicar no botão, ele exibirá os dados do nível superior, como origem.
 
 ### Clique aqui parahabilitar o Drill down
-<p><img src="../../assets/flux_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 40px;"></p>
 Este botão não é necessário para nossos relatórios, ele habilita os recursos de detalhamento, mas eles são predefinidos na criação.
 
 ### Ir para o próximo nível na hierarquia
-<p><img src="../../assets/flux_hi_down.png" alt="Down" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_down.png" alt="Down" style="vertical-align: middle; height: 40px;"></p>
 Este botão é diferente do botão "Expandir". Ao utilizá-lo, você avança para o próximo nível da hierarquia, substituindo completamente o nível atual. Por exemplo, se sua hierarquia for composta de cliente, origem, filial e projeto, e você estiver visualizando dados por cliente, clicar neste botão exibirá a origem, ocultando os dados por cliente. Se estiver visualizando uma hierarquia de ano e mês, clicar no botão mostrará apenas o mês, sem associá-lo ao ano. Quando no nível mais alto, clicar neste botão desativará a opção de "Expandir todo o campo um nível abaixo na hierarquia" nos níveis subsequentes.
 
 ### Expandir todo o campo um nível abaixo ne hierarquia
-<p><img src="../../assets/flux_hi_expand.png" alt="Expand" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_expand.png" alt="Expand" style="vertical-align: middle; height: 40px;"></p>
 Este botão permite expandir os dados no visual sem substituir o nível atual da hierarquia. Em vez de avançar para o próximo nível, ele exibe as subcategorias dentro do nível selecionado. Por exemplo, em uma hierarquia de ano e mês, se você estiver no nível de ano e clicar neste botão, verá o ano e os meses correspondentes dentro daquele ano. Da mesma forma, em uma hierarquia de cliente, origem, filial e projeto, se estiver no nível de cliente, ao clicar, verá a origem exibida como subcategorias de cada cliente.
 
 Ao usar este botão no nível superior, a opção de "Ir para o próximo nível na hierarquia" ficará desativada para os níveis subsequentes.
 
 ### Filtros e segmentações afetando este visual
-<p><img src="../../assets/flux_hi_filtros.png" alt="Filtros" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_filtros.png" alt="Filtros" style="vertical-align: middle; height: 40px;"></p>
 Informa quais filtros estão impactando o visual no momento.
 
 ### Modo de foco
-<p><img src="../../assets/flux_hi_foco.png" alt="Focos" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_foco.png" alt="Focos" style="vertical-align: middle; height: 40px;"></p>
 Abre o modo de foco, que é uma nova página com apenas o visual selecionado, dando mais espaço ao visual.
 
 ### Mais opções
-<p><img src="../../assets/flux_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/flux/flux_hi_mais.png" alt="Mais" style="vertical-align: middle; height: 40px;"></p>
 Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, Mostrar como tabela, Remover, Destacar e Classificar. A disponibilidade dessas opções varia de acordo com o tipo de visual selecionado e as configurações aplicadas.
 
 ## Dicas de Ferramentas
 
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px;">
-  <img src="../../assets/flux_tooltip_rec.png" alt="ToolTip Receber">
+  <img src="../../assets/flux/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px;">
+  <img src="../../assets/flux/flux_tooltip_rec.png" alt="ToolTip Receber">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux_tooltip_inadim.png" alt="ToolTip Inadim" style="margin-right: 10px;">
-  <img src="../../assets/flux_tooltip_venc.png" alt="ToolTip Venc">
+  <img src="../../assets/flux/flux_tooltip_inadim.png" alt="ToolTip Inadim" style="margin-right: 10px;">
+  <img src="../../assets/flux/flux_tooltip_venc.png" alt="ToolTip Venc">
 </div>
 
 As Dicas de Ferramentas oferecem uma maneira poderosa de visualizar contexto adicional ou detalhes sobre pontos de dados em um visual, sem sobrecarregar a exibição principal. Ao passar o cursor sobre um elemento específico em um visual, como uma barra em um gráfico de barras ou um ponto de dados em um gráfico de linhas, uma Dica de Ferramenta aparecerá exibindo informações relevantes para aquela seleção. Normalmente, as Dicas de Ferramentas mostram métricas chave, como totais, percentuais ou médias, ajudando os usuários a entender o significado do ponto de dados. No entanto, elas também podem conter detalhes adicionais que não estão visíveis diretamente no visual principal, oferecendo uma visão mais profunda. Por exemplo, um gráfico pode mostrar o valor, e a Dica de Ferramenta poderia incluir esse valor junto com o percentual correspondente. Essa camada oculta de informações enriquece a experiência do usuário, permitindo que explorem os dados de forma mais completa, sem sobrecarregar o visual com muitos detalhes de uma só vez. Para visualizar as Dicas de Ferramentas, os usuários simplesmente precisam passar o cursor sobre os diferentes pontos de dados, tornando-as um recurso intuitivo que aprimora a exploração de dados e a tomada de decisões.
