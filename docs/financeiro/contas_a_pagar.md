@@ -1,7 +1,7 @@
 # Painel A Pagar
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_page1.png" alt="A Pagar1">
+  <img src="../../assets/flux/flux_pag_page1.png" alt="A Pagar1">
   <h6>Imagem 1: Painel A Pagar</h6>
 </div></p>
 
@@ -26,7 +26,7 @@ A porcentagem (%) de Pagar é uma métrica essencial para a gestão financeira, 
 ### Aging - Contas a Pagar
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_aging.png" alt="Aging - Contas a Pagar">
+  <img src="../../assets/flux/flux_pag_aging.png" alt="Aging - Contas a Pagar">
   <h6>Imagem 3: Aging - Contas a Pagar</h6>
 </div></p>
 
@@ -49,7 +49,7 @@ Apesar de ser um gráfico compacto, ele oferece diversas funcionalidades, especi
 ### Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_projeto.png" alt="Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido">
+  <img src="../../assets/flux/flux_pag_projeto.png" alt="Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido">
   <h6>Imagem 2: Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
@@ -67,7 +67,7 @@ Com a exibição clara dos valores absolutos de pagamento e suas respectivas por
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
@@ -75,7 +75,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
 ### Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_fav.png" alt="A Pagar X Favorecido ou Origem">
+  <img src="../../assets/flux/flux_pag_fav.png" alt="A Pagar X Favorecido ou Origem">
   <h6>Imagem 4: A Pagar X Favorecido ou Origem</h6>
 </div></p>
 
@@ -93,7 +93,7 @@ Com a exibição clara dos valores absolutos de pagamento e suas respectivas por
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar para cima ou para baixo entre Favorecido ou Origem, facilitando a análise detalhada da área de interesse.
@@ -101,7 +101,7 @@ Aqui, você pode navegar para cima ou para baixo entre Favorecido ou Origem, fac
 ### A Pagar por Data
 
 <p><div align="center">
-  <img src="../../assets/flux_pag_data.png" alt="A Pagar por Data">
+  <img src="../../assets/flux/flux_pag_data.png" alt="A Pagar por Data">
   <h6>Imagem 5: A Pagar por Data</h6>
 </div></p>
 
