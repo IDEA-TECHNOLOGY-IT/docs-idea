@@ -1,7 +1,7 @@
 # Visão Saldo Total em Contas
 
 <p><div align="center">
-  <img src="../../assets/flux_saldo_page1.png" alt="Saldo em Contas Page">
+  <img src="../../assets/flux/flux_saldo_page1.png" alt="Saldo em Contas Page">
   <h6>Imagem 1: Pagína com Saldo Total em Contas</h6>
 </div></p>
 
@@ -22,7 +22,7 @@ A visualização adequada do saldo de contas é vital para garantir que a empres
 ### Tabela de Saldo Total em Contas
 
 <p><div align="center">
-  <img src="../../assets/flux_saldo_tabela.png" alt="Saldo em Contas">
+  <img src="../../assets/flux/flux_saldo_tabela.png" alt="Saldo em Contas">
   <h6>Imagem 2: Visão Saldo Total em Contas</h6>
 </div></p>
 
