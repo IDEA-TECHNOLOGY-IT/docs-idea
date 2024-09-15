@@ -1,12 +1,12 @@
 # Painel Vendas
 
 <div align="center">
-  <img src="../../assets/fat_vendas_page1.png" alt="Vendas1">
+  <img src="../../assets/fat/fat_vendas_page1.png" alt="Vendas1">
   <h6>Imagem 1: Painel Vendas - Visão Análise Anual</h6>
 </div>
 
 <div align="center">
-  <img src="../../assets/fat_vendas_page2.png" alt="Vendas2">
+  <img src="../../assets/fat/fat_vendas_page2.png" alt="Vendas2">
   <h6>Imagem 2: Painel Vendas - Visão Detalhes</h6>
 </div>
 
@@ -38,7 +38,7 @@ Em resumo, a análise de vendas no BI é uma ferramenta poderosa para impulsiona
 ### Vendas Acumulado
 
 <div align="center">
-  <img src="../../assets/fat_vendas_acumulado.png" alt="Vendas Acumulado">
+  <img src="../../assets/fat/fat_vendas_acumulado.png" alt="Vendas Acumulado">
   <h6>Imagem 3: Vendas Acumulado</h6>
 </div>
 
@@ -57,7 +57,7 @@ Em suma, o gráfico de área acumulada não apenas proporciona uma visão clara 
 ### Vendas por Mês x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <div align="center">
-  <img src="../../assets/fat_vendas_anomes.png" alt="Vendas Ano Mês">
+  <img src="../../assets/fat/fat_vendas_anomes.png" alt="Vendas Ano Mês">
   <h6>Imagem 4: Vendas por Mês x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div>
 
@@ -69,7 +69,7 @@ Esse tipo de análise visual não só auxilia na tomada de decisões rápidas, m
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
@@ -79,7 +79,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, 
 ### Tabela de Vendas Detalhes
 
 <div align="center">
-  <img src="../../assets/fat_vendas_tabela.png" alt="Vendas Tabela">
+  <img src="../../assets/fat/fat_vendas_tabela.png" alt="Vendas Tabela">
   <h6>Imagem 5: Tabela de Vendas Detalhes</h6>
 </div>
 
@@ -115,7 +115,7 @@ O valor monetário total da transação de venda fornece uma métrica chave para
 ### Vendas x Prazo Médio
 
 <div align="center">
-  <img src="../../assets/fat_vendas_prazo.png" alt="Vendas Prazo">
+  <img src="../../assets/fat/fat_vendas_prazo.png" alt="Vendas Prazo">
   <h6>Imagem 6: Vendas x Prazo Médio</h6>
 </div>
 
@@ -130,7 +130,7 @@ Ao visualizar as vendas em relação aos prazos de pagamento em um gráfico de b
 ### Vendas x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <div align="center">
-  <img src="../../assets/fat_vendas_cliente.png" alt="Vendas Filial">
+  <img src="../../assets/fat/fat_vendas_cliente.png" alt="Vendas Filial">
   <h6>Imagem 7: Vendas x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div>
 
@@ -150,7 +150,7 @@ No geral, o gráfico de barras Vendas x Filial, Vendedor, Cliente, Fabricante ou
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
