@@ -15,7 +15,7 @@ O painel de relatórios é projetado com duas visualizações distintas. Alguns 
 - **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
 - **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
-## Informações no Painel Custos e Despesas
+## Informações no Painel Receita Bruta
 
 A análise de receita bruta é uma parte crucial do Business Intelligence (BI) para contabilidade, pois fornece uma visão essencial das receitas totais geradas por uma empresa antes da dedução de quaisquer custos ou despesas. Monitorar e analisar a receita bruta permite que as empresas avaliem sua capacidade de gerar vendas e identifiquem oportunidades para aumentar a receita e otimizar estratégias de negócios.
 
