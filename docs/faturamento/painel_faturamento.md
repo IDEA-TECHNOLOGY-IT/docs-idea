@@ -1,7 +1,7 @@
 # Painel de Faturamento
 
 <p><div align="center">
-  <img src="../../assets/fat.png" alt="Faturamento">
+  <img src="../../assets/fat/fat.png" alt="Faturamento">
   <h6>Imagem 1: Painel de Faturamento</h6>
 </div></p>
 
@@ -16,7 +16,7 @@ Este painel fornece uma visão geral do desempenho do faturamento do negócio, e
 ### Faturamento Acumulado
 
 <p><div align="center">
-  <img src="../../assets/fat_home_acumulado.png" alt="Faturamento Acumulado">
+  <img src="../../assets/fat/fat_home_acumulado.png" alt="Faturamento Acumulado">
   <h6>Imagem 2: Faturamento Acumulado</h6>
 </div></p>
 
@@ -29,7 +29,7 @@ O acompanhamento do faturamento acumulado é essencial para monitorar o progress
 ### Faturamento x Faturamento Ano Anterior
 
 <p><div align="center">
-  <img src="../../assets/fat_home_anoant.png" alt="Faturamento Ano">
+  <img src="../../assets/fat/fat_home_anoant.png" alt="Faturamento Ano">
   <h6>Imagem 3: Faturamento x Faturamento Ano Anterior</h6>
 </div></p>
 
