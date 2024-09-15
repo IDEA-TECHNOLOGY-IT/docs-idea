@@ -1,7 +1,7 @@
 # Painel de Contábil
 
 <div align="center">
-  <img src="../../assets/contabilidade_home.png" alt="Painel de Contábil">
+  <img src="../../assets/con/con_home.png" alt="Painel de Contábil">
   <h6>Imagem 1: Painel de Contábil</h6>
 </div>
 
@@ -16,7 +16,7 @@ Na página de Home, você encontrará:
 ## Saldo em Tesouraria ao Longo do Tempo
 
 <div align="center">
-  <img src="../../assets/contabilidade_h_saldo_ao_tempo.png" alt="Saldo em Tesouraria ao Longo do Tempo">
+  <img src="../../assets/con/con_h_saldo.png" alt="Saldo em Tesouraria ao Longo do Tempo">
   <h6>Imagem 2: Saldo em Tesouraria ao Longo do Tempo</h6>
 </div>
 
@@ -29,7 +29,7 @@ A representação em vermelho para valores negativos ajuda a destacar as variaç
 ## Comparativo Mensal (Receita Bruta x Custos e Despesas)
 
 <div align="center">
-  <img src="../../assets/contabilidade_h_comparitivo_mensal.png" alt="Comparitivo Mensal (Receita Bruta x Custos e Despesas)">
+  <img src="../../assets/con/con_h_mensal.png" alt="Comparitivo Mensal (Receita Bruta x Custos e Despesas)">
   <h6>Imagem 3: Comparitivo Mensal (Receita Bruta x Custos e Despesas)</h6>
 </div>
 
