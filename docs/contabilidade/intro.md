@@ -109,19 +109,19 @@ Selecionar este botão leva os usuários à página intitulada Lucro Líquido. E
 <img src="../../assets/con/con_button_ebitda2.png" alt="ebitda2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão direciona para a página intitulada EBITDA. Os usuários podem explorar o desempenho operacional da empresa, excluindo os efeitos das decisões financeiras e contábeis.
-  
-### Botão Indicadores
-<p><img src="../../assets/con/con_button_i1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
-<img src="../../assets/con/con_button_i2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
-<h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada Indicadores, onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.
 
 ### Botão Regra dos 40
 <p><img src="../../assets/con/con_button_rd401.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_rd402.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão navega para a página intitulada Regra dos 40, que foca em analisar se a soma da margem EBITDA e do crescimento da receita atende ou excede o marco de 40%.
-  
+
+### Botão Indicadores
+<p><img src="../../assets/con/con_button_i1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
+<img src="../../assets/con/con_button_i2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
+<h6>Esquerda: Página atual, Direita: Página disponível</h6>
+Clicar neste botão abre a página intitulada Indicadores, onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.  
+
 ### Botão DRE
 <p><img src="../../assets/con/con_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_dre2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
