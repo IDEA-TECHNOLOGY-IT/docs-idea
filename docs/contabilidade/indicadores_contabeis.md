@@ -105,6 +105,33 @@ Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pel
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBITDA. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
+## Indicador de Regra dos 40
+
+<div align="center">
+  <img src="../../assets/con/con_caixa_regra.png" alt="Caixa de Regra dos 40">
+  <h6>Imagem 7: Regra dos 40</h6>
+</div>
+
+### Regra dos 40
+
+Regra dos 40 é um princípio amplamente utilizado para avaliar o equilíbrio entre crescimento e rentabilidade de uma empresa. De acordo com essa regra, a soma da taxa de crescimento anual da receita (em percentual) e a margem de lucro operacional (em percentual) deve ser igual ou superior a 40%. Esse indicador é especialmente relevante para empresas onde o crescimento rápido e a lucratividade sustentável são essenciais para o sucesso a longo prazo.
+
+Por exemplo, se uma empresa tem uma taxa de crescimento anual de 30% e uma margem de lucro operacional de 15%, a soma desses dois números seria 45%, o que supera a marca de 40% e, portanto, indica que a empresa está em um caminho saudável de crescimento e lucratividade. Por outro lado, se uma empresa tem um crescimento muito acelerado, mas sua margem de lucro é baixa ou negativa, ou vice-versa, a soma pode ficar abaixo de 40%, sugerindo que a empresa pode enfrentar desafios em manter um crescimento sustentável a longo prazo.
+
+A Regra dos 40 oferece uma métrica simples e poderosa para investidores e gestores avaliarem se uma empresa está conseguindo equilibrar sua expansão de mercado com eficiência financeira, garantindo assim um caminho equilibrado entre a busca por participação de mercado e a saúde financeira.
+
+### Margem de EBITDA
+
+Margem EBITDA (EBITDA Mar.), exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
+
+### Taxa de Crescimento
+
+Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela mede o quanto a receita da empresa está aumentando.
+
+### Botão Ver mais
+
+Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
+
 ## Indicador de Capital Giro Próprio
 
 <div align="center">
@@ -141,33 +168,6 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 - **NGC (Necessidade de Capital de Giro)**
 - **Saldo em Tesouraria**
 - **Solvência Geral**
-
-## Indicador de Regra dos 40
-
-<div align="center">
-  <img src="../../assets/con/con_caixa_regra.png" alt="Caixa de Regra dos 40">
-  <h6>Imagem 7: Regra dos 40</h6>
-</div>
-
-### Regra dos 40
-
-Regra dos 40 é um princípio amplamente utilizado para avaliar o equilíbrio entre crescimento e rentabilidade de uma empresa. De acordo com essa regra, a soma da taxa de crescimento anual da receita (em percentual) e a margem de lucro operacional (em percentual) deve ser igual ou superior a 40%. Esse indicador é especialmente relevante para empresas onde o crescimento rápido e a lucratividade sustentável são essenciais para o sucesso a longo prazo.
-
-Por exemplo, se uma empresa tem uma taxa de crescimento anual de 30% e uma margem de lucro operacional de 15%, a soma desses dois números seria 45%, o que supera a marca de 40% e, portanto, indica que a empresa está em um caminho saudável de crescimento e lucratividade. Por outro lado, se uma empresa tem um crescimento muito acelerado, mas sua margem de lucro é baixa ou negativa, ou vice-versa, a soma pode ficar abaixo de 40%, sugerindo que a empresa pode enfrentar desafios em manter um crescimento sustentável a longo prazo.
-
-A Regra dos 40 oferece uma métrica simples e poderosa para investidores e gestores avaliarem se uma empresa está conseguindo equilibrar sua expansão de mercado com eficiência financeira, garantindo assim um caminho equilibrado entre a busca por participação de mercado e a saúde financeira.
-
-### Margem de EBITDA
-
-Margem EBITDA (EBITDA Mar.), exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
-
-### Taxa de Crescimento
-
-Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela mede o quanto a receita da empresa está aumentando.
-
-### Botão Ver mais
-
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Saldo em Tesouraria
 
