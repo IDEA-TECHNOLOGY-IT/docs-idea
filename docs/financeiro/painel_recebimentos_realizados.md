@@ -1,7 +1,7 @@
 # Painel de Recebimentos Realizados
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_page1.png" alt="PMR1">
+  <img src="../../assets/flux/flux_pmr_page1.png" alt="PMR1">
   <h6>Imagem 1: Painel de Recebimentos Realizados</h6>
 </div></p>
 
@@ -40,7 +40,7 @@ Alguns dos benefícios de analisar o PMR são:
 ### Recebimento por Project, Filial, Cliente, Origem ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_projeto.png" alt="Recebimento por Project, Filial, Cliente, Origem ou Dimensão">
+  <img src="../../assets/flux/flux_pmr_projeto.png" alt="Recebimento por Project, Filial, Cliente, Origem ou Dimensão">
   <h6>Imagem 2: Recebimento por Project, Filial, Cliente, Origem ou Dimensão</h6>
 </div></p>
 
@@ -54,7 +54,7 @@ A **seleção de categoria** na matriz permite criar várias combinações com o
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Project, Filial, Cliente, Origem ou Dimensão para analisar a área necessária.
@@ -62,7 +62,7 @@ Aqui, você pode mover para cima ou para baixo entre Project, Filial, Cliente, O
 ### Recebimento por Filial, Project, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_cliente.png" alt="Recebimento por Filial, Project, Dimensão, Origem ou Cliente">
+  <img src="../../assets/flux/flux_pmr_cliente.png" alt="Recebimento por Filial, Project, Dimensão, Origem ou Cliente">
   <h6>Imagem 3: Recebimento por Filial, Project, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
@@ -80,7 +80,7 @@ Com a exibição clara dos valores absolutos de Recebimentos Realizados, suas re
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Project, Dimensão, Origem ou Cliente para analisar a área necessária.
@@ -88,7 +88,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Project, Dimensão,
 ### Recebimento por Cliente, Origem, Project, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_filial.png" alt="Recebimento por Cliente, Origem, Project, Dimensão ou Filial">
+  <img src="../../assets/flux/flux_pmr_filial.png" alt="Recebimento por Cliente, Origem, Project, Dimensão ou Filial">
   <h6>Imagem 4: Recebimento por Cliente, Origem, Project, Dimensão ou Filial</h6>
 </div></p>
 
@@ -106,7 +106,7 @@ Com a exibição clara dos valores absolutos de Recebimentos, suas porcentagens 
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Cliente, Origem, Project, Dimensão ou Filial para analisar a área necessária.
@@ -114,7 +114,7 @@ Aqui, você pode mover para cima ou para baixo entre Cliente, Origem, Project, D
 ### Tabela de Detalhes de Recebimentos Realizados
 
 <p><div align="center">
-  <img src="../../assets/flux_pmr_tabela.png" alt="Tabela de Detalhes de Recebimentos Realizados">
+  <img src="../../assets/flux/flux_pmr_tabela.png" alt="Tabela de Detalhes de Recebimentos Realizados">
   <h6>Imagem 5: Tabela de Detalhes de Recebimentos Realizados</h6>
 </div></p>
 
