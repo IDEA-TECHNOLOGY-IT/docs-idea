@@ -1,7 +1,7 @@
 # Painel Financeiro
 
 <div align="center">
-  <img src="../../assets/flux.png" alt="Painel Financeiro">
+  <img src="../../assets/flux/flux.png" alt="Painel Financeiro">
   <h6>Imagem 1: Painel de Financeira</h6>
 </div>
 
@@ -16,7 +16,7 @@ Este painel fornece uma visão geral do desempenho do fluxo de caixa do negócio
 ### Saldo em Contas ao Longo do Tempo
 
 <div align="center">
-  <img src="../../assets/flux_home_saldo.png" alt="Saldo em Contas ao Longo do Tempo">
+  <img src="../../assets/flux/flux_home_saldo.png" alt="Saldo em Contas ao Longo do Tempo">
   <h6>Imagem 2: Saldo em Contas ao Longo do Tempo</h6>
 </div>
 
@@ -29,7 +29,7 @@ Isso é crucial para o planejamento financeiro de longo prazo. Ao comparar os da
 ### Comparativo Mensal (Entradas x Saídas) - Realizado
 
 <div align="center">
-  <img src="../../assets/flux_home_entradas.png" alt="Comparativo Mensal (Entradas x Saídas) - Realizado">
+  <img src="../../assets/flux/flux_home_entradas.png" alt="Comparativo Mensal (Entradas x Saídas) - Realizado">
   <h6>Imagem 3: Comparativo Mensal (Entradas x Saídas) - Realizado</h6>
 </div>
 
