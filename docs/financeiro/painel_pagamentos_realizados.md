@@ -42,7 +42,7 @@ Alguns dos benefícios de analisar o PMP são:
 ### Pagamento por Project, Filial, Favorecido, Origem ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por Project, Filial, Favorecido, Origem ou Dimensão">
+  <img src="../../assets/flux/flux_pmp_projeto.png" alt="Pagamento por Project, Filial, Favorecido, Origem ou Dimensão">
   <h6>Imagem 2: Pagamento por Project, Filial, Favorecido, Origem ou Dimensão</h6>
 </div></p>
 
@@ -61,11 +61,11 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Project, Filial, Favorecido, Origem ou Dimensão para analisar a área necessária.
 
-### Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido
+### Pagamento por Filial, Project, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido">
-  <h6>Imagem 3: Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido</h6>
+  <img src="../../assets/flux/flux_pmp_filial.png" alt="Pagamento por Filial, Project, Dimensão, Origem ou Favorecido">
+  <h6>Imagem 3: Pagamento por Filial, Project, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Pagamentos Realizados** por **Filial, Projeto, Dimensão, Origem ou Fornecedor** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores pagos estão concentrados e acompanhem as despesas realizadas em diferentes fontes, projetos ou filiais. Essa visualização detalhada é crucial para a gestão eficaz do fluxo de caixa, destacando quais áreas estão consumindo mais recursos, impactando diretamente a saúde financeira da organização.
@@ -90,8 +90,8 @@ Aqui, você pode navegar entre Filial, Project, Dimensão, Origem ou Favorecido 
 ### Pagamento por Favorecido, Origem, Project, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_filial.png" alt="Valor Pago e PMP x Filial ou Projeto">
-  <h6>Imagem 4: Valor Pago e PMP x Filial ou Projeto</h6>
+  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por Favorecido, Origem, Project, Dimensão ou Filial">
+  <h6>Imagem 4: Pagamento por Favorecido, Origem, Project, Dimensão ou Filial</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Pagamentos por Fornecedor, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para a análise financeira e para decisões estratégicas mais eficazes. Ao organizar os pagamentos por essas categorias, a matriz permite que os stakeholders identifiquem com precisão onde os valores pagos estão concentrados e acompanhem as despesas realizadas por diferentes fornecedores, origens ou projetos. Essa visualização detalhada é crucial para gerenciar o fluxo de caixa de forma eficiente, destacando quais áreas estão demandando mais recursos financeiros e, consequentemente, influenciando a saúde financeira da organização.
