@@ -12,7 +12,7 @@
 Este painel de relatório está dividido em duas visualizações;
 
 - **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para mais detalhes".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Custos e Despesas
 
