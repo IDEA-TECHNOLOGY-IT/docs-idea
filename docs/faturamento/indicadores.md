@@ -1,7 +1,7 @@
 # Painel Indicadores
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
   <h6>Imagem 1: Painel Indicadores</h6>
 </div></p>
 
@@ -52,7 +52,7 @@ O Painel Indicadores, com sua combinação de gráficos de linhas e barras, ofer
 ### Botão para Seleção
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores_slicer.png" alt="Botão para Seleção">
+  <img src="../../assets/fat/fat_indicadores_slicer.png" alt="Botão para Seleção">
   <h6>Imagem 2: Botão para Seleção</h6>
 </div></p>
 
@@ -67,7 +67,7 @@ A capacidade de alternar rapidamente entre diferentes indicadores e visualizar c
 ### Indicador por Tempo
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
   <h6>Imagem 3: Painel Indicadores</h6>
 </div></p>
 
@@ -84,7 +84,7 @@ Além disso, o gráfico é interativo e pode ser filtrado usando o [Botão para 
 ### Indicador por Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
   <h6>Imagem 4: Painel Indicadores</h6>
 </div></p>
 
@@ -99,7 +99,7 @@ Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção]
 ### Indicador por Vendedor
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
   <h6>Imagem 5: Painel Indicadores</h6>
 </div></p>
 
@@ -114,7 +114,7 @@ Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção]
 ### Indicador por Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
   <h6>Imagem 6: Painel Indicadores</h6>
 </div></p>
 
