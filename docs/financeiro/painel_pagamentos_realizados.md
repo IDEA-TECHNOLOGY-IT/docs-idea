@@ -1,7 +1,7 @@
 # Painel de Pagamentos Realizados
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_page1.png" alt="PMP">
+  <img src="../../assets/flux/flux_pmp_page1.png" alt="PMP">
   <h6>Imagem 1: Painel de Pagamentos Realizados</h6>
 </div></p>
 
@@ -42,7 +42,7 @@ Alguns dos benefícios de analisar o PMP são:
 ### Pagamento por Project, Filial, Favorecido, Origem ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_fav.png" alt="Pagamento por Project, Filial, Favorecido, Origem ou Dimensão">
+  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por Project, Filial, Favorecido, Origem ou Dimensão">
   <h6>Imagem 2: Pagamento por Project, Filial, Favorecido, Origem ou Dimensão</h6>
 </div></p>
 
@@ -56,7 +56,7 @@ A **seleção de categoria** na matriz permite criar várias combinações com o
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Project, Filial, Favorecido, Origem ou Dimensão para analisar a área necessária.
@@ -64,7 +64,7 @@ Aqui, você pode mover para cima ou para baixo entre Project, Filial, Favorecido
 ### Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_fav.png" alt="Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido">
+  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido">
   <h6>Imagem 3: Pagamento por por Filial, Project, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
@@ -82,7 +82,7 @@ Com a exibição clara dos valores absolutos de Pagamentos Realizados, suas resp
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre Filial, Project, Dimensão, Origem ou Favorecido para categorizar as áreas de interesse.
@@ -90,7 +90,7 @@ Aqui, você pode navegar entre Filial, Project, Dimensão, Origem ou Favorecido 
 ### Pagamento por Favorecido, Origem, Project, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_filial.png" alt="Valor Pago e PMP x Filial ou Projeto">
+  <img src="../../assets/flux/flux_pmp_filial.png" alt="Valor Pago e PMP x Filial ou Projeto">
   <h6>Imagem 4: Valor Pago e PMP x Filial ou Projeto</h6>
 </div></p>
 
@@ -108,7 +108,7 @@ Com a exibição clara dos valores absolutos de Pagamentos, suas porcentagens re
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo para navegar entre Favorecido, Origem, Project, Dimensão ou Filial para analisar a área necessária.
@@ -116,7 +116,7 @@ Aqui, você pode mover para cima ou para baixo para navegar entre Favorecido, Or
 ### Tabela de Detalhes de Pagamentos Realizados
 
 <p><div align="center">
-  <img src="../../assets/flux_pmp_tabela.png" alt="Tabela de Detalhes de Pagamentos Realizados">
+  <img src="../../assets/flux/flux_pmp_tabela.png" alt="Tabela de Detalhes de Pagamentos Realizados">
   <h6>Imagem 5: Tabela de Detalhes de Pagamentos Realizados</h6>
 </div></p>
 
