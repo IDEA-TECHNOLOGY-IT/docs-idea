@@ -11,9 +11,9 @@
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Saldo Patrimonial e Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-saldo-patrimonial-e-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial" ou "mostrar indicadores".
-- **[Visão Saldo Patrimonial](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-saldo-patrimonial)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial".
-- **[Visão Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar indicadores".
+- **[Visão Saldo Patrimonial e Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/#visao-saldo-patrimonial-e-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial" ou "mostrar indicadores".
+- **[Visão Saldo Patrimonial](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/#visao-saldo-patrimonial)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial".
+- **[Visão Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/#visao-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar indicadores".
 
 ## Informações no Painel Indicadores
 
@@ -77,11 +77,29 @@ O Painel Indicadores, com sua combinação de gráficos de linhas e barras, ofer
   <h6>Imagem 2: Botões para Seleção</h6>
 </div></p>
 
-O conjunto de botões interativos é uma ferramenta essencial para personalizar a visualização dos dados no painel. Cada botão representa um dos indicadores-chave de contabilidade: Capital de Giro Próprio, CDG (Capital de Giro), Composição de Endividamento, Giro do Ativo, Imobilização do Investimento Total, Liquidez Corrente, Liquidez Geral, Liquidez Imediata, Liquidez Seca, NGC (Necessidade de Capital de Giro), Saldo em Tesouraria e Solvência Geral. Ao clicar em um dos botões, a página é filtrada para exibir informações específicas relacionadas ao indicador selecionado, ajustando os visuais principais para refletir os dados correspondentes.
+O conjunto de botões interativos é uma ferramenta essencial para personalizar a visualização dos dados no painel. Existem dois conjuntos distintos de botões, cada um representando um conjunto específico de indicadores-chave de contabilidade.
 
-Essa funcionalidade é particularmente útil para uma análise detalhada e dinâmica. Ao selecionar um botão, o usuário pode concentrar-se instantaneamente em um aspecto específico da saúde financeira da empresa, como o impacto da liquidez corrente ou a variação no capital de giro. Os visuais principais da página, que podem incluir gráficos de linhas, gráficos de barras e outras visualizações, são automaticamente atualizados para apresentar informações relevantes sobre o indicador escolhido.
+O primeiro conjunto de indicadores inclui:
+- **Capital de Giro Próprio**
+- **CDG (Capital de Giro)**
+- **Composição de Endividamento**
+- **Giro do Ativo**
+- **Imobilização do Investimento Total**
+- **Liquidez Corrente**
 
-A capacidade de alternar rapidamente entre diferentes indicadores e ver como cada um afeta os dados principais oferece uma compreensão mais completa e detalhada da performance financeira da empresa. Por exemplo, ao selecionar "Liquidez Corrente", todos os visuais são ajustados para mostrar o desempenho da liquidez ao longo do tempo, por filiais, e entre diferentes períodos, facilitando a identificação de padrões e comparações entre segmentos. Da mesma forma, ao escolher "Capital de Giro", o usuário pode analisar como o capital de giro é distribuído entre as diferentes áreas da empresa e como isso varia ao longo dos períodos.
+O segundo conjunto de indicadores é composto por:
+- **Liquidez Geral**
+- **Liquidez Imediata**
+- **Liquidez Seca**
+- **NGC (Necessidade de Capital de Giro)**
+- **Saldo em Tesouraria**
+- **Solvência Geral**
+
+Ao clicar em um botão de qualquer um dos conjuntos, o gráfico abaixo é filtrado para exibir informações específicas relacionadas ao indicador selecionado, ajustando a visualização para refletir os dados correspondentes.
+
+Essa funcionalidade é particularmente útil para uma análise detalhada e dinâmica. Ao selecionar um botão, o usuário pode concentrar-se instantaneamente em um aspecto específico da saúde financeira da empresa, como o impacto da liquidez corrente ou a variação no capital de giro. O gráfico é automaticamente atualizado para apresentar informações relevantes sobre o indicador escolhido, permitindo uma análise aprofundada e contextualizada.
+
+A capacidade de alternar rapidamente entre diferentes indicadores e observar como cada um afeta o gráfico oferece uma compreensão mais completa e detalhada da performance financeira da empresa. Por exemplo, ao selecionar "Liquidez Corrente" do primeiro conjunto, o gráfico será ajustado para mostrar o desempenho da liquidez ao longo do tempo, facilitando a identificação de padrões e comparações entre períodos. Da mesma forma, ao escolher "Capital de Giro" do segundo conjunto, o gráfico refletirá como o capital de giro é distribuído e suas variações ao longo dos períodos.
 
 Esse nível de interatividade não só melhora a experiência do usuário, mas também proporciona uma análise mais eficaz e informada, permitindo que os gestores tomem decisões mais precisas e fundamentadas com base nas informações detalhadas apresentadas.
 
@@ -92,13 +110,13 @@ Esse nível de interatividade não só melhora a experiência do usuário, mas t
   <h6>Imagem 3: Saldo Patrimonial por Conta e Subconta</h6>
 </div>
 
-A matriz que apresenta o saldo acumulado por contas principais e suas respectivas subcontas oferece uma visão abrangente e detalhada da estrutura financeira da empresa. Esta matriz inclui as principais contas de Ativo e Passivo, e suas subdivisões, como Ativo Circulante, Ativo Não Circulante, Passivo Circulante, Passivo Não Circulante e Passivo Patrimônio Líquido, além das subcontas associadas a cada uma dessas categorias. 
+A matriz que apresenta o saldo acumulado por contas principais e suas respectivas subcontas é uma ferramenta crucial para a análise financeira detalhada e estratégica da empresa. Localizada na mesma página que os gráficos de [Indicadores por Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/#indicadores-por-tempo), essa matriz oferece uma visão abrangente da estrutura financeira da empresa, detalhando como os recursos estão distribuídos e como as obrigações são estruturadas. Ela inclui principais contas de Ativo e Passivo, como Ativo Circulante, Ativo Não Circulante, Passivo Circulante, Passivo Não Circulante e Passivo Patrimônio Líquido, além das subcontas associadas a cada categoria.
 
-A visualização dos saldos acumulados permite avaliar como os recursos estão distribuídos e como as obrigações são estruturadas ao longo do tempo. 
+A visualização dos saldos acumulados permite identificar tendências e padrões na alocação de ativos e passivos ao longo do tempo. Isso é essencial para entender a dinâmica financeira da empresa, como o crescimento ou a diminuição de certas categorias de contas, e avaliar mudanças na estrutura financeira. Esses insights são fundamentais para a avaliação da saúde financeira e a eficácia das estratégias financeiras da empresa.
 
-Analisando esses dados, é possível identificar tendências e padrões, como a alocação de ativos e passivos, e avaliar a saúde financeira da empresa com base na evolução de cada conta e subconta. 
+Além disso, a matriz facilita a avaliação detalhada da saúde financeira ao permitir a comparação da evolução de cada conta e subconta. Por exemplo, um aumento no Ativo Circulante pode indicar uma melhoria na liquidez, enquanto um aumento nas obrigações de Passivo Não Circulante pode sugerir uma elevação na dívida de longo prazo. A presença da matriz na mesma página que os gráficos de linha para indicadores permite uma análise integrada dos dados financeiros, correlacionando saldos acumulados com métricas de desempenho como Liquidez Corrente e Capital de Giro. Essa integração possibilita uma visão mais completa das métricas financeiras, ajudando na identificação de padrões e na realização de análises estratégicas mais precisas. 
 
-Essa matriz é essencial para a compreensão detalhada da posição financeira da empresa e para a realização de análises estratégicas e de planejamento financeiro.
+Portanto, a matriz não só fornece uma visão detalhada da estrutura financeira da empresa, mas também aprimora a capacidade de realizar análises e planejamento estratégico com base nas informações financeiras apresentadas.
 
 ## Visão Indicadores
 
@@ -109,48 +127,34 @@ Essa matriz é essencial para a compreensão detalhada da posição financeira d
   <h6>Imagem 4: Tabela de Indicadores</h6>
 </div>
 
-A Tabela de Indicadores exibe uma lista detalhada dos principais indicadores financeiros, incluindo a fórmula utilizada para cada cálculo e o valor atual correspondente. 
+A Tabela de Indicadores é uma ferramenta crucial na análise financeira, oferecendo uma visão detalhada e abrangente dos principais indicadores financeiros da empresa. Localizada ao lado dos gráficos de linha na página, essa tabela exibe de forma clara e organizada todos os indicadores chave, incluindo a fórmula utilizada para cada cálculo e o valor atual correspondente. 
 
-Esta tabela é uma ferramenta valiosa para usuários que precisam de uma visão clara e precisa dos indicadores financeiros da empresa. Com a tabela, os usuários podem verificar como cada indicador é calculado e acompanhar os valores em tempo real, facilitando a compreensão dos resultados financeiros e a avaliação da performance da empresa. 
+Cada linha da tabela apresenta um indicador específico, detalhando a fórmula exata empregada para o cálculo, o que proporciona uma compreensão aprofundada de como cada valor é derivado. Por exemplo, a fórmula para a Margem de Lucro (%) pode mostrar a relação entre o lucro líquido e a receita total, enquanto o cálculo para a Liquidez Corrente pode detalhar a relação entre ativos circulantes e passivos circulantes. Essa transparência nas fórmulas é essencial para garantir a clareza e a precisão na interpretação dos dados, permitindo que os usuários verifiquem a metodologia utilizada e compreendam como os resultados são obtidos.
 
-A transparência nas fórmulas e a visualização direta dos valores ajudam a identificar tendências, fazer comparações e tomar decisões informadas com base em dados financeiros precisos e atualizados.
+Além das fórmulas, a tabela apresenta os valores atuais de cada indicador, oferecendo uma visão em tempo real do desempenho financeiro da empresa. Isso é particularmente valioso para o monitoramento contínuo dos indicadores, permitindo que os usuários acompanhem as variações e as tendências conforme os dados são atualizados. Com a tabela, é possível comparar rapidamente os valores de diferentes indicadores lado a lado, facilitando a análise de como cada um está se comportando em relação aos outros.
+
+A integração da Tabela de Indicadores com os [filtros](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#filtros) de página proporciona uma funcionalidade adicional significativa. Quando os filtros são aplicados, a tabela é atualizada automaticamente para refletir as seleções feitas, exibindo os valores e as fórmulas correspondentes aos dados filtrados. Essa interatividade permite uma análise detalhada e específica, adaptando os indicadores às diferentes categorias ou períodos selecionados. Por exemplo, ao aplicar um filtro para um período específico ou para uma filial particular, a tabela ajusta os indicadores para mostrar como esses valores se alteram com base nas condições filtradas, oferecendo insights mais precisos e contextuais.
+
+A presença da Tabela de Indicadores ao lado dos gráficos de linha enriquece a análise ao proporcionar uma visão complementar e detalhada dos dados financeiros. Enquanto os gráficos de linha oferecem uma representação visual das tendências ao longo do tempo, a tabela fornece uma visão direta e técnica dos indicadores, permitindo que os usuários verifiquem a evolução dos dados de forma quantitativa e qualitativa. Essa combinação de gráficos e tabela oferece uma análise integrada e abrangente, facilitando a interpretação dos resultados e a tomada de decisões informadas com base em dados financeiros precisos e atualizados. 
+
+Portanto, a Tabela de Indicadores não só melhora a transparência e a compreensão dos indicadores financeiros, mas também aprimora a capacidade de análise detalhada e adaptativa, tornando-a uma ferramenta indispensável para a avaliação e o planejamento estratégico da empresa.
 
 ## Visão Saldo Patrimonial e Indicadores
 
-### Indicador por Tempo
+### Indicadores por Tempo
 
 <div align="center">
-  <img src="../../assets/con/con_i_indicadores.png" alt="Indicador por Tempo">
-  <h6>Imagem 5: Indicador por Tempo</h6>
+  <img src="../../assets/con/con_i_indicadores.png" alt="Indicadores por Tempo">
+  <h6>Imagem 5: Indicadores por Tempo</h6>
 </div>
 
-O Painel Indicadores oferece uma análise aprofundada do desempenho financeiro da empresa através de gráficos de linhas, que são essenciais para entender as tendências temporais dos indicadores-chave. Esses gráficos são divididos em dois conjuntos distintos de indicadores, permitindo a visualização simultânea de duas métricas diferentes. Cada gráfico utiliza linhas para representar diferentes anos, enquanto o eixo x é segmentado por meses, proporcionando uma visão detalhada e contínua das variações ao longo do tempo.
+O gráfico de linhas apresentado no Painel Indicadores é uma ferramenta essencial para a análise temporal dos indicadores-chave da empresa. Este gráfico oferece uma visão detalhada e contínua das tendências ao longo do tempo, utilizando linhas distintas para representar diferentes indicadores. O eixo x é dividido em meses, proporcionando uma visualização clara de como cada indicador evolui ao longo do período analisado.
 
-O primeiro conjunto de indicadores inclui:
-- **Capital de Giro Próprio**
-- **CDG (Capital de Giro)**
-- **Composição de Endividamento**
-- **Giro do Ativo**
-- **Imobilização do Investimento Total**
-- **Liquidez Corrente**
+Ao observar o gráfico, é possível identificar como o Capital de Giro Próprio, o CDG (Capital de Giro), a Composição de Endividamento, o Giro do Ativo, a Imobilização do Investimento Total e a Liquidez Corrente variam ao longo dos meses. Esta visão detalhada ajuda a analisar o impacto dessas métricas na saúde financeira e operacional da empresa. Além disso, ao visualizar a Liquidez Geral, a Liquidez Imediata, a Liquidez Seca, a NGC (Necessidade de Capital de Giro), o Saldo em Tesouraria e a Solvência Geral, é possível obter uma compreensão mais abrangente dos aspectos de liquidez e solvência da empresa ao longo do tempo.
 
-Cada um desses indicadores é crucial para avaliar a saúde financeira da empresa de diferentes ângulos. Por exemplo, o **Capital de Giro Próprio** e o **CDG (Capital de Giro)** fornecem uma visão sobre a capacidade da empresa de financiar suas operações e crescer de forma sustentável. A **Composição de Endividamento** ajuda a entender a estrutura de capital e o nível de risco financeiro. O **Giro do Ativo** e a **Imobilização do Investimento Total** oferecem insights sobre a eficiência no uso dos ativos e investimentos. A **Liquidez Corrente** mede a capacidade da empresa de cumprir suas obrigações de curto prazo.
+A capacidade de visualizar esses indicadores simultaneamente permite uma análise mais rica e contextualizada, facilitando a identificação de padrões e variações que podem não ser evidentes ao observar apenas um indicador de cada vez. Por exemplo, é possível comparar o impacto da liquidez geral em relação à necessidade de capital de giro ou observar como o saldo em tesouraria interage com o giro do ativo.
 
-O segundo conjunto de indicadores é composto por:
-- **Liquidez Geral**
-- **Liquidez Imediata**
-- **Liquidez Seca**
-- **NGC (Necessidade de Capital de Giro)**
-- **Saldo em Tesouraria**
-- **Solvência Geral**
-
-Esses indicadores fornecem uma visão complementar sobre a capacidade da empresa de gerenciar seus recursos financeiros e manter a estabilidade financeira. A **Liquidez Geral**, **Liquidez Imediata** e **Liquidez Seca** avaliam a capacidade da empresa de enfrentar obrigações de curto e longo prazo, ajustando-se a diferentes cenários de liquidez. O **NGC (Necessidade de Capital de Giro)** mostra a quantidade de capital necessário para sustentar as operações diárias. O **Saldo em Tesouraria** reflete a posição de caixa disponível, enquanto a **Solvência Geral** oferece uma visão sobre a capacidade da empresa de atender suas dívidas no longo prazo.
-
-A possibilidade de visualizar dois indicadores simultaneamente oferece uma análise mais rica e contextualizada. Por exemplo, ao comparar **Capital de Giro Próprio** com **Liquidez Corrente**, é possível entender como a capacidade de financiar as operações afeta a liquidez da empresa. Da mesma forma, analisar **Giro do Ativo** ao lado de **Imobilização do Investimento Total** pode revelar como a eficiência no uso dos ativos impacta o retorno sobre investimentos.
-
-A interação com os gráficos permite que os usuários selecionem e visualizem indicadores específicos, ajustando a análise para responder a perguntas e cenários financeiros variados. Os gráficos de linhas interativos, ajustados por meio de botões para seleção, oferecem uma visão clara e integrada dos dados financeiros ao longo do tempo. Essa funcionalidade é crucial para identificar padrões, tendências e anomalias, possibilitando uma melhor compreensão do desempenho financeiro e facilitando o planejamento estratégico e a implementação de medidas corretivas.
-
-Essa abordagem de visualização não só melhora a experiência do usuário, mas também permite uma análise mais detalhada e fundamentada, ajudando os gestores a tomar decisões informadas e ajustar estratégias com base em uma visão abrangente da saúde financeira da empresa.
+A importância deste gráfico reside na sua capacidade de oferecer uma visão clara e integrada das métricas ao longo dos períodos de tempo, permitindo que os gestores detectem padrões, tendências e anomalias. Essa visão temporal é crucial para o planejamento estratégico, o ajuste de políticas e a implementação de medidas corretivas. O gráfico também é interativo, e ao utilizar o conjunto de botões para seleção, é possível ajustar a visualização para focar em indicadores específicos, oferecendo uma análise detalhada e precisa de cada aspecto ao longo dos meses e anos. Isso facilita a comparação entre diferentes indicadores e períodos, proporcionando uma visão mais completa do desempenho da empresa.
 
 
 <br><br>
