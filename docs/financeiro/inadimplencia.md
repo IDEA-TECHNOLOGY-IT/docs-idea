@@ -1,12 +1,12 @@
 # Painel Inadimplência
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_page1.png" alt="Inadimplência1">
+  <img src="../../assets/flux/flux_inadim_page1.png" alt="Inadimplência1">
   <h6>Imagem 1: Painel Inadimplência - Visão Gráfico</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_page2.png" alt="Inadimplência2">
+  <img src="../../assets/flux/flux_inadim_page2.png" alt="Inadimplência2">
   <h6>Imagem 2: Painel Inadimplência - Visão de Tabela</h6>
 </div></p>
 
@@ -56,7 +56,7 @@ Ao utilizar filtros ou clicar em pontos de dados nas visualizações neste paine
 ### Aging - Inadimplência
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_aging.png" alt="Aging Inadimplência">
+  <img src="../../assets/flux/flux_inadim_aging.png" alt="Aging Inadimplência">
   <h6>Imagem 4: Aging - Inadimplência</h6>
 </div></p>
 
@@ -81,7 +81,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 ### Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_projeto.png" alt="Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente">
+  <img src="../../assets/flux/flux_inadim_projeto.png" alt="Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente">
   <h6>Imagem 3: Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
@@ -99,7 +99,7 @@ Com a exibição clara dos valores absolutos de inadimplência e suas respectiva
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
@@ -107,7 +107,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
 ### Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_cliente.png" alt="Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial">
+  <img src="../../assets/flux/flux_inadim_cliente.png" alt="Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial">
   <h6>Imagem 5: Inadimplência por Cliente, Origem, Projeto, Dimensão ou Filial</h6>
 </div></p>
 
@@ -125,7 +125,7 @@ Com a exibição clara dos valores absolutos de inadimplência e suas respectiva
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para analisar a área necessária.
@@ -135,7 +135,7 @@ Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para anal
 ### Inadimplência Acumulado por Mês
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_mes.png" alt="Inadimplência por Mês">
+  <img src="../../assets/flux/flux_inadim_mes.png" alt="Inadimplência por Mês">
   <h6>Imagem 6: Inadimplência por Mês</h6>
 </div></p>
 
@@ -150,7 +150,7 @@ O gráfico ilustra inadimplências acumulado por mês e ano, destacando três el
 Esses três elementos, em conjunto, oferecem uma visão completa da saúde financeira da empresa em relação aos recebíveis. O gráfico permite que a empresa identifique padrões de inadimplência, avalie seu impacto no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nas inadimplências em um determinado mês, a empresa pode investigar as causas e implementar ações corretivas para evitar recorrências. Além disso, ao comparar a porcentagem de inadimplências com o valor total dos recebíveis, a gerência pode priorizar os clientes ou contas que exigem atenção imediata, garantindo que os recursos sejam utilizados de maneira eficaz para reduzir a inadimplência. Em última análise, esse gráfico é uma ferramenta estratégica fundamental para aprimorar o planejamento financeiro, melhorar a gestão do fluxo de caixa e assegurar a estabilidade e saúde das operações comerciais da empresa.
 
 <p><div align="center">
-  <img src="../../assets/flux_tooltip_inadim.png" alt="Inadim ToolTip">
+  <img src="../../assets/flux/flux_tooltip_inadim.png" alt="Inadim ToolTip">
 </div></p>
 
 Na dica de ferramenta para este visual, você encontrará mais três valores. Eles são pensados ​​como um insight adicional para a **inadimplência** ao longo do tempo. Esses valores são:
@@ -166,7 +166,7 @@ Na dica de ferramenta para este visual, você encontrará mais três valores. El
 ### Tabela de Detalhes de Inadimplência
 
 <p><div align="center">
-  <img src="../../assets/flux_inadim_tabela.png" alt="Inadim Tabela">
+  <img src="../../assets/flux/flux_inadim_tabela.png" alt="Inadim Tabela">
   <h6>Imagem 7: Tabela de Detalhes de Inadimplência</h6>
 </div></p>
 
