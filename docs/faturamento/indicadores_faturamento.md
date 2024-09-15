@@ -1,7 +1,7 @@
 # Indicadores Faturamento
 
 <div align="center">
-  <img src="../../assets/fat_indicadores_caixas.png" alt="Indicadores Faturamento">
+  <img src="../../assets/fat/fat_indicadores_caixas.png" alt="Indicadores Faturamento">
   <h6>Imagem 1: Indicadores Faturamento</h6>
 </div>
 
@@ -16,7 +16,7 @@ Em resumo, os indicadores no topo de cada página do relatório no Power BI são
 ## Indicador de Mês Fechado
 
 <div align="center">
-  <img src="../../assets/fat_caixa_mesfechado.png" alt="Caixa de Mês Fechado">
+  <img src="../../assets/fat/fat_caixa_mesfechado.png" alt="Caixa de Mês Fechado">
   <h6>Imagem 2: Mês Fechado</h6>
 </div>
 
@@ -39,7 +39,7 @@ O botão "Ver mais" direciona o usuário para a página de Faturamento. Se o usu
 ## Indicador de Vendas
 
 <div align="center">
-  <img src="../../assets/fat_caixa_vendas.png" alt="Caixa de Vendas">
+  <img src="../../assets/fat/fat_caixa_vendas.png" alt="Caixa de Vendas">
   <h6>Imagem 3: Vendas</h6>
 </div>
 
@@ -61,7 +61,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Ven
 
 ## Indicador de Devoluções
 <div align="center">
-  <img src="../../assets/fat_caixa_devs.png" alt="Caixa de Devoluções">
+  <img src="../../assets/fat/fat_caixa_devs.png" alt="Caixa de Devoluções">
   <h6>Imagem 4: Devoluções</h6>
 </div>
 
@@ -84,7 +84,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Dev
 ## Indicador de Faturamento Líquido
 
 <div align="center">
-  <img src="../../assets/fat_caixa_fat.png" alt="Caixa de Faturamento Líquido">
+  <img src="../../assets/fat/fat_caixa_fat.png" alt="Caixa de Faturamento Líquido">
   <h6>Imagem 5: Faturamento Líquido</h6>
 </div>
 
@@ -107,7 +107,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Fat
 ## Indicador de CMV
 
 <div align="center">
-  <img src="../../assets/fat_caixa_cmv.png" alt="Caixa de CMV">
+  <img src="../../assets/fat/fat_caixa_cmv.png" alt="Caixa de CMV">
   <h6>Imagem 6: CMV</h6>
 </div>
 
@@ -130,7 +130,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cus
 ## Indicador de Lucro Bruto
 
 <div align="center">
-  <img src="../../assets/fat_caixa_lucro.png" alt="Caixa de Lucro Bruto">
+  <img src="../../assets/fat/fat_caixa_lucro.png" alt="Caixa de Lucro Bruto">
   <h6>Imagem 7: Lucro Bruto</h6>
 </div>
 
@@ -153,7 +153,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Ite
 ## Indicador de Positivação
 
 <div align="center">
-  <img src="../../assets/fat_caixa_pos.png" alt="Caixa de Positivação">
+  <img src="../../assets/fat/fat_caixa_pos.png" alt="Caixa de Positivação">
   <h6>Imagem 8: Positivação</h6>
 </div>
 
