@@ -2,10 +2,20 @@
 
 <p><div align="center">
   <img src="../../assets/con/con_i_page1.png" alt="Indicadores Page 1">
-  <h6>Imagem 1: Indicadores Visão de Matrix de Saldo Acumulado por Contas e Subcontas</h6>
+  <h6>Imagem 1: Indicadores - Visão Saldo Patrimonial</h6>
   <img src="../../assets/con/con_i_page2.png" alt="Indicadores Page 2">
-  <h6>Imagem 2: Indicadores Visão de Tabela de Indicadores</h6>
+  <h6>Imagem 2: Indicadores - Visão Indicadores</h6>
 </div></p>
+
+## Navegação
+
+O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
+
+- **[Visão Saldo Patrimonial e Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-saldo-patrimonial-e-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial" ou "mostrar indicadores".
+- **[Visão Saldo Patrimonial](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-saldo-patrimonial)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar saldo patrimonial".
+- **[Visão Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-indicadores)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "mostrar indicadores".
+
+## Informações no Painel Indicadores
 
 Os indicadores financeiros são ferramentas essenciais para avaliar a saúde e a sustentabilidade de uma empresa. Eles fornecem uma visão detalhada sobre diferentes aspectos financeiros, como liquidez, endividamento, eficiência operacional e capacidade de financiamento. 
 
@@ -30,13 +40,13 @@ Os seguintes indicadores estão incluídos na página de indicadores dedicada;
 
 Para acessar a Matrix de Saldo Acumulado por Contas e Subcontas, clique no botão 'Mostrar Saldo Patrimonial' se ela não estiver visível na página. Além disso, a Tabela de Indicadores proporciona uma análise detalhada dos principais indicadores financeiros e é acessível através do botão 'Mostrar Indicadores', caso não esteja atualmente em exibição. Esses botões facilitam a navegação entre diferentes visualizações e ajudam a obter uma compreensão completa da situação financeira da empresa, Mantendo a visualização dos gráficos de linha dos indicadores.
 
-Na página de Indicadores, você encontrará:
+## Visão Saldo Patrimonial
 
-## Matrix de Saldo Acumulado por Contas e Subcontas
+### Saldo Patrimonial por Conta e Subconta
 
 <div align="center">
-  <img src="../../assets/con/con_i_contas.png" alt="Matrix de Saldo Acumulado por Contas e Subcontas">
-  <h6>Imagem 3: Matrix de Saldo Acumulado por Contas e Subcontas</h6>
+  <img src="../../assets/con/con_i_contas.png" alt="Saldo Patrimonial por Conta e Subconta">
+  <h6>Imagem 3: Saldo Patrimonial por Conta e Subconta</h6>
 </div>
 
 A matriz que apresenta o saldo acumulado por contas principais e suas respectivas subcontas oferece uma visão abrangente e detalhada da estrutura financeira da empresa. Esta matriz inclui as principais contas de Ativo e Passivo, e suas subdivisões, como Ativo Circulante, Ativo Não Circulante, Passivo Circulante, Passivo Não Circulante e Passivo Patrimônio Líquido, além das subcontas associadas a cada uma dessas categorias. 
@@ -47,7 +57,9 @@ Analisando esses dados, é possível identificar tendências e padrões, como a 
 
 Essa matriz é essencial para a compreensão detalhada da posição financeira da empresa e para a realização de análises estratégicas e de planejamento financeiro.
 
-## Tabela de Indicadores
+## Visão Indicadores
+
+### Tabela de Indicadores
 
 <div align="center">
   <img src="../../assets/con/con_i_tabela.png" alt="Tabela de Indicadores">
@@ -60,7 +72,9 @@ Esta tabela é uma ferramenta valiosa para usuários que precisam de uma visão 
 
 A transparência nas fórmulas e a visualização direta dos valores ajudam a identificar tendências, fazer comparações e tomar decisões informadas com base em dados financeiros precisos e atualizados.
 
-## Gráficos de Linhas por Indicadores
+## Visão Saldo Patrimonial e Indicadores
+
+### Gráficos de Linhas por Indicadores
 
 <div align="center">
   <img src="../../assets/con/con_i_indicadores.png" alt="Gráficos de Linhas por Indicadores">
