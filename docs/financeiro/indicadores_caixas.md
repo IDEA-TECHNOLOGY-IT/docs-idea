@@ -1,7 +1,7 @@
 # Indicadores Financeiros
 
 <div align="center">
-  <img src="../../assets/flux_indicadores_caixas.png" alt="Caixas de Indicadores">
+  <img src="../../assets/flux/flux_indicadores_caixas.png" alt="Caixas de Indicadores">
   <h6>Imagem 1: Indicadores Financeiro</h6>
 </div>
 
@@ -16,7 +16,7 @@ Em resumo, os indicadores posicionados no topo de cada página do relatório no 
 ## Indicador A Receber
 
 <div align="center">
-  <img src="../../assets/flux_caixa_rec.png" alt="Caixa de A Receber" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_rec.png" alt="Caixa de A Receber" style="height: 150px;">
   <h6>Imagem 2: A Receber</h6>
 </div>
 
@@ -41,7 +41,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel A Receber](https://idea
 ## Indicador A Pagar
 
 <div align="center">
-  <img src="../../assets/flux_caixa_pag.png" alt="Caixa de A Pagar" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_pag.png" alt="Caixa de A Pagar" style="height: 150px;">
   <h6>Imagem 3: A Pagar</h6>
 </div>
 
@@ -66,7 +66,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel A Pagar](https://idea-t
 ## Indicador de Inadimplência
 
 <div align="center">
-  <img src="../../assets/flux_caixa_inadim.png" alt="Caixa de Inadimplência" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_inadim.png" alt="Caixa de Inadimplência" style="height: 150px;">
   <h6>Imagem 4: Inadimplência</h6>
 </div>
 
@@ -99,7 +99,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel Inadimplência](https:/
 ## Indicador de Pagamentos Vencidos
 
 <div align="center">
-  <img src="../../assets/flux_caixa_venc.png" alt="Caixa de Pagamentos Vencidos" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_venc.png" alt="Caixa de Pagamentos Vencidos" style="height: 150px;">
   <h6>Imagem 5: Pagamentos Vencidos</h6>
 </div>
 
@@ -132,7 +132,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel Pagamentos Vencidos](ht
 ## Indicador de Período Médio de Recebimento (PMR)
 
 <div align="center">
-  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de PMR" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_pmr.png" alt="Caixa de PMR" style="height: 150px;">
   <h6>Imagem 6: Período Médio de Recebimento (PMR)</h6>
 </div>
 
@@ -163,7 +163,7 @@ Conheça mais sobre essa caixa de indicadores no [Painel de Recebimentos Realiza
 ## Indicador de Período Médio de Pagamento (PMP)
 
 <div align="center">
-  <img src="../../assets/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)" style="height: 150px;">
   <h6>Imagem 7: Período Médio de Pagamento (PMP)</h6>
 </div>
 
@@ -195,11 +195,11 @@ Conheça mais sobre essa caixa de indicadores no [Painel de Pagamentos Realizado
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin-right: 20px; height: 150px;" >
-    <img src="../../assets/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas" style="height: 100%; object-fit: contain;">
+    <img src="../../assets/flux/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas" style="height: 100%; object-fit: contain;">
     <h6>Imagem 8: Caixa de Saldo Total em Contas - Ver mais</h6>
   </div>
   <div style="text-align: center; height: 150px;">
-    <img src="../../assets/flux_caixa_saldomenos.png" alt="Caixa de Saldo Total em Contas Menos" style="height: 100%; object-fit: contain;">
+    <img src="../../assets/flux/flux_caixa_saldomenos.png" alt="Caixa de Saldo Total em Contas Menos" style="height: 100%; object-fit: contain;">
     <h6>Imagem 9: Caixa de Saldo Total em Contas - Veja menos</h6>
   </div>
 </div>
