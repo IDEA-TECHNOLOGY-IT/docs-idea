@@ -9,10 +9,11 @@
 
 ## Navegação
 
-Este painel de relatório está dividido em duas visualizações;
+O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafico)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
+- **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafico)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Custos e Despesas
 
