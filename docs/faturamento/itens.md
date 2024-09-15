@@ -1,12 +1,12 @@
 # Painel Itens
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_page1.png" alt="Itens2">
+  <img src="../../assets/fat/fat_itens_page1.png" alt="Itens2">
   <h6>Imagem 1: Painel Itens - Visão Análise Anual</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_page2.png" alt="Itens2">
+  <img src="../../assets/fat/fat_itens_page2.png" alt="Itens2">
   <h6>Imagem 2: Painel Itens - Visão Detalhes</h6>
 </div></p>
 
@@ -36,7 +36,7 @@ Em resumo, a análise de itens no BI é uma ferramenta poderosa para otimizar a 
 ### Quantidade de Itens Vendidos x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_quantidade.png" alt="Quantidade de Itens Vendidos x Filial, Vendedor, Cliente, Fabricante ou Item">
+  <img src="../../assets/fat/fat_itens_quantidade.png" alt="Quantidade de Itens Vendidos x Filial, Vendedor, Cliente, Fabricante ou Item">
   <h6>Imagem 3: Quantidade de Itens Vendidos x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
@@ -50,7 +50,7 @@ A **seleção de categoria** neste gráfico permite criar várias combinações 
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
@@ -58,7 +58,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, 
 ### Ticket Médio x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_ticket.png" alt="Ticket Médio x Filial, Vendedor, Cliente, Fabricante ou Item">
+  <img src="../../assets/fat/fat_itens_ticket.png" alt="Ticket Médio x Filial, Vendedor, Cliente, Fabricante ou Item">
   <h6>Imagem 4: Ticket Médio x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
@@ -72,7 +72,7 @@ A **seleção de categoria** neste gráfico permite criar várias combinações 
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, Fabricante ou Item para analisar a área necessária.
@@ -80,7 +80,7 @@ Aqui, você pode mover para cima ou para baixo entre Filial, Vendedor, Cliente, 
 ### Itens Destacados
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_melhor.png" alt="Itens Destacados">
+  <img src="../../assets/fat/fat_itens_melhor.png" alt="Itens Destacados">
   <h6>Imagem 6: Itens Destacados</h6>
 </div></p>
 
@@ -97,7 +97,7 @@ Juntos, esses três cartões fornecem uma visão abrangente do desempenho dos pr
 ### Lucro Bruto Acumulado
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_acumulado.png" alt="Lucro Bruto Acumulados">
+  <img src="../../assets/fat/fat_itens_acumulado.png" alt="Lucro Bruto Acumulados">
   <h6>Imagem 5: Lucro Bruto Acumulado</h6>
 </div></p>
 
@@ -112,7 +112,7 @@ Além disso, o gráfico de área é especialmente útil para a análise do impac
 ### Tabela de Detalhes de Itens
 
 <p><div align="center">
-  <img src="../../assets/fat_itens_tabela.png" alt="Tabela de Detalhes de Itens">
+  <img src="../../assets/fat/fat_itens_tabela.png" alt="Tabela de Detalhes de Itens">
   <h6>Imagem 6: Tabela de Detalhes de Itens</h6>
 </div></p>
 
