@@ -132,7 +132,7 @@ Aqui, você pode mover para cima ou para baixo entre Cliente ou Origem para anal
 
 ## Visão Gráfica
 
-### Inadimplência por Mês
+### Inadimplência Acumulado por Mês
 
 <p><div align="center">
   <img src="../../assets/flux_inadim_mes.png" alt="Inadimplência por Mês">
