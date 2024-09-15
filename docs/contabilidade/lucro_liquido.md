@@ -1,9 +1,9 @@
 # Painel Lucro Líquido
 
 <p><div align="center">
-  <img src="../../assets/contabilidade_ll_page1.png" alt="Lucro Líquido Page 1">
+  <img src="../../assets/con/con_ll_page1.png" alt="Lucro Líquido Page 1">
   <h6>Imagem 1: Lucro Líquido Visão Gráfica</h6>
-  <img src="../../assets/contabilidade_ll_page2.png" alt="Lucro Líquido Page 2">
+  <img src="../../assets/con/con_ll_page2.png" alt="Lucro Líquido Page 2">
   <h6>Imagem 2: Lucro Líquido Visão de Tabela</h6>
 </div></p>
 
@@ -19,7 +19,7 @@ Na página de Receita Bruta, você encontrará:
 ### Tabela de Lucro Líquido
 
 <div align="center">
-  <img src="../../assets/contabilidade_ll_tabela_mes.png" alt="Tabela de Lucro Líquido">
+  <img src="../../assets/con/con_ll_mes.png" alt="Tabela de Lucro Líquido">
   <h6>Imagem 3: Tabela de Lucro Líquido</h6>
 </div>
 
@@ -32,7 +32,7 @@ Esta tabela é importante porque fornece uma visão detalhada do desempenho fina
 ### Lucro Líquido Acumulado por Mês
 
 <div align="center">
-  <img src="../../assets/contabilidade_ll_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
+  <img src="../../assets/con/con_ll_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
   <h6>Imagem 4: Lucro Líquido Acumulado por Mês</h6>
 </div>
 
@@ -43,7 +43,7 @@ Esse gráfico é essencial para analisar o comportamento acumulado do Lucro Líq
 ### Lucro Líquido vs. Receita Líquida por Mês
 
 <div align="center">
-  <img src="../../assets/contabilidade_ll_lucro_receita.png" alt="Lucro Líquido vs. Receita Líquida por Mês">
+  <img src="../../assets/con/con_ll_lr.png" alt="Lucro Líquido vs. Receita Líquida por Mês">
   <h6>Imagem 5: Lucro Líquido vs. Receita Líquida por Mês</h6>
 </div>
 
@@ -55,7 +55,7 @@ Esse gráfico facilita a comparação visual do Lucro Líquido e Receita Líquid
 ### Tabela de Detalhamento
 
 <div align="center">
-  <img src="../../assets/contabilidade_ll_tabela_detalhes.png" alt="Tabela de Detalhamento">
+  <img src="../../assets/con/con_ll_detalhes.png" alt="Tabela de Detalhamento">
   <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
