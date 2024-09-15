@@ -7,16 +7,30 @@
   <h6>Imagem 2: Lucro Líquido Visão de Tabela</h6>
 </div></p>
 
-Lucro Líquido refere-se ao lucro total da empresa após a dedução de todos os custos e despesas, incluindo impostos e despesas financeiras. Ele fornece uma visão clara do desempenho financeiro final da empresa, refletindo o lucro efetivo que pode ser reinvestido ou distribuído aos acionistas. 
+## Navegação
 
-O Lucro Líquido é um indicador crucial da saúde financeira da empresa e sua capacidade de gerar lucro após todas as obrigações.
+Este painel de relatório está dividido em duas visualizações;
 
-Esta página do relatório é dividida em duas visualizações, visão gráfica e visão de tabela.
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
-Na página de Receita Bruta, você encontrará:
+## Informações no Painel Lucro Líquido
+
+A análise de lucro líquido é um elemento essencial no Business Intelligence (BI) para contabilidade, pois fornece uma visão abrangente da rentabilidade de uma empresa. Monitorar e analisar o lucro líquido permite que as empresas avaliem sua performance financeira geral, identifiquem áreas de lucratividade e potencialmente otimizem suas estratégias para melhorar os resultados financeiros.
+
+Visualizações como lucro líquido acumulado e crescimento do lucro líquido mês a mês são fundamentais para acompanhar a performance financeira ao longo do tempo. O lucro líquido acumulado oferece uma perspectiva de longo prazo, mostrando como o lucro líquido se acumula ao longo de um período específico. Isso ajuda a identificar tendências de rentabilidade e a prever a saúde financeira futura da empresa. A comparação do lucro líquido mês a mês permite que as empresas detectem variações de curto prazo, como o impacto de mudanças operacionais ou eventos sazonais, e ajustem suas estratégias financeiras conforme necessário.
+
+A análise detalhada do lucro líquido por segmento, produto, filial ou linha de negócio é crucial para entender quais áreas estão contribuindo mais para a rentabilidade e quais podem precisar de melhorias. Esse tipo de análise permite que as empresas identifiquem quais produtos ou segmentos estão gerando mais lucro e quais estão apresentando baixo desempenho. Compreender essa distribuição ajuda a alocar recursos de maneira mais eficiente, otimizar estratégias de preço e desenvolver planos de ação para melhorar a rentabilidade.
+
+A análise da margem de lucro líquido fornece insights sobre a eficiência operacional e a gestão de custos. Ao examinar a margem de lucro líquido, as empresas podem avaliar a relação entre receita e despesas, identificar áreas para redução de custos e melhorar a eficiência operacional. Essa análise também pode destacar a necessidade de ajustes na estrutura de preços ou em estratégias de controle de custos.
+
+O impacto da análise de lucro líquido vai além do departamento financeiro. Os insights obtidos dos dados de lucro líquido podem influenciar decisões estratégicas, como investimentos, expansão de negócios e desenvolvimento de novos produtos. Compreender quais áreas estão gerando o maior lucro pode ajudar as equipes de gestão a direcionar esforços e recursos de forma mais eficaz, enquanto a análise de tendências de lucro pode informar estratégias de crescimento e otimização.
+
+Em resumo, a análise de lucro líquido no BI para contabilidade é uma ferramenta poderosa para impulsionar o desempenho financeiro e estratégico. Ao examinar o lucro líquido de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por segmento, as empresas obtêm uma visão mais clara de sua rentabilidade. Essa análise não só melhora a gestão financeira, mas também impacta outras áreas-chave, como estratégias de negócios, planejamento financeiro e decisões de investimento, criando um ambiente mais focado em resultados e orientado por dados.
 
 ## Visão Gráfica
-### Tabela de Lucro Líquido
+
+### Lucro Líquido por Filial ou Projeto
 
 <div align="center">
   <img src="../../assets/con/con_ll_mes.png" alt="Tabela de Lucro Líquido">
@@ -40,7 +54,7 @@ Mostrando o valor acumulado do Lucro Líquido ao longo do tempo, com ‘tooltips
 
 Esse gráfico é essencial para analisar o comportamento acumulado do Lucro Líquido ao longo do tempo, ajudando a entender como as margens de lucro evoluem em relação à receita acumulada.
 
-### Lucro Líquido vs. Receita Líquida por Mês
+### Margem de Lucro Líquido por Mês
 
 <div align="center">
   <img src="../../assets/con/con_ll_lr.png" alt="Lucro Líquido vs. Receita Líquida por Mês">
@@ -52,6 +66,7 @@ Apresenta colunas para Lucro Líquido e Receita Líquida, com uma linha mostrand
 Esse gráfico facilita a comparação visual do Lucro Líquido e Receita Líquida, e ajuda a monitorar se a % Margem está atingindo a meta estabelecida, destacando períodos de desempenho insatisfatório ou excepcional.
 
 ## Visão de Tabela
+
 ### Tabela de Detalhamento
 
 <div align="center">
