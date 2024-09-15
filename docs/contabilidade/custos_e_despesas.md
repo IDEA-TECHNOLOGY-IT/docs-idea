@@ -19,7 +19,7 @@ Na página de Receita Bruta, você encontrará:
 ### Tabela de Custos e Despesas
 
 <div align="center">
-  <img src="../../assets/con/con_ced_tabela_contas.png" alt="Tabela de Custos e Despesas">
+  <img src="../../assets/con/con_ced_contas.png" alt="Tabela de Custos e Despesas">
   <h6>Imagem 3: Tabela de Custos e Despesas</h6>
 </div>
 
@@ -32,7 +32,7 @@ A % Diferença é crucial para compreender o crescimento ou a redução nos cust
 ### Custos e Despesas por Conta
 
 <div align="center">
-  <img src="../../assets/con/con_ced_custos_e_despesas_por_conta.png" alt="Custos e Despesas por Conta">
+  <img src="../../assets/con/con_ced_ced.png" alt="Custos e Despesas por Conta">
   <h6>Imagem 4: Custos e Despesas por Conta</h6>
 </div>
 
@@ -59,7 +59,7 @@ A codificação por cor da % Diferença ajuda a identificar rapidamente os perí
 ### Tabela de Detalhamento
 
 <div align="center">
-  <img src="../../assets/con/con_ced_tabela_detalhes.png" alt="Tabela de Detalhamento">
+  <img src="../../assets/con/con_ced_detalhes.png" alt="Tabela de Detalhamento">
   <h6>Imagem 6: Tabela de Detalhamento</h6>
 </div>
 
