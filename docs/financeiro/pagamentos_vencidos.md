@@ -130,7 +130,7 @@ Aqui, você pode navegar entre as opções de Favorecido ou Origem, permitindo q
 
 ## Visão Gráfica
 
-### Pagamentos Vencidos por Mês
+### Pagamentos Vencidos Acumulado por Mês
 
 <p><div align="center">
   <img src="../../assets/flux_venc_mes.png" alt="Vencido Mês">
@@ -141,11 +141,23 @@ O gráfico ilustra os pagamentos vencidos por mês e ano, destacando três eleme
 
 - **A Pagar Acumulado:** Este representa o valor total acumulado que a empresa deve pagar ao longo dos meses. Essa métrica é crucial, pois fornece uma visão geral das saídas de caixa potenciais. Ao rastrear os pagamentos acumulados, a empresa pode monitorar a saúde geral de suas obrigações financeiras e antecipar o momento dos desembolsos. Isso é essencial para o planejamento financeiro, garantindo que o negócio tenha os recursos necessários para cumprir com suas responsabilidades sem comprometer sua liquidez.
 
-- **Valor Pagamentos Vencidos:** Esta barra representa o valor acumulado de pagamentos vencidos em cada mês, indicando o montante total que não foi pago dentro do prazo acordado. Monitorar o valor dos pagamentos vencidos acumulados é vital para identificar tendências de atrasos e possíveis problemas com fornecedores ou períodos específicos. Uma tendência crescente de pagamentos vencidos pode sinalizar dificuldades de fluxo de caixa, ineficiências no processo de aprovação de pagamentos ou a necessidade de reavaliar o ciclo de pagamentos da empresa. Compreendendo quando e por que os pagamentos se tornam vencidos, a empresa pode tomar medidas proativas, como renegociar prazos ou ajustar suas políticas de pagamento para evitar maiores consequências.
+- **Pagamentos Vencidos Acumulado:** Mostra o valor acumulado de pagamentos vencidos em cada mês, indicando o montante total que não foi pago dentro do prazo acordado. Monitorar o valor dos pagamentos vencidos acumulados é vital para identificar tendências de atrasos e possíveis problemas com fornecedores ou períodos específicos. Uma tendência crescente de pagamentos vencidos pode sinalizar dificuldades de fluxo de caixa, ineficiências no processo de aprovação de pagamentos ou a necessidade de reavaliar o ciclo de pagamentos da empresa. Compreendendo quando e por que os pagamentos se tornam vencidos, a empresa pode tomar medidas proativas, como renegociar prazos ou ajustar suas políticas de pagamento para evitar maiores consequências.
 
-- **% Pagamentos Vencidos:** A linha azul mostra a taxa percentual de pagamentos vencidos em relação aos pagamentos acumulados. Essa porcentagem fornece uma visão clara e imediata da proporção de obrigações financeiras que estão atrasadas. Ao rastrear essa taxa ao longo do tempo, a gerência pode avaliar a eficácia de suas políticas de pagamento e tomar decisões informadas para ajustar suas estratégias, como negociar condições mais favoráveis com fornecedores ou priorizar certos pagamentos para evitar penalidades. Uma alta porcentagem de pagamentos vencidos pode indicar a necessidade de melhorar a gestão do fluxo de caixa ou renegociar termos com fornecedores, enquanto uma baixa porcentagem sugere que os processos atuais estão funcionando bem.
+- **% Pagamentos Vencidos Acumulado:** O texto mostra a taxa percentual de pagamentos vencidos em relação aos pagamentos acumulados. Essa porcentagem fornece uma visão clara e imediata da proporção de obrigações financeiras que estão atrasadas. Será vermelho quando estiver acima de 10% e verde quando estiver abaixo para maior clareza visual. Ao rastrear essa taxa ao longo do tempo, a gerência pode avaliar a eficácia de suas políticas de pagamento e tomar decisões informadas para ajustar suas estratégias, como negociar condições mais favoráveis com fornecedores ou priorizar certos pagamentos para evitar penalidades. Uma alta porcentagem de pagamentos vencidos pode indicar a necessidade de melhorar a gestão do fluxo de caixa ou renegociar termos com fornecedores, enquanto uma baixa porcentagem sugere que os processos atuais estão funcionando bem.
 
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos seus passivos. O gráfico permite que a empresa identifique padrões de atrasos, avalie o impacto dos pagamentos vencidos no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nos pagamentos vencidos em um mês específico, a empresa pode investigar as causas e implementar estratégias para evitar que isso ocorra novamente. Da mesma forma, ao comparar a porcentagem de pagamentos vencidos com os pagamentos acumulados, a gerência pode priorizar quais fornecedores ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para minimizar os impactos financeiros negativos. Em última análise, este gráfico é uma ferramenta essencial para otimizar o planejamento financeiro, melhorar a gestão do fluxo de caixa e manter uma operação financeira estável e saudável.
+
+<p><div align="center">
+  <img src="../../assets/flux_tooltip_inadim.png" alt="Inadim ToolTip">
+</div></p>
+
+Na dica de ferramenta para este visual, você encontrará mais três valores. Eles são pensados como um insight adicional para os **pagamentos vencidos** ao longo do tempo. Esses valores são:
+
+- **A Pagar Total por Mês:** Este número representa o valor total que era esperado para ser pago naquele mês. Ele inclui todas as contas ou obrigações financeiras que deveriam ter sido quitadas no período. Este valor fornece o contexto de quanto era previsto pagar no mês e serve como linha de base para avaliar o comportamento dos pagamentos. Entender isso ajuda os usuários a visualizar o volume de compromissos financeiros e fornece um ponto de referência claro ao analisar os pagamentos em atraso.
+
+- **Pagamentos Vencidos por Mês:** Este número representa o valor total de pagamentos que não foram quitados até a data de vencimento para aquele mês específico. Ele mostra o nível de **pagamentos vencidos** que ocorreu em relação ao que era esperado para ser pago. Este valor é fundamental para identificar os meses em que houve maiores dificuldades em cumprir os prazos de pagamento e fornecer insights sobre como a gestão de pagamentos está sendo afetada ao longo do tempo.
+
+- **% Pagamentos Vencidos por Mês:** Esta porcentagem mostra a proporção de **a pagar** (total de compromissos financeiros esperados) que não foi quitada no prazo, expressa como uma porcentagem do total. Este valor é crucial para avaliar a gravidade dos pagamentos vencidos em relação às obrigações gerais. Ele permite que os usuários acompanhem a eficiência no cumprimento dos prazos, comparem o desempenho entre períodos e tomem medidas corretivas para melhorar a saúde financeira da empresa.
 
 ## Visão de Tabela
 
