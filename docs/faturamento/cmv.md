@@ -63,7 +63,7 @@ Em resumo, o gráfico de área acumulada para o CMV proporciona uma visão clara
 ### CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto
 
 <p><div align="center">
-  <img src="../../assets/fat/fat_cmv_acumulado.png" alt="CMV por Mês">
+  <img src="../../assets/fat/fat_cmv_anomes.png" alt="CMV por Mês">
   <h6>Imagem 4: CMV por Mês x Filial, Vendedor, Cliente, Fabricante ou Produto</h6>
 </div></p>
 
