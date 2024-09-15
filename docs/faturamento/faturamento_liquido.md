@@ -1,7 +1,7 @@
 # Painel de Faturamento Líquido
 
 <p><div align="center">
-  <img src="../../assets/fat_fat.png" alt="Faturamento Líquido">
+  <img src="../../assets/fat/fat_fat.png" alt="Faturamento Líquido">
   <h6>Imagem 1: Painel de Faturamento Líquido</h6>
 </div></p>
 
@@ -25,7 +25,7 @@ O Faturamento Líquido é um indicador crucial porque revela a receita real que 
 ### Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
+  <img src="../../assets/fat/fat_fat_tabela.png" alt="Faturamento Líquido Tabela">
   <h6>Imagem 2: Detalhes de Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
@@ -66,7 +66,7 @@ O Prazo Médio de Recebimento, ou seja, o número médio de dias que o vendedor 
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
@@ -74,7 +74,7 @@ Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabrica
 ### Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item
 
 <p><div align="center">
-  <img src="../../assets/fat_fat_filial.png" alt="Faturamento Filial">
+  <img src="../../assets/fat/fat_fat_filial.png" alt="Faturamento Filial">
   <h6>Imagem 3: Faturamento x Filial, Vendedor, Cliente, Fabricante ou Item</h6>
 </div></p>
 
@@ -86,7 +86,7 @@ O gráfico de barras facilita a visualização do desempenho de vendas em difere
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/faturamento/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/fat_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/fat/fat_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabricante ou Item, permitindo que você explore e analise a área específica de interesse com mais profundidade.
@@ -94,7 +94,7 @@ Aqui, você pode navegar entre as opções de Filial, Vendedor, Cliente, Fabrica
 ### Mês de Faturamento x Meta
 
 <p><div align="center">
-  <img src="../../assets/fat_fat_meta.png" alt="Faturamento Meta">
+  <img src="../../assets/fat/fat_fat_meta.png" alt="Faturamento Meta">
   <h6>Imagem 4: Mês de Faturamento x Meta</h6>
 </div></p>
 
