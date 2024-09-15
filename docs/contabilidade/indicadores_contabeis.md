@@ -1,7 +1,7 @@
 # Indicadores Contábeis
 
 <div align="center">
-  <img src="../../assets/contabilidade_indicadores_caixas.png" alt="Indicadores Contábeis">
+  <img src="../../assets/con/con_indicadores_caixas.png" alt="Indicadores Contábeis">
   <h6>Imagem 1: Indicadores Contábeis</h6>
 </div>
 
@@ -16,7 +16,7 @@ Em resumo, os indicadores no topo de cada página do Power BI são fundamentais 
 ## Indicador de Receita Bruta
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_receita_bruta.png" alt="Caixa de Receita Bruta">
+  <img src="../../assets/con/con_caixa_rb.png" alt="Caixa de Receita Bruta">
   <h6>Imagem 2: Receita Bruta</h6>
 </div>
 
@@ -39,7 +39,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Rec
 ## Indicador de Custos e Despesas
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_custos.png" alt="Caixa de Custos e Despesas">
+  <img src="../../assets/con/con_caixa_custos.png" alt="Caixa de Custos e Despesas">
   <h6>Imagem 3: Custos e Despesas</h6>
 </div>
 
@@ -62,7 +62,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Cus
 ## Indicador de Lucro Líquido
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_lucro.png" alt="Caixa de Lucro Líquido">
+  <img src="../../assets/con/con_caixa_lucro.png" alt="Caixa de Lucro Líquido">
   <h6>Imagem 4: Lucro Líquido</h6>
 </div>
 
@@ -85,7 +85,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Luc
 ## Indicador de EBITDA
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_ebitda.png" alt="Caixa de EBITDA">
+  <img src="../../assets/con/con_caixa_ebitda.png" alt="Caixa de EBITDA">
   <h6>Imagem 5: EBITDA</h6>
 </div>
 
@@ -108,7 +108,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBI
 ## Indicador de Capital Giro Próprio
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
+  <img src="../../assets/con/con_caixa_capital.png" alt="Caixa de Capital Giro Próprio">
   <h6>Imagem 6: Capital Giro Próprio</h6>
 </div>
 
@@ -145,7 +145,7 @@ Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 ## Indicador de Regra dos 40
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_regra.png" alt="Caixa de Regra dos 40">
+  <img src="../../assets/con/con_caixa_regra.png" alt="Caixa de Regra dos 40">
   <h6>Imagem 7: Regra dos 40</h6>
 </div>
 
@@ -172,7 +172,7 @@ Botão "Ver mais", quando clicado, este botão leva o usuário à página de Reg
 ## Indicador de Saldo em Tesouraria
 
 <div align="center">
-  <img src="../../assets/contabilidade_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
+  <img src="../../assets/con/con_caixa_saldo.png" alt="Caixa de Saldo em Tesouraria">
   <h6>Imagem 8: Saldo em Tesouraria</h6>
 </div>
 
