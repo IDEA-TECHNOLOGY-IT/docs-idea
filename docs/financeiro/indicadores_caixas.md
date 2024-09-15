@@ -194,11 +194,11 @@ Conheça mais sobre essa caixa de indicadores no [Painel de Pagamentos Realizado
 ## Caixa de Saldo Total em Contas
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center; margin-right: 20px;">
+  <div style="text-align: center; margin-right: 20px; height: 150px;" >
     <img src="../../assets/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas">
     <h6>Imagem 8: Caixa de Saldo Total em Contas - Ver mais</h6>
   </div>
-  <div style="text-align: center;">
+  <div style="text-align: center; height: 150px;">
     <img src="../../assets/flux_caixa_saldomenos.png" alt="Caixa de Saldo Total em Contas Menos">
     <h6>Imagem 9: Caixa de Saldo Total em Contas - Veja menos</h6>
   </div>
