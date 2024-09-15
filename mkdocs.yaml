@@ -12,7 +12,7 @@ theme:
   language: pt-BR 
   name: material
   custom_dir: overrides
-  logo: assets/logo.png
+  logo: assets/idea.png
   favicon: assets/favicon.ico
   features:
     - content.code.copy
