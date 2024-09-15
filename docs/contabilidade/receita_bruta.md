@@ -2,9 +2,9 @@
 
 <p><div align="center">
   <img src="../../assets/con/con_rb_page1.png" alt="Receita Bruta Page 1">
-  <h6>Imagem 1: Receita Bruta Visão Gráfica</h6>
+  <h6>Imagem 1: Receita Bruta - Visão Gráfica</h6>
   <img src="../../assets/con/con_rb_page2.png" alt="Receita Bruta Page 2">
-  <h6>Imagem 2: Receita Bruta Visão de Tabela</h6>
+  <h6>Imagem 2: Receita Bruta - Visão de Tabela</h6>
 </div></p>
 
 ## Navegação
