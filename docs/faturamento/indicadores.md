@@ -1,293 +1,130 @@
 # Painel Indicadores
-![Gráfico "Relatório Geral Positivação"](../assets/relatorio-geral-positivacao.jpeg)
-<p align="center"><em>Imagem 1: Gráfico de Custo da Mercadoria Vendida (%) ao longo do tempo</em></p>
 
-O **Indicador de Positivação** é uma métrica fundamental no contexto de vendas e faturamento, utilizada para medir a eficácia das operações comerciais de uma empresa. Especificamente, positivação refere-se ao percentual de clientes ativos que realizaram pelo menos uma compra dentro de um período determinado. Este indicador é crucial para entender o nível de engajamento e a atividade de compra dos clientes, oferecendo insights valiosos sobre a saúde comercial da empresa.
+<p><div align="center">
+  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <h6>Imagem 1: Painel Indicadores</h6>
+</div></p>
 
-## Importância da Positivação
+## Informações no Painel Indicadores
 
-- **Avaliação do Engajamento de Clientes**: O indicador de positivação permite que a empresa avalie quantos dos seus clientes ativos estão efetivamente realizando compras. Um alto índice de positivação sugere que a maioria dos clientes está engajada e contribuindo para as receitas da empresa.
-  
-- **Relação com o Faturamento**: A positivação está diretamente relacionada ao faturamento da empresa. Quanto maior o número de clientes positivados, maior é o potencial de faturamento. Isso faz da positivação uma métrica crucial para o planejamento e a execução de estratégias comerciais.
+O Painel Indicadores é uma ferramenta vital para o gerenciamento e análise detalhada do desempenho financeiro e operacional da empresa. Ele apresenta uma série de indicadores-chave que proporcionam uma visão holística e estratégica sobre diversos aspectos do negócio, facilitando a tomada de decisões e a implementação de estratégias eficazes.
 
-- **Identificação de Oportunidades de Crescimento**: Ao monitorar a positivação, a empresa pode identificar oportunidades para melhorar a ativação de clientes inativos, aumentando assim o volume de vendas e otimizando os resultados financeiros.
+A exibição dos indicadores é feita através de um gráfico de linhas, onde cada linha representa um ano específico e o eixo x mostra os meses. Esse formato permite uma análise detalhada das tendências ao longo do tempo, revelando como os indicadores evoluem e como as variações sazonais ou anuais impactam o desempenho da empresa. Essa visualização temporal é fundamental para entender a dinâmica dos negócios, identificar padrões sazonais e antecipar tendências futuras. Com o gráfico de linhas, é possível comparar o desempenho de diferentes anos, avaliar o impacto de mudanças estratégicas e observar a evolução dos indicadores ao longo de períodos prolongados.
 
-## Aplicação da Positivação
+Além do gráfico de linhas, o Painel Indicadores inclui três gráficos de barras que fornecem uma análise detalhada do desempenho por Filial, Vendedor e Cliente. Os gráficos de barras permitem uma comparação clara e direta entre diferentes categorias, ajudando a identificar quais filiais, vendedores e clientes estão gerando mais receita, qual é a performance de cada um e onde há oportunidades para melhorias. Essa segmentação é essencial para uma gestão mais granular, permitindo que os gestores possam avaliar o desempenho em diferentes níveis da organização e identificar áreas que necessitam de atenção ou de estratégias específicas.
 
-A positivação pode ser aplicada de diversas maneiras para otimizar as operações comerciais:
+Os indicadores apresentados no painel são fundamentais para o acompanhamento da saúde financeira da empresa e para a análise de sua eficiência operacional. Aqui está um detalhamento mais aprofundado de cada indicador:
 
-- **Segmentação de Clientes**: Analisar a positivação por diferentes segmentos de clientes pode ajudar a identificar quais grupos estão mais ou menos ativos. Isso pode informar campanhas de marketing direcionadas para reativar clientes inativos ou fidelizar os ativos.
+### CMV - Custo da Mercadoria Vendida (%)
+Este indicador representa a porcentagem do custo das mercadorias vendidas em relação à receita total. Ele é fundamental para avaliar a eficiência dos custos de produção e aquisição. Monitorar o CMV ajuda a identificar se os custos estão sendo controlados adequadamente e se há necessidade de ajustes nos processos de compra ou produção para melhorar a margem de lucro.
 
-- **Monitoramento Contínuo**: Acompanhar a positivação ao longo do tempo é essencial para identificar tendências e responder rapidamente a mudanças no comportamento dos clientes.
+### Devoluções (%)
+Este percentual indica a proporção de produtos devolvidos em relação ao total de vendas. Um alto índice de devoluções pode sinalizar problemas com a qualidade dos produtos, atendimento ao cliente ou processos de venda. A análise desse indicador ajuda a entender a satisfação do cliente e a eficácia dos controles de qualidade, possibilitando ações corretivas para reduzir as devoluções e melhorar a experiência do cliente.
 
-- **Estratégias de Retenção**: A positivação pode servir como um indicador precoce de problemas na retenção de clientes. Uma queda na positivação pode sinalizar a necessidade de revisar estratégias de atendimento, marketing ou vendas.
+### Margem de Lucro (%)
+A margem de lucro é a porcentagem da receita que representa o lucro líquido. Esse indicador é essencial para avaliar a rentabilidade do negócio, pois revela a eficiência em gerar lucro a partir das vendas. Uma margem de lucro saudável é indicativa de uma boa gestão de custos e preços, e acompanhar essa métrica ajuda a identificar oportunidades para aumentar a lucratividade.
 
-A positivação é, portanto, um indicador essencial que, quando monitorado de perto, pode ajudar a garantir a sustentabilidade e o crescimento das receitas da empresa, ao mesmo tempo em que fortalece o relacionamento com os clientes.
+### MDR (Dias)
+O MDR, ou Médio de Dias de Recebimento, mede o tempo médio que a empresa leva para receber os pagamentos após a venda. Esse indicador é crucial para entender o ciclo de recebimentos e a eficiência do processo de cobrança. Reduzir o MDR pode melhorar o fluxo de caixa e a liquidez da empresa, permitindo uma gestão financeira mais eficaz.
 
+### Meta Mensal (%)
+Este percentual representa o grau de cumprimento das metas estabelecidas para o mês. Acompanhar a Meta Mensal ajuda a avaliar o desempenho em relação aos objetivos preestabelecidos e a identificar áreas que estão excedendo ou ficando aquém das expectativas. Essa métrica é fundamental para ajustes contínuos nas estratégias e para garantir que os objetivos financeiros e operacionais sejam alcançados.
 
-## Gráfico "CMV - Custo da Mercadoria Vendida (%)"
+### Pedido Médio (R$)
+O Pedido Médio indica o valor médio das vendas realizadas. Esse indicador é útil para avaliar o comportamento de compra dos clientes e a eficácia das estratégias de vendas. Um aumento no Pedido Médio pode refletir sucesso em estratégias de upselling e cross-selling, enquanto uma diminuição pode sinalizar a necessidade de revisar as abordagens de vendas.
 
-![Gráfico "CMV - Custo da Mercadoria Vendida (%)"](../assets/cmv.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Custo da Mercadoria Vendida (%) ao longo do tempo</em></p>
+### PMR - Período Médio de Recebimento (Dias)
+O PMR mede o tempo médio necessário para que os recebimentos sejam realizados, similar ao MDR. No entanto, o PMR pode focar em diferentes aspectos das transações financeiras e ajudará a entender a eficiência global do ciclo de recebimento de pagamentos. A redução do PMR pode melhorar o fluxo de caixa e a liquidez da empresa.
 
-Este gráfico apresenta a evolução do **Custo da Mercadoria Vendida (CMV)** ao longo do tempo, expresso em percentual (%). O CMV representa o custo direto associado à produção das mercadorias vendidas pela empresa durante um período específico. Este gráfico permite uma análise detalhada de como o CMV varia ao longo dos meses e anos, ajudando a empresa a monitorar a eficiência operacional e a rentabilidade das suas operações.
+### Positivação
+Este indicador reflete a porcentagem de clientes ou contas que estão ativamente gerando receita para a empresa. A análise da Positivação ajuda a entender a eficácia das estratégias de retenção de clientes e a identificar quais clientes estão contribuindo de forma consistente para a receita. Uma alta taxa de positivação é desejável, pois indica um bom relacionamento com os clientes e a eficácia das estratégias de engajamento.
 
-### Interpretação do Gráfico
+### Quantidade de Vendas
+Este indicador mostra o número total de transações realizadas em um período específico. A análise da Quantidade de Vendas fornece insights sobre o volume de negócios e ajuda a identificar tendências de demanda. Acompanhar essa métrica ajuda a avaliar o impacto das estratégias de vendas e a ajustar as operações para atender melhor à demanda.
 
-- **Linhas Representativas por Ano**: O gráfico exibe múltiplas linhas, cada uma representando o CMV percentual para um determinado ano (2014, 2015, 2016 e 2017). Isso permite a comparação direta do desempenho ao longo de diferentes períodos.
+### Ticket Médio (R$)
+O Ticket Médio é o valor médio de cada transação ou venda. Esse indicador é útil para entender a tendência de gastos dos clientes e avaliar a eficácia das estratégias de preço e marketing. Aumentar o Ticket Médio pode indicar sucesso em estratégias de vendas e promoções, enquanto uma diminuição pode sinalizar a necessidade de revisão das abordagens de preço e promoção.
 
-- **Custo da Mercadoria Vendida (%)**: Cada ponto nas linhas representa o CMV percentual para um mês específico. O CMV é calculado como a relação entre o custo das mercadorias vendidas e a receita gerada por essas vendas, expresso como uma porcentagem.
+O Painel Indicadores, com sua combinação de gráficos de linhas e barras, oferece uma visão clara e integrada do desempenho financeiro e das operações comerciais. Ele ajuda a identificar tendências, monitorar o cumprimento de metas e avaliar a eficácia das estratégias. Com essas informações, os gestores podem tomar decisões informadas, ajustar suas abordagens e implementar ações corretivas para melhorar a performance geral da empresa, garantindo uma gestão financeira e operacional mais eficiente e eficaz.
 
-### Como Usar Este Gráfico
+## Visão Principal
 
-- **Monitoramento da Eficiência Operacional**: Utilize este gráfico para monitorar como os custos diretos de produção estão evoluindo ao longo do tempo. A redução do CMV percentual ao longo dos anos pode indicar melhorias na eficiência operacional ou nas negociações com fornecedores.
+### Botão para Seleção
 
-- **Identificação de Problemas de Custo**: Os meses com picos de CMV devem ser analisados para identificar se houve problemas específicos na produção ou aumentos temporários nos custos que precisam ser endereçados.
+<p><div align="center">
+  <img src="../../assets/flux_indicadores_slicer.png" alt="Botão para Seleção">
+  <h6>Imagem 2: Botão para Seleção</h6>
+</div></p>
 
-- **Planejamento Estratégico**: Compreender as tendências do CMV ao longo dos anos pode ajudar na elaboração de estratégias para melhorar a rentabilidade, como ajustes nos processos de produção, renegociação de contratos com fornecedores ou revisão das estratégias de precificação.
+O conjunto de botões, funcionando como um filtro interativo, é uma ferramenta poderosa para personalizar a visualização dos dados na página. Cada botão representa um dos indicadores-chave: CMV - Custo da Mercadoria Vendida (%), Devoluções (%), Margem de Lucro (%), MDR (Dias), Meta Mensal (%), Pedido Médio (R$), PMR - Período Médio de Recebimento (Dias), Positivação, Quantidade de Vendas e Ticket Médio (R$). Ao clicar em um dos botões, a página é filtrada para exibir informações específicas relacionadas ao indicador selecionado, ajustando os quatro visuais principais para refletir os dados correspondentes.
 
-Este gráfico oferece uma visão detalhada do custo das mercadorias vendidas ao longo do tempo, ajudando a empresa a entender melhor a sua estrutura de custos e a identificar oportunidades para melhorar a margem de lucro.
+Esse recurso é particularmente útil para análises detalhadas e dinâmicas. Ao selecionar um botão, o usuário pode instantaneamente focar em um aspecto particular do desempenho da empresa, como o impacto das devoluções sobre as vendas ou a variação do período médio de recebimento. Os quatro visuais principais na página, que podem incluir gráficos de linhas, gráficos de barras e outros tipos de visualizações, são automaticamente atualizados para mostrar informações relevantes sobre o indicador escolhido. 
 
-## Gráfico "Devoluções (%)"
+Essa funcionalidade permite uma análise mais aprofundada e contextualizada dos dados. Por exemplo, ao selecionar "Margem de Lucro (%)", todos os visuais são ajustados para mostrar a performance de margem ao longo do tempo, por filiais, vendedores e clientes, facilitando a identificação de padrões e a comparação entre diferentes segmentos. Da mesma forma, ao escolher "Quantidade de Vendas", o usuário pode ver como as vendas se distribuem entre diferentes filiais ou clientes e como isso varia ao longo dos meses.
 
-![Gráfico "Devoluções (%)"](../assets/devolucoes.jpeg)
-<p align="center"><em>Imagem 1: Gráfico de Devoluções (%) ao longo do tempo</em></p>
+A capacidade de alternar rapidamente entre diferentes indicadores e visualizar como cada um impacta os dados principais fornece uma compreensão mais completa e detalhada do desempenho da empresa. Esse nível de interatividade não só melhora a experiência do usuário, mas também permite uma análise mais eficaz e informada, ajudando os gestores a tomar decisões mais precisas e fundamentadas.
 
-Este gráfico apresenta a evolução das **Devoluções** como percentual do total de vendas ao longo do tempo. As devoluções representam os produtos que foram vendidos e, por algum motivo, retornaram ao estoque da empresa, resultando em uma reversão parcial ou total da venda realizada. Monitorar o percentual de devoluções é crucial para avaliar a qualidade dos produtos, a satisfação do cliente e a eficiência do processo de vendas.
+### Indicador por Tempo
 
-### Interpretação do Gráfico
+<p><div align="center">
+  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <h6>Imagem 3: Painel Indicadores</h6>
+</div></p>
 
-- **Linhas Representativas por Ano**: O gráfico exibe uma linha representando o percentual de devoluções para os anos de 2016 e 2017. Isso permite uma comparação direta entre os anos e ajuda a entender a tendência das devoluções ao longo do tempo.
+O gráfico de linhas apresentado no Painel Indicadores é uma ferramenta essencial para a análise temporal dos indicadores-chave da empresa. Este gráfico utiliza linhas distintas para representar diferentes anos, enquanto o eixo x é dividido em meses, proporcionando uma visão detalhada e contínua das tendências ao longo do tempo. Cada linha no gráfico corresponde a um ano específico, permitindo a comparação do desempenho entre diferentes períodos anuais e facilitando a identificação de padrões e variações sazonais.
 
-- **Percentual de Devoluções (%)**: Cada ponto na linha indica o percentual de devoluções em um mês específico, em relação ao total de vendas realizadas naquele mês.
+A capacidade de observar os indicadores nesta página ao longo dos meses e anos é vital para uma compreensão abrangente do desempenho da empresa. 
 
-### Como Usar Este Gráfico
+Por exemplo, o gráfico pode mostrar como a Margem de Lucro (%) evolui ao longo do ano, permitindo que os gestores identifiquem períodos de maior rentabilidade ou de dificuldades financeiras. Da mesma forma, a visualização do CMV (%) ao longo dos meses ajuda a analisar o impacto das flutuações de custo sobre a rentabilidade e a eficiência operacional. As variações no Pedido Médio (R$) e no Ticket Médio (R$) são visualizadas ao longo do tempo, revelando tendências de compra e alterações no comportamento do cliente. 
 
-- **Monitoramento da Qualidade**: Utilize este gráfico para monitorar a qualidade dos produtos e a satisfação do cliente. Um percentual elevado de devoluções pode indicar problemas de qualidade, necessidade de melhorias no atendimento ao cliente ou problemas logísticos.
+A importância deste gráfico reside na sua capacidade de oferecer uma visão clara e integrada das métricas ao longo dos períodos de tempo, permitindo que os gestores detectem padrões, tendências e anomalias. Essa visão temporal é crucial para o planejamento estratégico, o ajuste de políticas e a implementação de medidas corretivas. 
 
-- **Identificação de Problemas Recorretes**: Meses com picos no percentual de devoluções devem ser investigados para entender as causas subjacentes, como defeitos no produto, embalagens inadequadas, ou expectativas mal geridas.
+Além disso, o gráfico é interativo e pode ser filtrado usando o [Botão para Seleção](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores/#botao_para_selecao) Quando um botão é clicado, ele ajusta o gráfico para exibir informações específicas relacionadas ao indicador selecionado. Essa funcionalidade permite que o usuário foque em um indicador particular, oferecendo uma análise detalhada e precisa de como esse aspecto específico varia ao longo dos meses e anos, e facilitando a comparação entre diferentes indicadores e períodos.
 
-- **Melhoria Contínua**: Analisar as devoluções ao longo do tempo permite à empresa identificar tendências e implementar processos de melhoria contínua, seja no controle de qualidade, no processo de vendas, ou no atendimento ao cliente.
+### Indicador por Filial
 
-Este gráfico oferece uma visão clara do comportamento das devoluções ao longo do tempo, permitindo à empresa identificar problemas e implementar melhorias para reduzir a taxa de devoluções e, consequentemente, melhorar a rentabilidade e a satisfação do cliente.
+<p><div align="center">
+  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <h6>Imagem 4: Painel Indicadores</h6>
+</div></p>
 
-## Gráfico "Margem de Lucro (%)"
+O gráfico de barras exibido no Painel Indicadores é uma ferramenta poderosa para analisar o desempenho das diferentes filiais da empresa. Este gráfico organiza as informações de forma visualmente acessível, com barras representando as métricas de desempenho das filiais. Cada barra corresponde a uma filial específica, permitindo a comparação direta entre elas e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por filial é essencial para identificar quais filiais estão alcançando suas metas, quais estão enfrentando desafios e como elas se comparam entre si.
 
-![Gráfico "Margem de Lucro (%)"](../assets/margem de lucro.jpeg)
-<p align="center"><em>Imagem 1: Gráfico de Margem de Lucro (%) ao longo do tempo</em></p>
+Por exemplo, ao examinar o gráfico de barras, é possível observar quais filiais apresentam uma Margem de Lucro (%) mais alta e quais enfrentam maiores custos com CMV (%). A análise das Devoluções (%) e da Quantidade de Vendas por filial revela quais unidades estão lidando melhor com os desafios operacionais e quais precisam de mais atenção. A comparação das variações no Pedido Médio (R$) e no Ticket Médio (R$) entre as filiais fornece insights sobre o comportamento de compra dos clientes em diferentes localidades e ajuda a ajustar estratégias de marketing e vendas.
 
-Este gráfico apresenta a evolução da **Margem de Lucro (%)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). A margem de lucro é um dos indicadores mais importantes para qualquer empresa, pois mede a eficiência com que uma empresa está gerando lucro a partir de suas vendas. Especificamente, a margem de lucro percentual mostra a proporção de receita que se transforma em lucro, após a dedução de todos os custos e despesas.
+Este gráfico é vital para uma visão detalhada e comparativa do desempenho das filiais, facilitando a identificação de tendências, a avaliação do impacto de estratégias e a implementação de melhorias operacionais. A visualização clara das métricas permite aos gestores tomar decisões informadas e direcionar recursos de maneira eficaz para melhorar o desempenho geral.
 
-### Interpretação do Gráfico
+Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores/#botao_para_selecao). Ao clicar em um botão específico, o gráfico ajusta automaticamente as barras para mostrar as informações detalhadas relacionadas ao indicador selecionado. Essa funcionalidade permite que os usuários concentrem-se em um aspecto particular do desempenho das filiais, proporcionando uma análise mais aprofundada e facilitando a comparação entre diferentes indicadores e períodos.
 
-- **Linhas Representativas por Ano**: O gráfico apresenta múltiplas linhas, cada uma representando a margem de lucro percentual para um ano específico. Isso permite a comparação direta da margem de lucro ao longo dos anos e a identificação de tendências de desempenho financeiro.
+### Indicador por Vendedor
 
-- **Margem de Lucro (%)**: Cada ponto na linha representa a margem de lucro percentual em um mês específico. A margem de lucro é calculada dividindo-se o lucro operacional pela receita total, e multiplicando-se o resultado por 100 para obter um percentual.
+<p><div align="center">
+  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <h6>Imagem 5: Painel Indicadores</h6>
+</div></p>
 
-### Como Usar Este Gráfico
+O gráfico de barras exibido no Painel Indicadores é uma ferramenta essencial para avaliar o desempenho dos diferentes vendedores da empresa. Este gráfico organiza as informações de maneira clara e visual, com barras que representam as métricas de desempenho de cada vendedor. Cada barra corresponde a um vendedor específico, permitindo uma comparação direta entre eles e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por vendedor é crucial para identificar quais vendedores estão atingindo suas metas, quais estão enfrentando desafios e como eles se comparam entre si.
 
-- **Monitoramento de Eficiência**: Utilize este gráfico para monitorar a eficiência da empresa em gerar lucro ao longo do tempo. Uma margem de lucro crescente é indicativa de melhor controle de custos e maior eficiência operacional.
+Por exemplo, ao examinar o gráfico de barras, é possível identificar quais vendedores apresentam uma Margem de Lucro (%) mais alta e quais enfrentam maiores custos com CMV (%). A análise das Devoluções (%) e da Quantidade de Vendas por vendedor revela quais profissionais estão gerenciando melhor as questões operacionais e quais necessitam de mais suporte. A comparação das variações no Pedido Médio (R$) e no Ticket Médio (R$) entre os vendedores fornece insights sobre o desempenho individual em termos de volume de vendas e valor médio das transações, ajudando a ajustar estratégias de vendas e incentivos.
 
-- **Análise de Tendências**: Analisar as tendências de margem de lucro ao longo de vários anos pode ajudar a identificar padrões e prever o desempenho futuro. Isso é especialmente útil para o planejamento estratégico e para ajustes nas políticas de preços e custos.
+Este gráfico é vital para uma visão detalhada e comparativa do desempenho dos vendedores, facilitando a identificação de tendências, a avaliação do impacto de estratégias e a implementação de melhorias operacionais. A visualização clara das métricas permite aos gestores tomar decisões informadas e direcionar recursos de maneira eficaz para otimizar o desempenho da equipe de vendas.
 
-- **Identificação de Oportunidades de Melhoria**: Meses ou anos com margens de lucro mais baixas podem indicar áreas onde há necessidade de melhorias operacionais ou de reavaliação das estratégias de venda e precificação.
+Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores/#botao_para_selecao). Ao clicar em um botão específico, o gráfico ajusta automaticamente as barras para mostrar as informações detalhadas relacionadas ao indicador selecionado. Essa funcionalidade permite que os usuários concentrem-se em aspectos específicos do desempenho dos vendedores, proporcionando uma análise mais aprofundada e facilitando a comparação entre diferentes indicadores e períodos.
 
-Este gráfico oferece uma visão abrangente da margem de lucro da empresa ao longo do tempo, permitindo uma análise detalhada da eficiência operacional e da saúde financeira do negócio.
+### Indicador por Cliente
 
-# Gráfico "MDR - Máximo Dias a Receber (Dias)"
+<p><div align="center">
+  <img src="../../assets/flux_indicadores.png" alt="Painel Indicadores">
+  <h6>Imagem 6: Painel Indicadores</h6>
+</div></p>
 
-![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../assets/mdr.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Máximo Dias a Receber (Dias) ao longo do tempo</em></p>
+O gráfico de barras exibido no Painel Indicadores oferece uma análise detalhada do desempenho dos diferentes clientes da empresa. Esta visualização organiza as métricas de forma clara e intuitiva, com barras que representam o desempenho de cada cliente. Cada barra corresponde a um cliente específico, permitindo uma comparação direta entre eles e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por cliente é essencial para identificar quais clientes estão gerando mais receita, quais enfrentam maiores desafios e como eles se comparam entre si.
 
-Este gráfico apresenta a evolução do **Máximo Dias a Receber (MDR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O MDR indica o maior número de dias que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa, pois períodos longos de recebimento podem impactar negativamente a liquidez da empresa.
+Por exemplo, ao examinar o gráfico de barras, é possível observar quais clientes apresentam uma Margem de Lucro (%) mais alta e quais estão gerando maiores custos com CMV (%). A análise das Devoluções (%) e da Quantidade de Vendas por cliente revela quais clientes têm um comportamento de compra mais estável e quais podem estar gerando problemas operacionais. A comparação das variações no Pedido Médio (R$) e no Ticket Médio (R$) entre os clientes fornece insights sobre o valor médio das transações e o comportamento de compra, ajudando a ajustar estratégias de atendimento e marketing.
 
-## Interpretação do Gráfico
+Este gráfico é fundamental para uma visão detalhada e comparativa do desempenho dos clientes, facilitando a identificação de tendências, a avaliação do impacto de estratégias e a implementação de ações corretivas. A visualização clara das métricas permite aos gestores tomar decisões mais informadas e direcionar estratégias de forma eficaz para melhorar a satisfação e o valor dos clientes.
 
-- **Linhas Representativas por Ano**: O gráfico apresenta múltiplas linhas, cada uma representando o MDR para um ano específico. Isso permite a comparação direta do desempenho ao longo dos anos e a identificação de tendências no recebimento de pagamentos.
-
-- **Máximo Dias a Receber (Dias)**: Cada ponto na linha representa o maior número de dias registrado para o recebimento de uma venda em um mês específico.
-
-## Análise dos Dados
-
-- **Tendências ao Longo do Tempo**: As linhas permitem observar como o MDR varia ao longo dos meses. Picos significativos em determinados meses podem indicar problemas pontuais de recebimento que merecem atenção.
-
-- **Comparação Anual**: Ao comparar as linhas de diferentes anos, é possível identificar se a empresa está conseguindo reduzir o tempo máximo de recebimento, o que indicaria uma melhora na eficiência das cobranças ou nas condições de pagamento negociadas com os clientes.
-
-- **Meses de Alto MDR**: Picos no gráfico indicam meses onde o tempo máximo para receber pagamentos foi elevado. Esses meses devem ser analisados para identificar as causas e implementar ações corretivas, como melhorias no processo de cobrança ou renegociação de termos de crédito.
-
-## Como Usar Este Gráfico
-
-- **Monitoramento da Liquidez**: Utilize este gráfico para monitorar a eficiência da empresa em receber pagamentos dentro de prazos razoáveis. Reduzir o MDR é essencial para melhorar a liquidez e garantir que a empresa tenha os recursos necessários para operar.
-
-- **Análise de Risco de Crédito**: O MDR pode servir como um indicador de risco de crédito, especialmente se houver um aumento consistente no tempo máximo de recebimento. Isso pode indicar que os clientes estão enfrentando dificuldades financeiras ou que as condições de pagamento precisam ser revisadas.
-
-- **Identificação de Oportunidades de Melhoria**: Meses ou anos com MDR elevados podem indicar a necessidade de melhorias nos processos de cobrança ou na seleção de clientes para vendas a prazo.
-
-Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para receber seus pagamentos ao longo do tempo, permitindo uma análise detalhada da gestão do fluxo de caixa e das práticas de crédito.
-
-## Gráfico "MDR - Máximo Dias a Receber (Dias)"
-
-![Gráfico "MDR - Máximo Dias a Receber (Dias)"](../assets/positivacao-maximo-dias-a-receber.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Máximo Dias a Receber (Dias) ao longo do tempo</em></p>
-
-Este gráfico apresenta a evolução do **Máximo Dias a Receber (MDR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O MDR indica o maior número de dias que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa, pois períodos longos de recebimento podem impactar negativamente a liquidez da empresa.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico apresenta múltiplas linhas, cada uma representando o MDR para um ano específico. Isso permite a comparação direta do desempenho ao longo dos anos e a identificação de tendências no recebimento de pagamentos.
-
-- **Máximo Dias a Receber (Dias)**: Cada ponto na linha representa o maior número de dias registrado para o recebimento de uma venda em um mês específico.
-
-
-### Como Usar Este Gráfico
-
-- **Monitoramento da Liquidez**: Utilize este gráfico para monitorar a eficiência da empresa em receber pagamentos dentro de prazos razoáveis. Reduzir o MDR é essencial para melhorar a liquidez e garantir que a empresa tenha os recursos necessários para operar.
-
-- **Análise de Risco de Crédito**: O MDR pode servir como um indicador de risco de crédito, especialmente se houver um aumento consistente no tempo máximo de recebimento. Isso pode indicar que os clientes estão enfrentando dificuldades financeiras ou que as condições de pagamento precisam ser revisadas.
-
-- **Identificação de Oportunidades de Melhoria**: Meses ou anos com MDR elevados podem indicar a necessidade de melhorias nos processos de cobrança ou na seleção de clientes para vendas a prazo.
-
-Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para receber seus pagamentos ao longo do tempo, permitindo uma análise detalhada da gestão do fluxo de caixa e das práticas de crédito.
-
-## Gráfico "Meta Mensal (%)"
-
-![Gráfico "Meta Mensal (%)"](../assets/meta-mensal.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Meta Mensal (%) ao longo do tempo</em></p>
-
-Este gráfico apresenta a evolução do desempenho da empresa em relação à **Meta Mensal** estabelecida, expressa em percentual (%), ao longo do tempo. A meta mensal geralmente refere-se a um objetivo específico de vendas, faturamento, ou outro indicador-chave de desempenho (KPI) que a empresa almeja atingir em cada mês. O gráfico permite acompanhar o quão perto ou distante a empresa está de atingir suas metas mensais ao longo dos anos.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico exibe múltiplas linhas, cada uma representando a meta mensal alcançada como percentual para um ano específico (2014, 2015, 2016 e 2017). Isso facilita a comparação entre os anos e a avaliação de tendências no desempenho ao longo do tempo.
-
-- **Meta Mensal (%)**: Cada ponto na linha representa o percentual da meta mensal que foi atingido em um determinado mês. Um valor acima de 100% indica que a meta foi superada, enquanto valores abaixo de 100% indicam que a meta não foi alcançada.
-
-
-### Como Usar Este Gráfico
-
-- **Monitoramento de Desempenho**: Utilize este gráfico para monitorar o desempenho da empresa em relação às metas estabelecidas. Isso permite uma avaliação contínua das estratégias adotadas e a identificação de áreas que precisam de ajuste.
-
-- **Ajuste de Metas**: Se certos meses consistentemente não atingem a meta, isso pode indicar que as metas estão desajustadas em relação às condições reais do mercado. Revisar e ajustar essas metas pode melhorar a motivação da equipe e o alinhamento estratégico.
-
-- **Planejamento Estratégico**: A análise das metas ao longo do tempo ajuda a empresa a planejar melhor suas atividades futuras, focando em períodos que historicamente mostram desempenho abaixo do esperado e capitalizando nos períodos de alta performance.
-
-Este gráfico oferece uma visão clara do quanto a empresa tem conseguido cumprir suas metas mensais ao longo do tempo, permitindo uma análise detalhada do desempenho e da eficácia das estratégias adotadas.
-
-## Gráfico "Pedido Médio (R$)"
-
-![Gráfico "Pedido Médio (R$)"](../assets/pedido medio.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Pedido Médio (R$) ao longo do tempo</em></p>
-
-Este gráfico apresenta a evolução do **Pedido Médio (R$)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O pedido médio representa o valor médio em reais das vendas realizadas em cada pedido ao longo do tempo. Este indicador é importante para entender o comportamento de compra dos clientes e avaliar a eficácia das estratégias de venda e precificação.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico exibe múltiplas linhas, cada uma representando o valor médio dos pedidos para um ano específico. Isso permite a comparação direta do desempenho ao longo dos anos e a identificação de tendências no valor dos pedidos.
-
-- **Pedido Médio (R$)**: Cada ponto na linha representa o valor médio dos pedidos realizados em um determinado mês.
-
-### Como Usar Este Gráfico
-
-- **Monitoramento de Comportamento de Compra**: Utilize este gráfico para monitorar como o valor médio dos pedidos evolui ao longo do tempo. Um aumento constante no pedido médio pode indicar sucesso em estratégias de upselling ou melhorias na oferta de produtos.
-
-- **Ajuste de Estratégias de Venda**: Se certos meses consistentemente mostram um pedido médio mais baixo, isso pode indicar a necessidade de ajustar as estratégias de vendas ou realizar campanhas promocionais focadas em aumentar o valor do ticket médio.
-
-- **Planejamento de Ofertas**: A análise do pedido médio ao longo do tempo ajuda a empresa a planejar melhor suas ofertas e promoções, maximizando o valor dos pedidos durante períodos de alta demanda.
-
-Este gráfico oferece uma visão clara do valor médio dos pedidos realizados ao longo do tempo, permitindo uma análise detalhada do comportamento de compra dos clientes e da eficácia das estratégias de vendas.
-
-## Gráfico "PMR - Período Máximo de Recebimento (Dias)"
-
-![Gráfico "PMR - Período Máximo de Recebimento (Dias)"](../assets/periodo-maximo-de-recebimento.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Período Máximo de Recebimento (Dias) ao longo do tempo</em></p>
-
-Este gráfico apresenta a evolução do **Período Máximo de Recebimento (PMR)** ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O PMR é uma métrica que indica o tempo máximo, em dias, que a empresa levou para receber pagamentos de suas vendas a prazo em um determinado período. Este indicador é crucial para a gestão do fluxo de caixa e para avaliar a eficiência do processo de recebimento.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico exibe múltiplas linhas, cada uma representando o PMR para um ano específico. Isso permite a comparação direta do desempenho ao longo dos anos e a identificação de tendências no período de recebimento.
-
-- **PMR (Dias)**: Cada ponto na linha representa o número máximo de dias que a empresa levou para receber pagamentos em um determinado mês. Valores elevados podem indicar atrasos significativos nos recebimentos, afetando o fluxo de caixa.
-
-### Como Usar Este Gráfico
-
-- **Monitoramento da Eficiência de Recebimento**: Utilize este gráfico para monitorar a eficiência da empresa em receber pagamentos dentro de prazos razoáveis. Reduzir o PMR é essencial para melhorar a liquidez e garantir que a empresa tenha os recursos necessários para operar.
-
-- **Identificação de Problemas de Cobrança**: Picos no PMR podem indicar problemas nos processos de cobrança ou nas condições de pagamento oferecidas aos clientes. Identificar e corrigir esses problemas pode ajudar a melhorar a eficiência do recebimento.
-
-- **Ajuste de Políticas de Crédito**: Se certos meses ou anos consistentemente mostram um PMR elevado, pode ser necessário revisar as políticas de crédito da empresa ou implementar medidas para garantir que os clientes cumpram os prazos de pagamento.
-
-Este gráfico oferece uma visão clara do tempo máximo que a empresa leva para receber seus pagamentos ao longo do tempo, permitindo uma análise detalhada da gestão do fluxo de caixa e das práticas de crédito da empresa.
-
-## Gráfico "Positivação"
-
-![Gráfico "Positivação"](../assets/positivacao.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Positivação ao longo do tempo</em></p>
-
-O gráfico de **Positivação** apresenta a evolução da quantidade de clientes ou pedidos que foram considerados "positivados" ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). Positivação, no contexto de vendas e faturamento, refere-se à proporção de clientes que realizaram ao menos uma compra em um determinado período, ou ao número de pedidos que atingiram um valor mínimo estabelecido pela empresa. Este indicador é importante para avaliar a eficácia das campanhas de vendas e a fidelização dos clientes.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico exibe múltiplas linhas, cada uma representando a positivação para um ano específico. Isso permite a comparação direta do desempenho ao longo dos anos e a identificação de tendências de positivação.
-
-- **Positivação**: Cada ponto na linha representa o número de clientes ou pedidos positivados em um determinado mês. Valores elevados indicam sucesso em engajar clientes ou realizar vendas que atingem os critérios estabelecidos pela empresa.
-
-## Como Usar Este Gráfico
-
-- **Monitoramento de Engajamento de Clientes**: Utilize este gráfico para monitorar o engajamento dos clientes ao longo do tempo. Aumentar a positivação indica sucesso em campanhas de fidelização e eficácia nas estratégias de vendas.
-
-- **Ajuste de Estratégias de Venda**: Se certos meses consistentemente mostram baixa positivação, isso pode indicar a necessidade de ajustar as campanhas de marketing ou as condições oferecidas aos clientes para aumentar as vendas.
-
-- **Planejamento de Ofertas e Promoções**: A análise da positivação ajuda a empresa a planejar melhor suas ofertas e promoções, visando maximizar a participação dos clientes em diferentes períodos do ano.
-
-Este gráfico oferece uma visão clara da eficácia das estratégias de vendas e fidelização ao longo do tempo, permitindo uma análise detalhada do engajamento dos clientes e da eficiência das campanhas promocionais.
-
-## Gráfico "Quantidade de Vendas"
-
-![Gráfico "Quantidade de Vendas"](../assets/quantidade-de-vendas.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Quantidade de Vendas ao longo do tempo</em></p>
-
-O gráfico de **Quantidade de Vendas** mostra a evolução da quantidade de itens vendidos ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). Este indicador é fundamental para avaliar o desempenho das vendas da empresa, permitindo identificar padrões de sazonalidade, avaliar o sucesso de campanhas de marketing e ajustar estratégias de vendas.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico apresenta múltiplas linhas, cada uma representando a quantidade de vendas para um ano específico. Isso permite uma comparação direta do desempenho de vendas ao longo dos anos.
-
-- **Quantidade de Vendas**: Cada ponto na linha representa a quantidade total de itens vendidos em um determinado mês. Um aumento no número de vendas pode indicar sucesso em campanhas promocionais, aumento da demanda ou outras estratégias de marketing eficazes.
-
-### Como Usar Este Gráfico
-
-- **Monitoramento de Desempenho de Vendas**: Utilize este gráfico para monitorar o desempenho das vendas ao longo do tempo. Aumentar a quantidade de vendas é um indicador direto de crescimento e sucesso nas estratégias comerciais.
-
-- **Ajuste de Estratégias de Venda**: Se certos meses consistentemente mostram baixa quantidade de vendas, isso pode indicar a necessidade de ajustar as campanhas de marketing ou as condições oferecidas aos clientes para aumentar as vendas.
-
-- **Planejamento de Ofertas e Promoções**: A análise da quantidade de vendas ajuda a empresa a planejar melhor suas ofertas e promoções, visando maximizar as vendas em diferentes períodos do ano.
-
-Este gráfico oferece uma visão clara da evolução das vendas ao longo do tempo, permitindo uma análise detalhada do desempenho comercial da empresa e ajudando na tomada de decisões estratégicas para aumentar as vendas e melhorar a eficiência das campanhas de marketing.
-
-
-## Gráfico "Ticket Médio (R$)"
-
-![Gráfico "Ticket Médio (R$)"](../assets/ticket-medio.jfif)
-<p align="center"><em>Imagem 1: Gráfico de Ticket Médio ao longo do tempo</em></p>
-
-O gráfico de **Ticket Médio (R$)** mostra a evolução do valor médio das vendas realizadas ao longo do tempo, comparando diferentes anos (2014, 2015, 2016 e 2017). O ticket médio é um indicador importante que reflete o valor médio gasto por cliente em cada transação. Esse gráfico ajuda a entender o comportamento de compra dos clientes e a eficácia das estratégias de venda.
-
-### Interpretação do Gráfico
-
-- **Linhas Representativas por Ano**: O gráfico apresenta múltiplas linhas, cada uma representando o ticket médio para um ano específico. Isso permite uma comparação direta do comportamento de compra dos clientes ao longo dos anos.
-
-- **Ticket Médio**: Cada ponto na linha representa o valor médio das vendas realizadas em um determinado mês. Um aumento no ticket médio pode indicar sucesso em estratégias de upselling ou vendas de produtos de maior valor.
-
-### Como Usar Este Gráfico
-
-- **Monitoramento de Estratégias de Vendas**: Utilize este gráfico para monitorar o impacto de estratégias como upselling, cross-selling e promoções de produtos de maior valor no ticket médio.
-
-- **Ajuste de Campanhas de Marketing**: Se certos meses consistentemente mostram um ticket médio baixo, isso pode indicar a necessidade de ajustar as campanhas de marketing para promover produtos de maior valor ou oferecer incentivos para aumentar o gasto médio por transação.
-
-- **Planejamento de Vendas**: A análise do ticket médio ajuda a empresa a planejar melhor suas vendas e promoções, visando maximizar o valor médio das transações ao longo do ano.
-
-Este gráfico oferece uma visão clara do valor médio das vendas ao longo do tempo, permitindo uma análise detalhada do comportamento de compra dos clientes e ajudando na tomada de decisões estratégicas para aumentar o ticket médio e melhorar a eficiência das campanhas de marketing e vendas.
+Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores/#botao_para_selecao). Ao clicar em um botão específico, o gráfico ajusta automaticamente as barras para mostrar as informações detalhadas relacionadas ao indicador selecionado. Essa funcionalidade permite que os usuários se concentrem em aspectos específicos do desempenho dos clientes, proporcionando uma análise mais aprofundada e facilitando a comparação entre diferentes indicadores e períodos.
 
 
 <br><br>
