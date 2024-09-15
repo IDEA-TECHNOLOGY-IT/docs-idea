@@ -15,7 +15,56 @@ Os relatórios de BI também melhoram a precisão e a consistência das informa�
 
 Em resumo, um relatório de BI bem estruturado não apenas fornece uma visão detalhada e atualizada da saúde financeira da empresa, mas também facilita a tomada de decisões estratégicas, melhora a eficiência operacional e fortalece a capacidade da empresa de se adaptar e prosperar em um ambiente de negócios em constante mudança.
 
-## Botão para Documentação
+## Navegação
+
+Existem várias maneiras de navegar pelo BI Contábil. Botões estrategicamente posicionados e rotulados são colocados em todos os painéis, otimizando a experiência do usuário ao permitir uma navegação clara e intuitiva. Esses botões fornecem acesso direto às principais áreas, permitindo que os usuários explorem dados de forma eficiente sem se perderem em menus complexos. Seja retornando a uma página anterior, buscando insights mais específicos ou alternando entre diferentes visões contábeis, o layout garante que os usuários possam se mover suavemente pelo relatório, melhorando sua interação geral e produtividade.
+
+### Botões de Menu
+
+A primeira opção é a [barra de menu](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#barra-de-menu), sempre no lado esquerdo do relatório, não importa qual painel você esteja visualizando. Cada botão navega para um painel específico no relatório. Ao passar o mouse, uma instrução descritiva aparecerá como esta;
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/contabilidade_menu_click.png" alt="Menu Hover" style="vertical-align: middle; height: 150px;">
+</div>
+
+### Botões de Ver mais ou Mais indicadores
+
+A segunda maneira de navegar é através dos botões "Ver mais" e "Mais indicadores" localizados nos [Indicadores Contábeis](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/contabilidade_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+</div>
+
+### Botões para Diferentes Visões
+
+O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas ou três visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
+<div style="margin-bottom: 10px; display: flex; justify-content: center;">
+  <img src="../../assets/contabilidade_button_tabela.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/contabilidade_button_gráfico.png" alt="Tabela Open">
+</div>
+<div style="margin-bottom: 10px; display: flex; justify-content: center;">
+  <img src="../../assets/contabilidade_button_vmensal.png" alt="Voltar Mensal" style="margin-right: 10px;">
+  <img src="../../assets/contabilidade_button_mensal.png" alt="Mensal Open">
+</div>
+<div style="display: flex; justify-content: center;">
+  <img src="../../assets/contabilidade_button_vflux.png" alt="Voltar Flux">
+</div>
+
+### Drill-through
+
+A função usada para fazer isso é chamada de "Drill-through" e pode ser executada clicando com o botão direito em um visual e selecionando Drill-through no menu que aparece, isso estenderá o menu que mostra "Detalhamento". Uma vez clicado, o Painel de Detalhamento será aberto e será filtrado automaticamente pelo ponto de dados em que você clicou com o botão direito. Abaixo está um exemplo de clique com o botão direito na barra para 01) Em Atraso no visual Aging - Contas a Pagar;
+
+<p><div align="center">
+  <img src="../../assets/contabilidade_detail_drillthrough.png" alt="Drillthrough">
+  <h6>Imagem 2: Drill-through</h6>
+</div></p>
+
+Por padrão, este painel fica oculto, tornando-se visível apenas quando um drillthrough é iniciado. Uma vez na página de drillthrough, os usuários encontrarão uma tabela abrangente exibindo todos os campos e dados relevantes vinculados ao item específico em que eles fizeram drill, oferecendo uma visão mais granular desses dados.
+
+Além disso, quando terminar de revisar os detalhes, os usuários podem clicar no botão de retorno na barra de menu (que só aparece depois que um drillthrough é executado) para voltar à página de onde vieram. Essa configuração permite uma exploração mais profunda dos dados sem perder o contexto original.
+
+### Botão para Documentação
+
+Finalmente, há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
+<p><img src="../../assets/flux_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 
 <p><img src="../../assets/con_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 Há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
@@ -31,13 +80,12 @@ A barra de menu é um recurso de navegação localizado no lado esquerdo de toda
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Home
+### Botão Painel de Contábil
 <p><img src="../../assets/contabilidade_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/contabilidade_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada Visão Contábil. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
+Este botão leva os usuários de volta à página principal, intitulada Painel de Contábil. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
 
-  
 ### Botão Receita Bruta
 <p><img src="../../assets/contabilidade_button_rb1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/contabilidade_button_rb2.png" alt="rb2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
@@ -50,7 +98,7 @@ Clicar neste botão direciona os usuários para a página intitulada Receita Bru
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão navega para a página intitulada Custos e Despesas. Aqui, os usuários podem visualizar e analisar os custos e despesas incorridos pela empresa, ajudando a avaliar o desempenho financeiro e a gestão de custos.
   
-###  Botão Lucro Líquido
+### Botão Lucro Líquido
 <p><img src="../../assets/contabilidade_button_ll1.png" alt="ll1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/contabilidade_button_ll2.png" alt="ll2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
@@ -68,7 +116,6 @@ Este botão direciona para a página intitulada EBITDA. Os usuários podem explo
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Clicar neste botão abre a página intitulada Indicadores, onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.
 
-  
 ### Botão Regra dos 40
 <p><img src="../../assets/contabilidade_button_rd401.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/contabilidade_button_rd402.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
