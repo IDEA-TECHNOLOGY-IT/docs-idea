@@ -1,7 +1,7 @@
 # Painel A Receber
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_page1.png" alt="Contas a Receber">
+  <img src="../../assets/flux/flux_rec_page1.png" alt="Contas a Receber">
   <h6>Imagem 1: Painel A Receber</h6>
 </div></p>
 
@@ -26,7 +26,7 @@ A porcentagem (%) de Receber é uma métrica valiosa para a gestão financeira, 
 ### Aging - Contas a Receber
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_aging.png" alt="Aging - Contas a Receber">
+  <img src="../../assets/flux/flux_rec_aging.png" alt="Aging - Contas a Receber">
   <h6>Imagem 3: Aging - Contas a Receber</h6>
 </div></p>
 
@@ -49,7 +49,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 ### Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_projeto.png" alt="Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente">
+  <img src="../../assets/flux/flux_rec_projeto.png" alt="Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente">
   <h6>Imagem 2: Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
@@ -67,7 +67,7 @@ Com a exibição clara dos valores absolutos de recebimento e suas respectivas p
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
@@ -75,7 +75,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, F
 ### Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_cliente.png" alt="Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial">
+  <img src="../../assets/flux/flux_rec_cliente.png" alt="Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial">
   <h6>Imagem 4: Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial</h6>
 </div></p>
 
@@ -93,7 +93,7 @@ Com a exibição clara dos valores absolutos de recebimento e suas respectivas p
 
 Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
-  <img src="../../assets/flux_hi_updown.png" alt="Header Icons UpDown">
+  <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente ou Origem, para analisar a área desejada.
@@ -101,7 +101,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente ou
 ### A Receber por Data
 
 <p><div align="center">
-  <img src="../../assets/flux_rec_data.png" alt="A Receber por Data">
+  <img src="../../assets/flux/flux_rec_data.png" alt="A Receber por Data">
   <h6>Imagem 5: A Receber por Data</h6>
 </div></p>
 
