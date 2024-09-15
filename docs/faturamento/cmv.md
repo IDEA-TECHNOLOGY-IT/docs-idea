@@ -6,7 +6,7 @@
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/fat_cmv_page1.png" alt="CMV2">
+  <img src="../../assets/fat_cmv_page2.png" alt="CMV2">
   <h6>Imagem 2: Painel Custo de Mercadoria Vendida - Visão Detalhes</h6>
 </div></p>
 
