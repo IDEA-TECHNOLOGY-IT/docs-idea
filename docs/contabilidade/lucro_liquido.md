@@ -2,17 +2,17 @@
 
 <p><div align="center">
   <img src="../../assets/con/con_ll_page1.png" alt="Lucro Líquido Page 1">
-  <h6>Imagem 1: Lucro Líquido Visão Gráfica</h6>
+  <h6>Imagem 1: Lucro Líquido - Visão Gráfica</h6>
   <img src="../../assets/con/con_ll_page2.png" alt="Lucro Líquido Page 2">
-  <h6>Imagem 2: Lucro Líquido Visão de Tabela</h6>
+  <h6>Imagem 2: Lucro Líquido - Visão de Tabela</h6>
 </div></p>
 
 ## Navegação
 
 Este painel de relatório está dividido em duas visualizações;
 
-- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-analise-anual)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-detalhes)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Análise Anual](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão Detalhes](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Lucro Líquido
 
@@ -28,7 +28,7 @@ O impacto da análise de lucro líquido vai além do departamento financeiro. Os
 
 Em resumo, a análise de lucro líquido no BI para contabilidade é uma ferramenta poderosa para impulsionar o desempenho financeiro e estratégico. Ao examinar o lucro líquido de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por segmento, as empresas obtêm uma visão mais clara de sua rentabilidade. Essa análise não só melhora a gestão financeira, mas também impacta outras áreas-chave, como estratégias de negócios, planejamento financeiro e decisões de investimento, criando um ambiente mais focado em resultados e orientado por dados.
 
-## Visão Gráfica
+## Visão Gráfica e Tabela
 
 ### Lucro Líquido por Filial ou Projeto
 
@@ -53,6 +53,8 @@ Esta tabela é importante porque fornece uma visão detalhada do desempenho fina
 Mostrando o valor acumulado do Lucro Líquido ao longo do tempo, com ‘tooltips’ que aparecem ao passar o cursor sobre a visualização, exibindo a Receita Líquida acumulada e a % Margem entre esses valores. 
 
 Esse gráfico é essencial para analisar o comportamento acumulado do Lucro Líquido ao longo do tempo, ajudando a entender como as margens de lucro evoluem em relação à receita acumulada.
+
+## Visão Gráfica
 
 ### Margem de Lucro Líquido por Mês
 
