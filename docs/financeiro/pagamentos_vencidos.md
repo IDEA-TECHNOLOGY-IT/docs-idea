@@ -148,7 +148,7 @@ O gráfico ilustra os pagamentos vencidos por mês e ano, destacando três eleme
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos seus passivos. O gráfico permite que a empresa identifique padrões de atrasos, avalie o impacto dos pagamentos vencidos no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nos pagamentos vencidos em um mês específico, a empresa pode investigar as causas e implementar estratégias para evitar que isso ocorra novamente. Da mesma forma, ao comparar a porcentagem de pagamentos vencidos com os pagamentos acumulados, a gerência pode priorizar quais fornecedores ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para minimizar os impactos financeiros negativos. Em última análise, este gráfico é uma ferramenta essencial para otimizar o planejamento financeiro, melhorar a gestão do fluxo de caixa e manter uma operação financeira estável e saudável.
 
 <p><div align="center">
-  <img src="../../assets/flux_tooltip_inadim.png" alt="Inadim ToolTip">
+  <img src="../../assets/flux_tooltip_venc.png" alt="Vencido ToolTip">
 </div></p>
 
 Na dica de ferramenta para este visual, você encontrará mais três valores. Eles são pensados como um insight adicional para os **pagamentos vencidos** ao longo do tempo. Esses valores são:
