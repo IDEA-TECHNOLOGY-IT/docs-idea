@@ -67,8 +67,8 @@ A capacidade de alternar rapidamente entre diferentes indicadores e visualizar c
 ### Indicador por Tempo
 
 <p><div align="center">
-  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
-  <h6>Imagem 3: Painel Indicadores</h6>
+  <img src="../../assets/fat/fat_indicadores_lines.png" alt="Indicador por Tempo">
+  <h6>Imagem 3: Indicador por Tempo</h6>
 </div></p>
 
 O gráfico de linhas apresentado no Painel Indicadores é uma ferramenta essencial para a análise temporal dos indicadores-chave da empresa. Este gráfico utiliza linhas distintas para representar diferentes anos, enquanto o eixo x é dividido em meses, proporcionando uma visão detalhada e contínua das tendências ao longo do tempo. Cada linha no gráfico corresponde a um ano específico, permitindo a comparação do desempenho entre diferentes períodos anuais e facilitando a identificação de padrões e variações sazonais.
@@ -84,8 +84,8 @@ Além disso, o gráfico é interativo e pode ser filtrado usando o [Botão para 
 ### Indicador por Filial
 
 <p><div align="center">
-  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
-  <h6>Imagem 4: Painel Indicadores</h6>
+  <img src="../../assets/fat/fat_indicadores_filial.png" alt="Indicador por Filial">
+  <h6>Imagem 4: Indicador por Filial</h6>
 </div></p>
 
 O gráfico de barras exibido no Painel Indicadores é uma ferramenta poderosa para analisar o desempenho das diferentes filiais da empresa. Este gráfico organiza as informações de forma visualmente acessível, com barras representando as métricas de desempenho das filiais. Cada barra corresponde a uma filial específica, permitindo a comparação direta entre elas e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por filial é essencial para identificar quais filiais estão alcançando suas metas, quais estão enfrentando desafios e como elas se comparam entre si.
@@ -99,8 +99,8 @@ Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção]
 ### Indicador por Vendedor
 
 <p><div align="center">
-  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
-  <h6>Imagem 5: Painel Indicadores</h6>
+  <img src="../../assets/fat/fat_indicadores_vendedor.png" alt="Indicador por Vendedor">
+  <h6>Imagem 5: Indicador por Vendedor</h6>
 </div></p>
 
 O gráfico de barras exibido no Painel Indicadores é uma ferramenta essencial para avaliar o desempenho dos diferentes vendedores da empresa. Este gráfico organiza as informações de maneira clara e visual, com barras que representam as métricas de desempenho de cada vendedor. Cada barra corresponde a um vendedor específico, permitindo uma comparação direta entre eles e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por vendedor é crucial para identificar quais vendedores estão atingindo suas metas, quais estão enfrentando desafios e como eles se comparam entre si.
@@ -114,8 +114,8 @@ Além disso, o gráfico de barras é filtrável usando o [Botão para Seleção]
 ### Indicador por Cliente
 
 <p><div align="center">
-  <img src="../../assets/fat/fat_indicadores.png" alt="Painel Indicadores">
-  <h6>Imagem 6: Painel Indicadores</h6>
+  <img src="../../assets/fat/fat_indicadores_cliente.png" alt="Indicador por Cliente">
+  <h6>Imagem 6: Indicador por Cliente</h6>
 </div></p>
 
 O gráfico de barras exibido no Painel Indicadores oferece uma análise detalhada do desempenho dos diferentes clientes da empresa. Esta visualização organiza as métricas de forma clara e intuitiva, com barras que representam o desempenho de cada cliente. Cada barra corresponde a um cliente específico, permitindo uma comparação direta entre eles e a análise das variações no desempenho ao longo do tempo. A visualização das métricas por cliente é essencial para identificar quais clientes estão gerando mais receita, quais enfrentam maiores desafios e como eles se comparam entre si.
