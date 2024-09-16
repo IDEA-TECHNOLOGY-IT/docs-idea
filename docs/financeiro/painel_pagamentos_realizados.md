@@ -27,13 +27,13 @@ O prazo médio de pagamento (PMP) é um indicador financeiro essencial que calcu
 
 Alguns dos benefícios de analisar o PMP são:
 
-**Gestão do Fluxo de Caixa:** O PMP permite que a empresa compreenda quanto tempo, em média, mantém o dinheiro em caixa antes de pagar seus fornecedores. Um PMP mais longo pode indicar maior retenção de caixa, o que pode ser benéfico para o fluxo de caixa, mas também pode impactar negativamente o relacionamento com fornecedores.
+**Gestão do Fluxo de Caixa:** O PMP permite que a empresa compreenda quanto tempo, em média, mantém o dinheiro em caixa antes de pagar seus fornecedores. Um PMP mais longo pode indicar maior retenção de caixa, o que pode ser benéfico para o fluxo de caixa, mas também pode impactar negativamente o relacionamento com fornecedores;
 
-**Negociação com Fornecedores:** Ao monitorar o PMP, a empresa pode negociar melhores prazos de pagamentos com fornecedores, buscando equilibrar a manutenção do fluxo de caixa com o cumprimento das obrigações financeiras.
+**Negociação com Fornecedores:** Ao monitorar o PMP, a empresa pode negociar melhores prazos de pagamentos com fornecedores, buscando equilibrar a manutenção do fluxo de caixa com o cumprimento das obrigações financeiras;
 
-**Avaliação da Saúde Financeira:** O PMP reflete a saúde financeira da empresa. Um prazo muito curto pode indicar pressão de fornecedores ou dificuldades em manter o caixa, enquanto um prazo muito longo pode sugerir dificuldades em cumprir prazos ou práticas de pagamento inadequadas.
+**Avaliação da Saúde Financeira:** O PMP reflete a saúde financeira da empresa. Um prazo muito curto pode indicar pressão de fornecedores ou dificuldades em manter o caixa, enquanto um prazo muito longo pode sugerir dificuldades em cumprir prazos ou práticas de pagamento inadequadas;
 
-**Análise Comparativa:** Empresas utilizam o PMP para comparar sua eficiência de pagamento com outras empresas do mesmo setor, ajudando a identificar se está dentro das práticas comuns de mercado ou se são necessários ajustes.
+**Análise Comparativa:** Empresas utilizam o PMP para comparar sua eficiência de pagamento com outras empresas do mesmo setor, ajudando a identificar se está dentro das práticas comuns de mercado ou se são necessários ajustes;
 
 **Tomada de Decisões Financeiras:** Com base no PMP, o gestor financeiro pode tomar decisões estratégicas sobre a melhor alocação de recursos, planejando pagamentos de forma a otimizar o uso do caixa sem comprometer as relações comerciais.
 
