@@ -76,7 +76,7 @@ Finalmente, há um botão em cada painel do relatório que está vinculado à do
 
 <div align="center">
   <img src="../../assets/flux/flux_menu.png" alt="Barra de Menu">
-  <h6>Imagem 2: Barra de Menu</h6>
+  <h6>Imagem 3: Barra de Menu</h6>
 </div>
 
 A barra de menu é uma ferramenta de navegação situada no lado esquerdo de todas as páginas do relatório. Ela oferece acesso direto e conveniente a diferentes seções e páginas detalhadas do relatório, facilitando a navegação eficiente entre várias áreas de análise e insights. A barra de menu é projetada para ajudar os usuários a encontrar rapidamente as informações desejadas, e o botão da página atual será destacado para indicar a seção em que o usuário está localizado.
@@ -140,11 +140,11 @@ Este botão é diferente dos outros botões de menu, pois ele só aparece no Pai
 
 <div align="center">
   <img src="../../assets/flux/flux_filtros1.png" alt="Financeiro Filtros1" style="vertical-align: middle;">
-  <h6>Imagem 3: Filtros Visão 1</h6>
+  <h6>Imagem 4: Filtros Visão 1</h6>
 </div>
 <div align="center">
   <img src="../../assets/flux/flux_filtros2.png" alt="Financeiro Filtros2" style="vertical-align: middle;">
-  <h6>Imagem 4: Filtros Visão 2</h6>
+  <h6>Imagem 5: Filtros Visão 2</h6>
 </div>
 
 Os filtros são ferramentas essenciais que permitem ajustar a visualização dos dados em todas as páginas do relatório de forma dinâmica e sincronizada.
@@ -193,7 +193,7 @@ Para restabelecer a visualização completa dos dados e remover todos os filtros
 
 <div align="center">
   <img src="../../assets/flux/flux_hi_all.png" alt="Header Icons All">
-  <h6>Imagem 4: Ícones de Cabeçalho</h6>
+  <h6>Imagem 6: Ícones de Cabeçalho</h6>
 </div>
 
 Quando um visual é selecionado ou o mouse passa sobre ele, ícones de cabeçalho aparecem no canto superior direito. Esses ícones variam conforme o tipo e o conteúdo do visual, além das opções configuradas durante a criação.
@@ -239,12 +239,12 @@ Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, 
 ## Dicas de Ferramentas
 
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px;">
-  <img src="../../assets/flux/flux_tooltip_rec.png" alt="ToolTip Receber">
+  <img src="../../assets/flux/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux/flux_tooltip_rec.png" alt="ToolTip Receber" style="height: 150px;">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux/flux_tooltip_inadim.png" alt="ToolTip Inadim" style="margin-right: 10px;">
-  <img src="../../assets/flux/flux_tooltip_venc.png" alt="ToolTip Venc">
+  <img src="../../assets/flux/flux_tooltip_inadim.png" alt="ToolTip Inadim" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux/flux_tooltip_venc.png" alt="ToolTip Venc" style="height: 150px;">
 </div>
 
 As "Dicas de Ferramentas" oferecem uma maneira poderosa de visualizar contexto adicional ou detalhes sobre pontos de dados em um visual, sem sobrecarregar a exibição principal. Ao passar o cursor sobre um elemento específico em um visual, como uma barra em um gráfico de barras ou um ponto de dados em um gráfico de linhas, uma Dica de Ferramenta aparecerá exibindo informações relevantes para aquela seleção. Normalmente, as Dicas de Ferramentas mostram métricas chave, como totais, percentuais ou médias, ajudando os usuários a entender o significado do ponto de dados. No entanto, elas também podem conter detalhes adicionais que não estão visíveis diretamente no visual principal, oferecendo uma visão mais profunda. Por exemplo, um gráfico pode mostrar o valor, e a Dica de Ferramenta poderia incluir esse valor junto com o percentual correspondente. Essa camada oculta de informações enriquece a experiência do usuário, permitindo que explorem os dados de forma mais completa, sem sobrecarregar o visual com muitos detalhes de uma só vez. Para visualizar as Dicas de Ferramentas, os usuários simplesmente precisam passar o cursor sobre os diferentes pontos de dados, tornando-as um recurso intuitivo que aprimora a exploração de dados e a tomada de decisões.
