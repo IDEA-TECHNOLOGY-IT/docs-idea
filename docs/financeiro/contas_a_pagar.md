@@ -40,10 +40,10 @@ Além disso, a interação entre os gráficos é bidirecional: ao clicar em outr
 
 Apesar de ser um gráfico compacto, ele oferece diversas funcionalidades, especialmente quando usado em conjunto com o gráfico [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), permitindo ações como:
 
-- Antecipar déficits e planejar saídas de caixa, possibilitando um planejamento financeiro mais preciso,
-- Melhorar a gestão de pagamentos por meio da priorização de dívidas e comunicação estratégica com fornecedores,
-- Aprimorar o controle de crédito ao monitorar o risco e o comportamento de pagamento, permitindo ajustes nos prazos de pagamento,
-- Apoiar o planejamento financeiro do negócio, proporcionando previsões e decisões de investimento mais informadas,
+- Antecipar déficits e planejar saídas de caixa, possibilitando um planejamento financeiro mais preciso;
+- Melhorar a gestão de pagamentos por meio da priorização de dívidas e comunicação estratégica com fornecedores;
+- Aprimorar o controle de crédito ao monitorar o risco e o comportamento de pagamento, permitindo ajustes nos prazos de pagamento;
+- Apoiar o planejamento financeiro do negócio, proporcionando previsões e decisões de investimento mais informadas;
 - Mitigar o risco financeiro ao reduzir atrasos e inadimplências, gerenciando as contas de forma proativa para manter bons relacionamentos com fornecedores e parceiros financeiros, o que pode, a longo prazo, melhorar a gestão do caixa e dos pagamentos.
 
 ### A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido
