@@ -16,7 +16,7 @@ Para começar, clique em um dos links abaixo para acessar a documentação de ca
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../../assets/flux/flux.png" alt="Idea Finance" style="height: 8em; width: auto; margin-right: 20px; display: block;">
   <div style="flex: 1;">
-    <strong><a href="https://idea-technology-it.github.io/docs-idea/financeiro/ficha_tecnica/" target="_blank">Idea Finance</a></strong> (BI Financeiro): apresenta métricas e relatórios detalhados sobre o fluxo de caixa, gestão de despesas e receitas, análise de lucratividade e outros indicadores financeiros importantes. Ela é destinada a auxiliar a equipe financeira a monitorar a saúde financeira da empresa e tomar decisões informadas com base em dados financeiros precisos e atualizados.
+    <strong><a href="https://idea-technology-it.github.io/docs-idea/financeiro/ficha_tecnica/" target="_blank">Idea Finance</a></strong> (BI Financeiro): apresenta métricas e relatórios detalhados sobre o fluxo de caixa, gestão de despesas e receitas, análise de lucratividade e outros indicadores financeiros importantes. Com estaa documentação, é possível auxiliar a equipe financeira a monitorar a saúde financeira da empresa e tomar decisões informadas com base em dados financeiros precisos e atualizados.
   </div>
 </div>
 
