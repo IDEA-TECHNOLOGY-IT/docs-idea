@@ -19,9 +19,9 @@
 
 Este painel de relatório está dividido em três visualizações;
 
-- **[Visão de Fluxo de Caixa]()** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "voltar para visualização fluxo de caixa".
-- **[Visão de Mensal e Diário]()** - pode ser navegada através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "voltar para visualização mensal e diário" e "ir para visualização mensal e diário".
-- **[Visão de tabela]()** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualizar em tabela".
+- **[Visão de Fluxo de Caixa](https://idea-technology-it.github.io/docs-idea/financeiro/fluxo_caixa/#visao-de-fluxo-de-caixa)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "voltar para visualização fluxo de caixa".
+- **[Visão de Mensal e Diário](https://idea-technology-it.github.io/docs-idea/financeiro/fluxo_caixa/#visao-de-mensal-e-diario)** - pode ser navegada através dos [botões](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "voltar para visualização mensal e diário" e "ir para visualização mensal e diário".
+- **[Visão de tabela](https://idea-technology-it.github.io/docs-idea/financeiro/fluxo_caixa/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualizar em tabela".
 
 ## Informações no Painel de Recebimentos Realizados
 
@@ -169,7 +169,7 @@ Exibe o valor de entradas em cada transação. Esta coluna permite uma visão cl
 Exibe o valor de saídas em cada transação. Esta coluna permite uma visão clara dos montantes pagos.
 #### Valor Total
 Apresenta o valor das entradas menos saídas. Esta coluna fornece uma visão clara do valor total ao analisar entradas e saídas.
-#### Filial
+#### Empresa/Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
 #### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
@@ -181,8 +181,8 @@ Para mostrar o tempo que a transação está atrasada.
 Indica o processo associado ao recebimento, como "Recebimento" ou "Carteira de Recebíveis". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
 Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado recebível.
-#### Dimensão
-Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensao), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
+#### Dimensão/Centro de Custo
+Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão/Centro de Custo](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensaocentro-de-custo), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
 
 
 <br><br>
