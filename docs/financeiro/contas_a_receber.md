@@ -27,7 +27,7 @@ A porcentagem (%) de Receber é uma métrica valiosa para a gestão financeira, 
 
 <p><div align="center">
   <img src="../../assets/flux/flux_rec_aging.png" alt="Aging - Contas a Receber">
-  <h6>Imagem 3: Aging - Contas a Receber</h6>
+  <h6>Imagem 2: Aging - Contas a Receber</h6>
 </div></p>
 
 O gráfico de barras é dividido em 7 categorias, a primeira das quais é o valor que já está vencido. Em seguida, vem o tempo em que esse valor é devido, começando em 0 dias (com vencimento imediato), progredindo em intervalos de 30 dias e terminando com qualquer coisa que seja devida em 120 dias ou mais.
@@ -50,12 +50,12 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 
 <p><div align="center">
   <img src="../../assets/flux/flux_rec_projeto.png" alt="A Receber por Filial, Projeto, Dimensão, Origem ou Cliente">
-  <h6>Imagem 2: A Receber por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
+  <h6>Imagem 3: A Receber por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **A Receber por Filial, Projeto, Dimensão, Origem ou Cliente** é uma ferramenta fundamental para a análise financeira e a tomada de decisões estratégicas. Ao organizar os recebíveis conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores de recebimento estão concentrados e rastreiem os pagamentos recebidos de diferentes origens, projetos ou filiais. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando quais áreas estão contribuindo mais significativamente para o recebimento de valores, o que pode impactar diretamente a saúde financeira da organização.
 
-Essa matriz exibe o valor total de recebimento e a porcentagem (%) de recebimento em relação ao total, proporcionando uma visão clara da contribuição de cada categoria. Esses indicadores permitem priorizar áreas que requerem mais atenção ou ajuste em termos de recebimento, garantindo uma distribuição mais eficiente dos esforços de cobrança ou monitoramento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
+Essa matriz exibe o valor total  a receber e a porcentagem (%) a receber em relação ao total, proporcionando uma visão clara da contribuição de cada categoria. Esses indicadores permitem priorizar áreas que requerem mais atenção ou ajuste em termos de recebimento, garantindo uma distribuição mais eficiente dos esforços de cobrança ou monitoramento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
 
 Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como [Aging - Contas a Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#aging-contas-a-receber), este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem navegar pelos dados de forma fluida, investigando correlações entre diferentes variáveis e entendendo como diferentes categorias impactam o recebimento.
 
@@ -70,7 +70,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Projeto, Dimensão, Origem ou Cliente, para analisar a área desejada.
 
 ### A Receber por Cliente, Origem, Projeto, Dimensão ou Filial
 
@@ -96,7 +96,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente ou Origem, para analisar a área desejada.
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Cliente, Origem, Projeto, Dimensão ou Filial, para analisar a área desejada.
 
 ### A Receber por Data
 
