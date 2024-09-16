@@ -239,11 +239,11 @@ Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, 
 ## Dicas de Ferramentas
 
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux/flux_tooltip_pmr.png" alt="ToolTip PMR" style="margin-right: 10px; height: 100px;">
   <img src="../../assets/flux/flux_tooltip_venc.png" alt="ToolTip Venc" style="height: 150px;">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/flux/flux_tooltip_rec.png" alt="ToolTip Inadim" style="margin-right: 10px; height: 150px;">
+  <img src="../../assets/flux/flux_tooltip_rec.png" alt="ToolTip Inadim" style="margin-right: 10px; height: 100px;">
   <img src="../../assets/flux/flux_tooltip_inadim.png" alt="ToolTip Receber" style="height: 150px;">
 </div>
 
