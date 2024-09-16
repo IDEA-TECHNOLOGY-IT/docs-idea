@@ -210,7 +210,7 @@ Isso ajusta o drill down para linhas ou colunas em uma tabela. Por exemplo, se o
 <p><img src="../../assets/flux/flux_hi_up.png" alt="Up" style="vertical-align: middle; height: 40px;"></p>
 O botão "Fazer drill up" permite que você suba um nível na hierarquia de dados. Por exemplo, se o visual estiver detalhando informações por cliente, origem, filial e projeto, e você estiver visualizando os dados por filial, ao clicar no botão, ele exibirá os dados do nível superior, como origem.
 
-### Clique aqui parahabilitar o Drill down
+### Clique aqui para habilitar o Drill down
 <p><img src="../../assets/flux/flux_hi_downon.png" alt="DownOn" style="vertical-align: middle; height: 40px;"></p>
 Este botão não é necessário para nossos relatórios, ele habilita os recursos de detalhamento, mas eles são predefinidos na criação.
 
@@ -247,7 +247,7 @@ Este botão exibe um menu com várias opções, como Pesquisar, Exportar dados, 
   <img src="../../assets/flux/flux_tooltip_venc.png" alt="ToolTip Venc">
 </div>
 
-As Dicas de Ferramentas oferecem uma maneira poderosa de visualizar contexto adicional ou detalhes sobre pontos de dados em um visual, sem sobrecarregar a exibição principal. Ao passar o cursor sobre um elemento específico em um visual, como uma barra em um gráfico de barras ou um ponto de dados em um gráfico de linhas, uma Dica de Ferramenta aparecerá exibindo informações relevantes para aquela seleção. Normalmente, as Dicas de Ferramentas mostram métricas chave, como totais, percentuais ou médias, ajudando os usuários a entender o significado do ponto de dados. No entanto, elas também podem conter detalhes adicionais que não estão visíveis diretamente no visual principal, oferecendo uma visão mais profunda. Por exemplo, um gráfico pode mostrar o valor, e a Dica de Ferramenta poderia incluir esse valor junto com o percentual correspondente. Essa camada oculta de informações enriquece a experiência do usuário, permitindo que explorem os dados de forma mais completa, sem sobrecarregar o visual com muitos detalhes de uma só vez. Para visualizar as Dicas de Ferramentas, os usuários simplesmente precisam passar o cursor sobre os diferentes pontos de dados, tornando-as um recurso intuitivo que aprimora a exploração de dados e a tomada de decisões.
+As "Dicas de Ferramentas" oferecem uma maneira poderosa de visualizar contexto adicional ou detalhes sobre pontos de dados em um visual, sem sobrecarregar a exibição principal. Ao passar o cursor sobre um elemento específico em um visual, como uma barra em um gráfico de barras ou um ponto de dados em um gráfico de linhas, uma Dica de Ferramenta aparecerá exibindo informações relevantes para aquela seleção. Normalmente, as Dicas de Ferramentas mostram métricas chave, como totais, percentuais ou médias, ajudando os usuários a entender o significado do ponto de dados. No entanto, elas também podem conter detalhes adicionais que não estão visíveis diretamente no visual principal, oferecendo uma visão mais profunda. Por exemplo, um gráfico pode mostrar o valor, e a Dica de Ferramenta poderia incluir esse valor junto com o percentual correspondente. Essa camada oculta de informações enriquece a experiência do usuário, permitindo que explorem os dados de forma mais completa, sem sobrecarregar o visual com muitos detalhes de uma só vez. Para visualizar as Dicas de Ferramentas, os usuários simplesmente precisam passar o cursor sobre os diferentes pontos de dados, tornando-as um recurso intuitivo que aprimora a exploração de dados e a tomada de decisões.
 
 
 <br><br>
