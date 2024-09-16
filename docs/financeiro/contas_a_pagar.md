@@ -55,7 +55,7 @@ Apesar de ser um gráfico compacto, ele oferece diversas funcionalidades, especi
 
 Uma matriz exibindo os valores de **A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e rastreiem os desembolsos realizados para diferentes origens, projetos ou filiais. Essa visualização detalhada é crucial para uma gestão eficaz do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e como esses pagamentos impactam a saúde financeira da organização.
 
-A matriz apresenta o valor total de pagamento e a porcentagem (%) de pagamento em relação ao total, oferecendo uma visão clara da contribuição de cada categoria. Esses indicadores ajudam a priorizar áreas que precisam de mais controle ou ajuste em termos de pagamentos, assegurando uma gestão mais eficiente dos recursos financeiros e dos processos de pagamento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
+A matriz apresenta o valor total a pagar e a porcentagem (%) de a pagar em relação ao total, oferecendo uma visão clara da contribuição de cada categoria. Esses indicadores ajudam a priorizar áreas que precisam de mais controle ou ajuste em termos de pagamentos, assegurando uma gestão mais eficiente dos recursos financeiros e dos processos de pagamento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
 
 Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como o [Aging - Contas a Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões embasadas. Esse comportamento dinâmico cria uma experiência integrada, onde os usuários podem navegar pelos dados de forma fluida, investigando correlações entre diferentes variáveis e entendendo como diferentes categorias impactam o pagamento.
 
@@ -70,7 +70,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Projeto, Dimensão, Origem ou Favorecido, para analisar a área desejada.
 
 ### A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial
 
@@ -96,7 +96,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar para cima ou para baixo entre Favorecido ou Origem, facilitando a análise detalhada da área de interesse.
+Aqui, você pode navegar para cima ou para baixo entre Favorecido, Origem, Projeto, Dimensão ou Filial, facilitando a análise detalhada da área de interesse.
 
 ### A Pagar por Data
 
