@@ -38,12 +38,12 @@ Sem usar nenhum filtro, o gráfico representa o valor total a receber, mas, util
 
 Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como uma tabela de receber, este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas.
 
-Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), permitindo ações como:
+Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplado ao gráfico [Aging - Contas A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar), permitindo ações, como:
 
-- Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso,
-- Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa,
-- Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo,
-- Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas,
+- Prever déficits e planejar atrasos no fluxo de caixa para um planejamento financeiro mais preciso;
+- Melhorar os processos de cobrança por meio da priorização e comunicação estratégica para melhorar o fluxo de caixa;
+- Aprimorar o controle de crédito avaliando o risco e o comportamento, permitindo ajustes de prazo;
+- Apoiar o planejamento financeiro dentro do negócio por meio de previsões e decisões de investimento informadas;
 - Mitigar o risco financeiro, reduzindo dívidas inadimplentes e fortalecendo relacionamentos ao gerenciar proativamente as contas antes que elas aumentem, potencialmente levando a melhores comportamentos de pagamento ao longo do tempo.
 
 ### Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente
@@ -53,7 +53,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
   <h6>Imagem 2: Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
-Uma matriz exibindo os valores de Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente é uma ferramenta fundamental para a análise financeira e a tomada de decisões estratégicas. Ao organizar os recebíveis conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores de recebimento estão concentrados e rastreiem os pagamentos recebidos de diferentes origens, projetos ou filiais. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando quais áreas estão contribuindo mais significativamente para o recebimento de valores, o que pode impactar diretamente a saúde financeira da organização.
+Uma matriz exibindo os valores de **Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente** é uma ferramenta fundamental para a análise financeira e a tomada de decisões estratégicas. Ao organizar os recebíveis conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores de recebimento estão concentrados e rastreiem os pagamentos recebidos de diferentes origens, projetos ou filiais. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando quais áreas estão contribuindo mais significativamente para o recebimento de valores, o que pode impactar diretamente a saúde financeira da organização.
 
 Essa matriz exibe o valor total de recebimento e a porcentagem (%) de recebimento em relação ao total, proporcionando uma visão clara da contribuição de cada categoria. Esses indicadores permitem priorizar áreas que requerem mais atenção ou ajuste em termos de recebimento, garantindo uma distribuição mais eficiente dos esforços de cobrança ou monitoramento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
 
@@ -87,7 +87,7 @@ Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em 
 
 A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Cliente ou Origem, por exemplo, a tabela se expande para revelar os valores de recebimento detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada cliente ou projeto e sua respectiva contribuição para o fluxo de caixa. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
 
-A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre clientes, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Cliente** nesta matriz e **Filial** na [primeira](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-filial-projeto-dimensao-origem-ou-cliente), ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de [Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-filial-projeto-dimensao-origem-ou-cliente), proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre clientes, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar Cliente nesta matriz e Filial na [primeira](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/#recebimento-por-filial-projeto-dimensao-origem-ou-cliente), ou explorar Origem aqui e Projeto na outra, ajustando as tabelas conforme as necessidades da análise.
 
 Com a exibição clara dos valores absolutos de recebimento e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
@@ -128,7 +128,7 @@ Indica a filial da empresa responsável pela fatura. Isso é útil para entender
 #### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
 #### Status
-O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/)
+O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/).
 #### Processo
 Indica o processo associado ao recebimento, como "Recebimento" ou "Carteira de Recebíveis". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
