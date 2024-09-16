@@ -36,7 +36,7 @@ O indicador (30 dias) para os valores que devem ser recebidos nos próximos 30 d
 
 O botão "Ver mais" direciona o usuário para a página de A Receber quando clicado. No entanto, quando o usuário já está na página de A Receber, o botão "Ver mais" não é exibido, e o cartão correspondente é destacado visualmente.
 
-Conheça mais sobre essa caixa de indicadores no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/)
+Conheça mais sobre essa caixa de indicadores no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/).
 
 ## Indicador A Pagar
 
@@ -61,7 +61,7 @@ O indicador (30 dias) para os valores que devem ser pagos nos próximos 30 dias 
 
 O botão "Ver mais" direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de A Pagar, o botão "Ver mais" se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
 
-Conheça mais sobre essa caixa de indicadores no [Painel A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/)
+Conheça mais sobre essa caixa de indicadores no [Painel A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/).
 
 ## Indicador de Inadimplência
 
@@ -78,9 +78,9 @@ A inadimplência ocorre quando um devedor não cumpre suas obrigações financei
 
 O Índice de Inadimplência % (Índice) em recebíveis indica a porcentagem de valores que não foram pagos dentro do prazo acordado em relação ao total de créditos concedidos pela empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 5% e em verde quando estiver abaixo. Quando o Índice de Inadimplência está acima de 5%, isso indica que uma parcela significativa dos pagamentos devidos está em atraso, o que pode sinalizar problemas graves, como dificuldades financeiras dos clientes, ineficiências na gestão de crédito ou estratégias de cobrança inadequadas. Um índice elevado pode levar a impactos negativos, como:
 
-- **Diminuição da Liquidez:** Altos níveis de inadimplência podem reduzir a liquidez da empresa, dificultando sua capacidade de cumprir com suas próprias obrigações financeiras e investir em novas oportunidades.
+- **Diminuição da Liquidez:** Altos níveis de inadimplência podem reduzir a liquidez da empresa, dificultando sua capacidade de cumprir com suas próprias obrigações financeiras e investir em novas oportunidades;
   
-- **Risco Aumentado:** Um índice elevado pode sinalizar problemas com a solvência dos clientes, levando a um aumento no risco de perdas financeiras para a empresa.
+- **Risco Aumentado:** Um índice elevado pode sinalizar problemas com a solvência dos clientes, levando a um aumento no risco de perdas financeiras para a empresa;
   
 - **Impacto na Rentabilidade:** A inadimplência alta pode afetar diretamente a rentabilidade, já que valores que deveriam ter sido recebidos não são convertidos em receita.
 
@@ -94,7 +94,7 @@ Este indicador (120+ dias) mostra o valor dos pagamentos que estão inadimplente
 
 O botão "Ver mais", quando clicado, direciona o usuário para a página de Inadimplência. Se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de Inadimplência, o botão "Ver mais" não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
 
-Conheça mais sobre essa caixa de indicadores no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/)
+Conheça mais sobre essa caixa de indicadores no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/).
 
 ## Indicador de Pagamentos Vencidos
 
@@ -111,9 +111,9 @@ Pagamentos Vencidos são valores que ultrapassaram a data de vencimento e ainda 
 
 O Índice de Pagamentos Vencidos % (Índice) indica a porcentagem de valores devidos que não foram pagos dentro do prazo acordado, em relação ao total de obrigações financeiras da empresa. O valor do visual ficará destacado em vermelho sempre que estiver acima de 10% e em verde quando estiver abaixo. Quando esse índice está acima de 10%, isso sugere que uma parte significativa dos pagamentos está atrasada, o que pode indicar problemas sérios, como:
 
-- **Redução da Liquidez:** Altos níveis de inadimplência podem comprometer a liquidez da empresa, dificultando sua capacidade de honrar compromissos financeiros e investir em novas oportunidades.
+- **Redução da Liquidez:** Altos níveis de inadimplência podem comprometer a liquidez da empresa, dificultando sua capacidade de honrar compromissos financeiros e investir em novas oportunidades;
 
-- **Aumento do Risco:** Um índice elevado pode refletir problemas com a gestão de pagamentos ou com a capacidade financeira dos fornecedores, resultando em um maior risco de penalidades ou restrições de crédito.
+- **Aumento do Risco:** Um índice elevado pode refletir problemas com a gestão de pagamentos ou com a capacidade financeira dos fornecedores, resultando em um maior risco de penalidades ou restrições de crédito;
 
 - **Impacto na Rentabilidade:** Pagamentos vencidos podem acarretar custos adicionais, como multas e juros, que impactam diretamente a rentabilidade da empresa.
 
@@ -127,7 +127,7 @@ Este indicador (120+ dias) mostra o valor dos pagamentos que ainda precisam ser 
 
 O botão "Ver mais", ao ser clicado, direciona o usuário para a página de Pagamentos Vencidos. Se o usuário já estiver na página correspondente, o botão "Ver mais" não é exibido, e o cartão é automaticamente destacado para indicar que ele está visualizando as informações corretas.
 
-Conheça mais sobre essa caixa de indicadores no [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/)
+Conheça mais sobre essa caixa de indicadores no [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/).
 
 ## Indicador de Período Médio de Recebimento (PMR)
 
@@ -158,12 +158,12 @@ Recebimento (Receb.) refere-se ao valor total dos pagamentos já recebidos pela 
 
 Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a página do Painel de Recebimentos Realizados. Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do Painel de Recebimentos Realizados, o botão "Ver mais" desaparece, destacando o cartão para indicar que essa é a página em questão.
 
-Conheça mais sobre essa caixa de indicadores no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/)
+Conheça mais sobre essa caixa de indicadores no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/).
 
 ## Indicador de Período Médio de Pagamento (PMP)
 
 <div align="center">
-  <img src="../../assets/flux/flux_caixa_pmr.png" alt="Caixa de Período Médio de Pagamento (PMP)" style="height: 150px;">
+  <img src="../../assets/flux/flux_caixa_pmp.png" alt="Caixa de Período Médio de Pagamento (PMP)" style="height: 150px;">
   <h6>Imagem 7: Período Médio de Pagamento (PMP)</h6>
 </div>
 
@@ -189,18 +189,18 @@ Pagamento (Pago) refere-se ao valor total dos pagamentos já realizados. Compara
 
 Botão "Ver mais" quando clicado, este botão direciona o usuário para a página de Caixa do Painel de Pagamentos Realizados. Se o usuário já estiver na página de Caixa do Painel de Pagamentos Realizados, o botão "Ver mais" não será exibido e o cartão correspondente será destacado.
 
-Conheça mais sobre essa caixa de indicadores no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/)
+Conheça mais sobre essa caixa de indicadores no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/).
 
 ## Caixa de Saldo Total em Contas
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin-right: 20px; height: 150px;" >
     <img src="../../assets/flux/flux_caixa_saldo.png" alt="Caixa de Saldo Total em Contas" style="height: 100%; object-fit: contain;">
-    <h6>Imagem 8: Caixa de Saldo Total em Contas - Ver mais</h6>
+    <h6>Imagem 8: Saldo Total em Contas - Ver mais</h6>
   </div>
   <div style="text-align: center; height: 150px;">
     <img src="../../assets/flux/flux_caixa_saldomenos.png" alt="Caixa de Saldo Total em Contas Menos" style="height: 100%; object-fit: contain;">
-    <h6>Imagem 9: Caixa de Saldo Total em Contas - Veja menos</h6>
+    <h6>Imagem 9: Saldo Total em Contas - Veja menos</h6>
   </div>
 </div>
 
@@ -210,9 +210,9 @@ Saldo Total em Contas refere-se ao montante agregado disponível em todas as con
 
 ### Botão Ver mais e Veja menos
 
-Botão "Ver mais" Ao ser clicado, este botão abre uma tabela detalhada do Saldo Total em Contas, mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão Veja menos, permitindo fechar a tabela e retornar à visualização anterior.
+Botão "Ver mais" ao ser clicado, este botão abre uma tabela detalhada do Saldo Total em Contas, mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão "Veja menos", permitindo fechar a tabela e retornar à visualização anterior.
 
-Conheça mais sobre essa caixa de indicadores no [Visão Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/)
+Conheça mais sobre essa caixa de indicadores no [Visão Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/).
 
 
 <br><br>
