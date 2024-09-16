@@ -46,14 +46,14 @@ Apesar de ser um gráfico compacto, ele oferece diversas funcionalidades, especi
 - Apoiar o planejamento financeiro do negócio, proporcionando previsões e decisões de investimento mais informadas,
 - Mitigar o risco financeiro ao reduzir atrasos e inadimplências, gerenciando as contas de forma proativa para manter bons relacionamentos com fornecedores e parceiros financeiros, o que pode, a longo prazo, melhorar a gestão do caixa e dos pagamentos.
 
-### Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido
+### A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pag_projeto.png" alt="Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido">
-  <h6>Imagem 3: Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
+  <img src="../../assets/flux/flux_pag_projeto.png" alt="A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido">
+  <h6>Imagem 3: A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
-Uma matriz exibindo os valores de **Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e rastreiem os desembolsos realizados para diferentes origens, projetos ou filiais. Essa visualização detalhada é crucial para uma gestão eficaz do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e como esses pagamentos impactam a saúde financeira da organização.
+Uma matriz exibindo os valores de **A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e rastreiem os desembolsos realizados para diferentes origens, projetos ou filiais. Essa visualização detalhada é crucial para uma gestão eficaz do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e como esses pagamentos impactam a saúde financeira da organização.
 
 A matriz apresenta o valor total de pagamento e a porcentagem (%) de pagamento em relação ao total, oferecendo uma visão clara da contribuição de cada categoria. Esses indicadores ajudam a priorizar áreas que precisam de mais controle ou ajuste em termos de pagamentos, assegurando uma gestão mais eficiente dos recursos financeiros e dos processos de pagamento. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
 
@@ -61,25 +61,25 @@ Além disso, a interação entre os gráficos é bidirecional: ao clicar em outr
 
 A matriz também oferece a funcionalidade de expandir ou recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de uma Filial ou Projeto, a tabela se expande para mostrar os valores de pagamento associados às Dimensões, Origens ou Favorecidos correspondentes. Essa visão hierárquica permite uma análise mais segmentada e detalhada, facilitando o acompanhamento de cada parte envolvida no processo de pagamento. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão geral é suficiente.
 
-Além disso, a seleção dos cabeçalhos de linha nesta matriz possibilita criar diversas combinações com outra matriz de [Pagamento por Cliente, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#pagamento-por-cliente-origem-projeto-dimensão-ou-filial), aumentando ainda mais a flexibilidade da análise. A capacidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação das combinações mais relevantes, ajudando a visualizar as relações importantes na análise de pagamentos. Por exemplo, o usuário pode optar por visualizar Filial nesta matriz e Favorecido na segunda, ou Projeto nesta e Origem na outra, ajustando a visualização para exibir as informações mais relevantes no contexto da análise.
+Além disso, a seleção dos cabeçalhos de linha nesta matriz possibilita criar diversas combinações com outra matriz de [A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#pagamento-por-favorecido-origem-projeto-dimensao-ou-filial), aumentando ainda mais a flexibilidade da análise. A capacidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação das combinações mais relevantes, ajudando a visualizar as relações importantes na análise de pagamentos. Por exemplo, o usuário pode optar por visualizar Filial nesta matriz e Favorecido na segunda, ou Projeto nesta e Origem na outra, ajustando a visualização para exibir as informações mais relevantes no contexto da análise.
 
-Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, e a capacidade de explorar hierarquias e combinações de forma interativa, a matriz de **Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido** se torna uma ferramenta essencial para a gestão financeira. Ela possibilita uma navegação eficiente por grandes volumes de dados e interações com múltiplos visuais, auxiliando os tomadores de decisão a focar nas áreas mais críticas e a otimizar o desempenho financeiro da organização.
+Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, e a capacidade de explorar hierarquias e combinações de forma interativa, a matriz de **A Pagar por Filial, Projeto, Dimensão, Origem ou Favorecido** se torna uma ferramenta essencial para a gestão financeira. Ela possibilita uma navegação eficiente por grandes volumes de dados e interações com múltiplos visuais, auxiliando os tomadores de decisão a focar nas áreas mais críticas e a otimizar o desempenho financeiro da organização.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
 Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
 
-### Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial
+### A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
   <img src="../../assets/flux/flux_pag_fav.png" alt="A Pagar X Favorecido ou Origem">
   <h6>Imagem 4: A Pagar X Favorecido ou Origem</h6>
 </div></p>
 
-Uma matriz exibindo os valores de **Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e monitorem os desembolsos feitos para diferentes favorecidos, origens de despesa ou projetos. Esse nível de detalhamento é crucial para uma gestão eficiente do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e ajudando a identificar eventuais riscos ou oportunidades de otimização financeira.
+Uma matriz exibindo os valores de **A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os valores pagos estão concentrados e monitorem os desembolsos feitos para diferentes favorecidos, origens de despesa ou projetos. Esse nível de detalhamento é crucial para uma gestão eficiente do fluxo de caixa, destacando quais áreas representam os maiores compromissos financeiros e ajudando a identificar eventuais riscos ou oportunidades de otimização financeira.
 
 A matriz apresenta tanto o valor total de pagamento quanto a porcentagem (%) que cada favorecido, origem, projeto, dimensão ou filial representa no total, fornecendo uma visão clara da contribuição relativa de cada categoria. Esses indicadores facilitam a priorização de áreas que demandam mais controle, possibilitando ajustes mais rápidos e eficazes nos processos de pagamento e gerenciamento de despesas. As barras de dados em azul claro atrás dos valores na matriz atuam como um auxílio visual importante para a comparação. Elas fornecem um contexto visual imediato para os valores exibidos, destacando a magnitude relativa de cada categoria. Esse contraste entre as barras de dados e os valores facilita a visualização das diferenças e semelhanças entre os itens, permitindo que os stakeholders identifiquem rapidamente quais categorias têm maiores ou menores valores em comparação com o total. Ao criar uma base de referência visual, as barras de fundo ajudam a interpretar os dados de maneira mais intuitiva, tornando mais fácil detectar padrões, variações e tendências significativas. Essa representação visual aprimorada apoia a análise financeira ao transformar dados complexos em informações visualmente acessíveis e compreensíveis.
 
@@ -87,11 +87,11 @@ Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em 
 
 A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Favorecido ou Origem, por exemplo, a tabela se expande para revelar os valores de pagamento detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada favorecido ou projeto e sua respectiva contribuição para o fluxo de caixa. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
 
-A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre favorecidos, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Favorecido** nesta matriz e **Filial** na outra, ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre favorecidos, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Favorecido** nesta matriz e **Filial** na outra, ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
 
-Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
+Com a exibição clara dos valores absolutos de pagamento e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **A Pagar por Favorecido, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta essencial para a gestão financeira. Ela oferece uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#filtros) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -123,18 +123,18 @@ Indica quando a fatura foi criada. Essa informação é importante para entender
 Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data atual ajuda a identificar faturas que estão próximas de vencer ou já estão atrasadas.
 #### Valor
 Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
-#### Filial
+#### Empresa/Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos pagáveis.
 #### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
 #### Status
-O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/)
+O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/).
 #### Processo
 Indica o processo associado ao recebimento, como "Pagamento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
 Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado pagável.
-#### Dimensão
-Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensao), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
+#### Dimensão/Centro de Custo
+Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensaocentro-de-custo), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
 
 
 <br><br>
