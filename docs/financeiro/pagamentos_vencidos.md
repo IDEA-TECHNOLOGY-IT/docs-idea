@@ -14,7 +14,7 @@
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/pagamentos_vencidos/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico" ou "ir para visualização em tabela";
+- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico" ou "ir para visualização em tabela";
 - **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em gráfico";
 - **[Visão de tabela](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
@@ -61,7 +61,7 @@ Ao utilizar filtros ou clicar em pontos de dados nas visualizações deste paine
 
 O gráfico de barras divide os pagamentos vencidos em 5 categorias, começando pelo valor que está em atraso por mais de 120 dias e diminuindo em intervalos de 30 dias, terminando com qualquer valor em atraso por até 30 dias. Além disso, ele inclui um rótulo de detalhes que mostra a porcentagem do total de pagamentos vencidos em cada categoria.
 
-Este visual fornece uma visão clara e concisa do status dos pagamentos vencidos, complementando o gráfico [Aging - Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#aging-pagamentos-vencidos). Ele facilita a identificação das áreas mais críticas e permite que a gestão avalie rapidamente quais segmentos dos recebimentos estão mais propensos a se tornarem incobráveis. Os rótulos de detalhes com a porcentagem do total de pagamentos vencidos em cada categoria oferecem uma visão adicional sobre a distribuição do risco.
+Este visual fornece uma visão clara e concisa do status dos pagamentos vencidos, complementando o gráfico [Aging - Contas a Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/#aging-contas-a-pagar). Ele facilita a identificação das áreas mais críticas e permite que a gestão avalie rapidamente quais segmentos dos recebimentos estão mais propensos a se tornarem incobráveis. Os rótulos de detalhes com a porcentagem do total de pagamentos vencidos em cada categoria oferecem uma visão adicional sobre a distribuição do risco.
 
 Por exemplo, uma alta porcentagem de pagamentos vencidos na categoria "mais de 120 dias" pode indicar um problema significativo de cobrança que necessita de atenção imediata, enquanto uma concentração maior na categoria "até 30 dias" pode sugerir atrasos recentes que são mais gerenciáveis. Essa categorização ajuda a priorizar os esforços de cobrança e a tomar decisões estratégicas sobre políticas de crédito e gerenciamento de relacionamento com clientes.
 
@@ -69,7 +69,7 @@ No geral, o gráfico destaca onde é necessário focar mais atenção e permite 
 
 Sem aplicar nenhum filtro, o gráfico representa o valor total dos pagamentos vencidos. No entanto, ao utilizar filtros por filial ou projeto, é possível gerenciar áreas específicas dentro do negócio. Além disso, a interação entre os gráficos é bidirecional: ao clicar em outro visual na página, como uma tabela de recebimentos, este gráfico de barras será automaticamente filtrado com base na seleção feita. Da mesma forma, ao selecionar uma barra neste gráfico, ele filtrará os outros visuais, permitindo uma análise interativa e detalhada que facilita a compreensão dos dados e a tomada de decisões informadas.
 
-Embora compacto, este gráfico é muito funcional, especialmente quando combinado com o gráfico [Aging - Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#aging-pagamentos-vencidos), permitindo ações como:
+Embora compacto, este gráfico é muito funcional, especialmente quando combinado com o gráfico [Aging - Inadimplênica](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/#aging-inadimplencia), permitindo ações como:
 
 - Identificar contas problemáticas e priorizar intervenções para lidar com os pagamentos vencidos mais significativos, reduzindo o impacto geral da inadimplência no negócio;
 - Aprimorar estratégias de cobrança concentrando esforços nas categorias de maior risco, aumentando a probabilidade de recuperar valores vencidos e melhorando o fluxo de caixa;
@@ -81,7 +81,7 @@ Embora compacto, este gráfico é muito funcional, especialmente quando combinad
 
 <p><div align="center">
   <img src="../../assets/flux/flux_venc_projeto.png" alt="Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido">
-  <h6>Imagem 3: Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
+  <h6>Imagem 4: Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
 Uma matriz exibindo os valores de Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido é uma ferramenta essencial para análise financeira e tomada de decisões estratégicas. Ao organizar os valores de pagamentos vencidos com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de vencimento estão concentrados e monitorem quais favorecidos, origens ou projetos apresentam maiores atrasos. Essa visualização detalhada é crucial para uma gestão eficaz do fluxo de caixa, destacando as áreas com maior volume de pagamentos vencidos e ajudando a direcionar ações corretivas para minimizar impactos financeiros.
@@ -92,7 +92,7 @@ Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em 
 
 A matriz também oferece a funcionalidade de expandir ou recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de uma Filial ou Projeto, por exemplo, a tabela se expande para mostrar os valores de pagamentos vencidos associados às Dimensões, Origens ou Favorecidos correspondentes. Essa visão hierárquica permite uma análise mais detalhada e segmentada, facilitando o acompanhamento das contribuições individuais para o total de pagamentos vencidos. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), facilitando a navegação quando uma visão mais geral for suficiente.
 
-Além disso, a seleção de cabeçalhos de linha nesta matriz permite criar várias combinações com outra matriz de [Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#pagamentos-vencidos-por-favorecido-origem-projeto-dimensão-ou-filial), aumentando ainda mais a flexibilidade da análise. A possibilidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação de combinações relevantes, ajudando a visualizar as relações mais importantes para a análise de pagamentos vencidos. Por exemplo, o usuário pode optar por visualizar **Filial** nesta matriz e **Favorecido** na segunda, ou **Projeto** aqui e **Origem** na outra, ajustando as tabelas conforme o contexto da análise.
+Além disso, a seleção de cabeçalhos de linha nesta matriz permite criar várias combinações com outra matriz de [Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#pagamentos-vencidos-por-favorecido-origem-projeto-dimensao-ou-filial), aumentando ainda mais a flexibilidade da análise. A possibilidade de escolher diferentes cabeçalhos de linha em cada matriz facilita a identificação de combinações relevantes, ajudando a visualizar as relações mais importantes para a análise de pagamentos vencidos. Por exemplo, o usuário pode optar por visualizar **Filial** nesta matriz e **Favorecido** na segunda, ou **Projeto** aqui e **Origem** na outra, ajustando as tabelas conforme o contexto da análise.
 
 Com a exibição clara dos valores absolutos de pagamentos vencidos e suas respectivas porcentagens, além da capacidade de explorar essas relações hierárquicas e combinações de forma interativa, a matriz de **Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido** se torna uma ferramenta indispensável para a gestão financeira. Ela proporciona uma navegação eficiente em grandes volumes de dados e facilita interações entre múltiplos visuais, ajudando os tomadores de decisão a focar nos pontos críticos e a otimizar a saúde financeira da organização.
 
@@ -101,13 +101,13 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar entre diferentes níveis hierárquicos, como Projeto, Filial ou Dimensão, para analisar a área desejada.
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Projeto, Dimensão, Origem ou Favorecido, para analisar a área desejada.
 
 ### Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
   <img src="../../assets/flux/flux_venc_fav.png" alt="Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial">
-  <h6>Imagem 4: Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial</h6>
+  <h6>Imagem 5: Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para análise financeira e tomada de decisões estratégicas. Ao organizar os pagamentos vencidos com base nessas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de vencimento estão concentrados e monitorem os pagamentos pendentes de diferentes favorecidos, origens de receita ou projetos. Esse nível de detalhamento é crucial para uma gestão eficaz do fluxo de caixa, destacando as áreas que enfrentam maiores problemas de pagamento e ajudando a identificar riscos ou oportunidades de otimização financeira.
@@ -118,7 +118,7 @@ Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em 
 
 A matriz também oferece a funcionalidade de expandir e recolher hierarquias. Ao clicar no sinal de mais (+) ao lado de um Favorecido ou Origem, por exemplo, a tabela se expande para revelar os valores de pagamentos vencidos detalhados por Projeto, Dimensão ou Filial. Essa visão hierárquica permite uma análise mais aprofundada, facilitando o acompanhamento de cada favorecido ou projeto e sua respectiva contribuição para o total de pagamentos vencidos. Os usuários podem também recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visão mais geral é suficiente.
 
-A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre favorecidos, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Favorecido** nesta matriz e **Filial** na [outra](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#pagamentos-vencidos-por-filial-projeto-dimensão-origem-ou-favorecido), ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
+A seleção de cabeçalhos de linha nesta matriz também permite combinações poderosas com a matriz de **Pagamentos Vencidos por Filial, Projeto, Dimensão, Origem ou Favorecido**, proporcionando ainda mais flexibilidade na análise. A capacidade de alternar entre diferentes combinações de cabeçalhos de linha em ambas as matrizes facilita a visualização de conexões relevantes entre favorecidos, projetos, filiais e dimensões. Por exemplo, o usuário pode optar por visualizar **Favorecido** nesta matriz e **Filial** na [outra](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/#pagamentos-vencidos-por-filial-projeto-dimensao-origem-ou-favorecido), ou explorar **Origem** aqui e **Projeto** na outra, ajustando as tabelas conforme as necessidades da análise.
 
 Com a exibição clara dos valores absolutos de pagamentos vencidos e suas respectivas porcentagens, além da capacidade de explorar as relações hierárquicas e combinações de forma interativa, a matriz de **Pagamentos Vencidos por Favorecido, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta indispensável para a gestão financeira. Ela proporciona uma navegação eficiente em grandes volumes de dados e facilita interações com múltiplos visuais, ajudando os tomadores de decisão a focar nos principais pontos críticos e a otimizar o desempenho financeiro da organização.
 
@@ -127,7 +127,7 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
 </div></p>
-Aqui, você pode navegar entre as opções de Favorecido ou Origem, permitindo que você explore e analise a área específica de interesse com mais profundidade.
+Aqui, você pode navegar entre as opções de Favorecido, Origem, Projeto, Dimensão ou Filial, permitindo que você explore e analise a área específica de interesse com mais profundidade.
 
 ## Visão Gráfica
 
@@ -135,16 +135,16 @@ Aqui, você pode navegar entre as opções de Favorecido ou Origem, permitindo q
 
 <p><div align="center">
   <img src="../../assets/flux/flux_venc_mes.png" alt="Vencido Mês">
-  <h6>Imagem 5: Pagamentos Vencidos por Mês</h6>
+  <h6>Imagem 6: Pagamentos Vencidos por Mês</h6>
 </div></p>
 
 O gráfico ilustra os pagamentos vencidos por mês e ano, destacando três elementos principais:
 
-- **A Pagar Acumulado:** Este representa o valor total acumulado que a empresa deve pagar ao longo dos meses. Essa métrica é crucial, pois fornece uma visão geral das saídas de caixa potenciais. Ao rastrear os pagamentos acumulados, a empresa pode monitorar a saúde geral de suas obrigações financeiras e antecipar o momento dos desembolsos. Isso é essencial para o planejamento financeiro, garantindo que o negócio tenha os recursos necessários para cumprir com suas responsabilidades sem comprometer sua liquidez.
+- **A Pagar Acumulado:** Este representa o valor total acumulado que a empresa deve pagar ao longo dos meses. Essa métrica é crucial, pois fornece uma visão geral das saídas de caixa potenciais. Ao rastrear os pagamentos acumulados, a empresa pode monitorar a saúde geral de suas obrigações financeiras e antecipar o momento dos desembolsos. Isso é essencial para o planejamento financeiro, garantindo que o negócio tenha os recursos necessários para cumprir com suas responsabilidades sem comprometer sua liquidez;
 
 - **Pagamentos Vencidos Acumulado:** Mostra o valor acumulado de pagamentos vencidos em cada mês, indicando o montante total que não foi pago dentro do prazo acordado. Monitorar o valor dos pagamentos vencidos acumulados é vital para identificar tendências de atrasos e possíveis problemas com fornecedores ou períodos específicos. Uma tendência crescente de pagamentos vencidos pode sinalizar dificuldades de fluxo de caixa, ineficiências no processo de aprovação de pagamentos ou a necessidade de reavaliar o ciclo de pagamentos da empresa. Compreendendo quando e por que os pagamentos se tornam vencidos, a empresa pode tomar medidas proativas, como renegociar prazos ou ajustar suas políticas de pagamento para evitar maiores consequências;
 
-- **% Pagamentos Vencidos Acumulado:** O texto mostra a taxa percentual de pagamentos vencidos em relação aos pagamentos acumulados. Essa porcentagem fornece uma visão clara e imediata da proporção de obrigações financeiras que estão atrasadas. Será vermelho quando estiver acima de 10% e verde quando estiver abaixo para maior clareza visual. Ao rastrear essa taxa ao longo do tempo, a gerência pode avaliar a eficácia de suas políticas de pagamento e tomar decisões informadas para ajustar suas estratégias, como negociar condições mais favoráveis com fornecedores ou priorizar certos pagamentos para evitar penalidades. Uma alta porcentagem de pagamentos vencidos pode indicar a necessidade de melhorar a gestão do fluxo de caixa ou renegociar termos com fornecedores, enquanto uma baixa porcentagem sugere que os processos atuais estão funcionando bem;
+- **% Pagamentos Vencidos Acumulado:** O texto mostra a taxa percentual de pagamentos vencidos em relação aos pagamentos acumulados. Essa porcentagem fornece uma visão clara e imediata da proporção de obrigações financeiras que estão atrasadas. Será vermelho quando estiver acima de 10% e verde quando estiver abaixo para maior clareza visual. Ao rastrear essa taxa ao longo do tempo, a gerência pode avaliar a eficácia de suas políticas de pagamento e tomar decisões informadas para ajustar suas estratégias, como negociar condições mais favoráveis com fornecedores ou priorizar certos pagamentos para evitar penalidades. Uma alta porcentagem de pagamentos vencidos pode indicar a necessidade de melhorar a gestão do fluxo de caixa ou renegociar termos com fornecedores, enquanto uma baixa porcentagem sugere que os processos atuais estão funcionando bem.
 
 Juntos, esses três elementos fornecem uma visão abrangente da saúde financeira da empresa em relação aos seus passivos. O gráfico permite que a empresa identifique padrões de atrasos, avalie o impacto dos pagamentos vencidos no fluxo de caixa e tome decisões baseadas em dados para mitigar riscos financeiros. Por exemplo, se o gráfico mostrar um aumento significativo nos pagamentos vencidos em um mês específico, a empresa pode investigar as causas e implementar estratégias para evitar que isso ocorra novamente. Da mesma forma, ao comparar a porcentagem de pagamentos vencidos com os pagamentos acumulados, a gerência pode priorizar quais fornecedores ou contas exigem atenção imediata, garantindo que os recursos sejam alocados de forma eficiente para minimizar os impactos financeiros negativos. Em última análise, este gráfico é uma ferramenta essencial para otimizar o planejamento financeiro, melhorar a gestão do fluxo de caixa e manter uma operação financeira estável e saudável.
 
@@ -166,7 +166,7 @@ Na dica de ferramenta para este visual, você encontrará mais três valores. El
 
 <p><div align="center">
   <img src="../../assets/flux/flux_venc_tabela.png" alt="Vencido Tabela">
-  <h6>Imagem 6: Tabela de Detalhes de Pagamentos Vencidos</h6>
+  <h6>Imagem 7: Tabela de Detalhes de Pagamentos Vencidos</h6>
 </div></p>
 
 Este gráfico exibe uma tabela detalhada dos pagamentos vencidos, organizada por data de vencimento, oferecendo uma visão completa das transações em ordem cronológica. A tabela inclui várias colunas que fornecem informações cruciais sobre cada pagamento, desde o favorecido até o status atual e os documentos relacionados. Essa visão tabular permite à empresa analisar minuciosamente cada pagamento vencido, fornecendo todas as informações necessárias para o acompanhamento e a gestão eficaz das obrigações financeiras. Com esta estrutura, a empresa pode monitorar detalhadamente o fluxo de caixa e tomar decisões informadas sobre como lidar com pagamentos atrasados, garantindo que os riscos financeiros sejam mitigados e as relações com fornecedores sejam preservadas. A seguir, explicamos como interpretar cada coluna da tabela.
@@ -189,7 +189,7 @@ Esta coluna mostra a data de vencimento da fatura. Comparar esta data com a data
 Para mostrar o tempo que a transação está atrasada.
 #### Valor
 Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
-#### Filial
+#### Empresa/Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos pagáveis.
 #### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
@@ -199,8 +199,8 @@ O status da fatura que é "Previsto" é mostrado aqui. Este status serve para mo
 Indica o processo associado ao recebimento, como "Pagamento". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
 Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado pagável.
-#### Dimensão
-Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensao), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
+#### Dimensão/Centro de Custo
+Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão/Centro de Custo](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensaocentro-de-custo), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
 
 
 <br><br>
