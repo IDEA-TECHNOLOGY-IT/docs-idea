@@ -63,7 +63,7 @@ A função usada para fazer isso é chamada de "Drill-through" e pode ser execut
   <h6>Imagem 2: Drill-through</h6>
 </div></p>
 
-Por padrão, este painel fica oculto, tornando-se visível apenas quando um drillthrough é iniciado. Uma vez na página de drillthrough, os usuários encontrarão uma tabela abrangente exibindo todos os campos e dados relevantes vinculados ao item específico em que eles fizeram drill, oferecendo uma visão mais granular desses dados.
+Por padrão, este painel fica oculto, tornando-se visível apenas quando um drillthrough é iniciado. Uma vez na página de drillthrough, os usuários encontrarão uma tabela abrangente exibindo todos os campos e dados relevantes vinculados ao item específico em que eles fizeram drill, oferecendo uma visão mais aprofundada desses dados.
 
 Além disso, quando terminar de revisar os detalhes, os usuários podem clicar no botão de retorno na barra de menu (que só aparece depois que um drillthrough é executado) para voltar à página de onde vieram. Essa configuração permite uma exploração mais profunda dos dados sem perder o contexto original.
 
@@ -134,7 +134,7 @@ Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", ond
 ### Botão Voltar
 <p><img src="../../assets/flux/flux_menu_return.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
 <h6>Página atual</h6>
-This button is different from the other menu buttons as it only appears on the Painel de Detalhamento. Selecting this button returns the user to the page from which they made the [Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through) action.
+Este botão é diferente dos outros botões de menu, pois ele só aparece no Painel de Detalhamento. Selecionar este botão retorna o usuário para a página da qual ele fez a ação [Drill-through](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#drill-through).
 
 ## Filtros
 
