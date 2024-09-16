@@ -5,7 +5,7 @@
   <h6>Imagem 1: Painel de Detalhamento</h6>
 </div></p>
 
-## Informações no Painel de Recebimentos Realizados
+## Informações no Painel de Detalhamento
 
 ### Detalhes
 
