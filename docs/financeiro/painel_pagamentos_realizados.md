@@ -39,14 +39,14 @@ Alguns dos benefícios de analisar o PMP são:
 
 ## Visão Principal
 
-### Pagamento por Project, Filial, Favorecido, Origem ou Dimensão
+### Pagamento por Projeto, Filial, Favorecido, Origem ou Dimensão
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_projeto.png" alt="Pagamento por Project, Filial, Favorecido, Origem ou Dimensão">
-  <h6>Imagem 2: Pagamento por Project, Filial, Favorecido, Origem ou Dimensão</h6>
+  <img src="../../assets/flux/flux_pmp_projeto.png" alt="Pagamento por Projeto, Filial, Favorecido, Origem ou Dimensão">
+  <h6>Imagem 2: Pagamento por Projeto, Filial, Favorecido, Origem ou Dimensão</h6>
 </div></p>
 
-A organização do gráfico de barras por Projeto, Filial, Fornecedor, Origem ou Dimensão, conforme indicado no subtítulo, oferece uma estrutura clara e lógica para analisar os dados de **Pagamentos**, facilitando a compreensão do impacto que diferentes segmentos têm sobre as saídas de caixa da empresa. Essa categorização permite que os tomadores de decisão identifiquem rapidamente quais projetos ou filiais estão gerando mais despesas, quais fornecedores são mais relevantes em termos de valores pagos, e quais origens ou dimensões exercem maior influência sobre os fluxos financeiros. As informações fornecidas pelas etiquetas de % de Pagamentos e pelos tooltips, que exibem o valor exato, a % de Pagamentos e o PMP (Período Médio de Pagamento), são cruciais para o gerenciamento financeiro estratégico.
+A organização do gráfico de barras por **Pagamento por Projeto, Filial, Fornecedor, Origem ou Dimensão**, conforme indicado no subtítulo, oferece uma estrutura clara e lógica para analisar os dados de **Pagamentos**, facilitando a compreensão do impacto que diferentes segmentos têm sobre as saídas de caixa da empresa. Essa categorização permite que os tomadores de decisão identifiquem rapidamente quais projetos ou filiais estão gerando mais despesas, quais fornecedores são mais relevantes em termos de valores pagos, e quais origens ou dimensões exercem maior influência sobre os fluxos financeiros. As informações fornecidas pelas etiquetas de % de Pagamentos e pelos tooltips, que exibem o valor exato, a % de Pagamentos e o PMP (Período Médio de Pagamento), são cruciais para o gerenciamento financeiro estratégico.
 
 Esses dados ajudam na priorização de esforços, identificando as áreas mais dispendiosas, como projetos ou fornecedores que requerem maiores recursos, e também destacam aquelas que precisam de mais controle, como fornecedores com faturas em atraso. Além disso, monitorar o **PMP** permite avaliar a eficiência do ciclo de pagamentos, ajustando políticas de desembolso e negociação com fornecedores para otimizar o fluxo de caixa. A análise da % de Pagamentos entre diferentes categorias revela quais filiais, fornecedores ou projetos representam os maiores custos, ajudando os gestores a concentrar esforços na renegociação de contratos e na otimização dos gastos em áreas menos eficientes. A identificação de tendências ao longo do tempo, como mudanças no desempenho de um determinado fornecedor ou projeto, possibilita ajustes estratégicos proativos, garantindo um controle financeiro mais robusto. Em resumo, esse gráfico, com suas informações detalhadas, não só facilita a visualização do desempenho financeiro atual, como também oferece uma base sólida para decisões estratégicas que aprimoram a gestão dos fluxos de caixa e a saúde financeira da empresa no longo prazo.
 
@@ -61,11 +61,11 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode mover para cima ou para baixo entre Project, Filial, Favorecido, Origem ou Dimensão para analisar a área necessária.
 
-### Pagamento por Filial, Project, Dimensão, Origem ou Favorecido
+### Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_filial.png" alt="Pagamento por Filial, Project, Dimensão, Origem ou Favorecido">
-  <h6>Imagem 3: Pagamento por Filial, Project, Dimensão, Origem ou Favorecido</h6>
+  <img src="../../assets/flux/flux_pmp_filial.png" alt="Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido">
+  <h6>Imagem 3: Pagamento por Filial, Projeto, Dimensão, Origem ou Favorecido</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Pagamentos Realizados** por **Filial, Projeto, Dimensão, Origem ou Fornecedor** é uma ferramenta essencial para a análise financeira e a tomada de decisões estratégicas. Ao organizar os pagamentos conforme essas categorias, a matriz permite que os stakeholders identifiquem de forma rápida e precisa onde os valores pagos estão concentrados e acompanhem as despesas realizadas em diferentes fontes, projetos ou filiais. Essa visualização detalhada é crucial para a gestão eficaz do fluxo de caixa, destacando quais áreas estão consumindo mais recursos, impactando diretamente a saúde financeira da organização.
@@ -87,11 +87,11 @@ Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https:
 </div></p>
 Aqui, você pode navegar entre Filial, Project, Dimensão, Origem ou Favorecido para categorizar as áreas de interesse.
 
-### Pagamento por Favorecido, Origem, Project, Dimensão ou Filial
+### Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial
 
 <p><div align="center">
-  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por Favorecido, Origem, Project, Dimensão ou Filial">
-  <h6>Imagem 4: Pagamento por Favorecido, Origem, Project, Dimensão ou Filial</h6>
+  <img src="../../assets/flux/flux_pmp_fav.png" alt="Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial">
+  <h6>Imagem 4: Pagamento por Favorecido, Origem, Projeto, Dimensão ou Filial</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Pagamentos por Fornecedor, Origem, Projeto, Dimensão ou Filial** é uma ferramenta essencial para a análise financeira e para decisões estratégicas mais eficazes. Ao organizar os pagamentos por essas categorias, a matriz permite que os stakeholders identifiquem com precisão onde os valores pagos estão concentrados e acompanhem as despesas realizadas por diferentes fornecedores, origens ou projetos. Essa visualização detalhada é crucial para gerenciar o fluxo de caixa de forma eficiente, destacando quais áreas estão demandando mais recursos financeiros e, consequentemente, influenciando a saúde financeira da organização.
@@ -106,7 +106,7 @@ Adicionalmente, a **seleção de categoria** nesta matriz oferece a possibilidad
 
 Com a exibição clara dos valores absolutos de Pagamentos, suas porcentagens respectivas e o **PMP**, além da capacidade de explorar hierarquias e interagir com outros visuais de forma integrada, a matriz de **Pagamentos por Fornecedor, Origem, Projeto, Dimensão ou Filial** torna-se uma ferramenta indispensável para a gestão financeira. Ela permite uma navegação eficiente em grandes volumes de dados e interações com múltiplos visuais, possibilitando que os tomadores de decisão se concentrem nos pontos mais críticos e otimizem o desempenho financeiro da organização, assegurando uma gestão mais estratégica dos fluxos de caixa e despesas.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
