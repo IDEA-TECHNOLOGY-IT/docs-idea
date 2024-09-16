@@ -58,7 +58,7 @@ Ao utilizar filtros ou clicar em pontos de dados nas visualizações neste paine
 
 <p><div align="center">
   <img src="../../assets/flux/flux_inadim_aging.png" alt="Aging Inadimplência">
-  <h6>Imagem 4: Aging - Inadimplência</h6>
+  <h6>Imagem 3: Aging - Inadimplência</h6>
 </div></p>
 
 O gráfico de barras divide a inadimplência em 5 categorias, a primeira das quais é o valor que está em atraso por mais de 120 dias, diminuindo em intervalos de 30 dias e terminando com qualquer coisa que esteja em atraso por até 30 dias. Ele também tem um rótulo de detalhes mostrando a porcentagem do total de inadimplência que se enquadra em cada categoria.
@@ -83,7 +83,7 @@ Embora pequeno, este gráfico tem muitas funções, especialmente quando acoplad
 
 <p><div align="center">
   <img src="../../assets/flux/flux_inadim_projeto.png" alt="Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente">
-  <h6>Imagem 3: Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
+  <h6>Imagem 4: Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente</h6>
 </div></p>
 
 Uma matriz exibindo os valores de **Inadimplência por Filial, Projeto, Dimensão, Origem ou Cliente** é uma ferramenta fundamental para análise financeira e tomada de decisões estratégicas. Ao organizar os valores de inadimplência conforme essas categorias específicas, a matriz permite que os stakeholders identifiquem rapidamente onde os níveis de inadimplência estão concentrados e monitorem quais clientes, origens ou projetos apresentam maiores riscos. Essa visualização detalhada é essencial para uma gestão eficaz do fluxo de caixa, destacando as áreas que estão enfrentando problemas de pagamento e ajudando a direcionar ações corretivas para minimizar impactos financeiros.
