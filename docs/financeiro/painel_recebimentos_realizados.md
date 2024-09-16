@@ -52,7 +52,7 @@ Além disso, a interação entre os gráficos é **bidirecional**: ao clicar em 
 
 A **seleção de categoria** na matriz permite criar várias combinações com outra visual, como a de [Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/#recebimento-por-cliente-origem-projeto-dimensão-ou-filial) e [Recebimento por Filial, Projeto, Dimensão, Origem ou Cliente](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/#recebimento-por-filial-projeto-dimensão-origem-ou-cliente), aumentando ainda mais a flexibilidade na análise. A capacidade de selecionar cabeçalhos de linha em cada visual facilita a identificação de combinações relevantes, ajudando a visualizar as relações mais importantes para a análise de recebimentos realizados. Por exemplo, o usuário pode optar por visualizar Filial nesta visual, Cliente na segunda e Projeto no terceiro ou Projeto nesta, Dimensão na segunda e Origem na outra, ajustando a tabela para exibir as informações mais significativas conforme o contexto.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -78,7 +78,7 @@ A **seleção de categoria** na matriz permite criar várias combinações com o
 
 Com a exibição clara dos valores absolutos de Recebimentos Realizados, suas respectivas porcentagens, e o **PMR**, além da possibilidade de explorar hierarquias e combinações de forma interativa, a matriz de Recebimentos por **Filial, Projeto, Dimensão, Origem ou Cliente** se torna uma ferramenta essencial para a gestão financeira. Ela permite uma navegação eficiente por grandes volumes de dados e interações entre múltiplos visuais, ajudando os tomadores de decisão a focar nos pontos críticos e otimizar o desempenho financeiro da organização, garantindo uma gestão mais estratégica dos fluxos de caixa.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -104,7 +104,7 @@ Adicionalmente, a **seleção de categoria** nesta matriz oferece a possibilidad
 
 Com a exibição clara dos valores absolutos de Recebimentos, suas porcentagens respectivas e o **PMR**, além da capacidade de explorar hierarquias e interagir com outros visuais de forma fluida, a matriz de **Recebimento por Cliente, Origem, Projeto, Dimensão ou Filial** se torna uma ferramenta indispensável para a gestão financeira. Ela possibilita uma navegação eficiente em grandes volumes de dados e interações com múltiplos visuais, permitindo que os tomadores de decisão concentrem-se nos pontos mais críticos e otimizem o desempenho financeiro da organização, garantindo um gerenciamento mais estratégico do fluxo de caixa.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#ícones_de_cabeçalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/flux/flux_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
@@ -140,18 +140,18 @@ Esta é a data em que o pagamento do documento foi feito.
 Para ver quanto tempo levou para o pagamento ser feito, esta coluna mostra a diferença em dias entre a data de criação e a data do recebimento.
 #### Valor
 Exibe o valor devido em cada fatura. Esta coluna permite uma visão clara dos montantes que estão em aberto.
-#### Filial
+#### Empresa/Filial
 Indica a filial da empresa responsável pela fatura. Isso é útil para entender a distribuição geográfica dos recebíveis.
 #### Projeto
 Relaciona cada fatura a um projeto específico. Esta informação é essencial para empresas que gerenciam múltiplos projetos e precisam monitorar os fluxos de caixa associados a cada um deles.
 #### Status
-O status da fatura que é "Realizado" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/)
+O status da fatura que é "Realizado" é mostrado aqui. Este status serve para mostrar que o pagamento ainda está pendente e evita confusão com transações mostradas no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/).
 #### Processo
 Indica o processo associado ao recebimento, como "Recebimento" ou "Carteira de Recebíveis". Essa coluna auxilia na compreensão do fluxo de trabalho relacionado à fatura.
 #### Pesquisa de Documentos
 Esta coluna contém informações relacionadas à pesquisa de documentos que podem fornecer detalhes adicionais sobre a fatura ou transação. Isso é útil para obter informações mais detalhadas ou resolver dúvidas sobre um determinado recebível.
-#### Dimensão
-Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensao), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
+#### Dimensão/Centro de Custo
+Esta coluna exibe o nome da dimensão que é relevante para a transação. Embora você possa filtrar por dimensão usando o filtro [Dimensão/Centro de Custo](https://idea-technology-it.github.io/docs-idea/financeiro/intro/#dimensaocentro-de-custo), isso facilita a análise ao fornecer uma referência direta aos nomes das dimensões, organizando os dados de uma forma intuitiva para identificar e entender as diferentes áreas de análise.
 
 
 <br><br>
