@@ -31,21 +31,19 @@ A primeira opção é a [barra de menu](https://idea-technology-it.github.io/doc
 A segunda maneira de navegar é através dos botões "Ver mais" e "Mais indicadores" localizados nos [Indicadores Contábeis](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
   <img src="../../assets/con/con_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/con/con_caixa_clicki.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
 ### Botões para Diferentes Visões
 
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas ou três visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_tabela.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/con/con_button_gráfico.png" alt="Tabela Open">
+  <img src="../../assets/con/con_button_otabela.png" alt="Gráfico Open" style="margin-right: 10px;">
+  <img src="../../assets/con/con_button_ctabela.png" alt="Tabela Open">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_vmensal.png" alt="Voltar Mensal" style="margin-right: 10px;">
-  <img src="../../assets/con/con_button_mensal.png" alt="Mensal Open">
-</div>
-<div style="display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_vflux.png" alt="Voltar Flux">
+  <img src="../../assets/con/con_button_otempo.png" alt="Voltar Mensal" style="margin-right: 10px;">
+  <img src="../../assets/con/con_button_ctempo.png" alt="Mensal Open">
 </div>
 
 ### Drill-through
