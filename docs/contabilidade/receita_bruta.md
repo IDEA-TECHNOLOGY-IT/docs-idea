@@ -56,9 +56,9 @@ Este visual está disponível para todas as três visualizações deste painel, 
 
 <div align="center">
   <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Total" style="margin-right: 10px;">
-  <h6>Imagem 6: Receita Bruta por Filial, Projeto ou Conta</h6>
+  <h6>Imagem 6: Receita Bruta por Filial, Projeto ou Conta - Altura Total</h6>
   <img src="../../assets/con/con_rb_conta2.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida">
-  <h6>Imagem 7: Receita Bruta por Filial, Projeto ou Conta</h6>
+  <h6>Imagem 7: Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida</h6>
 </div>
 
 Este gráfico de barras apresenta a Receita Bruta, permitindo que o usuário alterne entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa flexibilidade torna o gráfico uma ferramenta dinâmica para explorar a receita em diversas dimensões, oferecendo uma visão detalhada da contribuição de cada Filial, Projeto ou Conta para a Receita Bruta total da empresa. Ao alternar entre esses níveis, o gráfico facilita comparações granulares e revela quais unidades de negócio ou iniciativas estão impulsionando o desempenho financeiro.
