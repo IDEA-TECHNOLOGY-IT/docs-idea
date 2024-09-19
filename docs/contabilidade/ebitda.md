@@ -4,16 +4,16 @@
   <img src="../../assets/con/con_ebitda_page1.png" alt="EBITDA Page 1">
   <h6>Imagem 1: EBITDA Visão Gráfica</h6>
   <img src="../../assets/con/con_ebitda_page2.png" alt="EBITDA Page 2">
-  <h6>Imagem 2: EBITDA Visão de Tabela</h6>
+  <h6>Imagem 2: EBITDA Visão Acumulado</h6>
 </div></p>
 
 ## Navegação
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
+- **[Visão Gráfica e Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/#visao-grafica-e-acumulado)** - Esses recursos visuais estão disponíveis o tempo todo neste painel.
 - **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/#visao-acumulado)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização acumulado".
 
 ## Informações no Painel EBITDA
 
@@ -23,56 +23,56 @@ Ao focar apenas nas receitas e despesas operacionais, o EBITDA ajuda a analisar 
 
 O EBITDA é frequentemente usado por investidores e analistas para avaliar a capacidade de uma empresa de gerar fluxo de caixa a partir de suas operações principais e para determinar o valor da empresa através de múltiplos, como o EV/EBITDA (Enterprise Value sobre EBITDA). Uma análise cuidadosa do EBITDA pode fornecer insights sobre a eficiência da empresa em gerar lucro a partir de suas operações principais e sua capacidade de atender a obrigações financeiras e reinvestir no crescimento.
 
-## Visão Gráfica e Tabela
+## Visão Gráfica e Acumulado
 
-### Tabela de EBITDA
-
-<div align="center">
-  <img src="../../assets/con/con_ebitda_mes.png" alt="Tabela de EBITDA">
-  <h6>Imagem 3: Tabela de EBITDA</h6>
-</div>
-
-Esta tabela fornece uma visão geral abrangente dos principais indicadores financeiros, exibindo a Receita Líquida, EBITDA e a % Margem (calculada como EBITDA dividido pela Receita Líquida) para cada ano e mês. 
-
-Ícones são usados para representar visualmente as tendências: uma seta verde indica um aumento em comparação com o mesmo período do ano anterior, enquanto uma seta vermelha denota uma diminuição. 
-
-Este recurso visual ajuda a avaliar rapidamente as mudanças no desempenho ao longo do tempo.
-
-### EBITDA Acumulado por Mês
+### EBITDA por Filial, Projeto ou Dimensão
 
 <div align="center">
-  <img src="../../assets/con/con_ebitda_acumulado.png" alt="EBITDA Acumulado por Mês">
-  <h6>Imagem 4: EBITDA Acumulado por Mês</h6>
+  <img src="../../assets/con/con_ebitda_filial.png" alt="EBITDA por Filial, Projeto ou Dimensão">
+  <h6>Imagem 3: EBITDA por Filial, Projeto ou Dimensão</h6>
 </div>
 
-O gráfico de área visualiza o valor acumulado do EBITDA ao longo do tempo, proporcionando uma representação clara de como o EBITDA cresceu ou mudou. 
 
-Ao passar o cursor sobre o gráfico, as dicas de ferramenta mostram informações adicionais, incluindo a Receita Líquida acumulada e a % Margem entre esses valores, oferecendo insights sobre a relação entre receita e lucratividade em diferentes períodos.
 
-### EBITDA vs. Receita Líquida por Mês
+### EBITDA por Projeto, Filial ou Dimensão
 
 <div align="center">
-  <img src="../../assets/con/con_ebitda_ebitda.png" alt="EBITDA vs. Receita Líquida por Mês">
-  <h6>Imagem 5: EBITDA vs. Receita Líquida por Mês</h6>
+  <img src="../../assets/con/con_ebitda_projeto.png" alt="EBITDA por Projeto, Filial ou Dimensão">
+  <h6>Imagem 4: EBITDA por Projeto, Filial ou Dimensão</h6>
 </div>
 
-Este gráfico combina um gráfico de barras e um gráfico de linhas para fornecer uma análise detalhada do EBITDA e da Receita Líquida. 
 
-O gráfico de barras mostra os valores mensais e anuais para o EBITDA e a Receita Líquida, enquanto o gráfico de linhas rastreia a % Margem. 
 
-A linha é codificada por cores: vermelha para margens abaixo de 20% e verde para margens iguais ou superiores a 20%, permitindo uma avaliação visual imediata do desempenho da lucratividade.
-
-## Visão de Tabela
-### Tabela de Detalhamento
+### EBITDA por Dimensão, Projeto ou Filial
 
 <div align="center">
-  <img src="../../assets/con/con_ebitda_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Imagem 6: Tabela de Detalhamento</h6>
+  <img src="../../assets/con/con_ebitda_dim.png" alt="EBITDA por Dimensão, Projeto ou Filial">
+  <h6>Imagem 5: EBITDA por Dimensão, Projeto ou Filial</h6>
 </div>
 
-Esta tabela apresenta dados detalhados de transações com colunas para Identificador (ID da Transação), Data Lançamento (Data da Transação), Filial (Filial), Projeto e EBITDA. 
 
-Ela fornece uma visão granular de cada transação, permitindo que os usuários detalhem informações específicas e analisem o impacto das transações individuais no desempenho geral do EBITDA.
+
+## Visão Gráfica
+
+### Margem de EBITDA por Mês
+
+<div align="center">
+  <img src="../../assets/con/con_ebitda_ebitda.png" alt="Margem de EBITDA por Mês">
+  <h6>Imagem 6: Margem de EBITDA por Mês</h6>
+</div>
+
+
+
+## Visão Acumulado
+
+### Lucro Líquido Acumulado por Mês
+
+<div align="center">
+  <img src="../../assets/con/con_ebitda_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
+  <h6>Imagem 7: Lucro Líquido Acumulado por Mês</h6>
+</div>
+
+
 
 
 <br><br>
