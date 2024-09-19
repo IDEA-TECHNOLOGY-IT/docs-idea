@@ -83,8 +83,8 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Pr
 ### Tabela de Detalhes
 
 <div align="center">
-  <img src="../../assets/con/con_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
-  <h6>Imagem 8: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
+  <img src="../../assets/con/con_rb_detalhes.png" alt="Tabela de Detalhes">
+  <h6>Imagem 8: Tabela de Detalhes</h6>
 </div>
 
 Esta tabela de detalhes exibe informações fundamentais sobre as transações de Receita Bruta, organizada por transação, e inclui colunas essenciais para uma visão completa de cada lançamento. Cada linha da tabela representa uma transação individual, com informações como data de lançamento, filial, projeto, valor, conta e dimensão associada. Essa tabela é especialmente útil para a análise detalhada de cada transação, permitindo à empresa acompanhar e gerenciar suas receitas com precisão.
