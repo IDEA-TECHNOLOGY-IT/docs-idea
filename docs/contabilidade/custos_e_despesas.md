@@ -1,19 +1,21 @@
 # Painel Custos e Despesas
 
 <p><div align="center">
-  <img src="../../assets/con/con_ced_page1.png" alt="Custos e Despesas Page 1">
-  <h6>Imagem 1: Custos e Despesas Visão Gráfica</h6>
-  <img src="../../assets/con/con_ced_page2.png" alt="Custos e Despesas Page 2">
-  <h6>Imagem 2: Custos e Despesas Visão de Tabela</h6>
+  <img src="../../assets/con/con_cd_page1.png" alt="Custos e Despesas Page 1">
+  <h6>Imagem 1: Custos e Despesas - Visão Principal</h6>
+  <img src="../../assets/con/con_cd_page2.png" alt="Custos e Despesas Page 2">
+  <h6>Imagem 2: Custos e Despesas - Visão de Tabela</h6>
+  <img src="../../assets/con/con_cd_page3.png" alt="Custos e Despesas Page 3">
+  <h6>Imagem 3: Custos e Despesas - Visão de Tempo</h6>
 </div></p>
 
 ## Navegação
 
-O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
+O painel de relatórios de **Custos e Despesas** é projetado com três visualizações distintas, garantindo flexibilidade e uma análise adaptada a diferentes contextos. As visualizações compartilham certos elementos, mas também apresentam informações específicas para otimizar a análise conforme o cenário;
 
-- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
-- **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-grafico)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-principal)** – pode ser acessada por meio do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "fechar visualização por tempo" ou "fechar visualização em tabela".
+- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela)** – acessível via o [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "abrir visualização em tabela".
+- **[Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tempo)** – pode ser acessada pelo [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "abrir visualização por tempo".
 
 ## Informações no Painel Custos e Despesas
 
@@ -21,56 +23,98 @@ A análise de custos e despesas é um componente crucial no Business Intelligenc
 
 Visualizações como custos acumulados e comparação de despesas mês a mês são essenciais para acompanhar o desempenho financeiro ao longo do tempo. Os custos acumulados oferecem uma perspectiva de longo prazo, demonstrando como os custos se acumulam ao longo de um período específico. Isso ajuda a identificar tendências e prever a necessidade de ajustes orçamentários. Por outro lado, a comparação de despesas mês a mês permite que as empresas detectem variações de curto prazo, como aumentos sazonais ou impactos de mudanças operacionais, facilitando ajustes rápidos e eficazes.
 
-A análise detalhada de custos por centro de custo, departamento ou projeto é fundamental para uma visão granular da gestão financeira. Esse tipo de análise permite que as empresas identifiquem quais áreas ou projetos estão gerando maiores gastos e quais estão dentro do orçamento. Compreender essa distribuição ajuda a identificar oportunidades de redução de custos, a melhorar a eficiência operacional e a alocar recursos de forma mais eficaz.
+Além disso, o painel oferece uma análise detalhada dos custos por filial, projeto, ou centro de custo, permitindo que a empresa identifique quais áreas estão consumindo mais recursos. Essa análise granular é crucial para entender onde os custos estão concentrados e onde podem ser feitos ajustes para melhorar a eficiência operacional. A segmentação dos custos por diferentes dimensões também permite que as empresas comparem o desempenho de várias unidades ou projetos e façam correções estratégicas.
 
-A análise do prazo médio de pagamento e recebimento de despesas fornece insights sobre a gestão de fluxo de caixa e a eficiência dos processos financeiros. Identificar quais despesas são pagas pontualmente e quais enfrentam atrasos ajuda a otimizar o fluxo de caixa e a melhorar a gestão de risco financeiro.
+O monitoramento da relação entre custos e receita também é um aspecto central do painel. Ao comparar o crescimento dos custos com o aumento da receita, as empresas podem garantir que estão operando de forma eficiente, com despesas controladas e margens de lucro saudáveis. Essa análise integrada ajuda a identificar áreas onde os custos estão crescendo mais rápido que a receita, permitindo ações corretivas.
 
-O impacto da análise de custos e despesas vai além da contabilidade e das finanças. Os insights obtidos desses dados podem influenciar estratégias operacionais, decisões de compras e planejamento financeiro. Por exemplo, entender quais despesas são mais variáveis pode ajudar as equipes a ajustar orçamentos e prever melhor as necessidades financeiras. Além disso, a análise de tendências de custos auxilia na identificação de áreas para economia e na otimização de estratégias de preços.
+Quando utilizado em conjunto com outros painéis, como o de [Receita Bruta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/), a análise de Custos e Despesas fornece uma visão completa da saúde financeira da empresa. Enquanto o painel de receita ajuda a entender como as vendas e as receitas estão evoluindo, o painel de custos complementa essa visão ao detalhar como esses ganhos estão sendo impactados pelos gastos operacionais e administrativos. A interação entre esses painéis permite uma análise integrada, possibilitando que a empresa identifique **gargalos de rentabilidade** e faça ajustes estratégicos.
 
-Em resumo, a análise de custos e despesas no BI para contabilidade é uma ferramenta poderosa para promover uma gestão financeira eficiente e estratégica. Ao examinar custos de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por centro de custo, as empresas obtêm uma compreensão mais profunda de suas saídas financeiras. Essa análise não só melhora a gestão de custos e despesas, mas também impacta outras áreas-chave como operações, compras e planejamento estratégico, criando um ambiente financeiro mais responsivo e orientado por dados.
+Em resumo, o painel de **Custos e Despesas** é uma ferramenta indispensável para uma gestão financeira eficiente. Ele permite monitorar de perto os gastos, entender sua distribuição por diversas dimensões e tomar decisões informadas para otimizar a lucratividade da empresa. Ao combinar essa análise com a visão de **Receita Bruta**, as empresas têm em mãos as informações necessárias para equilibrar suas operações, melhorar sua eficiência e garantir um crescimento sustentável.
 
-## Visão Gráfica e Tabela
+## Visão Principal
 
 ### Custos e Despesas por Conta
 
-<div align="center">
-  <img src="../../assets/con/con_ced_contas.png" alt="Tabela de Custos e Despesas">
-  <h6>Imagem 3: Tabela de Custos e Despesas</h6>
+<div style="margin-bottom: 10px; display: flex; justify-content: center;">
+  <img src="../../assets/con/con_ced_tabela.png" alt="Custos e Despesas por Conta - Níveis Abertos" style="margin-right: 10px;">
+  <h6>Imagem 4: Custos e Despesas por Conta - Níveis Abertos</h6>
+  <img src="../../assets/con/con_ced_tabela2.png" alt="Custos e Despesas por Conta - Níveis Fechados">
+  <h6>Imagem 5: Custos e Despesas por Conta - Níveis Fechados</h6>
 </div>
 
-Esta tabela exibe Custos e Despesas para o Ano Atual, o Ano Anterior e a % Diferença entre eles, organizada por Nome da Conta e Nível, conforme a ordem do Modelo. 
+Esta matriz oferece uma visão abrangente dos custos e despesas tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta conforme o modelo contábil estabelecido. O valor principal desta tabela está na sua capacidade de facilitar a comparação direta do desempenho de custos e despesas ao longo de diferentes períodos. Ao categorizar os dados de custos por Conta e Nível de Conta, a tabela proporciona uma visão detalhada de como cada segmento contribui para o total de despesas, destacando tendências e variações no desempenho financeiro da empresa.
 
-A importância dessa tabela está na capacidade de comparar diretamente os custos e despesas entre dois períodos e por diferentes contas, permitindo uma análise detalhada das variações e tendências. 
+Os números de custos e despesas para o Ano Atual oferecem uma visão atualizada do impacto financeiro dos gastos da empresa, servindo como ponto de referência para avaliar os custos do Ano Anterior. Essa comparação é fundamental para identificar áreas onde os custos cresceram ou diminuíram, proporcionando insights valiosos sobre quais contas ou níveis experimentaram mudanças significativas. A coluna de Diferença Percentual é particularmente importante, pois quantifica a variação entre os dois anos, permitindo que os usuários avaliem a extensão da mudança nos custos. Isso ajuda a identificar quais áreas estão enfrentando aumentos de despesas e onde há potencial para cortes ou ajustes.
 
-A % Diferença é crucial para compreender o crescimento ou a redução nos custos e despesas, fornecendo insights sobre a performance de cada conta específica e ajudando a identificar áreas que podem necessitar de ajuste ou controle.
+Além disso, a inclusão de ícones ao lado de cada Diferença Percentual melhora a clareza visual dos dados. Ícones verdes indicam uma redução nos custos, ícones vermelhos sinalizam um aumento nas despesas e ícones amarelos denotam estabilidade. Esse sistema de codificação por cores oferece pistas visuais rápidas, facilitando a interpretação imediata dos dados e ajudando a identificar áreas de atenção ou eficiência. No geral, a tabela é uma ferramenta poderosa para uma análise financeira detalhada, permitindo uma compreensão profunda das dinâmicas de custos e apoiando decisões estratégicas.
 
-### Custos e Despesas por Filial ou Projeto
+A matriz também permite expandir e recolher hierarquias, oferecendo uma visualização dinâmica dos dados. Clicar no sinal de mais (+) ao lado de uma conta revela os níveis de conta abaixo. Essa hierarquia expandida facilita a análise aprofundada, permitindo que os usuários rastreiem o impacto de cada conta em detalhes e sua contribuição para o total de custos e despesas. Da mesma forma, os usuários podem recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada para quando uma visão geral é suficiente.
 
-<div align="center">
-  <img src="../../assets/con/con_ced_ced.png" alt="Custos e Despesas por Conta">
-  <h6>Imagem 4: Custos e Despesas por Conta</h6>
-</div>
+Este visual está disponível em todas as três visualizações do painel. Na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-principal), os níveis de conta estão totalmente expandidos, proporcionando uma visão detalhada dos custos e despesas logo na instância inicial. Já na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tempo), os níveis de conta são expandidos apenas até o segundo nível, criando um design mais compacto, com foco na interatividade com outros visuais da visualização.
 
-Este gráfico de barras verticais que mostra os Custos e Despesas para o Ano Atual e o Ano Anterior, organizados por Nome da Conta e ordenados do maior valor do Ano Atual para o menor. 
-
-Esse gráfico é importante porque oferece uma comparação visual clara entre os custos e despesas atuais e anteriores, facilitando a identificação de contas com variações significativas. 
-
-A ordenação dos dados ajuda a destacar as principais contas em termos de custos e despesas, e facilita a identificação de padrões de desempenho.
-
-## Visão Gráfica
-
-### Variação dos Custos e Despesas em Relação ao Ano Anterior
+### Custos e Despesas por Filial, Projeto ou Conta
 
 <div align="center">
-  <img src="../../assets/con/con_ced_variacao.png" alt="Variação dos Custos e Despesas em Relação ao Ano Anterior">
-  <h6>Imagem 5: Variação dos Custos e Despesas em Relação ao Ano Anterior</h6>
+  <img src="../../assets/con/con_ced_conta.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Total" style="margin-right: 10px;">
+  <h6>Imagem 6: Custos e Despesas por Filial, Projeto ou Conta - Altura Total</h6>
+  <img src="../../assets/con/con_ced_conta2.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida">
+  <h6>Imagem 7: Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida</h6>
 </div>
 
-Este gráfico de barras com linha que combina barras e uma linha para mostrar os Custos e Despesas do Ano Atual e do Ano Anterior, com a linha representando a % Diferença entre eles. A linha é colorida em verde quando a diferença é positiva e em vermelho quando é negativa. 
+Este gráfico de barras exibe os **Custos e Despesas**, oferecendo a capacidade de alternar entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa funcionalidade proporciona uma visão detalhada e dinâmica dos custos e despesas associados a cada Filial, Projeto ou Conta, permitindo uma compreensão aprofundada de como esses fatores contribuem para o total de despesas da empresa. A flexibilidade para alternar entre esses níveis facilita comparações granulares e ajuda a identificar quais unidades ou iniciativas estão mais impactando o desempenho financeiro.
 
-Este gráfico é essencial para a análise temporal dos custos e despesas, permitindo visualizar as variações mês a mês e ano a ano, bem como a magnitude e a direção das mudanças. 
+Complementando a tabela comparativa dos Custos e Despesas do Ano Atual e do Ano Anterior, este gráfico de barras oferece uma visualização intuitiva e direta das contribuições de cada categoria. Enquanto a tabela fornece uma análise detalhada das variações entre períodos, o gráfico de barras destaca as proporções e o peso de cada Filial, Projeto ou Conta no total de despesas. A combinação desses visuais proporciona uma abordagem completa: a tabela aprofunda a comparação temporal, e o gráfico revela as principais categorias que influenciam o desempenho financeiro.
 
-A codificação por cor da % Diferença ajuda a identificar rapidamente os períodos de aumento ou diminuição no desempenho financeiro.
+Os rótulos detalhados no gráfico, que mostram a porcentagem dos Custos e Despesas para cada categoria, oferecem uma visão adicional às informações de variação percentual da tabela. Enquanto a tabela foca nas mudanças ao longo dos anos, o gráfico de barras permite observar a representatividade relativa de cada Filial, Projeto ou Conta dentro do total de custos e despesas atuais. Isso ajuda a identificar não apenas onde ocorreram alterações ao longo do tempo, mas também qual é o peso atual de cada categoria em relação ao total geral.
+
+Usar este visual em conjunto com o [Custos e Despesas por Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#custos-e-despesas-por-conta) proporciona uma análise financeira abrangente. A tabela oferece uma visão detalhada das mudanças ao longo do tempo, enquanto o gráfico de barras foca na distribuição atual dos custos e despesas, revelando padrões de desempenho e destacando áreas críticas ou oportunidades para ajustes. Juntos, esses visuais oferecem uma compreensão completa tanto do passado quanto do presente dos Custos e Despesas.
+
+Este visual está disponível em todas as três visualizações do painel. Na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-principal), o gráfico ocupa o comprimento do painel para incluir o máximo possível de categorias. Na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tempo), são exibidas apenas as cinco categorias principais, mas é possível rolar para visualizar todas as categorias disponíveis.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabiliadade/intro/#icones-de-cabecalho), que aparecem ao passar o mouse ou clicar no gráfico.
+<p><div align="left">
+  <img src="../../assets/con/con_hi_updown.png" alt="Ícones de Cabeçalho UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode explorar diferentes níveis hierárquicos, como Filial, Projeto ou Conta, para analisar a área de interesse desejada.
+
+## Visão de Tabela
+
+### Tabela de Detalhes
+
+<div align="center">
+  <img src="../../assets/con/con_ced_detalhes.png" alt="Variação dos Custos e Despesas em Relação ao Ano Anterior">
+  <h6>Imagem 8: Variação dos Custos e Despesas em Relação ao Ano Anterior</h6>
+</div>
+
+Esta tabela detalha os Custos e Despesas, organizados por transação, e inclui colunas essenciais para uma análise abrangente de cada item de custo. Cada linha da tabela representa uma transação individual, com informações cruciais como data de lançamento, filial, projeto, valor, conta e dimensão associada. Esta visão detalhada é fundamental para a gestão e controle preciso dos custos e despesas da empresa.
+
+A organização por transação facilita a identificação e rastreamento de cada item de despesa, permitindo a conciliação com outros sistemas e a verificação detalhada das entradas. A coluna de data de lançamento permite acompanhar a cronologia das despesas, fornecendo uma visão clara sobre quando os custos foram incorridos. A coluna de filial revela a unidade da empresa responsável pela despesa, proporcionando uma visão regionalizada das operações e ajudando a identificar áreas com maiores custos. A coluna de projeto vincula os custos a projetos específicos, sendo útil para empresas que precisam controlar despesas associadas a diferentes iniciativas.
+
+A coluna de valor exibe o montante dos custos e despesas de cada transação, oferecendo uma visão detalhada dos valores envolvidos. A identificação da conta proporciona um detalhamento financeiro mais granular, associando os custos a categorias contábeis específicas. A dimensão adiciona uma camada adicional de análise, permitindo a segmentação dos dados por critérios extras e facilitando a compreensão da origem e natureza dos custos e despesas.
+
+Essa tabela pode ser usada em conjunto com outros visuais, como gráficos de barras ou de linha, para permitir uma análise mais profunda das transações individuais após uma visão geral das tendências de custos e despesas. A possibilidade de aplicar [filtros](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#filtros) interativos ou clicar nos gráficos ajuda na navegação rápida entre diferentes camadas de informação, tornando o processo de análise mais dinâmico e eficiente.
+
+#### Transação
+ID único que identifica cada transação de custos e despesas. Essencial para rastreamento e conciliação.
+
+#### Data de Lançamento
+Data em que o custo ou despesa foi registrado. Importante para análise temporal e histórico das transações.
+
+#### Filial
+Unidade da empresa responsável pelo custo ou despesa. Ajuda a identificar a distribuição geográfica das despesas.
+
+#### Projeto
+Relaciona o custo ou despesa a um projeto específico, útil para monitorar despesas associadas a iniciativas empresariais específicas.
+
+#### Valor
+O montante dos custos e despesas de cada transação. Fornece uma visão clara dos valores gerados.
+
+#### Conta
+Categoria contábil da transação, essencial para análises financeiras detalhadas.
+
+#### Dimensão
+Categoria adicional que facilita a segmentação e a análise dos custos e despesas, oferecendo uma visão mais completa das transações.
 
 ## Visão de Tabela
 
