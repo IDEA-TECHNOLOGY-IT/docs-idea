@@ -13,9 +13,9 @@
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
-- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "fechar visualização por tempo" ou "fechar visualização em tabela".
+- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "abrir visualização em tabela".
+- **[Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "abrir visualização po tempo".
 
 ## Informações no Painel Receita Bruta
 
@@ -42,11 +42,15 @@ Em resumo, a análise de receita bruta no BI para contabilidade é uma ferrament
   <h6>Imagem 3: Receita Bruta por Conta - Níveis Fechados</h6>
 </div>
 
-Esta tabela oferece uma visão abrangente da Receita Bruta tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta de acordo com o modelo estabelecido. O valor principal desta tabela reside na sua capacidade de facilitar a comparação direta do desempenho da receita entre diferentes períodos. Ao categorizar os dados de receita por Conta e Nível de Conta, a tabela proporciona uma compreensão detalhada de como cada segmento contribui para a receita total, destacando assim tendências e variações no desempenho financeiro.
+Esta matriz oferece uma visão abrangente da Receita Bruta tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta de acordo com o modelo estabelecido. O valor principal desta tabela reside na sua capacidade de facilitar a comparação direta do desempenho da receita entre diferentes períodos. Ao categorizar os dados de receita por Conta e Nível de Conta, a tabela proporciona uma compreensão detalhada de como cada segmento contribui para a receita total, destacando assim tendências e variações no desempenho financeiro.
 
 Os números de Receita Bruta para o Ano Atual oferecem uma visão do desempenho financeiro recente, servindo como um ponto de referência para avaliar a receita do Ano Anterior. Essa comparação é crucial para identificar tendências de crescimento ou declínio na receita, fornecendo insights valiosos sobre quais contas ou níveis experimentaram mudanças significativas. A coluna de Diferença Percentual é particularmente importante, pois quantifica a variação entre os dois anos, permitindo que os usuários avaliem a extensão do crescimento ou da redução da receita. Essa métrica ajuda a identificar quais áreas estão se destacando e quais podem precisar de ajustes estratégicos.
 
 Além disso, a inclusão de ícones ao lado de cada Diferença Percentual melhora a clareza visual dos dados. Ícones verdes indicam um aumento na receita, ícones vermelhos denotam uma redução e ícones amarelos sinalizam que não houve alteração. Esse sistema de codificação por cores oferece pistas visuais imediatas, facilitando a interpretação dos dados rapidamente e identificando áreas de preocupação ou sucesso. No geral, a tabela serve como uma ferramenta poderosa para uma análise financeira detalhada, permitindo uma compreensão mais profunda das dinâmicas de receita e apoiando a tomada de decisões informadas.
+
+A matriz também oferece a capacidade de expandir e recolher hierarquias. Clicar no sinal de mais (+) ao lado de uma conta permite que você veja os níveis de conta abaixo. Esta visualização hierárquica permite uma análise mais aprofundada, facilitando o rastreamento de cada conta em detalhes e sua contribuição para a receita bruta. Os usuários também podem recolher a hierarquia clicando no sinal de menos (-), permitindo uma navegação mais simplificada quando uma visualização mais geral for suficiente.
+
+Este visual está disponível para todas as três visualizações deste painel, na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal) os níveis de conta são expandidos totalmente, ajudando a ver detalhes granulares na instância initail. Enquanto que na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo) esses níveis só se expandiram para o segundo nível para permitir um design mais compacto focado na interatividade com outros visuais na visualização.
 
 ### Receita Bruta por Filial, Projeto ou Conta
 
@@ -62,6 +66,15 @@ Em conjunto com a tabela comparativa da Receita Bruta do Ano Atual e do Ano Ante
 Além disso, os rótulos detalhados que exibem a porcentagem da Receita Bruta para cada categoria no gráfico de barras oferecem uma visão complementar às informações de variação percentual da tabela. Enquanto a tabela enfatiza a variação entre os anos, o gráfico de barras permite ver a representatividade relativa de cada Filial, Projeto ou Conta dentro do total de receitas atuais. Isso ajuda os usuários a identificar não apenas onde houve mudanças ao longo do tempo, mas também qual o peso atual de cada categoria em relação ao resultado geral.
 
 Usando este visual em conjunto com a [Receita Bruta por Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-conta) permite que a análise financeira seja rica e multifacetada. A tabela fornece uma visão precisa das mudanças ao longo do tempo, enquanto o gráfico de barras foca na distribuição atual das receitas, ajudando a revelar padrões de desempenho e a destacar áreas críticas ou oportunidades de crescimento. Juntos, esses visuais permitem uma tomada de decisão mais informada, proporcionando uma visão completa tanto do passado quanto do presente da Receita Bruta.
+
+Este visual está disponível para todas as três visualizações deste painel, na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal) o visual ocupa o comprimento do painel para incluir o máximo possível de categorias. Enquanto que na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo) apenas cinco categorias são exibidas com os maiores contribuidores primeiro, no entanto é possível rolar por todas as categorias disponíveis.
+
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabiliadade/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+<p><div align="left">
+  <img src="../../assets/con/con_hi_updown.png" alt="Header Icons UpDown">
+  <h6>Ícones de Cabeçalho</h6>
+</div></p>
+Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Projeto ou Conta, para analisar a área desejada.
 
 ## Visão de Tabela
 
