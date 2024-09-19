@@ -4,16 +4,16 @@
   <img src="../../assets/con/con_ll_page1.png" alt="Lucro Líquido Page 1">
   <h6>Imagem 1: Lucro Líquido - Visão Gráfica</h6>
   <img src="../../assets/con/con_ll_page2.png" alt="Lucro Líquido Page 2">
-  <h6>Imagem 2: Lucro Líquido - Visão de Tabela</h6>
+  <h6>Imagem 2: Lucro Líquido - Visão Acumulado</h6>
 </div></p>
 
 ## Navegação
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
+- **[Visão Gráfica e Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica-e-tabela)** - Esses recursos visuais estão disponíveis o tempo todo neste painel.
 - **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização acumulado".
 
 ## Informações no Painel Lucro Líquido
 
@@ -29,59 +29,56 @@ O impacto da análise de lucro líquido vai além do departamento financeiro. Os
 
 Em resumo, a análise de lucro líquido no BI para contabilidade é uma ferramenta poderosa para impulsionar o desempenho financeiro e estratégico. Ao examinar o lucro líquido de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por segmento, as empresas obtêm uma visão mais clara de sua rentabilidade. Essa análise não só melhora a gestão financeira, mas também impacta outras áreas-chave, como estratégias de negócios, planejamento financeiro e decisões de investimento, criando um ambiente mais focado em resultados e orientado por dados.
 
-## Visão Gráfica e Tabela
+## Visão Gráfica e Acumulado
 
-### Lucro Líquido por Filial ou Projeto
-
-<div align="center">
-  <img src="../../assets/con/con_ll_mes.png" alt="Tabela de Lucro Líquido">
-  <h6>Imagem 3: Tabela de Lucro Líquido</h6>
-</div>
-
-Esta tabela é exibindo Receita Líquida, Lucro Líquido e a % Margem (calculada como Lucro Líquido dividido pela Receita Líquida) por ano e mês. 
-
-Ícones de aumento (Seta Verde) ou diminuição (Seta Vermelha) representam a variação em relação ao mesmo período do ano anterior. 
-
-Esta tabela é importante porque fornece uma visão detalhada do desempenho financeiro ao longo do tempo, permitindo comparar os lucros e as margens de lucro mês a mês e ano a ano. As setas ajudam a identificar rapidamente tendências de crescimento ou declínio.
-
-### Lucro Líquido Acumulado por Mês
+### Lucro Líquido por Filial, Projeto ou Dimensão
 
 <div align="center">
-  <img src="../../assets/con/con_ll_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
-  <h6>Imagem 4: Lucro Líquido Acumulado por Mês</h6>
+  <img src="../../assets/con/con_ll_filial.png" alt="Lucro Líquido por Filial, Projeto ou Dimensão">
+  <h6>Imagem 3: Lucro Líquido por Filial, Projeto ou Dimensão</h6>
 </div>
 
-Mostrando o valor acumulado do Lucro Líquido ao longo do tempo, com ‘tooltips’ que aparecem ao passar o cursor sobre a visualização, exibindo a Receita Líquida acumulada e a % Margem entre esses valores. 
 
-Esse gráfico é essencial para analisar o comportamento acumulado do Lucro Líquido ao longo do tempo, ajudando a entender como as margens de lucro evoluem em relação à receita acumulada.
+
+### Lucro Líquido por Projeto, Filial ou Dimensão
+
+<div align="center">
+  <img src="../../assets/con/con_ll_projeto.png" alt="Lucro Líquido por Projeto, Filial ou Dimensão">
+  <h6>Imagem 4: Lucro Líquido por Projeto, Filial ou Dimensão</h6>
+</div>
+
+
+
+### Lucro Líquido por Dimensão, Projeto ou Filial
+
+<div align="center">
+  <img src="../../assets/con/con_ll_dim.png" alt="### Lucro Líquido por Dimensão, Projeto ou Filial">
+  <h6>Imagem 5: ### Lucro Líquido por Dimensão, Projeto ou Filial</h6>
+</div>
+
+
 
 ## Visão Gráfica
 
 ### Margem de Lucro Líquido por Mês
 
 <div align="center">
-  <img src="../../assets/con/con_ll_lr.png" alt="Lucro Líquido vs. Receita Líquida por Mês">
-  <h6>Imagem 5: Lucro Líquido vs. Receita Líquida por Mês</h6>
+  <img src="../../assets/con/con_ll_lr.png" alt="Margem de Lucro Líquido por Mês">
+  <h6>Imagem 6: Margem de Lucro Líquido por Mês</h6>
 </div>
 
-Apresenta colunas para Lucro Líquido e Receita Líquida, com uma linha mostrando a % Margem. A linha é colorida em vermelho quando a margem está abaixo de 10% e em verde quando está igual ou acima de 10%. 
 
-Esse gráfico facilita a comparação visual do Lucro Líquido e Receita Líquida, e ajuda a monitorar se a % Margem está atingindo a meta estabelecida, destacando períodos de desempenho insatisfatório ou excepcional.
 
-## Visão de Tabela
+## Visão Acumulado
 
-### Tabela de Detalhamento
+### Lucro Líquido Acumulado por Mês
 
 <div align="center">
-  <img src="../../assets/con/con_ll_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Imagem 6: Tabela de Detalhamento</h6>
+  <img src="../../assets/con/con_ll_acumulado.png" alt="Lucro Líquido Acumulado por Mês">
+  <h6>Imagem 7: Lucro Líquido Acumulado por Mês</h6>
 </div>
 
-A tabela de detalhamento contém colunas para Identificador (ID da Transação), Data de Lançamento, Filial, Projeto e Lucro Líquido. Esta tabela fornece uma visão granular das transações individuais relacionadas ao Lucro Líquido. 
 
-Permite uma análise detalhada de cada transação, facilitando a auditoria e o rastreamento do impacto das transações no Lucro Líquido. 
-
-Essa visão é importante para identificar e avaliar os principais fatores que influenciam o lucro final da empresa.
 
 
 <br><br>
