@@ -38,7 +38,7 @@ Em resumo, o painel de **Receita Bruta** é uma ferramenta essencial para uma ge
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
   <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Abertos" style="margin-right: 10px;">
   <h6>Imagem 4: Receita Bruta por Conta - Níveis Abertos</h6>
-  <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Fechados">
+  <img src="../../assets/con/con_rb_tabela2.png" alt="Receita Bruta por Conta - Níveis Fechados">
   <h6>Imagem 5: Receita Bruta por Conta - Níveis Fechados</h6>
 </div>
 
