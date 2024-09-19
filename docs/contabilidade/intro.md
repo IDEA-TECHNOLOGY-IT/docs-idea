@@ -129,7 +129,9 @@ Selecionar este botão leva os usuários à página intitulada DRE (Demonstraç�
 
 <div align="center">
   <img src="../../assets/con/con_filtros.png" alt="Contabilidade Filtros">
-  <h6>Imagem 3: Filtros</h6>
+  <h6>Imagem 3: Filtros - Visão 1</h6>
+  <img src="../../assets/con/con_filtros2.png" alt="Contabilidade Filtros2">
+  <h6>Imagem 3: Filtros - Visão 2</h6>
 </div>
 
 Os filtros são ferramentas essenciais que permitem ajustar dinamicamente todos os visuais presentes nas páginas do relatório de forma sincronizada. Ao selecionar um filtro, gráficos, tabelas e outros elementos visuais são automaticamente atualizados para exibir apenas os dados relevantes com base nos critérios escolhidos.
@@ -143,6 +145,10 @@ Este filtro permite segmentar os dados com base em uma filial específica da emp
 ###	Projeto
 <p><img src="../../assets/con/con_filtros_projeto.png" alt="Projeto" style="vertical-align: middle; height: 50px;"></p>
 O filtro de projeto permite segmentar os dados por projetos específicos. Ao selecionar um projeto, todos os visuais no relatório são automaticamente ajustados para exibir apenas as informações relacionadas a ele. Isso facilita uma análise detalhada de custos, receitas e outros indicadores associados, proporcionando uma visão mais focada e precisa do desempenho de cada projeto.
+
+###	Dimensão
+<p><img src="../../assets/con/con_filtros_dim.png" alt="Dimensão" style="vertical-align: middle; height: 50px;"></p>
+O filtro de dimensão permite segmentar os dados por critérios específicos, como categorias ou características adicionais. Ao selecionar uma dimensão, todos os visuais no relatório são automaticamente ajustados para exibir apenas as informações relacionadas a essa escolha. Isso facilita uma análise detalhada de custos, receitas e outros indicadores associados, proporcionando uma visão mais focada e precisa do desempenho de cada categoria ou característica analisada.
 
 ###	Ano
 <p><img src="../../assets/con/con_filtros_ano.png" alt="Ano" style="vertical-align: middle; height: 50px;"></p>
