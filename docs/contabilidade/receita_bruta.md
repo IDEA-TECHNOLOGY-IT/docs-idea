@@ -6,7 +6,7 @@
   <img src="../../assets/con/con_rb_page2.png" alt="Receita Bruta Page 2">
   <h6>Imagem 2: Receita Bruta - Visão de Tabela</h6>
   <img src="../../assets/con/con_rb_page3.png" alt="Receita Bruta Page 2">
-  <h6>Imagem 2: Receita Bruta - Visão de Tempo</h6>
+  <h6>Imagem 3: Receita Bruta - Visão de Tempo</h6>
 </div></p>
 
 ## Navegação
@@ -37,9 +37,9 @@ Em resumo, a análise de receita bruta no BI para contabilidade é uma ferrament
 
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
   <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Abertos" style="margin-right: 10px;">
-  <h6>Imagem 3: Receita Bruta por Conta - Níveis Abertos</h6>
+  <h6>Imagem 4: Receita Bruta por Conta - Níveis Abertos</h6>
   <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Fechados">
-  <h6>Imagem 3: Receita Bruta por Conta - Níveis Fechados</h6>
+  <h6>Imagem 5: Receita Bruta por Conta - Níveis Fechados</h6>
 </div>
 
 Esta matriz oferece uma visão abrangente da Receita Bruta tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta de acordo com o modelo estabelecido. O valor principal desta tabela reside na sua capacidade de facilitar a comparação direta do desempenho da receita entre diferentes períodos. Ao categorizar os dados de receita por Conta e Nível de Conta, a tabela proporciona uma compreensão detalhada de como cada segmento contribui para a receita total, destacando assim tendências e variações no desempenho financeiro.
@@ -55,8 +55,10 @@ Este visual está disponível para todas as três visualizações deste painel, 
 ### Receita Bruta por Filial, Projeto ou Conta
 
 <div align="center">
-  <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Conta">
-  <h6>Imagem 4: Receita Bruta por Conta</h6>
+  <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Total" style="margin-right: 10px;">
+  <h6>Imagem 6: Receita Bruta por Filial, Projeto ou Conta</h6>
+  <img src="../../assets/con/con_rb_conta2.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida">
+  <h6>Imagem 7: Receita Bruta por Filial, Projeto ou Conta</h6>
 </div>
 
 Este gráfico de barras apresenta a Receita Bruta, permitindo que o usuário alterne entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa flexibilidade torna o gráfico uma ferramenta dinâmica para explorar a receita em diversas dimensões, oferecendo uma visão detalhada da contribuição de cada Filial, Projeto ou Conta para a Receita Bruta total da empresa. Ao alternar entre esses níveis, o gráfico facilita comparações granulares e revela quais unidades de negócio ou iniciativas estão impulsionando o desempenho financeiro.
@@ -82,7 +84,7 @@ Aqui, você pode navegar entre diferentes níveis hierárquicos, como Filial, Pr
 
 <div align="center">
   <img src="../../assets/con/con_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
-  <h6>Imagem 5: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
+  <h6>Imagem 8: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
 </div>
 
 Esta tabela de detalhes exibe informações fundamentais sobre as transações de Receita Bruta, organizada por transação, e inclui colunas essenciais para uma visão completa de cada lançamento. Cada linha da tabela representa uma transação individual, com informações como data de lançamento, filial, projeto, valor, conta e dimensão associada. Essa tabela é especialmente útil para a análise detalhada de cada transação, permitindo à empresa acompanhar e gerenciar suas receitas com precisão.
@@ -120,7 +122,7 @@ Categoria adicional que facilita a segmentação e a análise das receitas, ofer
 
 <div align="center">
   <img src="../../assets/con/con_rb_detalhes.png" alt="Receita Bruta x Ano Anterior">
-  <h6>Imagem 6: Receita Bruta x Ano Anterior</h6>
+  <h6>Imagem 9: Receita Bruta x Ano Anterior</h6>
 </div>
 
 Este gráfico de barras com linha é uma representação poderosa para visualizar o desempenho da Receita Bruta de forma comparativa entre dois períodos – o Ano Atual e o Ano Anterior – enquanto a linha sobreposta indica a % Diferença entre os dois anos. As barras fornecem uma visão clara e direta dos valores absolutos de receita bruta em cada período, enquanto a linha destaca o quanto o desempenho variou entre os anos. Essa combinação é extremamente eficaz, pois facilita a análise tanto do valor bruto de cada período quanto da diferença percentual entre eles, fornecendo um entendimento visual imediato do crescimento ou declínio.
