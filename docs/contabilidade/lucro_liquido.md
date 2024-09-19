@@ -53,7 +53,7 @@ Em resumo, a análise de lucro líquido no BI para contabilidade é uma ferramen
 
 <div align="center">
   <img src="../../assets/con/con_ll_dim.png" alt="Lucro Líquido por Dimensão, Projeto ou Filial">
-  <h6>Imagem 5: ### Lucro Líquido por Dimensão, Projeto ou Filial</h6>
+  <h6>Imagem 5: Lucro Líquido por Dimensão, Projeto ou Filial</h6>
 </div>
 
 
