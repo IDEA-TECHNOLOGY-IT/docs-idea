@@ -11,9 +11,9 @@
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Gráfica e Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica-e-tabela)** - Esses recursos visuais estão disponíveis o tempo todo neste painel.
+- **[Visão Gráfica e Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica-e-acumulado)** - Esses recursos visuais estão disponíveis o tempo todo neste painel.
 - **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização acumulado".
+- **[Visão Acumulado](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/#visao-acumulado)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização acumulado".
 
 ## Informações no Painel Lucro Líquido
 
