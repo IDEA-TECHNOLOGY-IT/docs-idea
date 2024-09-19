@@ -30,7 +30,7 @@ A primeira opção é a [barra de menu](https://idea-technology-it.github.io/doc
 
 A segunda maneira de navegar é através dos botões "Ver mais" e "Mais indicadores" localizados nos [Indicadores Contábeis](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) - as caixas que aparecem na parte superior de cada página. Eles também têm uma descrição quando o mouse passa sobre eles, no entanto, para maior clareza, as imagens na caixa correspondente correspondem à imagem usada na barra de menu.
 <div style="display: flex; justify-content: center;">
-  <img src="../../assets/con/con_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
+  <img src="../../assets/con/con_caixa_click.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px; margin-right: 10px">
   <img src="../../assets/con/con_caixa_clicki.png" alt="Ver mais Hover" style="vertical-align: middle; height: 150px;">
 </div>
 
