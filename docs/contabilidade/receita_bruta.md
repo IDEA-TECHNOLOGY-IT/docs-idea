@@ -2,18 +2,20 @@
 
 <p><div align="center">
   <img src="../../assets/con/con_rb_page1.png" alt="Receita Bruta Page 1">
-  <h6>Imagem 1: Receita Bruta - Visão Gráfica</h6>
+  <h6>Imagem 1: Receita Bruta - Visão Principal</h6>
   <img src="../../assets/con/con_rb_page2.png" alt="Receita Bruta Page 2">
   <h6>Imagem 2: Receita Bruta - Visão de Tabela</h6>
+  <img src="../../assets/con/con_rb_page3.png" alt="Receita Bruta Page 2">
+  <h6>Imagem 2: Receita Bruta - Visão de Tempo</h6>
 </div></p>
 
 ## Navegação
 
 O painel de relatórios é projetado com duas visualizações distintas. Alguns visuais são consistentes em ambas as visualizações, enquanto outros são específicos para cada visualização, garantindo que informações relevantes sejam apresentadas de acordo com o contexto de cada perspectiva;
 
-- **[Visão Gráfica e Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-grafica-e-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
-- **[Visão Gráfica](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-grafica)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
-- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
+- **[Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico" ou "ir para visualização em tabela".
+- **[Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "voltar para visualização em gráfico".
+- **[Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo)** - pode ser navegada através do [botão](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botoes-para-diferentes-visoes) "ir para visualização em tabela".
 
 ## Informações no Painel Receita Bruta
 
@@ -29,65 +31,94 @@ O impacto da análise de receita bruta vai além das vendas e marketing. Os insi
 
 Em resumo, a análise de receita bruta no BI para contabilidade é uma ferramenta poderosa para monitorar e otimizar o desempenho financeiro. Ao examinar a receita bruta de vários ângulos, como desempenho acumulado, variações mensais e detalhamento por segmento, as empresas obtêm uma compreensão mais profunda de suas fontes de receita. Essa análise não só melhora as estratégias de vendas e marketing, mas também impacta outras áreas-chave, como planejamento financeiro, desenvolvimento de produtos e decisões de expansão, criando um ambiente de negócios mais eficiente e orientado por dados.
 
-## Visão Gráfica e Tabela
+## Visão Principal
 
 ### Receita Bruta por Conta
 
-<div align="center">
-  <img src="../../assets/con/con_rb_tabela.png" alt="Tabela de Receita Bruta">
-  <h6>Imagem 3: Tabela de Receita Bruta</h6>
+<div style="margin-bottom: 10px; display: flex; justify-content: center;">
+  <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Abertos" style="margin-right: 10px;">
+  <h6>Imagem 3: Receita Bruta por Conta - Níveis Abertos</h6>
+  <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Fechados">
+  <h6>Imagem 3: Receita Bruta por Conta - Níveis Fechados</h6>
 </div>
 
-Esta tabela exibe a Receita Bruta para o Ano Atual, o Ano Anterior e a % Diferença entre eles, organizada por Nome da Conta e Nível, conforme a ordem do Modelo. 
+Esta tabela oferece uma visão abrangente da Receita Bruta tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta de acordo com o modelo estabelecido. O valor principal desta tabela reside na sua capacidade de facilitar a comparação direta do desempenho da receita entre diferentes períodos. Ao categorizar os dados de receita por Conta e Nível de Conta, a tabela proporciona uma compreensão detalhada de como cada segmento contribui para a receita total, destacando assim tendências e variações no desempenho financeiro.
 
-A importância dessa tabela reside na sua capacidade de comparar diretamente o desempenho da Receita Bruta entre dois períodos diferentes e por diferentes contas, permitindo uma análise detalhada de variações e tendências. 
+Os números de Receita Bruta para o Ano Atual oferecem uma visão do desempenho financeiro recente, servindo como um ponto de referência para avaliar a receita do Ano Anterior. Essa comparação é crucial para identificar tendências de crescimento ou declínio na receita, fornecendo insights valiosos sobre quais contas ou níveis experimentaram mudanças significativas. A coluna de Diferença Percentual é particularmente importante, pois quantifica a variação entre os dois anos, permitindo que os usuários avaliem a extensão do crescimento ou da redução da receita. Essa métrica ajuda a identificar quais áreas estão se destacando e quais podem precisar de ajustes estratégicos.
 
-A % Diferença é crucial para entender o crescimento ou a redução nas receitas de um período para outro, fornecendo insights sobre a performance de cada conta específica e ajudando a identificar áreas que precisam de atenção ou otimização.
+Além disso, a inclusão de ícones ao lado de cada Diferença Percentual melhora a clareza visual dos dados. Ícones verdes indicam um aumento na receita, ícones vermelhos denotam uma redução e ícones amarelos sinalizam que não houve alteração. Esse sistema de codificação por cores oferece pistas visuais imediatas, facilitando a interpretação dos dados rapidamente e identificando áreas de preocupação ou sucesso. No geral, a tabela serve como uma ferramenta poderosa para uma análise financeira detalhada, permitindo uma compreensão mais profunda das dinâmicas de receita e apoiando a tomada de decisões informadas.
 
-### Receita Bruta por Filial ou Projeto
+### Receita Bruta por Filial, Projeto ou Conta
 
 <div align="center">
   <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Conta">
   <h6>Imagem 4: Receita Bruta por Conta</h6>
 </div>
 
-Este gráfico de barras verticais apresenta barras que representam a Receita Bruta para o Ano Atual e o Ano Anterior, organizadas por Nome da Conta e ordenadas do maior valor do Ano Atual para o menor. 
+Este gráfico de barras apresenta a Receita Bruta, permitindo que o usuário alterne entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa flexibilidade torna o gráfico uma ferramenta dinâmica para explorar a receita em diversas dimensões, oferecendo uma visão detalhada da contribuição de cada Filial, Projeto ou Conta para a Receita Bruta total da empresa. Ao alternar entre esses níveis, o gráfico facilita comparações granulares e revela quais unidades de negócio ou iniciativas estão impulsionando o desempenho financeiro.
 
-Esse gráfico é importante porque permite uma comparação visual clara das receitas atuais e anteriores, facilitando a identificação de contas que tiveram crescimento significativo ou declínio. 
+Em conjunto com a tabela comparativa da Receita Bruta do Ano Atual e do Ano Anterior, este gráfico de barras complementa a análise ao oferecer uma visualização mais intuitiva e direta das contribuições de receita. Enquanto a tabela permite uma análise detalhada de como as receitas mudaram entre dois períodos, o gráfico de barras dá suporte a essa análise ao visualizar as proporções e o peso de cada Filial, Projeto ou Conta no desempenho geral da empresa. A combinação dos dois visuais fornece uma abordagem quantitativa e visual completa: a tabela aprofunda a comparação entre os períodos, e o gráfico destaca as principais categorias que têm impacto no desempenho.
 
-A ordenação dos dados ajuda a destacar as principais contas em termos de receita e facilita a identificação de padrões de desempenho.
+Além disso, os rótulos detalhados que exibem a porcentagem da Receita Bruta para cada categoria no gráfico de barras oferecem uma visão complementar às informações de variação percentual da tabela. Enquanto a tabela enfatiza a variação entre os anos, o gráfico de barras permite ver a representatividade relativa de cada Filial, Projeto ou Conta dentro do total de receitas atuais. Isso ajuda os usuários a identificar não apenas onde houve mudanças ao longo do tempo, mas também qual o peso atual de cada categoria em relação ao resultado geral.
 
-## Visão Gráfica
+Usando este visual em conjunto com a [Receita Bruta por Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-conta) permite que a análise financeira seja rica e multifacetada. A tabela fornece uma visão precisa das mudanças ao longo do tempo, enquanto o gráfico de barras foca na distribuição atual das receitas, ajudando a revelar padrões de desempenho e a destacar áreas críticas ou oportunidades de crescimento. Juntos, esses visuais permitem uma tomada de decisão mais informada, proporcionando uma visão completa tanto do passado quanto do presente da Receita Bruta.
 
-### Receita Bruta Ano Atual vs. Ano Anterior
+## Visão de Tabela
+
+### Tabela de Detalhes
 
 <div align="center">
   <img src="../../assets/con/con_rb_variacao.png" alt="Variação da Receita Bruta em Relação ao Ano Anterior">
   <h6>Imagem 5: Variação da Receita Bruta em Relação ao Ano Anterior</h6>
 </div>
 
-Este gráfico de barras com linha combina barras e uma linha para mostrar a Receita Bruta para o Ano Atual e o Ano Anterior, com a linha representando a % Diferença entre eles. 
+Esta tabela de detalhes exibe informações fundamentais sobre as transações de Receita Bruta, organizada por transação, e inclui colunas essenciais para uma visão completa de cada lançamento. Cada linha da tabela representa uma transação individual, com informações como data de lançamento, filial, projeto, valor, conta e dimensão associada. Essa tabela é especialmente útil para a análise detalhada de cada transação, permitindo à empresa acompanhar e gerenciar suas receitas com precisão.
 
-A linha é colorida em verde quando a diferença é positiva e em vermelho quando é negativa. 
+A organização por transação garante que cada transação seja facilmente identificada e rastreável, sendo útil para reconciliar os dados com outros sistemas. A data de lançamento permite acompanhar a cronologia dos registros e entender quando as receitas foram realizadas. A coluna de filial mostra a unidade da empresa relacionada a cada receita, fornecendo uma visão regionalizada das operações, enquanto a coluna projeto facilita a associação de receitas a projetos específicos, sendo especialmente valiosa para empresas que trabalham com múltiplos projetos simultaneamente.
 
-Este gráfico é essencial para a análise temporal da Receita Bruta, pois permite visualizar as variações mês a mês e ano a ano, bem como a magnitude e a direção das mudanças. 
+A coluna de valor exibe o montante da receita bruta gerada por cada transação, oferecendo uma visão clara dos valores envolvidos. A identificação da conta permite um detalhamento financeiro ainda mais granular, associando receitas a categorias contábeis específicas. A dimensão adiciona uma camada analítica, facilitando a segmentação dos dados por critérios adicionais que ajudam a entender melhor a origem e a natureza das receitas.
 
-A codificação por cor da % Diferença ajuda a identificar rapidamente os períodos de melhoria ou deterioração no desempenho financeiro.
+Essa tabela pode ser utilizada em conjunto com outros visuais, como gráficos de barras ou de linha, para permitir um mergulho mais profundo nas transações individuais após uma análise mais ampla das tendências de receita bruta. A possibilidade de aplicar [filtros](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#filtros) interativos ou clicar nos gráficos auxilia na navegação rápida entre as diferentes camadas de informação, tornando o processo de análise mais dinâmico e eficiente.
 
-## Visão de Tabela
+#### Transação
+ID único que identifica cada transação de receita bruta. Essencial para rastreamento e reconciliação.
 
-### Tabela de Detalhamento
+#### Data de Lançamento 
+Data em que a receita foi registrada. Importante para análise temporal e histórico das transações.
+
+#### Filial
+Unidade da empresa responsável pela receita. Ajuda a identificar a distribuição geográfica das operações.
+
+#### Projeto
+Relaciona a receita a um projeto específico, útil para monitorar receitas associadas a iniciativas empresariais específicas.
+
+#### Valor
+O montante da receita bruta de cada transação. Fornece uma visão clara dos valores gerados.
+
+#### Conta
+Categoria contábil da transação, essencial para análises financeiras detalhadas.
+
+#### Dimensão
+Categoria adicional que facilita a segmentação e a análise das receitas, oferecendo uma visão mais completa das transações.
+
+## Visão de Tempo
+
+### Receita Bruta x Ano Anterior
 
 <div align="center">
-  <img src="../../assets/con/con_rb_detalhes.png" alt="Tabela de Detalhamento">
-  <h6>Imagem 6: Tabela de Detalhamento</h6>
+  <img src="../../assets/con/con_rb_detalhes.png" alt="Receita Bruta x Ano Anterior">
+  <h6>Imagem 6: Receita Bruta x Ano Anterior</h6>
 </div>
 
-Esta tabela contém dados detalhados com colunas para Identificador (ID da Transação), Data Lançamento (Data da Transação), Filial (Filial), Projeto (Projeto), Valor da Receita Bruta, Nome da Conta (conforme o Modelo), Nome da Conta Sintética (conforme o Modelo) e Nome da Conta Analítica (conforme o Modelo). 
+Este gráfico de barras com linha é uma representação poderosa para visualizar o desempenho da Receita Bruta de forma comparativa entre dois períodos – o Ano Atual e o Ano Anterior – enquanto a linha sobreposta indica a % Diferença entre os dois anos. As barras fornecem uma visão clara e direta dos valores absolutos de receita bruta em cada período, enquanto a linha destaca o quanto o desempenho variou entre os anos. Essa combinação é extremamente eficaz, pois facilita a análise tanto do valor bruto de cada período quanto da diferença percentual entre eles, fornecendo um entendimento visual imediato do crescimento ou declínio.
 
-A importância desta tabela reside na sua capacidade de fornecer uma visão granular e específica das transações individuais. Isso permite uma análise detalhada do impacto de cada transação na Receita Bruta, facilitando a auditoria e o rastreamento das origens das receitas, além de possibilitar a avaliação da performance por diferentes filiais, projetos e contas. 
+A linha da % diferença é uma adição crucial, pois destaca de maneira simples e eficaz as variações de desempenho entre os dois períodos. Pequenas variações nos valores de receita bruta podem passar despercebidas nas barras, mas a linha de diferença percentual permite identificar rapidamente as áreas de maior mudança, sejam elas positivas (aumento) ou negativas (redução). Assim, é possível avaliar rapidamente onde houve melhorias ou necessidade de ajustes no desempenho de receitas.
 
-A inclusão dos diferentes níveis de contas ajuda a entender melhor a estrutura e os detalhes das receitas, permitindo uma análise mais precisa e contextualizada.
+Quando usado em conjunto com os visuais de [Receita Bruta por Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-conta) e [Receita Bruta por Filial, Projeto ou Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-filial-projeto-ou-conta), esse gráfico de barras com linha se torna ainda mais poderoso. O visual de **Receita Bruta por Conta** fornece um detalhamento financeiro de cada conta, facilitando a análise dos fatores que influenciam o desempenho geral, enquanto o visual de **Receita Bruta por Filial, Projeto ou Conta** permite alternar entre diferentes níveis e dimensões, oferecendo uma análise mais específica e segmentada. 
+
+A interação entre esses três visuais é essencial para uma análise mais rica. O gráfico de barras com linha oferece uma visão macro do desempenho da receita bruta de um período para outro, identificando rapidamente onde estão as maiores variações. A partir desse ponto, o usuário pode utilizar os visuais de [Receita Bruta por Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-conta) para aprofundar a análise e entender quais contas específicas contribuíram para essas variações, ou então usar o visual de [Receita Bruta por Filial, Projeto ou Conta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#receita-bruta-por-filial-projeto-ou-conta) para identificar quais filiais, projetos ou contas específicas impulsionaram o aumento ou a redução da receita.
+
+Em conjunto, esses três visuais proporcionam uma análise multidimensional. O gráfico de barras com linha destaca o panorama geral das mudanças de receita, enquanto os outros dois visuais oferecem a capacidade de detalhar e entender a composição dessas variações, permitindo uma análise mais direcionada e informada. Isso garante que a empresa possa monitorar seu desempenho de forma eficiente, identificar tendências de crescimento ou declínio, e ajustar sua estratégia para otimizar os resultados futuros.
 
 
 <br><br>
