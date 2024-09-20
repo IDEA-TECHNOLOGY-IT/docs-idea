@@ -1,9 +1,11 @@
-# Painel Demonstração do Resultado do Exercício (DRE)
+# Painel Demonstração do Resultado do Exercício
 
 <p><div align="center">
   <img src="../../assets/con/con_dre.png" alt="DRE">
   <h6>Imagem 1: Demonstração do Resultado do Exercício</h6>
 </div></p>
+
+## Informações no Painel Demonstração do Resultado do Exercício
 
 A Demonstração do Resultado do Exercício (DRE) é uma das principais ferramentas de análise contábil no Business Intelligence (BI), oferecendo uma visão completa e detalhada da performance financeira de uma empresa ao longo de um período. A DRE expõe de forma clara e estruturada as receitas, custos e despesas, permitindo que gestores, investidores e analistas acompanhem a formação do lucro líquido, que é o resultado final das operações da empresa após todos os encargos e tributações. Monitorar e analisar a DRE é essencial para entender a rentabilidade e a eficiência operacional, proporcionando insights cruciais para decisões estratégicas de curto e longo prazo.
 
@@ -19,7 +21,9 @@ Além do impacto direto na contabilidade, a análise da DRE tem repercussões em
 
 Em resumo, a Demonstração do Resultado do Exercício (DRE) é uma ferramenta poderosa e indispensável no BI para contabilidade. Sua capacidade de detalhar e segmentar o desempenho financeiro de uma empresa oferece insights valiosos para a gestão eficiente dos negócios. Através de análises de margens, evolução de receitas e despesas, e comparações entre segmentos, a DRE permite que as empresas tomem decisões estratégicas mais informadas, assegurando uma performance financeira robusta e sustentada ao longo do tempo.
 
-## Tabela de DRE - Demonstração do Resultado do Exercício
+## Visão Principal
+
+### Tabela de DRE - Demonstração do Resultado do Exercício
 
 <p><div align="center">
   <img src="../../assets/con/con_dre_tabela.png" alt="Tabela de DRE - Demonstração do Resultado do Exercício">
