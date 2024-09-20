@@ -129,7 +129,7 @@ Categoria adicional que facilita a segmentação e a análise das receitas, ofer
 ### Receita Bruta x Ano Anterior
 
 <div align="center">
-  <img src="../../assets/con/con_rb_detalhes.png" alt="Receita Bruta x Ano Anterior">
+  <img src="../../assets/con/con_rb_variacao.png" alt="Receita Bruta x Ano Anterior">
   <h6>Imagem 9: Receita Bruta x Ano Anterior</h6>
 </div>
 
