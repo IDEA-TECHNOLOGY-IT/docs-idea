@@ -35,11 +35,15 @@ Em resumo, o painel de **Receita Bruta** é uma ferramenta essencial para uma ge
 
 ### Receita Bruta por Conta
 
-<div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Abertos" style="margin-right: 10px;">
-  <h6>Imagem 4: Receita Bruta por Conta - Níveis Abertos</h6>
-  <img src="../../assets/con/con_rb_tabela2.png" alt="Receita Bruta por Conta - Níveis Fechados">
-  <h6>Imagem 5: Receita Bruta por Conta - Níveis Fechados</h6>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_rb_tabela.png" alt="Receita Bruta por Conta - Níveis Abertos" style="margin-bottom: 10px;">
+    <h6>Imagem 4: Receita Bruta por Conta - Níveis Abertos</h6>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_rb_tabela2.png" alt="Receita Bruta por Conta - Níveis Fechados" style="margin-bottom: 10px;">
+    <h6>Imagem 5: Receita Bruta por Conta - Níveis Fechados</h6>
+  </div>
 </div>
 
 Esta matriz oferece uma visão abrangente da Receita Bruta tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta de acordo com o modelo estabelecido. O valor principal desta tabela reside na sua capacidade de facilitar a comparação direta do desempenho da receita entre diferentes períodos. Ao categorizar os dados de receita por Conta e Nível de Conta, a tabela proporciona uma compreensão detalhada de como cada segmento contribui para a receita total, destacando assim tendências e variações no desempenho financeiro.
@@ -54,11 +58,15 @@ Este visual está disponível para todas as três visualizações deste painel, 
 
 ### Receita Bruta por Filial, Projeto ou Conta
 
-<div align="center">
-  <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Total" style="margin-right: 10px;">
-  <h6>Imagem 6: Receita Bruta por Filial, Projeto ou Conta - Altura Total</h6>
-  <img src="../../assets/con/con_rb_conta2.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida">
-  <h6>Imagem 7: Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida</h6>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_rb_conta.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Total" style="margin-bottom: 10px;">
+    <h6>Imagem 6: Receita Bruta por Filial, Projeto ou Conta - Altura Total</h6>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_rb_conta2.png" alt="Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida" style="margin-bottom: 10px;">
+    <h6>Imagem 7: Receita Bruta por Filial, Projeto ou Conta - Altura Reduzida</h6>
+  </div>
 </div>
 
 Este gráfico de barras apresenta a Receita Bruta, permitindo que o usuário alterne entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa flexibilidade torna o gráfico uma ferramenta dinâmica para explorar a receita em diversas dimensões, oferecendo uma visão detalhada da contribuição de cada Filial, Projeto ou Conta para a Receita Bruta total da empresa. Ao alternar entre esses níveis, o gráfico facilita comparações granulares e revela quais unidades de negócio ou iniciativas estão impulsionando o desempenho financeiro.
