@@ -79,7 +79,7 @@ Usar este visual em conjunto com o [Custos e Despesas por Conta](https://idea-te
 
 Este visual está disponível em todas as três visualizações do painel. Na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-principal), o gráfico ocupa o comprimento do painel para incluir o máximo possível de categorias. Na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/#visao-de-tempo), são exibidas apenas as cinco categorias principais, mas é possível rolar para visualizar todas as categorias disponíveis.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabiliadade/intro/#icones-de-cabecalho), que aparecem ao passar o mouse ou clicar no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#icones-de-cabecalho), que aparecem ao passar o mouse ou clicar no gráfico.
 <p><div align="left">
   <img src="../../assets/con/con_hi_updown.png" alt="Ícones de Cabeçalho UpDown">
   <h6>Ícones de Cabeçalho</h6>
