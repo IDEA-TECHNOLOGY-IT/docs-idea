@@ -14,8 +14,8 @@ Diretores, gestores e analistas de Contabilidade.
 5. [Painel Custos e Despesas](./custos_e_despesas.md)
 6. [Painel Lucro Líquido](./lucro_liquido.md)
 7. [Painel EBITDA](./ebitda.md)
-8. [Painel Indicadores](./indicadores.md)
-9. [Painel Regra dos 40](./regra_dos_40.md)
+8. [Painel Regra dos 40](./regra_dos_40.md)
+9. [Painel Indicadores](./indicadores.md)
 10. [Painel DRE - Demonstração do Resultado do Exercício](./dre.md)
 
 ## Requisitos para Setup
