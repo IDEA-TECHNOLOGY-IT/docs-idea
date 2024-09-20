@@ -34,9 +34,7 @@ O indicador (30 dias) para os valores que devem ser recebidos nos próximos 30 d
 
 ### Botão Ver mais
 
-O botão "Ver mais" direciona o usuário para a página de A Receber quando clicado. No entanto, quando o usuário já está na página de A Receber, o botão "Ver mais" não é exibido, e o cartão correspondente é destacado visualmente.
-
-Conheça mais sobre essa caixa de indicadores no [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/).
+O botão "Ver mais" direciona o usuário para a [Painel A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/) quando clicado. No entanto, quando o usuário já está na página de A Receber, o botão "Ver mais" não é exibido, e o cartão correspondente é destacado visualmente.
 
 ## Indicador A Pagar
 
@@ -59,9 +57,7 @@ O indicador (30 dias) para os valores que devem ser pagos nos próximos 30 dias 
 
 ### Botão Ver mais
 
-O botão "Ver mais" direciona o usuário para a página de A Pagar ao ser clicado. No entanto, se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de A Pagar, o botão "Ver mais" se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
-
-Conheça mais sobre essa caixa de indicadores no [Painel A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/).
+O botão "Ver mais" direciona o usuário para a [Painel A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/) ao ser clicado. No entanto, se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de A Pagar, o botão "Ver mais" se torna invisível, e o cartão é destacado, facilitando a visualização das informações diretamente na tela atual.
 
 ## Indicador de Inadimplência
 
@@ -92,9 +88,7 @@ Este indicador (120+ dias) mostra o valor dos pagamentos que estão inadimplente
 
 ### Botão Ver mais
 
-O botão "Ver mais", quando clicado, direciona o usuário para a página de Inadimplência. Se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de Inadimplência, o botão "Ver mais" não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
-
-Conheça mais sobre essa caixa de indicadores no [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/).
+O botão "Ver mais", quando clicado, direciona o usuário para a [Painel Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/). Se o cartão já estiver associado à página atual, ou seja, o usuário já estiver na página de Inadimplência, o botão "Ver mais" não será exibido, e o cartão será automaticamente destacado, proporcionando uma navegação mais intuitiva.
 
 ## Indicador de Pagamentos Vencidos
 
@@ -125,9 +119,7 @@ Este indicador (120+ dias) mostra o valor dos pagamentos que ainda precisam ser 
 
 ### Botão Ver mais
 
-O botão "Ver mais", ao ser clicado, direciona o usuário para a página de Pagamentos Vencidos. Se o usuário já estiver na página correspondente, o botão "Ver mais" não é exibido, e o cartão é automaticamente destacado para indicar que ele está visualizando as informações corretas.
-
-Conheça mais sobre essa caixa de indicadores no [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/).
+O botão "Ver mais", ao ser clicado, direciona o usuário para a [Painel Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/). Se o usuário já estiver na página correspondente, o botão "Ver mais" não é exibido, e o cartão é automaticamente destacado para indicar que ele está visualizando as informações corretas.
 
 ## Indicador de Período Médio de Recebimento (PMR)
 
@@ -156,9 +148,7 @@ Recebimento (Receb.) refere-se ao valor total dos pagamentos já recebidos pela 
 
 ### Botão Ver mais
 
-Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a página do Painel de Recebimentos Realizados. Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do Painel de Recebimentos Realizados, o botão "Ver mais" desaparece, destacando o cartão para indicar que essa é a página em questão.
-
-Conheça mais sobre essa caixa de indicadores no [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/).
+Botão "Ver mais" ao ser clicado, este botão direciona o usuário para a [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/). Se o cartão já estiver vinculado à página atual, ou seja, o usuário já estiver na página do Painel de Recebimentos Realizados, o botão "Ver mais" desaparece, destacando o cartão para indicar que essa é a página em questão.
 
 ## Indicador de Período Médio de Pagamento (PMP)
 
@@ -187,9 +177,7 @@ Pagamento (Pago) refere-se ao valor total dos pagamentos já realizados. Compara
 
 ### Botão Ver mais
 
-Botão "Ver mais" quando clicado, este botão direciona o usuário para a página de Caixa do Painel de Pagamentos Realizados. Se o usuário já estiver na página de Caixa do Painel de Pagamentos Realizados, o botão "Ver mais" não será exibido e o cartão correspondente será destacado.
-
-Conheça mais sobre essa caixa de indicadores no [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/).
+Botão "Ver mais" quando clicado, este botão direciona o usuário para a [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/). Se o usuário já estiver na página de Caixa do Painel de Pagamentos Realizados, o botão "Ver mais" não será exibido e o cartão correspondente será destacado.
 
 ## Caixa de Saldo Total em Contas
 
@@ -210,9 +198,7 @@ Saldo Total em Contas refere-se ao montante agregado disponível em todas as con
 
 ### Botão Ver mais e Veja menos
 
-Botão "Ver mais" ao ser clicado, este botão abre uma tabela detalhada do Saldo Total em Contas, mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão "Veja menos", permitindo fechar a tabela e retornar à visualização anterior.
-
-Conheça mais sobre essa caixa de indicadores no [Visão Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/).
+Botão "Ver mais" ao ser clicado, este botão abre uma tabela detalhada do [Saldo Total em Contas](https://idea-technology-it.github.io/docs-idea/financeiro/saldo_contas/), mostrando o saldo atual por conta. Esta visualização está disponível em todas as páginas do relatório. Quando a tabela está aberta, o botão "Ver mais" é substituído por um botão "Veja menos", permitindo fechar a tabela e retornar à visualização anterior.
 
 
 <br><br>
