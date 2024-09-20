@@ -17,7 +17,11 @@ O painel de relatórios é projetado com duas visualizações distintas. Alguns 
 
 ## Informações no Painel Lucro Líquido
 
+### Lucro Líquido
+
 A análise de lucro líquido é um elemento essencial no Business Intelligence (BI) para contabilidade, pois fornece uma visão abrangente da rentabilidade de uma empresa. Monitorar e analisar o lucro líquido permite que as empresas avaliem sua performance financeira geral, identifiquem áreas de lucratividade e potencialmente otimizem suas estratégias para melhorar os resultados financeiros.
+
+Um Lucro Líquido de 10% ou mais é considerado um sinal positivo para a saúde financeira de uma empresa, indicando que ela está gerando uma quantidade significativa de lucro em relação à sua receita total. Essa margem mostra eficiência operacional, sugerindo que a empresa está controlando bem seus custos e despesas. Com uma margem de lucro líquido acima de 10%, a empresa também possui maior capacidade de investimento em crescimento, inovação e expansão, além de ter uma maior flexibilidade financeira para enfrentar desafios econômicos. Essa robustez financeira atrai investidores e parceiros, pois demonstra um modelo de negócios sustentável e rentável, criando um ambiente favorável para o crescimento a longo prazo.
 
 Visualizações como lucro líquido acumulado e crescimento do lucro líquido mês a mês são fundamentais para acompanhar a performance financeira ao longo do tempo. O lucro líquido acumulado oferece uma perspectiva de longo prazo, mostrando como o lucro líquido se acumula ao longo de um período específico. Isso ajuda a identificar tendências de rentabilidade e a prever a saúde financeira futura da empresa. A comparação do lucro líquido mês a mês permite que as empresas detectem variações de curto prazo, como o impacto de mudanças operacionais ou eventos sazonais, e ajustem suas estratégias financeiras conforme necessário.
 
