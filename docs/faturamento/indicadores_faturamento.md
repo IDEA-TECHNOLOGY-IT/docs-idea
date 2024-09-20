@@ -34,7 +34,7 @@ O valor Mês Fechado Mês Anterior (Mês Ant.) representa a receita do mês imed
 
 ### Botão Ver mais
 
-O botão "Ver mais" direciona o usuário para a página de Faturamento. Se o usuário já estiver na página de Faturamento, o botão "Ver mais" não será exibido e o cartão correspondente será destacado. Isso garante uma navegação intuitiva e evita a duplicação de informações na mesma página.
+O botão "Ver mais" direciona o usuário para a [Painel de Faturamento Líquido](https://idea-technology-it.github.io/docs-idea/faturamento/faturamento_liquido/). Se o usuário já estiver na página de Faturamento, o botão "Ver mais" não será exibido e o cartão correspondente será destacado. Isso garante uma navegação intuitiva e evita a duplicação de informações na mesma página.
 
 ## Indicador de Vendas
 
@@ -57,7 +57,7 @@ A Diferença (Dif.) representa a diferença percentual entre as vendas atuais (V
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Vendas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Vendas), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Vendas](https://idea-technology-it.github.io/docs-idea/faturamento/vendas/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Vendas), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Devoluções
 <div align="center">
@@ -79,7 +79,7 @@ A métrica Devoluções % (Índice) é calculada dividindo o valor total das dev
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Devoluções. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Devoluções), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Devoluções](https://idea-technology-it.github.io/docs-idea/faturamento/devolucoes/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Devoluções), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Faturamento Líquido
 
@@ -102,7 +102,7 @@ A Diferença (Dif.) exibe a variação percentual entre a receita líquida atual
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Faturamento. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Faturamento), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel de Faturamento Líquido](https://idea-technology-it.github.io/docs-idea/faturamento/faturamento_liquido/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Faturamento), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de CMV
 
@@ -125,7 +125,7 @@ O valor do CMV % (Índice) calcula a porcentagem do Custo da Mercadoria Vendida 
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Custo da Mercadoria Vendida. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custo da Mercadoria Vendida), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Custo da Mercadoria Vendida](https://idea-technology-it.github.io/docs-idea/faturamento/cmv/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custo da Mercadoria Vendida), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Lucro Bruto
 
@@ -148,7 +148,7 @@ Margem de Lucro % (Mar.) representa a porcentagem de lucro líquido em relação
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Itens. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Itens), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel de Itens](https://idea-technology-it.github.io/docs-idea/faturamento/itens/). Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Itens), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Positivação
 
@@ -171,7 +171,7 @@ Prazo Médio de Recebimento (PMR (Dias)) indica o tempo médio que a empresa lev
 
 ### Botão Mais indicadores
 
-Botão "Mais indicadores", quando clicado, este botão leva o usuário à página de Indicadores. Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
+Botão "Mais indicadores", quando clicado, este botão leva o usuário à [Painel Indicadores](https://idea-technology-it.github.io/docs-idea/faturamento/indicadores/). Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
 Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 
 - **CMV - Custo da Mercadoria Vendida (%)**
