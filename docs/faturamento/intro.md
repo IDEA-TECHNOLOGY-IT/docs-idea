@@ -62,17 +62,17 @@ A barra de menu, situada no lado esquerdo de todas as páginas do relatório, é
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Painel 
+### Botão Painel de Faturamento
 <p><img src="../../assets/fat/fat_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat/fat_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão redireciona os usuários para a página principal, chamada [Painel de Faturamento](./painel_faturamento.md). Esta página serve como o ponto central de partida, oferecendo uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
-### Botão de Faturamento
+### Botão de Faturamento Líquido
 <p><img src="../../assets/fat/fat_button_fat1.png" alt="fat1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat/fat_button_fat2.png" alt="fat2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão direciona os usuários para a página intitulada [Faturamento](./faturamento_liquido.md). Esta página inclui visualizações e análises relacionadas ao faturamento gerada pela empresa.
+Clicar neste botão direciona os usuários para a página intitulada [Faturamento Líquido](./faturamento_liquido.md). Esta página inclui visualizações e análises relacionadas ao faturamento gerada pela empresa.
   
 ### Botão Vendas
 <p><img src="../../assets/fat/fat_button_vendas1.png" alt="vendas1" style="vertical-align: middle; width: 60px; height: 50px;">
