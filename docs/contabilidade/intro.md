@@ -45,6 +45,10 @@ O terceiro método é usar botões para alternar entre diferentes visualizaçõe
   <img src="../../assets/con/con_button_otempo.png" alt="Voltar Mensal" style="margin-right: 10px;">
   <img src="../../assets/con/con_button_otabela.png" alt="Mensal Open">
 </div>
+<div style="margin-bottom: 10px; display: flex; justify-content: center;">
+  <img src="../../assets/con/con_button_vgrafico.png" alt="Voltar Gráfico" style="margin-right: 10px;">
+  <img src="../../assets/con/con_button_iacumulado.png" alt="Ir Acumulada">
+</div>
 
 ### Drill-through
 
