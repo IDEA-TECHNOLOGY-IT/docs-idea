@@ -129,7 +129,7 @@ Categoria adicional que facilita a segmentação e a análise dos custos e despe
 ### Custos e Despesas x Ano Anterior
 
 <div align="center">
-  <img src="../../assets/con/con_ced_detalhes.png" alt="Custos e Despesas x Ano Anterior">
+  <img src="../../assets/con/con_ced_variacao.png" alt="Custos e Despesas x Ano Anterior">
   <h6>Imagem 9: Custos e Despesas x Ano Anterior</h6>
 </div>
 
