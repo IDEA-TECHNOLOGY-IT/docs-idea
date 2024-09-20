@@ -35,12 +35,17 @@ Em resumo, o painel de **Custos e Despesas** é uma ferramenta indispensável pa
 
 ### Custos e Despesas por Conta
 
-<div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_ced_tabela.png" alt="Custos e Despesas por Conta - Níveis Abertos" style="margin-right: 10px;">
-  <h6>Imagem 4: Custos e Despesas por Conta - Níveis Abertos</h6>
-  <img src="../../assets/con/con_ced_tabela2.png" alt="Custos e Despesas por Conta - Níveis Fechados">
-  <h6>Imagem 5: Custos e Despesas por Conta - Níveis Fechados</h6>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_ced_tabela.png" alt="Custos e Despesas por Conta - Níveis Abertos" style="margin-bottom: 10px;">
+    <h6>Imagem 4: Custos e Despesas por Conta - Níveis Abertos</h6>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_ced_tabela2.png" alt="Custos e Despesas por Conta - Níveis Fechados" style="margin-bottom: 10px;">
+    <h6>Imagem 5: Custos e Despesas por Conta - Níveis Fechados</h6>
+  </div>
 </div>
+
 
 Esta matriz oferece uma visão abrangente dos custos e despesas tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta conforme o modelo contábil estabelecido. O valor principal desta tabela está na sua capacidade de facilitar a comparação direta do desempenho de custos e despesas ao longo de diferentes períodos. Ao categorizar os dados de custos por Conta e Nível de Conta, a tabela proporciona uma visão detalhada de como cada segmento contribui para o total de despesas, destacando tendências e variações no desempenho financeiro da empresa.
 
@@ -54,11 +59,15 @@ Este visual está disponível em todas as três visualizações do painel. Na [V
 
 ### Custos e Despesas por Filial, Projeto ou Conta
 
-<div align="center">
-  <img src="../../assets/con/con_ced_conta.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Total" style="margin-right: 10px;">
-  <h6>Imagem 6: Custos e Despesas por Filial, Projeto ou Conta - Altura Total</h6>
-  <img src="../../assets/con/con_ced_conta2.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida">
-  <h6>Imagem 7: Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida</h6>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_ced_conta.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Total" style="margin-bottom: 10px;">
+    <h6>Imagem 6: Custos e Despesas por Filial, Projeto ou Conta - Altura Total</h6>
+  </div>
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="../../assets/con/con_ced_conta2.png" alt="Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida" style="margin-bottom: 10px;">
+    <h6>Imagem 7: Custos e Despesas por Filial, Projeto ou Conta - Altura Reduzida</h6>
+  </div>
 </div>
 
 Este gráfico de barras exibe os **Custos e Despesas**, oferecendo a capacidade de alternar entre diferentes níveis de análise: Filial, Projeto ou Conta. Essa funcionalidade proporciona uma visão detalhada e dinâmica dos custos e despesas associados a cada Filial, Projeto ou Conta, permitindo uma compreensão aprofundada de como esses fatores contribuem para o total de despesas da empresa. A flexibilidade para alternar entre esses níveis facilita comparações granulares e ajuda a identificar quais unidades ou iniciativas estão mais impactando o desempenho financeiro.
