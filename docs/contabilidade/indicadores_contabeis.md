@@ -34,7 +34,7 @@ Diferença (Dif.) exibe a diferença percentual entre a Receita Bruta do períod
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Receita Bruta. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Receita Bruta), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Receita Bruta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Receita Bruta), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Custos e Despesas
 
@@ -57,7 +57,7 @@ Diferença (Dif.) exibe a diferença percentual entre os Custos e Despesas do pe
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Custos e Despesas. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custos e Despesas), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Custos e Despesas](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Custos e Despesas), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Lucro Líquido
 
@@ -80,7 +80,7 @@ Margem de Lucro Líquido (Mar.) exibe a margem de lucro líquida, calculada como
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Lucro Líquido. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Lucro Líquido), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Lucro Líquido](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de Lucro Líquido), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de EBITDA
 
@@ -103,7 +103,7 @@ Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pel
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de EBITDA. Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel EBITDA](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Regra dos 40
 
@@ -130,7 +130,7 @@ Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela 
 
 ### Botão Ver mais
 
-Botão "Ver mais", quando clicado, este botão leva o usuário à página de Regra dos 40. Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
+Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel Regra dos 40](https://idea-technology-it.github.io/docs-idea/contabilidade/regra_dos_40/). Quando o cartão já está na página de Regra dos 40 (ou seja, o usuário já está visualizando a página de Regra dos 40), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
 ## Indicador de Capital Giro Próprio
 
@@ -153,7 +153,7 @@ A Solvência Geral (Sol. Ger.) é uma métrica que avalia a capacidade da empres
 
 ### Botão Mais indicadores
 
-Botão "Mais indicadores", quando clicado, este botão leva o usuário à página de Indicadores. Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
+Botão "Mais indicadores", quando clicado, este botão leva o usuário à [Painel Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/). Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
 Na página de "Indicadores", você pode encontrar os seguintes indicadores:
 
 - **Capital de Giro Próprio**
@@ -187,6 +187,24 @@ Capital de Giro (CDG) representa o montante de recursos que a empresa necessita 
 ### Necessidade de Capital de Giro (NGC)
 
 Necessidade de Capital de Giro (NGC) refere-se ao capital necessário para financiar o ciclo operacional da empresa, cobrindo o período entre o pagamento de seus fornecedores e o recebimento de suas vendas. Esse indicador mostra a necessidade de recursos para manter as operações contínuas.
+
+### Botão Mais indicadores
+
+Botão "Mais indicadores", quando clicado, este botão leva o usuário à [Painel Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/). Quando o cartão já está na página de Indicadores (ou seja, o usuário já está visualizando a página de Indicadores), o botão "Mais indicadores" não é visível, e o cartão é destacado.
+Na página de "Indicadores", você pode encontrar os seguintes indicadores:
+
+- **Capital de Giro Próprio**
+- **CDG (Capital de Giro)**
+- **Composição de Endividamento**
+- **Giro do Ativo**
+- **Imobilização do Investimento Total**
+- **Liquidez Corrente**
+- **Liquidez Geral**
+- **Liquidez Imediata**
+- **Liquidez Seca**
+- **NGC (Necessidade de Capital de Giro)**
+- **Saldo em Tesouraria**
+- **Solvência Geral**
 
 
 <br><br>
