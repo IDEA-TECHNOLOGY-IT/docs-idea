@@ -46,7 +46,6 @@ Em resumo, o painel de **Custos e Despesas** é uma ferramenta indispensável pa
   </div>
 </div>
 
-
 Esta matriz oferece uma visão abrangente dos custos e despesas tanto para o Ano Atual quanto para o Ano Anterior, juntamente com a Diferença Percentual entre esses dois períodos, organizada por Conta e Nível de Conta conforme o modelo contábil estabelecido. O valor principal desta tabela está na sua capacidade de facilitar a comparação direta do desempenho de custos e despesas ao longo de diferentes períodos. Ao categorizar os dados de custos por Conta e Nível de Conta, a tabela proporciona uma visão detalhada de como cada segmento contribui para o total de despesas, destacando tendências e variações no desempenho financeiro da empresa.
 
 Os números de custos e despesas para o Ano Atual oferecem uma visão atualizada do impacto financeiro dos gastos da empresa, servindo como ponto de referência para avaliar os custos do Ano Anterior. Essa comparação é fundamental para identificar áreas onde os custos cresceram ou diminuíram, proporcionando insights valiosos sobre quais contas ou níveis experimentaram mudanças significativas. A coluna de Diferença Percentual é particularmente importante, pois quantifica a variação entre os dois anos, permitindo que os usuários avaliem a extensão da mudança nos custos. Isso ajuda a identificar quais áreas estão enfrentando aumentos de despesas e onde há potencial para cortes ou ajustes.
