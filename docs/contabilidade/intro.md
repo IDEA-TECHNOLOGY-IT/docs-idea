@@ -180,7 +180,7 @@ Neste relatório, os ícones de cabeçalho mais úteis são "Fazer drill up" e "
 Abaixo estão as opções que um usuário pode ver, o que elas significam e como usá-las.
 
 ### Fazer drill on Linhas ou Colunas
-<p><img src="../../assets/con/con_hi_fazer.png" alt="Fazer" style="vertical-align: middle; height: 40px;"></p>
+<p><img src="../../assets/con/con_hi_updown.png" alt="Fazer" style="vertical-align: middle; height: 40px;"></p>
 Isso altera o drill down para as linhas ou colunas em uma tabela, por exemplo, os cabeçalhos das colunas têm anos e meses, você pode selecionar colunas, permitindo que você faça drill up apenas para os anos, down apenas para os meses ou expanda para ver o ano e o mês como cabeçalhos de coluna. Da mesma forma, se você selecionar linhas, poderá navegar pela hierarquia das linhas.
 
 ### Fazer drill up
