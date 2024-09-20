@@ -1,11 +1,11 @@
 # Painel Custos e Despesas
 
 <p><div align="center">
-  <img src="../../assets/con/con_cd_page1.png" alt="Custos e Despesas Page 1">
+  <img src="../../assets/con/con_ced_page1.png" alt="Custos e Despesas Page 1">
   <h6>Imagem 1: Custos e Despesas - Visão Principal</h6>
-  <img src="../../assets/con/con_cd_page2.png" alt="Custos e Despesas Page 2">
+  <img src="../../assets/con/con_ced_page2.png" alt="Custos e Despesas Page 2">
   <h6>Imagem 2: Custos e Despesas - Visão de Tabela</h6>
-  <img src="../../assets/con/con_cd_page3.png" alt="Custos e Despesas Page 3">
+  <img src="../../assets/con/con_ced_page3.png" alt="Custos e Despesas Page 3">
   <h6>Imagem 3: Custos e Despesas - Visão de Tempo</h6>
 </div></p>
 
@@ -37,11 +37,11 @@ Em resumo, o painel de **Custos e Despesas** é uma ferramenta indispensável pa
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="../../assets/con/con_ced_tabela.png" alt="Custos e Despesas por Conta - Níveis Abertos" style="margin-bottom: 10px;">
+    <img src="../../assets/con/con_ced_contas.png" alt="Custos e Despesas por Conta - Níveis Abertos" style="margin-bottom: 10px;">
     <h6>Imagem 4: Custos e Despesas por Conta - Níveis Abertos</h6>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="../../assets/con/con_ced_tabela2.png" alt="Custos e Despesas por Conta - Níveis Fechados" style="margin-bottom: 10px;">
+    <img src="../../assets/con/con_ced_contas2.png" alt="Custos e Despesas por Conta - Níveis Fechados" style="margin-bottom: 10px;">
     <h6>Imagem 5: Custos e Despesas por Conta - Níveis Fechados</h6>
   </div>
 </div>
