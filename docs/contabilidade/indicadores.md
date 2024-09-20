@@ -68,12 +68,12 @@ O Painel Indicadores, com sua combinação de gráficos de linhas e barras, ofer
 ### Botões para Seleção
 
 <p><div align="center">
-  <img src="../../assets/con/con_indicadores_slicer1.png" alt="Botões para Seleção1">
+  <img src="../../assets/con/con_button_iselect1.png" alt="Botões para Seleção1">
   <h6>Imagem 2: Botões para Seleção</h6>
 </div></p>
 
 <p><div align="center">
-  <img src="../../assets/con/con_indicadores_slicer2.png" alt="Botões para Seleção2">
+  <img src="../../assets/con/con_button_iselect2.png" alt="Botões para Seleção2">
   <h6>Imagem 2: Botões para Seleção</h6>
 </div></p>
 
