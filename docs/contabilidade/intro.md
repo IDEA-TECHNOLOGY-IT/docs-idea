@@ -217,12 +217,8 @@ Nem todas essas opções estarão disponíveis em todos os visuais.
 ## Dicas de Ferramentas
 
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_tooltip_pmr.png" alt="ToolTip " style="margin-right: 10px;">
-  <img src="../../assets/con/con_tooltip_rec.png" alt="ToolTip ">
-</div>
-<div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_tooltip_inadim.png" alt="ToolTip " style="margin-right: 10px;">
-  <img src="../../assets/con/con_tooltip_pvenc.png" alt="ToolTip ">
+  <img src="../../assets/con/con_tooltip_1.png" alt="ToolTip 1" style="margin-right: 10px;">
+  <img src="../../assets/con/con_tooltip_2.png" alt="ToolTip 2">
 </div>
 
 As Dicas de Ferramentas oferecem uma maneira poderosa de visualizar contexto adicional ou detalhes sobre pontos de dados em um visual, sem sobrecarregar a exibição principal. Ao passar o cursor sobre um elemento específico em um visual, como uma barra em um gráfico de barras ou um ponto de dados em um gráfico de linhas, uma Dica de Ferramenta aparecerá exibindo informações relevantes para aquela seleção. Normalmente, as Dicas de Ferramentas mostram métricas chave, como totais, percentuais ou médias, ajudando os usuários a entender o significado do ponto de dados. No entanto, elas também podem conter detalhes adicionais que não estão visíveis diretamente no visual principal, oferecendo uma visão mais profunda. Por exemplo, um gráfico pode mostrar o valor, e a Dica de Ferramenta poderia incluir esse valor junto com o percentual correspondente. Essa camada oculta de informações enriquece a experiência do usuário, permitindo que explorem os dados de forma mais completa, sem sobrecarregar o visual com muitos detalhes de uma só vez. Para visualizar as Dicas de Ferramentas, os usuários simplesmente precisam passar o cursor sobre os diferentes pontos de dados, tornando-as um recurso intuitivo que aprimora a exploração de dados e a tomada de decisões.
