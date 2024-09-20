@@ -79,7 +79,7 @@ Usando este visual em conjunto com a [Receita Bruta por Conta](https://idea-tech
 
 Este visual está disponível para todas as três visualizações deste painel, na [Visão Principal](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-principal) o visual ocupa o comprimento do painel para incluir o máximo possível de categorias. Enquanto que na [Visão de Tabela](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tabela) e na [Visão de Tempo](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/#visao-de-tempo) apenas cinco categorias são exibidas com os maiores contribuidores primeiro, no entanto é possível rolar por todas as categorias disponíveis.
 
-Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabiliadade/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
+Para navegar entre os níveis, você pode usar os [ícones de cabeçalho](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#icones-de-cabecalho) que estão disponíveis quando você passa o mouse ou clica no gráfico.
 <p><div align="left">
   <img src="../../assets/con/con_hi_updown.png" alt="Header Icons UpDown">
   <h6>Ícones de Cabeçalho</h6>
