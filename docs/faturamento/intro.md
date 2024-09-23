@@ -90,7 +90,7 @@ Selecionar este botão leva os usuários à página [Devoluções](./devolucoes.
 <p><img src="../../assets/fat/fat_button_cmv1.png" alt="cmv1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat/fat_button_cmv2.png" alt="cmv2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários à página [CMV (Custo da Mercadoria Vendida)](./cmv.md), onde é possível explorar e analisar os custos associados às mercadorias vendidas pela empresa. Esta seção fornece informações valiosas para a gestão da margem de lucro e a otimização da eficiência operacional, ajudando a entender e controlar os custos envolvidos na produção e comercialização dos produtos.
+Este botão leva os usuários à página [Custo da Mercadoria Vendida](./cmv.md), onde é possível explorar e analisar os custos associados às mercadorias vendidas pela empresa. Esta seção fornece informações valiosas para a gestão da margem de lucro e a otimização da eficiência operacional, ajudando a entender e controlar os custos envolvidos na produção e comercialização dos produtos.
   
 ### Botão Itens
 <p><img src="../../assets/fat/fat_button_itens1.png" alt="itens1" style="vertical-align: middle; width: 60px; height: 50px;">
