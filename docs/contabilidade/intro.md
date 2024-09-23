@@ -164,7 +164,7 @@ Este filtro possibilita a filtragem dos dados por mês específico. Ao escolher 
 Este filtro está disponível apenas na página Indicadores e permite ao usuário ajustar o visual para mostrar dados entre duas datas. Isto simplifica a comparação e análise dos indicadores durante qualquer período de tempo necessário.
 
 ###	Limpar filtros
-<p><img src="../../assets/con/con_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 50px;"></p>
+<p><img src="../../assets/con/con_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 30px;"></p>
 Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
 
 ## Ícones de Cabeçalho
