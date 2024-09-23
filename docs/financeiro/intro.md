@@ -83,11 +83,11 @@ A barra de menu é uma ferramenta de navegação situada no lado esquerdo de tod
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Painel Financero
+### Botão Painel Financeiro
 <p><img src="../../assets/flux/flux_menu_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão retorna os usuários à página principal, chamada "Painel Financeiro". Esta página serve como o ponto central de partida, proporcionando uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
+Este botão retorna os usuários à página principal, chamada [Painel Financeiro](https://idea-technology-it.github.io/docs-idea/financeiro/painel_financeiro/). Esta página serve como o ponto central de partida, proporcionando uma visão geral abrangente e facilitando a navegação para outras seções do relatório.
   
 ### Botão A Receber
 <p><img src="../../assets/flux/flux_menu_rec1.png" alt="Rec1" style="vertical-align: middle; width: 60px; height: 50px;">
