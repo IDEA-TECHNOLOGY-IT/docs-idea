@@ -86,7 +86,7 @@ Este botão direciona os usuários para a página chamada [Vendas](./vendas.md),
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Selecionar este botão leva os usuários à página [Devoluções](./devolucoes.md). Aqui, os usuários podem visualizar e analisar as devoluções realizadas pela empresa, ajudando a entender os padrões de retorno e a melhorar a gestão de produtos e o atendimento ao cliente.
   
-### Botão CMV (Custo da Mercadoria Vendida)
+### Botão Custo da Mercadoria Vendida (CMV)
 <p><img src="../../assets/fat/fat_button_cmv1.png" alt="cmv1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/fat/fat_button_cmv2.png" alt="cmv2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
