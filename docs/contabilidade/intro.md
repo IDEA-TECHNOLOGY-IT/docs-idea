@@ -68,9 +68,6 @@ Além disso, quando terminar de revisar os detalhes, os usuários podem clicar n
 Finalmente, há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
 <p><img src="../../assets/con/con_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 
-<p><img src="../../assets/con/con_menu_docs.png" alt="Docs" style="vertical-align: middle; width: 50px; height: 50px;"></p>
-Há um botão em cada painel do relatório que está vinculado à documentação daquele painel específico, o que facilita a navegação direta para explicações sobre os recursos visuais ou recursos.
-
 ## Barra de Menu
 
 <div align="center">
