@@ -203,7 +203,7 @@ Este botão habilita a expansão dos dados no visual. Em vez de mover para baixo
 Clicar aqui quando estiver no nível superior desabilitará a opção de usar o botão "Ir para o próximo nível na hierarquia" nos próximos níveis.
 
 ### Filtros e segmentações afetando este visual
-<p><img src="../../assets/con/con_hi_filtros.png" alt="Filtros" style="vertical-align: middle; height: 25px;"></p>
+<p><img src="../../assets/con/con_hi_filtro.png" alt="Filtros" style="vertical-align: middle; height: 25px;"></p>
 Informa quais filtros estão impactando o visual no momento.
 
 ### Modo de foco
