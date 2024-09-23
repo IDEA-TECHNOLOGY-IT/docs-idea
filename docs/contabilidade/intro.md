@@ -38,16 +38,16 @@ A segunda maneira de navegar é através dos botões "Ver mais" e "Mais indicado
 
 O terceiro método é usar botões para alternar entre diferentes visualizações dentro de um painel. Em certos painéis, há duas ou três visualizações, com visuais diferentes para aquele painel. Abaixo dos [Indicadores Financeiros](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores_contabeis/) pode haver um desses botões, se disponível, o botão alternará a visualização e o botão oposto aparecerá. Para entender melhor essas visualizações, você pode ver quais opções estão disponíveis para o painel através do [Botão para Documentação](https://idea-technology-it.github.io/docs-idea/contabilidade/intro/#botao-para-documentacao) que contém imagens e explicações de todos os visuais disponíveis.
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_ctempo.png" alt="Gráfico Open" style="margin-right: 10px;">
-  <img src="../../assets/con/con_button_ctabela.png" alt="Tabela Open">
+  <img src="../../assets/con/con_button_ctempo.png" alt="Gráfico Open" style="margin-right: 10px; height: 25px;">
+  <img src="../../assets/con/con_button_ctabela.png" alt="Tabela Open" style="height: 25px;">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_otempo.png" alt="Voltar Mensal" style="margin-right: 10px;">
-  <img src="../../assets/con/con_button_otabela.png" alt="Mensal Open">
+  <img src="../../assets/con/con_button_otempo.png" alt="Voltar Mensal" style="margin-right: 10px; height: 25px;">
+  <img src="../../assets/con/con_button_otabela.png" alt="Mensal Open" style="height: 25px;">
 </div>
 <div style="margin-bottom: 10px; display: flex; justify-content: center;">
-  <img src="../../assets/con/con_button_vgrafico.png" alt="Voltar Gráfico" style="margin-right: 10px;">
-  <img src="../../assets/con/con_button_iacumulado.png" alt="Ir Acumulada">
+  <img src="../../assets/con/con_button_vgrafico.png" alt="Voltar Gráfico" style="margin-right: 10px; height: 25px;">
+  <img src="../../assets/con/con_button_iacumulado.png" alt="Ir Acumulada" style="height: 25px;">
 </div>
 
 ### Drill-through
