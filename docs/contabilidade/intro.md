@@ -83,48 +83,48 @@ Aqui está uma visão geral dos botões disponíveis na barra de menu:
 <p><img src="../../assets/con/con_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada Painel de Contábil. É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
+Este botão leva os usuários de volta à página principal, intitulada [Painel de Contábil](https://idea-technology-it.github.io/docs-idea/contabilidade/painel_contabil/). É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
 
 ### Botão Receita Bruta
 <p><img src="../../assets/con/con_button_rb1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_rb2.png" alt="rb2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão direciona os usuários para a página intitulada Receita Bruta. Esta página inclui visualizações e análises relacionadas ao total de receita gerada pela empresa antes de quaisquer deduções.
+Clicar neste botão direciona os usuários para a página intitulada [Receita Bruta](https://idea-technology-it.github.io/docs-idea/contabilidade/receita_bruta/). Esta página inclui visualizações e análises relacionadas ao total de receita gerada pela empresa antes de quaisquer deduções.
   
 ### Botão Custos e Despesas
 <p><img src="../../assets/con/con_button_ced1.png" alt="ced1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_ced2.png" alt="ced2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Custos e Despesas. Aqui, os usuários podem visualizar e analisar os custos e despesas incorridos pela empresa, ajudando a avaliar o desempenho financeiro e a gestão de custos.
+Este botão navega para a página intitulada [Custos e Despesas](https://idea-technology-it.github.io/docs-idea/contabilidade/custos_e_despesas/). Aqui, os usuários podem visualizar e analisar os custos e despesas incorridos pela empresa, ajudando a avaliar o desempenho financeiro e a gestão de custos.
   
 ### Botão Lucro Líquido
 <p><img src="../../assets/con/con_button_ll1.png" alt="ll1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_ll2.png" alt="ll2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão leva os usuários à página intitulada Lucro Líquido. Esta seção fornece insights sobre o lucro líquido da empresa após todas as despesas, impostos e deduções serem contabilizados.
+Selecionar este botão leva os usuários à página intitulada [Lucro Líquido](https://idea-technology-it.github.io/docs-idea/contabilidade/lucro_liquido/). Esta seção fornece insights sobre o lucro líquido da empresa após todas as despesas, impostos e deduções serem contabilizados.
   
 ### Botão EBITDA
 <p><img src="../../assets/con/con_button_ebitda1.png" alt="ebitda1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_ebitda2.png" alt="ebitda2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona para a página intitulada EBITDA. Os usuários podem explorar o desempenho operacional da empresa, excluindo os efeitos das decisões financeiras e contábeis.
+Este botão direciona para a página intitulada [EBITDA](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/). Os usuários podem explorar o desempenho operacional da empresa, excluindo os efeitos das decisões financeiras e contábeis.
 
 ### Botão Regra dos 40
 <p><img src="../../assets/con/con_button_rd401.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_rd402.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada Regra dos 40, que foca em analisar se a soma da margem EBITDA e do crescimento da receita atende ou excede o marco de 40%.
+Este botão navega para a página intitulada [Regra dos 40](https://idea-technology-it.github.io/docs-idea/contabilidade/regra_dos_40/), que foca em analisar se a soma da margem EBITDA e do crescimento da receita atende ou excede o marco de 40%.
 
 ### Botão Indicadores
 <p><img src="../../assets/con/con_button_i1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_i2.png" alt="i2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão abre a página intitulada Indicadores, onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.  
+Clicar neste botão abre a página intitulada [Indicadores](https://idea-technology-it.github.io/docs-idea/contabilidade/indicadores/), onde os usuários podem visualizar várias métricas financeiras-chave que avaliam diferentes aspectos da saúde financeira da empresa.  
 
 ### Botão DRE
 <p><img src="../../assets/con/con_button_dre1.png" alt="dre1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_dre2.png" alt="dre2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
-Selecionar este botão leva os usuários à página intitulada DRE (Demonstração do Resultado do Exercício), onde eles podem visualizar a demonstração de resultados, detalhando a receita, despesas e lucratividade da empresa ao longo de um período específico.
+Selecionar este botão leva os usuários à página intitulada [Demonstração do Resultado do Exercício](https://idea-technology-it.github.io/docs-idea/contabilidade/dre/), onde eles podem visualizar a demonstração de resultados, detalhando a receita, despesas e lucratividade da empresa ao longo de um período específico.
 
 ## Filtros
 
