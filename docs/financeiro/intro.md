@@ -93,43 +93,43 @@ Este botão retorna os usuários à página principal, chamada [Painel Financeir
 <p><img src="../../assets/flux/flux_menu_rec1.png" alt="Rec1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_rec2.png" alt="Rec2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Ao clicar neste botão, os usuários são direcionados para a página "A Receber". Esta página oferece visualizações e análises detalhadas sobre os valores que a empresa ainda precisa receber.
+Ao clicar neste botão, os usuários são direcionados para a página [A Receber](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_receber/). Esta página oferece visualizações e análises detalhadas sobre os valores que a empresa ainda precisa receber.
   
 ### Botão A Pagar
 <p><img src="../../assets/flux/flux_menu_pag1.png" alt="Pag1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_pag2.png" alt="Pag2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Ao clicar neste botão, os usuários são levados à página "A Pagar". Nesta seção, eles podem visualizar e analisar as obrigações financeiras que a empresa ainda precisa quitar.
+Ao clicar neste botão, os usuários são levados à página [A Pagar](https://idea-technology-it.github.io/docs-idea/financeiro/contas_a_pagar/). Nesta seção, eles podem visualizar e analisar as obrigações financeiras que a empresa ainda precisa quitar.
   
 ###  Botão Inadimplência
 <p><img src="../../assets/flux/flux_menu_inadim1.png" alt="Inadim1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_inadim2.png" alt="Inadim2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Ao selecionar este botão, os usuários são direcionados para a página "Inadimplência". Nesta seção, eles encontrarão insights detalhados sobre pagamentos em atraso que ainda não foram recebidos.
+Ao selecionar este botão, os usuários são direcionados para a página [Inadimplência](https://idea-technology-it.github.io/docs-idea/financeiro/inadimplencia/). Nesta seção, eles encontrarão insights detalhados sobre pagamentos em atraso que ainda não foram recebidos.
   
 ### Botão Pagamentos Vencidos
 <p><img src="../../assets/flux/flux_menu_venc1.png" alt="Venc1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_venc2.png" alt="Venc2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão direciona os usuários para a página "Pagamentos Vencidos". Nesta seção, são fornecidos insights detalhados sobre pagamentos que já passaram da data de vencimento e ainda não foram quitados.
+Selecionar este botão direciona os usuários para a página [Pagamentos Vencidos](https://idea-technology-it.github.io/docs-idea/financeiro/pagamentos_vencidos/). Nesta seção, são fornecidos insights detalhados sobre pagamentos que já passaram da data de vencimento e ainda não foram quitados.
   
 ### Botão Painel de Recebimentos Realizados
 <p><img src="../../assets/flux/flux_menu_pmr1.png" alt="PMR1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_pmr2.png" alt="PMR2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Clicar neste botão leva os usuários à página "Painel de Recebimentos Realizados". Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
+Clicar neste botão leva os usuários à página [Painel de Recebimentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_recebimentos_realizados/). Nessa página, é possível visualizar a média de dias necessários para receber os pagamentos dos clientes.
   
 ### Botão Painel de Pagamentos Realizados
 <p><img src="../../assets/flux/flux_menu_pmp1.png" alt="PMP1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_pmp2.png" alt="PMP2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão direciona os usuários para a página "Painel de Pagamentos Realizados", onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
+Este botão direciona os usuários para a página [Painel de Pagamentos Realizados](https://idea-technology-it.github.io/docs-idea/financeiro/painel_pagamentos_realizados/), onde podem visualizar o número médio de dias necessários para realizar os pagamentos aos fornecedores.
   
 ### Botão Fluxo de Caixa
 <p><img src="../../assets/flux/flux_menu_fluxo1.png" alt="Flux1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/flux/flux_menu_fluxo2.png" alt="Flux2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Selecionar este botão direciona o usuário para a página "Fluxo de Caixa", onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
+Selecionar este botão direciona o usuário para a página [Fluxo de Caixa](https://idea-technology-it.github.io/docs-idea/financeiro/fluxo_caixa/), onde é possível visualizar a movimentação financeira detalhada de cada conta, organizada por mês e ano.
 
 ### Botão Voltar
 <p><img src="../../assets/flux/flux_menu_return.png" alt="Voltar" style="vertical-align: middle; width: 60px; height: 50px;"></p>
