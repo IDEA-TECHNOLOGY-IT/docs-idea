@@ -33,11 +33,11 @@ O acompanhamento do faturamento acumulado é essencial para monitorar o progress
   <h6>Imagem 3: Faturamento x Faturamento Ano Anterior</h6>
 </div></p>
 
-Um gráfico de barras exibindo o faturamento atual e o faturamento do ano anterior lado a lado, com uma linha sobreposta representando a diferença percentual entre os dois. A cor do texto nos marcadores da linha muda para verde quando a diferença é positiva e para vermelho quando é negativa.
+Este gráfico de barras compara o faturamento atual com o do ano anterior, exibindo os valores lado a lado. Uma linha sobreposta indica a diferença percentual entre os dois períodos, com os marcadores de texto mudando para verde quando a diferença é positiva e para vermelho quando negativa.
 
-Este gráfico oferece uma comparação visual clara entre o faturamento atual e o do ano anterior, permitindo que você avalie o crescimento ou declínio da receita ao longo do tempo. As barras destacam os valores absolutos de cada período, enquanto a linha de diferença fornece uma visão imediata do desempenho relativo. Quando a linha está em verde, indica um crescimento positivo, sugerindo que o faturamento atual superou o do ano anterior. Quando está em vermelho, revela uma queda na receita em comparação com o período anterior.
+As barras fornecem uma visualização clara dos valores absolutos de cada período, enquanto a linha percentual facilita a análise do desempenho relativo. Quando a linha está em verde, isso indica crescimento, sinalizando que o faturamento atual supera o do ano anterior. Quando está em vermelho, representa uma retração, sugerindo uma queda na receita em relação ao período anterior.
 
-Este tipo de visualização é crucial para entender as tendências de crescimento e ajustar suas estratégias de vendas ou marketing conforme necessário. Ele facilita a identificação de períodos de crescimento ou retração e permite que você tome decisões estratégicas para otimizar o desempenho financeiro, garantindo que a empresa continue avançando em direção às suas metas de faturamento.
+Esse tipo de visualização é fundamental para identificar tendências de crescimento ou declínio, permitindo ajustes nas estratégias de vendas ou marketing. Ele oferece uma visão estratégica, facilitando decisões informadas para melhorar o desempenho financeiro e garantir o progresso em direção às metas de faturamento.
 
 
 <br><br>
