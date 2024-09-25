@@ -35,7 +35,7 @@ Processos contemplados para extração dos dados:
 - Itens (Produtos / Serviços);
 - Dimensões / Centros de Custos;
 - Projetos;
-- Utilizações;
+- Utilizações;
 
 ## Licença de Uso
 
