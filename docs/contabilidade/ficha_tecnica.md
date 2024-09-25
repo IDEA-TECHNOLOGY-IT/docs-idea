@@ -9,7 +9,7 @@ Diretores, gestores e analistas de Contabilidade.
 
 1. [Introdução ao BI Contábil](./intro.md)
 2. [Indicadores Contábeis](./indicadores_contabeis.md)
-3. [Painel de Contábil](./painel_contabil.md)
+3. [Painel Contábil](./painel_contabil.md)
 4. [Painel Receita Bruta](./receita_bruta.md)
 5. [Painel Custos e Despesas](./custos_e_despesas.md)
 6. [Painel Lucro Líquido](./lucro_liquido.md)
