@@ -1,19 +1,19 @@
-# Painel de Contábil
+# Painel Contábil
 
 <div align="center">
-  <img src="../../assets/con/con_home.png" alt="Painel de Contábil">
-  <h6>Imagem 1: Painel de Contábil</h6>
+  <img src="../../assets/con/con_home.png" alt="Painel Contábil">
+  <h6>Imagem 1: Painel Contábil</h6>
 </div>
 
-## Informações noo Painel de Contábil
+## Informações noo Painel Contábil
 
-O Painel de Contábil oferece uma visão abrangente da saúde financeira da empresa por meio de indicadores contábeis detalhados e da Demonstração do Resultado do Exercício (DRE). Este painel é crucial para analisar a posição financeira e o desempenho da empresa, fornecendo insights valiosos que apoiam a tomada de decisões estratégicas e a gestão financeira eficaz.
+O Painel Contábil oferece uma visão abrangente da saúde financeira da empresa por meio de indicadores contábeis detalhados e da Demonstração do Resultado do Exercício (DRE). Este painel é crucial para analisar a posição financeira e o desempenho da empresa, fornecendo insights valiosos que apoiam a tomada de decisões estratégicas e a gestão financeira eficaz.
 
 A **Demonstração do Resultado do Exercício (DRE)** fornece um resumo das receitas, despesas e lucros ou prejuízos da empresa em um determinado período. Ela detalha como as receitas são convertidas em lucro líquido após a dedução das despesas operacionais, impostos e outras despesas. A análise da DRE permite identificar áreas de eficiência e ineficiência, avaliar a rentabilidade e monitorar o impacto de estratégias financeiras e operacionais.
 
 Além da DRE, o painel apresenta uma série de indicadores contábeis fundamentais, como Capital de Giro Próprio, CDG (Capital de Giro), Composição de Endividamento, Giro do Ativo, Imobilização do Investimento Total, Liquidez Corrente, Liquidez Geral, Liquidez Imediata, Liquidez Seca, NGC (Necessidade de Capital de Giro), Saldo em Tesouraria e Solvência Geral. Cada indicador oferece uma perspectiva específica sobre a saúde financeira da empresa, permitindo uma análise detalhada e comparativa.
 
-O **Painel de Contábil** facilita a compreensão da estrutura financeira da empresa ao mostrar todos esses indicadores de forma integrada. Ele permite que os usuários visualizem e comparem rapidamente o desempenho financeiro e os resultados operacionais, identificando tendências e áreas que podem exigir ajustes. A combinação da DRE com os indicadores contábeis proporciona uma visão holística, essencial para o planejamento estratégico e a gestão eficiente dos recursos financeiros.
+O **Painel Contábil** facilita a compreensão da estrutura financeira da empresa ao mostrar todos esses indicadores de forma integrada. Ele permite que os usuários visualizem e comparem rapidamente o desempenho financeiro e os resultados operacionais, identificando tendências e áreas que podem exigir ajustes. A combinação da DRE com os indicadores contábeis proporciona uma visão holística, essencial para o planejamento estratégico e a gestão eficiente dos recursos financeiros.
 
 Esse painel é uma ferramenta vital para a análise contábil, oferecendo uma visão clara e detalhada da situação financeira da empresa e possibilitando a identificação de oportunidades e riscos financeiros. Ele ajuda os gestores a manter uma gestão financeira sólida e informada, promovendo a saúde financeira e o crescimento sustentável da empresa.
 
