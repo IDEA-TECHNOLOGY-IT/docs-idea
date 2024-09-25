@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="../../assets/con/con_home.png" alt="Contabilidade">
-  <h6>Imagem 1: Painel de Contábil</h6>
+  <h6>Imagem 1: Painel Contábil</h6>
 </div>
 
 Um relatório de BI (Business Intelligence) abrangente e focado em Contabilidade é fundamental para proporcionar uma visão clara e detalhada da saúde financeira de uma empresa. Esse tipo de relatório oferece uma análise profunda das finanças, permitindo a gestão eficaz de caixa, a comparação detalhada entre receitas e despesas, e a avaliação do desempenho econômico ao longo do tempo. As visualizações precisas e detalhadas ajudam a identificar tendências, monitorar variações e tomar decisões informadas que podem otimizar a gestão financeira e melhorar a rentabilidade da empresa.
@@ -79,11 +79,11 @@ A barra de menu é um recurso de navegação localizado no lado esquerdo de toda
 
 Aqui está uma visão geral dos botões disponíveis na barra de menu:
 
-### Botão Painel de Contábil
+### Botão Painel Contábil
 <p><img src="../../assets/con/con_button_home1.png" alt="Home1" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_home2.png" alt="Home2" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão leva os usuários de volta à página principal, intitulada [Painel de Contábil](https://idea-technology-it.github.io/docs-idea/contabilidade/painel_contabil/). É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
+Este botão leva os usuários de volta à página principal, intitulada [Painel Contábil](https://idea-technology-it.github.io/docs-idea/contabilidade/painel_contabil/). É o ponto central de partida onde os usuários podem acessar uma visão geral e navegar para outras seções.
 
 ### Botão Receita Bruta
 <p><img src="../../assets/con/con_button_rb1.png" alt="rb1" style="vertical-align: middle; width: 60px; height: 50px;">
