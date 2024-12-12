@@ -8,7 +8,7 @@ hide:
 
 Experimente nossa solução Idea Accounting aqui e descubra mais usando nossa [documentação](./ficha_tecnica.md):
 
-<iframe title="Idea Accounting" width="1008" height="627.2" src="https://app.powerbi.com/view?r=eyJrIjoiOTZlYzdlMzQtYjVhMi00MWIwLWIyYzgtMTQyNjU1Mzc4Yzc2IiwidCI6Ijk0ODViZDU1LTkyYzAtNDIxMi05NmNhLTkxNDNiYjhhNzA0NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Idea Accounting" width="1008" height="627.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjkyMGQ0NzUtZTVhNC00Y2RlLWFhODYtNmIzYTgyMzRmOGIxIiwidCI6Ijk0ODViZDU1LTkyYzAtNDIxMi05NmNhLTkxNDNiYjhhNzA0NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <br><br>
 
