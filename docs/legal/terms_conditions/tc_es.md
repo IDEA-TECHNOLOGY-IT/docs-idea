@@ -1,4 +1,4 @@
-## **Términos y Condiciones**  
+# **Términos y Condiciones**  
 
 **Fecha de Vigencia:** 20/01/2025  
 **Última Actualización:** 20/01/2025
