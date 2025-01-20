@@ -11,7 +11,7 @@ Ao acessar ou utilizar esta plataforma, você concorda em cumprir estes Termos e
 ---
 
 ### **2. Descrição da Plataforma**  
-Nossa plataforma fornece acesso a relatórios integrados do Microsoft Power BI, com foco predominante em insights de **finanças**, **marketing**, **recursos humanos (RH)** e **gestão de inventário**. No entanto, esses relatórios não se limitam a essas áreas e podem abranger outros tópicos de inteligência empresarial. Todos os relatórios e seu uso estão sujeitos aos termos descritos neste documento.  
+Nossa plataforma fornece acesso a relatórios integrados do Microsoft Power BI, com foco predominante em insights de **finanças**, **marketing**, **recursos humanos (RH)** e **gestão de estoque**. No entanto, esses relatórios não se limitam a essas áreas e podem abranger outros tópicos de inteligência empresarial. Todos os relatórios e seu uso estão sujeitos aos termos descritos neste documento.  
 
 ---
 
