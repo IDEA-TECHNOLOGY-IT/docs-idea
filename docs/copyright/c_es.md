@@ -63,7 +63,7 @@ La aplicación web puede incluir contenido, software o servicios licenciados de 
 
 ### **9. Aviso y Procedimiento para la Retirada de DMCA**
 
-De acuerdo con la Ley de Derechos de Autor del Milenio Digital (DMCA), **Idea Technology** ofrece un proceso para notificar infracciones de derechos de autor. Si usted es propietario de derechos de autor o un agente autorizado y cree que el contenido de nuestra aplicación web infringe sus derechos de autor, póngase en contacto con nosotros en **soporte@ideatechnology.com.br** con la siguiente información:
+De acuerdo con la Ley de Derechos de Autor del Milenio Digital (DMCA), **Idea Technology** ofrece un proceso para notificar infracciones de derechos de autor. Si usted es propietario de derechos de autor o un agente autorizado y cree que el contenido de nuestra aplicación web infringe sus derechos de autor, póngase en contacto con nosotros en **suporte@ideatechnology.com.br** con la siguiente información:
 
 - Descripción de la obra protegida por derechos de autor que usted cree que ha sido infringida.
 - Descripción de la ubicación del material infractor en nuestra aplicación web.
@@ -83,6 +83,6 @@ De acuerdo con la Ley de Derechos de Autor del Milenio Digital (DMCA), **Idea Te
 
 Si tiene alguna pregunta o inquietud acerca de esta Política de Derechos de Autor y Propiedad Intelectual, por favor contáctenos a:
 
-**Correo electrónico:** soporte@ideatechnology.com.br  
+**Correo electrónico:** suporte@ideatechnology.com.br  
 
 **Dirección:** QI 33 Bloco A - S/N port A | Guará, Brasília - DF | CEP 71065-330
