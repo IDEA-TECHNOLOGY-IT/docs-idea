@@ -1,6 +1,6 @@
 ## **Privacy Policy**  
 
-**Effective Date:** 20/01/2025
+**Effective Date:** 20/01/2025  
 **Last Updated:** 20/01/2025
 
 This Privacy Policy outlines how **Idea Technology**, part of the **Invent Software** group, collects, uses, discloses, and safeguards your information when you use our web app. By using our web app, you agree to the practices described in this policy.  
