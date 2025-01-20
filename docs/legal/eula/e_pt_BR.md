@@ -9,7 +9,7 @@ Este Contrato de Licença de Usuário Final (EULA) é um acordo legal entre voc�
 
 ### **1. Concessão de Licença**
 Sujeito aos termos deste EULA, **Idea Technology** concede a você uma licença não exclusiva e intransferível para acessar e usar o aplicativo web para seus fins pretendidos, sujeito às seguintes condições:
-- O aplicativo web é licenciado, não vendido, para você.
+- O aplicativo web é licenciado para você, não vendido.
 - Você pode usar o aplicativo web exclusivamente para uso pessoal, interno ou comercial, conforme o seu plano de assinatura.
 
 ---
