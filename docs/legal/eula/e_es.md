@@ -1,4 +1,4 @@
-# **Acuerdo de Licencia de Usuario Final (EULA)**
+# **Acuerdo de Licencia de Usuario Final (EULA)** 
 
 **Fecha de Vigencia:** 20/01/2025  
 **Última Actualización:** 20/01/2025
