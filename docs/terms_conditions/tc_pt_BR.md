@@ -32,7 +32,7 @@ Você concorda em não:
 
 ### **4. Uso de Dados e Privacidade**  
 4.1. **Coleta de Dados:**  
-Coletamos e processamos dados de acordo com nossa [Política de Privacidade](https://github.com/IDEA-TECHNOLOGY-IT/docs-idea/edit/main/docs/privacy_policy/pp_en.md).  
+Coletamos e processamos dados de acordo com nossa [Política de Privacidade](https://github.com/IDEA-TECHNOLOGY-IT/docs-idea/edit/main/docs/privacy_policy/pp_pt_BR.md).  
 
 4.2. **Dados de Terceiros:**  
 Os relatórios do Power BI podem incluir dados provenientes de terceiros. A plataforma não é responsável por eventuais imprecisões nesses dados.  
