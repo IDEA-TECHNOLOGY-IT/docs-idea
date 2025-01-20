@@ -32,7 +32,7 @@ You agree not to:
 
 ### **4. Data Usage and Privacy**
 4.1. **Data Collection:**  
-We collect and process data in accordance with our [Privacy Policy](https://github.com/IDEA-TECHNOLOGY-IT/docs-idea/edit/main/docs/privacy_policy/pp_en.md).  
+We collect and process data in accordance with our [Privacy Policy](https://idea-technology-it.github.io/docs-idea/legal/privacy_policy/pp_en).  
 
 4.2. **Third-Party Data:**  
 Power BI reports may include data sourced from third parties. The platform is not liable for inaccuracies in third-party data.
