@@ -1,6 +1,6 @@
 ## **Terms and Conditions**
 
-**Effective Date:** 20/01/2025
+**Effective Date:** 20/01/2025  
 **Last Updated:** 20/01/2025
 
 ---
