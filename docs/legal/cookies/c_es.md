@@ -1,4 +1,4 @@
-## **Política de Cookies**
+# **Política de Cookies**
 
 **Fecha de Vigencia:** 20/01/2025  
 **Última Actualización:** 20/01/2025
