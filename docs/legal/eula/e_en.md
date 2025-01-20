@@ -1,4 +1,4 @@
-## **End-User License Agreement (EULA)**
+# **End-User License Agreement (EULA)**
 
 **Effective Date:** 20/01/2025  
 **Last Updated:** 20/01/2025
