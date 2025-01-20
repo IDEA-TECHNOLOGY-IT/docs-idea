@@ -174,3 +174,25 @@ nav:
   - faturamento/demo.md
   - financeiro/demo.md
   - contabilidade/demo.md
+- Políticas Legais:
+  - Português brasileiro:
+    - legal/terms_conditions/tc_pt_BR.md
+    - legal/privacy_policy/pp_pt_BR.md
+    - legal/cookies/c_pt_BR.md
+    - legal/eula/e_pt_BR.md
+    - legal/copyright/cip_pt_BR.md
+    - legal/disclaimer/d_pt_BR.md
+  - English:
+    - legal/terms_conditions/tc_en.md
+    - legal/privacy_policy/pp_en.md
+    - legal/cookies/c_en.md
+    - legal/eula/e_en.md
+    - legal/copyright/cip_en.md
+    - legal/disclaimer/d_en.md
+  - Español:
+    - legal/terms_conditions/tc_es.md
+    - legal/privacy_policy/pp_es.md
+    - legal/cookies/c_es.md
+    - legal/eula/e_es.md
+    - legal/copyright/cip_es.md
+    - legal/disclaimer/d_es.md
