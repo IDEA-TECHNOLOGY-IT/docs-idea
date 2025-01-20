@@ -1,6 +1,6 @@
 ## **Termos e Condições**
 
-**Data de Vigência:** 20/01/2025
+**Data de Vigência:** 20/01/2025  
 **Última Atualização:** 20/01/2025
 
 ---
