@@ -51,7 +51,7 @@ No puede usar el contenido para ningún propósito ilegal o no autorizado, inclu
 
 ### **7. Aplicación de los Derechos de Propiedad Intelectual**
 
-**Idea Technology** toma en serio la protección de sus derechos de propiedad intelectual y tomará las medidas legales adecuadas para proteger sus derechos. Si cree que sus derechos de propiedad intelectual han sido violados por algún contenido disponible a través de la aplicación web, póngase en contacto con nosotros en **soporte@ideatechnology.com.br** proporcionando detalles sobre la presunta infracción.
+**Idea Technology** toma en serio la protección de sus derechos de propiedad intelectual y tomará las medidas legales adecuadas para proteger sus derechos. Si cree que sus derechos de propiedad intelectual han sido violados por algún contenido disponible a través de la aplicación web, póngase en contacto con nosotros en **suporte@ideatechnology.com.br** proporcionando detalles sobre la presunta infracción.
 
 ---
 
