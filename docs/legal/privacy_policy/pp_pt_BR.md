@@ -50,7 +50,7 @@ Retemos seus dados apenas pelo tempo necessário para cumprir os propósitos des
 Implementamos medidas de segurança padrão da indústria para proteger suas informações, incluindo:  
 - Criptografia de dados sensíveis.  
 - Monitoramento regular do sistema e atualizações.  
-- Acesso restrito apenas a pessoal autorizado.  
+- Acesso restrito apenas ao pessoal autorizado.  
 
 No entanto, nenhum sistema pode garantir segurança completa. Use o aplicativo por sua conta e risco.  
 
