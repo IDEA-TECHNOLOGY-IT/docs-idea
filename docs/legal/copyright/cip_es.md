@@ -1,4 +1,4 @@
-## **Política de Derechos de Autor y Propiedad Intelectual (PI)**
+# **Política de Derechos de Autor y Propiedad Intelectual (PI)**
 
 **Fecha de Vigencia:** 20/01/2025  
 **Última Actualización:** 20/01/2025
