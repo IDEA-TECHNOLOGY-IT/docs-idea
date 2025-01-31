@@ -109,11 +109,11 @@ Selecionar este botão leva os usuários à página intitulada [Lucro Líquido](
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
 Este botão direciona para a página intitulada [EBITDA](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/). Os usuários podem explorar o desempenho operacional da empresa, excluindo os efeitos das decisões financeiras e contábeis.
 
-### Botão Regra dos 40
+### Botão Crescimento
 <p><img src="../../assets/con/con_button_rd401.png" alt="rd401" style="vertical-align: middle; width: 60px; height: 50px;">
 <img src="../../assets/con/con_button_rd402.png" alt="rd402" style="vertical-align: middle; width: 50px; height: 50px;"></p>
 <h6>Esquerda: Página atual, Direita: Página disponível</h6>
-Este botão navega para a página intitulada [Regra dos 40](https://idea-technology-it.github.io/docs-idea/contabilidade/regra_dos_40/), que foca em analisar se a soma da margem EBITDA e do crescimento da receita atende ou excede o marco de 40%.
+Este botão navega para a página intitulada [Crescimento](https://idea-technology-it.github.io/docs-idea/contabilidade/Crescimento/), que se concentra no crescimento, crescimento que atinge ou excede o marco de 40% e o ponto de equilíbrio.
 
 ### Botão Indicadores
 <p><img src="../../assets/con/con_button_i1.png" alt="i1" style="vertical-align: middle; width: 60px; height: 50px;">
