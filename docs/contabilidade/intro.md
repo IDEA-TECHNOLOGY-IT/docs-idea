@@ -133,6 +133,8 @@ Selecionar este botão leva os usuários à página intitulada [Demonstração d
   <h6>Imagem 3: Filtros - Visão 1</h6>
   <img src="../../assets/con/con_filtros2.png" alt="Contabilidade Filtros2">
   <h6>Imagem 3: Filtros - Visão 2</h6>
+  <img src="../../assets/con/con_filtros3.png" alt="Contabilidade Filtros3">
+  <h6>Imagem 3: Filtros - Visão 3</h6>
 </div>
 
 Os filtros são ferramentas essenciais que permitem ajustar dinamicamente todos os visuais presentes nas páginas do relatório de forma sincronizada. Ao selecionar um filtro, gráficos, tabelas e outros elementos visuais são automaticamente atualizados para exibir apenas os dados relevantes com base nos critérios escolhidos.
@@ -166,6 +168,16 @@ Este filtro está disponível apenas na página Indicadores e permite ao usuári
 ###	Limpar filtros
 <p><img src="../../assets/con/con_filtros_limpar.png" alt="Limpar" style="vertical-align: middle; height: 25px;"></p>
 Para limpar todos os filtros aplicados e retornar à visualização completa dos dados, utilize o botão "Limpar filtros" localizado no lado direito dos slicers. Este botão remove todos os filtros, proporcionando uma visão geral abrangente dos dados.
+
+**Para empresas com operações internacionais, há duas opções adicionais de filtros.**
+
+###	País
+<p><img src="../../assets/con/con_filtros_pais.png" alt="País" style="vertical-align: middle; height: 50px;"></p>
+O filtro de país filtrará os dados para permitir a análise da empresa a ser segmentada pelo país selecionado. Isso é importante ao identificar problemas de desempenho que são específicos de um país em vez do negócio como um todo. Também permite uma visão do crescimento ao abrir em outro país.
+
+###	Moeda
+<p><img src="../../assets/con/con_filtros_moeda.png" alt="Moeda" style="vertical-align: middle; height: 50px;"></p>
+Para garantir que todas as moedas estejam disponíveis para visualização dos dados, este filtro permitirá a escolha da moeda. Há uma opção padrão que é a moeda "local" ou "doméstica" para o negócio, bem como as opções de moeda para os países em que há operações.
 
 ## Ícones de Cabeçalho
 
