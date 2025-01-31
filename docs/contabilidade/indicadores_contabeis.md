@@ -105,12 +105,16 @@ Margem EBITDA (Mar.) exibe a margem EBITDA, calculada como o EBITDA dividido pel
 
 Botão "Ver mais", quando clicado, este botão leva o usuário à [Painel EBITDA](https://idea-technology-it.github.io/docs-idea/contabilidade/ebitda/). Quando o cartão já corresponde à página atual (ou seja, o usuário já está na página de EBITDA), o botão "Ver Mais" não é visível, e o cartão é destacado.
 
-## Indicador de Regra dos 40
+## Indicador de Crescimento
 
 <div align="center">
   <img src="../../assets/con/con_caixa_regra.png" alt="Caixa de Regra dos 40">
-  <h6>Imagem 7: Regra dos 40</h6>
+  <h6>Imagem 7: Crescimento</h6>
 </div>
+
+### Taxa de Crescimento
+
+Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela mede o quanto a receita da empresa está aumentando.
 
 ### Regra dos 40
 
@@ -120,13 +124,13 @@ Por exemplo, se uma empresa tem uma taxa de crescimento anual de 30% e uma marge
 
 A Regra dos 40 oferece uma métrica simples e poderosa para investidores e gestores avaliarem se uma empresa está conseguindo equilibrar sua expansão de mercado com eficiência financeira, garantindo assim um caminho equilibrado entre a busca por participação de mercado e a saúde financeira.
 
-### Margem de EBITDA
+### Ponto de Equilíbrio
 
-Margem EBITDA (EBITDA Mar.), exibe a margem EBITDA, calculada como o EBITDA dividido pela Receita Líquida. Essa métrica expressa a porcentagem da receita que se traduz em EBITDA, proporcionando uma visão clara da eficiência operacional da empresa.
+O ponto de equilíbrio é um conceito fundamental na análise financeira, utilizado para determinar o nível de vendas necessário para cobrir todos os custos fixos e variáveis de uma empresa, sem gerar lucro nem prejuízo. Em outras palavras, é o momento em que a receita total de vendas é igual ao custo total, e a empresa não está nem ganhando nem perdendo dinheiro.
 
-### Taxa de Crescimento
+Por exemplo, se uma empresa tem custos fixos mensais de R$ 50.000 e uma margem de contribuição (receita líquida por unidade vendida após custos variáveis) de R$ 25, o ponto de equilíbrio será alcançado após a venda de 2.000 unidades (50.000 ÷ 25). Isso significa que, para cobrir todos os seus custos, a empresa precisa vender no mínimo 2.000 unidades por mês.
 
-Taxa de Crescimento (Cresc.) é a taxa de crescimento da receita ano a ano. Ela mede o quanto a receita da empresa está aumentando.
+Esse indicador é vital para os gestores, pois permite identificar a quantidade mínima de vendas necessária para que a empresa se mantenha financeiramente saudável. Se as vendas forem superiores ao ponto de equilíbrio, a empresa começará a gerar lucro. Se forem inferiores, ela estará operando no prejuízo. Assim, o ponto de equilíbrio é uma ferramenta importante para o planejamento estratégico e a tomada de decisões.
 
 ### Botão Ver mais
 
