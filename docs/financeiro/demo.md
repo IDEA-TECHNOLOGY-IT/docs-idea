@@ -8,7 +8,7 @@ hide:
 
 Experimente nossa solução **Idea Finance** aqui e descubra mais usando nossa [documentação](./ficha_tecnica.md):
 
-<iframe title="Idea Finance" width="1008" height="627.5" src="https://app.powerbi.com/view?r=eyJrIjoiZTYyMmUxZTQtYWVlYi00M2U2LWEzYjItNWZhOTU1NjMwMTM1IiwidCI6Ijk0ODViZDU1LTkyYzAtNDIxMi05NmNhLTkxNDNiYjhhNzA0NSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Idea Finance" width="1008" height="627.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmU2ZDQ5NzItNzhkNi00NGIzLTgwMzctYTJiOGU2Mzc3MjcyIiwidCI6Ijk0ODViZDU1LTkyYzAtNDIxMi05NmNhLTkxNDNiYjhhNzA0NSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <br><br>
 
